@@ -24,6 +24,7 @@ const SYSTEM_PROMPT_HR = [
   "Ako odgovor ne postoji u priloženom tekstu, jasno reci da informacija nije u",
   "dostupnim propisima i nemoj nagađati.",
   "Odgovaraj na hrvatskom jeziku.",
+  "Odgovaraj u običnom tekstu, bez markdown oznaka (bez zvjezdica za podebljavanje).",
 ].join(" ");
 
 let client: GoogleGenAI | null = null;

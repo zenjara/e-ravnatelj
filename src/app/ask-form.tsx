@@ -2,15 +2,19 @@
 
 import { useRef, useState } from "react";
 
-/** Find "Članak N" references in the answer so the user can verify the source. */
+/**
+ * Find "članak" references in the answer so the user can verify the source.
+ * Matches Croatian declensions (članak/članka/članku/člankom/članci/…) followed
+ * by a number, and renders each canonically as "Članak N.".
+ * (Avoids \b — JS word boundaries don't play well with "č".)
+ */
 function findArticles(text: string): string[] {
-  const matches = text.matchAll(/Članak\s+\d+[a-z]?\.?/gi);
-  const seen = new Set<string>();
-  for (const m of matches) {
-    // Normalize: "Članak 12." → "Članak 12."
-    seen.add(m[0].replace(/\s+/g, " ").trim().replace(/\.?$/, "."));
-  }
-  return [...seen];
+  const re = /član(?:ak|ka|ku|kom|cima|aka|ci)\.?\s+(\d+[a-z]?)/gi;
+  const nums = new Set<string>();
+  for (const m of text.matchAll(re)) nums.add(m[1].toLowerCase());
+  return [...nums]
+    .sort((a, b) => parseInt(a, 10) - parseInt(b, 10))
+    .map((n) => `Članak ${n}.`);
 }
 
 export function AskForm() {
