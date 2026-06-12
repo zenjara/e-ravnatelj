@@ -10,6 +10,7 @@
     "seed": "node --env-file=.env.local scripts/seed.mjs"
   },
   "dependencies": {
+    "@google/genai": "^2.8.0",
     "@supabase/supabase-js": "^2.108.1",
     "bcryptjs": "^3.0.3",
     "next": "16.2.9",
