@@ -1,5 +1,6 @@
 import { requireSession } from "@/lib/session";
 import { logout } from "./actions";
+import { AskForm } from "./ask-form";
 
 export default async function Home() {
   // Real auth boundary: redirects to /login if there's no valid session.
@@ -26,13 +27,15 @@ export default async function Home() {
         </form>
       </header>
 
-      <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-4 p-6">
+      <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-6 p-6">
         <p className="text-sm text-black/70 dark:text-white/70">
-          Prijavljeni ste kao <strong>{session.usr}</strong>. Sučelje za
-          postavljanje pitanja dodaje se u sljedećem koraku.
+          Postavite pitanje o propisima; odgovor se temelji na dostupnom tekstu
+          zakona i navodi članak na koji se poziva.
         </p>
 
-        <p className="mt-auto text-xs text-black/50 dark:text-white/50">
+        <AskForm />
+
+        <p className="mt-auto pt-2 text-xs text-black/50 dark:text-white/50">
           Informativno, nije pravni savjet. Provjeri citirani izvor.
         </p>
       </main>
