@@ -21,49 +21,75 @@ export default async function LawPage({
   );
 }
 
-/** Render the law text as article sections with bold "Članak N" headers. */
-function LawText({ text }: { text: string }) {
-  const sections: { id: string | null; lines: string[] }[] = [];
-  let cur: { id: string | null; lines: string[] } = { id: null, lines: [] };
-  for (const line of text.split("\n")) {
-    const m = line.match(/^\s*Članak\s+(\d+[a-z]?)/i);
-    if (m) {
-      sections.push(cur);
-      cur = { id: m[1], lines: [line] };
-    } else {
-      cur.lines.push(line);
-    }
-  }
-  sections.push(cur);
+const ARTICLE_RE = /^Članak\s+(\d+[a-z]?)\.?/i;
 
+/** An ALL-CAPS standalone line is a section heading (e.g. "XVIII. NADZOR"). */
+function isSectionHeading(line: string): boolean {
   return (
-    <article className="space-y-4 text-sm leading-relaxed">
-      {sections
-        .filter((s) => s.lines.join("").trim())
-        .map((s, i) => {
-          const content = s.lines.join("\n").trim();
-          if (s.id == null) {
-            return (
-              <p
-                key={i}
-                className="whitespace-pre-wrap text-black/70 dark:text-white/70"
-              >
-                {content}
-              </p>
-            );
-          }
-          const nl = content.indexOf("\n");
-          const header = nl === -1 ? content : content.slice(0, nl);
-          const body = nl === -1 ? "" : content.slice(nl + 1).trim();
-          return (
-            <section key={i} id={`clanak-${s.id}`} className="scroll-mt-4">
-              <h2 className="font-semibold">{header}</h2>
-              {body ? (
-                <p className="mt-1 whitespace-pre-wrap">{body}</p>
-              ) : null}
-            </section>
-          );
-        })}
-    </article>
+    /\p{L}/u.test(line) &&
+    line.length <= 90 &&
+    line === line.toLocaleUpperCase("hr") &&
+    !line.startsWith("(")
   );
+}
+
+/**
+ * Render the law with a visible hierarchy:
+ *   SECTION (caps, divider)  >  Članak N (bold, + optional subtitle)  >  body.
+ * Each article gets an id="clanak-N" anchor for deep-linking from answers.
+ */
+function LawText({ text }: { text: string }) {
+  const lines = text
+    .split("\n")
+    .map((l) => l.trim())
+    .filter(Boolean);
+
+  const out: React.ReactNode[] = [];
+  let subtitle: string | null = null;
+
+  lines.forEach((line, i) => {
+    const art = line.match(ARTICLE_RE);
+    if (art) {
+      out.push(
+        <div key={i} id={`clanak-${art[1]}`} className="mt-7 scroll-mt-20">
+          {subtitle ? (
+            <p className="text-sm font-medium text-black/55 dark:text-white/55">
+              {subtitle}
+            </p>
+          ) : null}
+          <h3 className="text-[15px] font-bold tracking-tight">{line}</h3>
+        </div>,
+      );
+      subtitle = null;
+      return;
+    }
+
+    if (isSectionHeading(line)) {
+      out.push(
+        <h2
+          key={i}
+          className="mt-9 mb-1 border-t border-black/10 pt-5 text-xs font-semibold uppercase tracking-widest text-black/45 dark:border-white/10 dark:text-white/45"
+        >
+          {line}
+        </h2>,
+      );
+      subtitle = null;
+      return;
+    }
+
+    // Short line right before an article = that article's subtitle (naziv članka).
+    const next = lines[i + 1];
+    if (next && ARTICLE_RE.test(next) && line.length <= 80 && !line.startsWith("(")) {
+      subtitle = line;
+      return;
+    }
+
+    out.push(
+      <p key={i} className="mt-2 text-black/80 dark:text-white/80">
+        {line}
+      </p>,
+    );
+  });
+
+  return <article className="text-sm leading-relaxed">{out}</article>;
 }
