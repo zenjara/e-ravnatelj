@@ -1,26 +1,28 @@
 # Law texts (propisi)
 
-This folder holds the **full plain text** of the Croatian education law(s) and
-regulations that the AI answers from. There is **no database / RAG** — on each
-question the `/api/ask` route prepends the text in these files as context.
+This folder holds the **plain text** of the Croatian laws and regulations the AI
+answers from. These files are the **source corpus** for retrieval (RAG): they are
+chunked per article (članak), embedded, and stored in Supabase (`law_chunks`).
+At question time `/api/ask` retrieves the most relevant articles — it does NOT
+read these files at runtime.
 
-## How to add the real text
+## How to add / update a law
 
-1. Drop the full text into a `.md` (or `.txt`) file here (one file per propis),
-   replacing the placeholder content.
-2. Keep the article markers (`Članak N`) intact — the model cites them and the
-   UI surfaces them.
-3. No code change needed: `index.ts` reads every `.md`/`.txt` file in this folder
-   (except `README.md` and files starting with `_`) and concatenates them.
+1. Drop the full text into a `.md` or `.txt` file here (one file per propis),
+   `README.md` and files starting with `_` are ignored.
+2. Keep the article markers (`Članak N`) intact — chunking splits on them, and
+   the model cites them.
+3. Re-run ingestion to (re)build the vector store:
+   ```
+   npm run ingest        # requires 0002_law_chunks.sql applied in Supabase
+   ```
 
-## If the source is a PDF
+## If the source is a PDF or .doc/.docx
 
-The loader reads plain text, not PDFs (the corpus is static, so there's no
-reason to parse a PDF on every request). Convert the PDF to text once and save
-it as a `.md` here. Verify the extraction preserved Croatian diacritics and the
-`Članak N` structure before relying on it.
+Convert it to text first (the loader reads text, not binary formats):
+- PDF with a text layer → `pdftotext`/`pdfplumber`; scanned PDF → OCR (e.g.
+  tesseract `-l hrv`).
+- `.doc`/`.docx` → `textutil -convert txt -encoding UTF-8 file.docx`.
 
-## Files
-
-- `zakon-oosos.md` — Zakon o odgoju i obrazovanju u osnovnoj i srednjoj školi.
-- Add more pravilnici as separate `.md` files as needed.
+Verify the result preserved Croatian diacritics and the `Članak N` structure
+before ingesting.

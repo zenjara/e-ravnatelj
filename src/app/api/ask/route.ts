@@ -1,16 +1,19 @@
 import { getSession } from "@/lib/session";
-import { loadLawCorpus } from "@/content/laws";
+import { retrieveRelevantChunks, buildContext } from "@/lib/retrieval";
 import { streamLegalAnswer } from "@/lib/gemini";
 
-// fs (law loader) and node:crypto (session) require the Node.js runtime.
+// Retrieval (Supabase) and node:crypto (session) require the Node.js runtime.
 export const runtime = "nodejs";
+
+/** How many article chunks to retrieve and feed to the model. */
+const TOP_K = 12;
 
 /**
  * POST /api/ask  — body: { question: string }
  *
- * Requires an authenticated session. Streams a Croatian answer grounded only in
- * the law text. The AI receives ONLY the question + public law text; no
- * principal PII is ever included.
+ * Requires an authenticated session. Retrieves the most relevant law articles
+ * (RAG) and streams a Croatian answer grounded only in those. The AI receives
+ * ONLY the question + retrieved public law text; no principal PII is included.
  */
 export async function POST(req: Request): Promise<Response> {
   const session = await getSession();
@@ -29,17 +32,18 @@ export async function POST(req: Request): Promise<Response> {
     return Response.json({ error: "Pitanje je obavezno." }, { status: 400 });
   }
 
-  const { text: lawText } = await loadLawCorpus();
-  if (!lawText) {
-    return Response.json(
-      { error: "Tekst propisa trenutno nije dostupan." },
-      { status: 503 },
-    );
+  let context: string;
+  try {
+    const chunks = await retrieveRelevantChunks(question.trim(), TOP_K);
+    context = buildContext(chunks);
+  } catch (e) {
+    console.error("retrieval error:", e);
+    return Response.json({ error: "Greška pri dohvaćanju propisa." }, { status: 502 });
   }
 
   let stream: Awaited<ReturnType<typeof streamLegalAnswer>>;
   try {
-    stream = await streamLegalAnswer(question.trim(), lawText);
+    stream = await streamLegalAnswer(question.trim(), context);
   } catch (e) {
     console.error("gemini request error:", e);
     return Response.json({ error: "Greška pri obradi upita." }, { status: 502 });

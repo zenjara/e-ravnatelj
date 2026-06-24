@@ -1,0 +1,500 @@
+
+ZAKON O PRAVU NA PRISTUP INFORMACIJAMA
+
+I. OPĆE ODREDBE
+Sadržaj
+Članak 1.
+(1) Ovim se Zakonom uređuje pravo na pristup informacijama i ponovnu uporabu informacija koje posjeduju tijela javne vlasti, propisuju se načela prava na pristup informacijama i ponovnu uporabu informacija, ograničenja prava na pristup informacijama i ponovnu uporabu informacija, postupak za ostvarivanje i zaštitu prava na pristup informacijama i ponovnu uporabu informacija, djelokrug, način rada i uvjeti za imenovanje i razrješenje Povjerenika za informiranje te inspekcijski nadzor nad provedbom ovoga Zakona.
+(2) Ovim se Zakonom uređuju i druge obveze tijela javne vlasti te prekršajne odredbe vezane za ostvarivanje prava na pristup informacijama.
+(3) Odredbe ovog Zakona ne primjenjuju se na stranke u sudskim, upravnim i drugim na zakonu utemeljenim postupcima, kojima je dostupnost informacija iz tih postupaka utvrđena propisom.
+(4) Odredbe ovog Zakona ne primjenjuju se na informacije za koje postoji obveza čuvanja tajnosti, sukladno zakonu koji uređuje sigurnosno-obavještajni sustav Republike Hrvatske.
+(5) Odredbe ovog Zakona ne primjenjuju se na informacije koje predstavljaju klasificirane informacije čiji su vlasnici međunarodne organizacije ili druge države, te klasificirane informacije tijela javne vlasti koje nastaju ili se razmjenjuju u okviru suradnje s međunarodnim organizacijama ili drugim državama.
+Usklađenost s propisima Europske unije
+Članak 2.
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+– Direktiva 2003/98/EZ Europskog parlamenta i Vijeća od 17. studenog 2003. o ponovnoj uporabi informacija javnog sektora,
+– Uredba 1049/2001 Europskog parlamenta i Vijeća od 30. svibnja 2001. o javnom pristupu dokumentima Europskog parlamenta, Vijeća i Komisije.
+Cilj
+Članak 3.
+Cilj ovog Zakona je omogućiti i osigurati ostvarivanje Ustavom Republike Hrvatske zajamčenog prava na pristup informacijama, kao i na ponovnu uporabu informacija fizičkim i pravnim osobama putem otvorenosti i javnosti djelovanja tijela javne vlasti.
+Rodna neutralnost izraza
+Članak 4.
+Izrazi koji se koriste u ovom Zakonu i propisima koji se donose na temelju njega, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.
+Pojmovi
+Članak 5.
+Pojedini izrazi u ovom Zakonu imaju sljedeće značenje:
+1) »Korisnik prava na pristup informacijama i ponovnu uporabu informacija« (u daljnjem tekstu: korisnik) je svaka domaća ili strana fizička i pravna osoba;
+2) »Tijela javne vlasti«, u smislu ovog Zakona, su tijela državne uprave, druga državna tijela, tijela jedinica lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i druge osobe na koje su prenesene javne ovlasti, pravne osobe čiji je osnivač Republika Hrvatska ili jedinica lokalne ili područne (regionalne) samouprave, pravne osobe i druge osobe koje obavljaju javnu službu, pravne osobe koje se u cijelosti financiraju iz državnog proračuna ili iz proračuna jedinica lokalne i područne (regionalne) samouprave, kao i trgovačka društva u kojima Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave imaju zasebno ili zajedno većinsko vlasništvo;
+3) »Informacija« je svaki podatak koji posjeduje tijelo javne vlasti u obliku dokumenta, zapisa, dosjea, registra ili u bilo kojem drugom obliku, neovisno o načinu na koji je prikazana (napisani, nacrtani, tiskani, snimljeni, magnetni, optički, elektronički ili neki drugi zapis);
+4) »Međunarodna informacija« je ona informacija koju je Republici Hrvatskoj ustupila strana država ili međunarodna organizacija s kojom Republika Hrvatska surađuje ili joj je član;
+5) »Pravo na pristup informacijama« obuhvaća pravo korisnika na traženje i dobivanje informacije kao i obvezu tijela javne vlasti da omogući pristup zatraženoj informaciji, odnosno da objavljuje informacije neovisno o postavljenom zahtjevu kada takvo objavljivanje proizlazi iz obveze određene zakonom ili drugim propisom;
+6) »Ponovna uporaba« znači uporabu informacija tijela javne vlasti od strane fizičkih ili pravnih osoba, u komercijalne ili nekomercijalne svrhe drukčije od izvorne svrhe u okviru javnog posla za koji su te informacije izrađene. Razmjena informacija između tijela javne vlasti radi obavljanja poslova iz njihovog djelokruga ne predstavlja ponovnu uporabu;
+7) »Test razmjernosti i javnog interesa« je procjena razmjernosti između razloga za omogućavanje pristupa informaciji i razloga za ograničenje te omogućavanje pristupa informaciji ako prevladava javni interes;
+8) »Vlasnik informacije«, u smislu ovog Zakona, je nadležno tijelo javne vlasti Republike Hrvatske ili strane države ili međunarodna organizacija, u okviru čijeg djelovanja je informacija nastala;
+9) »Središnji katalog službenih dokumenata Republike Hrvatske« je na internetu javno dostupan alat koji korisnicima kroz puni tekst i/ili uređeni skup metapodataka omogućuje trajni pristup dokumentima pohranjenim u bazi elektroničkih dokumenata i/ili fizičkim zbirkama;
+10) »Povjerenik za informiranje« (u daljnjem tekstu: Povjerenik) je neovisno državno tijelo za zaštitu prava na pristup informacijama.
+
+II. NAČELA
+Načelo javnosti i slobodnog pristupa
+Članak 6.
+Informacije su dostupne svakoj domaćoj ili stranoj fizičkoj i pravnoj osobi u skladu s uvjetima i ograničenjima ovog Zakona.
+Načelo pravodobnosti, potpunosti i točnosti informacija
+Članak 7.
+Informacije koje tijela javne vlasti objavljuju odnosno daju moraju biti pravodobne, potpune i točne.
+Načelo jednakosti
+Članak 8.
+(1) Pravo na pristup informacijama i ponovnu uporabu informacija pripada svim korisnicima na jednak način i pod jednakim uvjetima. Korisnici su ravnopravni u njegovu ostvarivanju.
+(2) Tijela javne vlasti ne smiju staviti korisnike u neravnopravan položaj, a osobito na način da se pojedinim korisnicima informacija pruža prije nego ostalima ili na način kojim im se posebno pogoduje.
+Načelo raspolaganja informacijom
+Članak 9.
+Korisnik koji raspolaže informacijom sukladno ovom Zakonu, ima pravo tu informaciju javno iznositi.
+
+III. OBVEZE TIJELA JAVNE VLASTI
+Objavljivanje informacija
+Članak 10.
+(1) Tijela javne vlasti obvezna su na internetskim stranicama objaviti na lako pretraživ način:
+1) zakone i ostale propise koji se odnose na njihovo područje rada;
+2) opće akte i odluke koje donose, kojima se utječe na interese korisnika, s razlozima za njihovo donošenje;
+3) nacrte zakona i drugih propisa te općih akata koje donose, sukladno odredbama članka 11. ovog Zakona;
+4) godišnje planove, programe, strategije, upute, izvještaje o radu, financijska izvješća i druge odgovarajuće dokumente koji se odnose na područje rada tijela javne vlasti;
+5) podatke o izvoru financiranja, proračunu i izvršenju proračuna;
+6) informacije o dodijeljenim potporama, bespovratnim sredstvima ili donacijama uključujući popis korisnika i visinu iznosa;
+7) informacije o svom unutarnjem ustrojstvu, s imenima čelnika tijela i voditelja ustrojstvenih jedinica i njihovim podacima za kontakt;
+8) zapisnike i zaključke sa službenih sjednica tijela javne vlasti i službene dokumente usvojene na tim sjednicama, te informacije o radu formalnih radnih tijela iz njihove nadležnosti;
+9) informacije o postupcima javne nabave i dokumentaciji za nadmetanje te informacije o izvršavanju ugovora;
+10) obavijesti o raspisanim natječajima te natječajnu dokumentaciju;
+11) registre i baze podataka ili informacije o registrima i bazama podataka iz njihove nadležnosti i načinu pristupa;
+12) obavijesti o načinu ostvarivanja prava na pristup informacijama i ponovnoj uporabi informacija s podacima za kontakt službenika za informiranje;
+13) visinu naknade za pristup informacijama i ponovnu uporabu informacija, prema kriterijima iz članka 19. stavka 3. ovog Zakona;
+14) najčešće tražene informacije;
+15) ostale informacije (vijesti, priopćenja za javnost, podaci o drugim aktivnostima).
+(2) Dokumente iz stavka 1. točaka 2., 3. i 4. ovog članka tijela javne vlasti dužna su dostaviti u Središnji katalog službenih dokumenata Republike Hrvatske radi njihove trajne dostupnosti i ponovne uporabe informacija, a tijelo javne vlasti u čijoj je nadležnosti donošenje zakonskih i podzakonskih propisa i dokumente iz stavka 1. točke 1. ovog članka. Poslove vođenja i održavanja Središnjeg kataloga službenih dokumenata Republike Hrvatske obavlja Hrvatska informacijsko-dokumentacijska referalna agencija (HIDRA).
+(3) Način ustrojavanja i vođenja Središnjeg kataloga službenih dokumenata Republike Hrvatske propisat će pravilnikom ministar nadležan za poslove opće uprave.
+(4) Odredbe ovog članka ne primjenjuju se na informacije za koje postoje ograničenja prava na pristup prema odredbama ovog Zakona.
+Objavljivanje dokumenata u svrhu savjetovanja s javnošću
+Članak 11.
+(1) Tijela javne vlasti nadležna za izradu nacrta zakona i podzakonskih akata dužna su radi informiranja javnosti na svojim internetskim stranicama objaviti uz godišnji plan normativnih aktivnosti i plan savjetovanja o nacrtima zakona i drugih propisa koji se odnose na njihovo područje rada.
+(2) Tijela javne vlasti iz stavka 1. ovog članka dužna su objaviti na internetskoj stranici nacrt zakona i drugog propisa o kojem se provodi javno savjetovanje sa zainteresiranom javnosti, u pravilu u trajanju od 30 dana, uz objavu razloga za donošenje i ciljeva koji se žele postići savjetovanjem.
+(3) Nakon provedenog savjetovanja tijela javne vlasti dužna su o prihvaćenim i neprihvaćenim primjedbama i prijedlozima obavijestiti zainteresiranu javnost putem svoje internetske stranice na kojoj trebaju objaviti izvješće o provedenom savjetovanju sa zainteresiranom javnošću koje dostavljaju Vladi Republike Hrvatske.
+(4) Odredbe stavaka 1., 2. i 3. ovog članka primjenjuju se na odgovarajući način u postupku donošenja općih akata jedinica lokalne i područne (regionalne) samouprave i pravnih osoba s javnim ovlastima, kojima uređuju pitanja iz svog djelokruga, a kojima se neposredno ostvaruju potrebe građana ili druga pitanja od interesa za opću dobrobit građana i pravnih osoba na njihovu području, odnosno na području njihove djelatnosti (uređenje naselja i stanovanja, prostorno planiranje, komunalna djelatnost i druge javne službe, zaštita okoliša, i drugo).
+Javnost rada
+Članak 12.
+(1) Tijela javne vlasti obvezna su javnost informirati o:
+1) dnevnom redu zasjedanja ili sjednica službenih tijela i vremenu njihova održavanja, načinu rada i mogućnostima neposrednog uvida u njihov rad,
+2) broju osoba kojima se može istodobno osigurati neposredan uvid u rad tijela javne vlasti pri čemu se mora voditi računa o redoslijedu prijavljivanja.
+(2) Tijela javne vlasti nisu dužna osigurati neposredan uvid u svoj rad kada se radi o pitanjima u kojima se po zakonu javnost mora isključiti, odnosno ako se radi o informacijama za koje postoje ograničenja prava na pristup prema odredbama ovog Zakona.
+Službenik za informiranje
+Članak 13.
+(1) Tijelo javne vlasti obvezno je radi osiguravanja prava na pristup informacijama donijeti odluku kojom će odrediti posebnu službenu osobu mjerodavnu za rješavanje ostvarivanja prava na pristup informacijama (u daljnjem tekstu: službenik za informiranje).
+(2) Tijelo javne vlasti obvezno je upoznati javnost sa službenim podacima o službeniku za informiranje.
+(3) Službenik za informiranje:
+1) obavlja poslove redovitog objavljivanja informacija, sukladno unutarnjem ustroju tijela javne vlasti, kao i rješavanja pojedinačnih zahtjeva za pristup informacijama i ponovne uporabe informacija,
+2) unapređuje način obrade, razvrstavanja, čuvanja i objavljivanja informacija koje su sadržane u službenim dokumentima koji se odnose na rad tijela javne vlasti,
+3) osigurava neophodnu pomoć podnositeljima zahtjeva u vezi s ostvarivanjem prava utvrđenih ovim Zakonom.
+(4) Tijelo javne vlasti dužno je o odluci o određivanju službenika za informiranje izvijestiti Povjerenika u roku od mjesec dana od donošenja odluke o određivanju službenika za informiranje.
+(5) Povjerenik vodi Registar službenika za informiranje.
+Službeni upisnik
+Članak 14.
+(1) Tijelo javne vlasti dužno je voditi poseban službeni upisnik o zahtjevima, postupcima i odlukama o ostvarivanju prava na pristup informacijama i ponovnu uporabu informacija, u skladu s odredbama ovog Zakona.
+(2) Ustroj, sadržaj i način vođenja službenog upisnika propisat će pravilnikom ministar nadležan za poslove opće uprave.
+
+IV. OGRANIČENJA PRAVA NA PRISTUP INFORMACIJAMA
+Ograničenja i njihovo trajanje
+Članak 15.
+(1) Tijela javne vlasti ograničit će pristup informacijama koje se tiču svih postupaka koje vode nadležna tijela u predistražnim i istražnim radnjama za vrijeme trajanja tih postupaka.
+(2) Tijela javne vlasti mogu ograničiti pristup informaciji:
+1) ako je informacija klasificirana stupnjem tajnosti, sukladno zakonu kojim se uređuje tajnost podataka;
+2) ako je informacija poslovna ili profesionalna tajna, sukladno zakonu;
+3) ako je informacija porezna tajna, sukladno zakonu;
+4) ako je informacija zaštićena zakonom kojim se uređuje područje zaštite osobnih podataka;
+5) ako je informacija u postupku izrade unutar tijela javne vlasti, a njeno bi objavljivanje prije dovršetka izrade cjelovite i konačne informacije moglo ozbiljno narušiti proces donošenja odluke;
+6) ako je pristup informaciji ograničen sukladno međunarodnim ugovorima,
+7) u ostalim slučajevima utvrđenim zakonom.
+(3) Tijela javne vlasti mogu ograničiti pristup informaciji ako postoje osnove sumnje da bi njezino objavljivanje:
+1) onemogućilo učinkovito, neovisno i nepristrano vođenje sudskog, upravnog ili drugog pravno uređenog postupka, izvršenje sudske odluke ili kazne,
+2) onemogućilo rad tijela koja obavljaju upravni nadzor, inspekcijski nadzor, odnosno nadzor zakonitosti,
+3) povrijedilo pravo intelektualnog vlasništva, osim u slučaju izričitoga pisanog pristanka autora ili vlasnika.
+(4) Informacije kojima se ograničuje pravo na pristup iz razloga navedenih u stavku 3. točki 3. ovog članka postaju dostupne javnosti kad to odredi onaj kome bi objavljivanjem informacije mogla biti prouzročena šteta, ali najduže u roku od 20 godina od dana kad je informacija nastala, osim ako zakonom ili drugim propisom nije određen duži rok.
+(5) Ako tražena informacija sadrži i podatak koji podliježe ograničenju iz stavka 2. i 3. ovog članka, preostali dijelovi informacije učinit će se dostupnim.
+(6) Informacije su dostupne javnosti nakon što prestanu razlozi na temelju kojih je tijelo javne vlasti ograničilo pravo na pristup informaciji.
+Test razmjernosti i javnog interesa
+Članak 16.
+(1) Tijelo javne vlasti nadležno za postupanje po zahtjevu za pristup informaciji iz članka 15. stavka 2. točke 2., 3., 4., 5., 6. i 7. i stavka 3. ovog Zakona, dužno je, prije donošenja odluke, provesti test razmjernosti i javnog interesa. Vlasnik informacije iz članka 15. stavka 2. točke 1. ovog Zakona, po prethodno pribavljenom mišljenju Ureda vijeća za nacionalnu sigurnost, dužan je, prije donošenja odluke, provesti test razmjernosti i javnog interesa.
+(2) Kod provođenja testa razmjernosti i javnog interesa tijelo javne vlasti dužno je utvrditi da li se pristup informaciji može ograničiti radi zaštite nekog od zaštićenih interesa iz članka 15. stavka 2. i 3. ovog Zakona, da li bi omogućavanjem pristupa traženoj informaciji u svakom pojedinom slučaju taj interes bio ozbiljno povrijeđen te da li prevladava potreba zaštite prava na ograničenje ili javni interes. Ako prevladava javni interes u odnosu na štetu po zaštićene interese, informacija će se učiniti dostupnom.
+(3) Informacije o raspolaganju javnim sredstvima dostupne su javnosti i bez provođenja postupka iz stavka 1. ovog članka, osim ako informacija predstavlja klasificirani podatak.
+
+V. POSTUPOVNE ODREDBE
+Načini ostvarivanja prava na pristup informacijama
+Članak 17.
+(1) Tijela javne vlasti obvezna su omogućiti pristup informacijama:
+1) pravodobnim objavljivanjem informacija o svome radu na primjeren i dostupan način, odnosno na internetskim stranicama tijela javne vlasti ili u javnom glasilu i Središnjem katalogu službenih dokumenata Republike Hrvatske, radi informiranja javnosti,
+2) davanjem informacije korisniku koji je podnio zahtjev na jedan od sljedećih načina:
+– neposrednim davanjem informacije,
+– davanjem informacije pisanim putem,
+– uvidom u dokumente i izradom preslika dokumenata koji sadrže traženu informaciju,
+– dostavljanjem preslika dokumenta koji sadrži traženu informaciju,
+– na drugi način koji je prikladan za ostvarivanje prava na pristup informaciji.
+(2) Korisnik može u zahtjevu za pristup informaciji naznačiti prikladan način dobivanja informacije, a ako ne naznači informacija će se dostaviti na način na koji je podnesen zahtjev.
+Zahtjev
+Članak 18.
+(1) Korisnik ostvaruje pravo na pristup informaciji podnošenjem usmenog ili pisanog zahtjeva nadležnom tijelu.
+(2) Ako je zahtjev podnesen usmeno ili putem telefona, sastavit će se službena bilješka, a ako je podnesen putem elektroničke komunikacije, smatrat će se da je podnesen pisani zahtjev.
+(3) Pisani zahtjev sadrži: naziv i sjedište tijela javne vlasti kojem se zahtjev podnosi, podatke koji su važni za prepoznavanje tražene informacije, ime i prezime i adresu fizičke osobe podnositelja zahtjeva, tvrtku, odnosno naziv pravne osobe i njezino sjedište.
+(4) Podnositelj zahtjeva nije obvezan navesti razloge zbog kojih traži pristup informaciji, niti je obvezan pozvati se na primjenu ovog Zakona.
+Naknada za pristup informacijama
+Članak 19.
+(1) Na pristup informacijama u postupcima pred tijelima javne vlasti ne plaćaju se upravne i sudske pristojbe.
+(2) Tijelo javne vlasti ima pravo tražiti od korisnika naknadu stvarnih materijalnih troškova koji nastanu pružanjem informacije, sukladno članku 17. ovog Zakona, kao i na naknadu troškova dostave tražene informacije. Na zahtjev korisnika tijelo javne vlasti dužno je dostaviti način izračuna naknade.
+(3) Kriterije za određivanje visine naknade i način naplate naknade iz stavka 2. ovog članka, propisat će Povjerenik.
+(4) Prihodi od naknada ostvarenih na temelju stavka 2. ovog članka, prihodi su tijela javne vlasti.
+Rokovi
+Članak 20.
+(1) Na temelju zahtjeva za pristup informaciji tijelo javne vlasti će odlučiti najkasnije u roku od 15 dana od dana podnošenja urednog zahtjeva.
+(2) U slučaju nepotpunog ili nerazumljivog zahtjeva tijelo javne vlasti će bez odgode pozvati podnositelja zahtjeva da ga ispravi u roku od pet dana od dana zaprimanja poziva za ispravak. Ako podnositelj zahtjeva ne ispravi zahtjev na odgovarajući način, a na temelju dostavljenog se ne može sa sigurnošću utvrditi o kojoj se traženoj informaciji radi, tijelo javne vlasti odbacit će zahtjev rješenjem.
+Ustupanje zahtjeva
+Članak 21.
+(1) Ako tijelo javne vlasti ne posjeduje informaciju, a ima saznanja o tijelu koje je posjeduje, dužno je, bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti zahtjev tome tijelu, a o čemu će obavijestiti podnositelja. Rokovi ostvarivanja prava na pristup informaciji računaju se od dana kada je nadležno tijelo javne vlasti zaprimilo ustupljeni zahtjev.
+(2) Ako tijelo javne vlasti zaprimi zahtjev za pristup informaciji iz članka 15. stavka 2. točke 1. ovog Zakona, a nije njezin vlasnik, dužno je bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti zahtjev vlasniku informacije, o čemu će obavijestiti podnositelja.
+(3) Ako tijelo javne vlasti zaprimi zahtjev za pristup međunarodnoj informaciji, dužno je bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti isti vlasniku informacije, o čemu će obavijestiti podnositelja. Iznimno, tijelo javne vlasti postupit će po zaprimljenom zahtjevu za pristup međunarodnoj informaciji, ako je iz same informacije nedvojbeno vidljivo da je ona namijenjena neposrednoj objavi.
+Produženje rokova
+Članak 22.
+(1) Rokovi za ostvarivanje prava na pristup informaciji mogu se produžiti za 15 dana, računajući od dana kad je tijelo javne vlasti trebalo odlučiti o zahtjevu za pristup informaciji:
+1) ako se informacija mora tražiti izvan sjedišta tijela javne vlasti,
+2) ako se jednim zahtjevom traži veći broj različitih informacija,
+3) ako je to nužno da bi se osigurala potpunost i točnost tražene informacije,
+4) ako je dužno provesti test razmjernosti i javnog interesa, sukladno odredbama ovog Zakona.
+(2) O produženju rokova tijelo javne vlasti će bez odgode, a najkasnije u roku od osam dana, od dana zaprimanja urednog zahtjeva obavijestiti podnositelja zahtjeva i navesti razloge zbog kojih je taj rok produžen.
+Rješavanje o zahtjevu
+Članak 23.
+(1) Tijelo javne vlasti ne donosi rješenje o zahtjevu:
+1) kad korisniku omogućuje pristup traženoj informaciji,
+2) kad obavještava korisnika da je istu informaciju već dobio, a nije protekao rok od 90 dana od podnošenja prethodnog zahtjeva,
+3) kad obavještava korisnika da je informacija javno objavljena,
+4) kad obavještava korisnika da mu je kao stranki u postupku dostupnost informacija iz sudskih, upravnih i drugih na zakonu utemeljenih postupaka propisom utvrđena,
+5) kad obavještava korisnika da za informaciju postoji obveza zaštite odnosno čuvanja njezine tajnosti, sukladno članku 1. stavku 4. i 5. ovog Zakona.
+(2) O postojanju razloga koji su utvrđeni stavkom 1. točkom 2., 3., 4. i 5. ovog članka tijelo javne vlasti obvezno je, bez odgode, obavijestiti podnositelja zahtjeva pisanim putem.
+(3) Tijelo javne vlasti donosi rješenje kad korisniku omogućuje pristup traženoj informaciji, primjenom odredbe članka 16. stavka 1. ovog Zakona.
+(4) Tijelo javne vlasti rješenjem će odbaciti zahtjev ako ne posjeduje informaciju te nema saznanja gdje se informacija nalazi.
+(5) Tijelo javne vlasti rješenjem će odbiti zahtjev:
+1) ako se ispune uvjeti propisani u članku 15. stavku 1. ovog Zakona,
+2) ako se ispune uvjeti propisani u članku 15. stavcima 2. i 3., a u vezi s člankom 16. stavkom 1. ovog Zakona,
+3) ako utvrdi da nema osnove za dopunu ili ispravak dane informacije iz članka 24. ovog Zakona,
+4) ako se traži informacija koja se ne smatra informacijom u smislu članka 5. stavka 1. točke 3. ovog Zakona.
+Dopuna i ispravak informacije
+Članak 24.
+(1) Ako korisnik smatra da informacija pružena na temelju zahtjeva nije točna ili potpuna, može zahtijevati njezin ispravak, odnosno dopunu u roku od 15 dana od dana dobivanja informacije.
+(2) Tijelo javne vlasti obvezno je odlučiti o zahtjevu za dopunu, odnosno ispravak informacije u roku od 15 dana od dana zaprimanja zahtjeva, sukladno odredbama članka 23. ovog Zakona.
+Žalba
+Članak 25.
+(1) Protiv rješenja tijela javne vlasti može se izjaviti žalba Povjereniku u roku od 15 dana od dana dostave rješenja.
+(2) Žalba se može izjaviti i kad tijelo javne vlasti, u propisanom roku, ne odluči o zahtjevu podnositelja.
+(3) Povjerenik je dužan rješenje o žalbi donijeti i dostaviti stranki, putem prvostupanjskog tijela, najkasnije u roku od 30 dana od dana predaje uredne žalbe.
+(4) Tijela javne vlasti dužna su Povjereniku u postupku po žalbi protiv rješenja o ograničenju informacija iz članka 15. stavka 2. i 3. ovog Zakona, omogućiti uvid u informacije koje su predmet postupka. Za informacije iz članka 15. stavka 2. točke 1. ovog Zakona, Povjerenik će zatražiti mišljenje Ureda Vijeća za nacionalnu sigurnost, sukladno zakonu kojim se uređuje tajnost podataka.
+(5) Kad Povjerenik u postupku rješavanja po žalbi treba ispitati pravilnost provedenog testa razmjernosti i javnog interesa, odnosno provesti test razmjernosti i javnog interesa, rješenje o žalbi dužan je donijeti i dostaviti stranci, putem prvostupanjskog tijela, najkasnije u roku od 60 dana od dana predaje uredne žalbe.
+(6) Kad Povjerenik, za informacije iz članka 15. stavka 2. točke 1. ovog Zakona, traži mišljenje Ureda vijeća za nacionalnu sigurnost, dužan je rješenje donijeti i dostaviti stranki, putem prvostupanjskog tijela, najkasnije u roku od 90 dana od dana predaje uredne žalbe.
+(7) Kad utvrdi da je žalba osnovana, Povjerenik će rješenjem korisniku omogućiti pristup informaciji.
+Upravni spor
+Članak 26.
+(1) Protiv rješenja Povjerenika žalba nije dopuštena, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske. Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana. Tužba ima odgodni učinak ako je rješenjem omogućen pristup informaciji.
+(2) Upravni spor protiv rješenja iz stavka 1. ovog članka može pokrenuti i tijelo javne vlasti koje je donijelo prvostupanjsko rješenje.
+(3) U postupku po tužbi, tijela javne vlasti dužna su Visokom upravnom sudu Republike Hrvatske omogućiti uvid u informacije iz članka 15. stavka 2. i 3. ovog Zakona, koje su predmet postupka.
+
+VI. PONOVNA UPORABA INFORMACIJA
+Pravo na ponovnu uporabu informacija
+Članak 27.
+(1) Svaki korisnik ima pravo na ponovnu uporabu informacija u komercijalne ili nekomercijalne svrhe, u skladu s odredbama ovoga Zakona.
+(2) U svrhu ponovne uporabe informacija tijelo javne vlasti će učiniti svoje informacije dostupnima u elektroničkom obliku kad god je to moguće i primjereno. Tijelo javne vlasti nema obvezu osigurati pretvorbu informacija iz jednog oblika u drugi niti osigurati uporabu dijela informacije te nema obvezu obnavljati (ažurirati, nadograđivati, nastaviti stvarati) određenu informaciju samo u svrhu ponovne uporabe.
+Zahtjev za ponovnu uporabu
+Članak 28.
+U zahtjevu za ponovnu uporabu informacija podnositelj zahtjeva mora, osim podataka iz članka 18. stavka 3. ovog Zakona, navesti i:
+1) informacije koje želi ponovno upotrijebiti,
+2) način na koji želi primiti sadržaj traženih informacija,
+3) svrhu u koju želi ponovno upotrijebiti informacije (komercijalna ili nekomercijalna svrha).
+Rok za odlučivanje o zahtjevu za ponovnu uporabu
+Članak 29.
+(1) Tijelo javne vlasti odlučit će o zahtjevu za ponovnu uporabu informacija u roku od 15 dana od dana podnošenja urednog zahtjeva.
+(2) U slučaju nepotpunog ili nerazumljivog zahtjeva tijelo javne vlasti će bez odgode pozvati podnositelja zahtjeva da ispravi zahtjev u roku od pet dana od dana zaprimanja poziva za ispravak. Ako podnositelj zahtjeva ne ispravi zahtjev na odgovarajući način, tijelo javne vlasti odbacit će zahtjev rješenjem.
+(3) Rokovi za odlučivanje o zahtjevu za ponovnu uporabu informacija mogu se produžiti za 15 dana, računajući od dana kad je tijelo javne vlasti trebalo odlučiti o zahtjevu za ponovnu uporabu informacija iz razloga propisanih u članku 22. stavku 1. točkama 1., 2. i 3. ovog Zakona.
+(4) O produženju rokova tijelo javne vlasti bez odgode će, a najkasnije u roku od osam dana, obavijestiti podnositelja zahtjeva i navesti razloge zbog kojih je taj rok produžen.
+Rješavanje o zahtjevu za ponovnu uporabu informacija
+Članak 30.
+(1) Tijelo javne vlasti ne donosi rješenje o zahtjevu kad omogućuje ponovnu uporabu informacija.
+(2) Tijelo javne vlasti koje omogućava pristup informacijama za ponovnu uporabu može odrediti uvjete za ponovnu uporabu informacija. Uvjeti ne smiju nepotrebno ograničavati mogućnost ponovne uporabe i ne smiju se upotrijebiti za ograničavanje tržišnog natjecanja.
+(3) U slučaju davanja isključivog prava na ponovnu uporabu, sukladno članku 34. stavku 1. ovog Zakona, tijelo javne vlasti sklopit će s korisnikom ugovor kojim će urediti uvjete ponovne uporabe informacija.
+(4) Tijelo javne vlasti će rješenjem odbiti zahtjev za ponovnu uporabu informacija ako se zahtjev odnosi na:
+1) informacije iz članka 15. stavka 1. ovog Zakona,
+2) informacije iz članka 15. stavka 2. i 3. ovog Zakona,
+3) informacije zaštićene pravima intelektualnog vlasništva trećih osoba, s navođenjem nositelja prava intelektualnog vlasništva, ako je poznat,
+4) informacije u posjedu tijela koja pružaju javne usluge radija i televizije ili tijela koja pružaju javne usluge u području obrazovanja, znanosti, istraživanja i kulturnih aktivnosti,
+5) informacije za koje je drugim zakonom propisan pristup samo ovlaštenim osobama,
+6) informacije koje nisu nastale u okviru djelovanja tog tijela javne vlasti.
+
+Naknada za ponovnu uporabu informacija
+Članak 31.
+(1) Tijelo javne vlasti ne naplaćuje naknadu za ponovnu uporabu informacija ako iste informacije objavljuje besplatno putem interneta.
+(2) Tijelo javne vlasti može naplatiti naknadu za ponovnu uporabu informacija, sukladno članku 19. stavku 2. ovog Zakona.
+Objavljivanje uvjeta za ponovnu uporabu informacija
+Članak 32.
+Tijelo javne vlasti je dužno unaprijed putem internetske stranice objaviti sve uvjete za ponovnu uporabu i naknadu iz članka 19. stavka 2. ovog Zakona.
+Zabrana diskriminacije
+Članak 33.
+(1) Uvjeti za ponovnu uporabu informacija ne smiju biti diskriminirajući.
+(2) Ponovna uporaba informacija dopuštena je i dostupna svim podnositeljima zahtjeva uz istu naknadu i pod istim uvjetima. Broj podnositelja zahtjeva kojima tijelo odobrava pravo na ponovnu uporabu informacija nije ograničen. Tijelo ne može ugovorom ili drugim sporazumom ili odlukom odobriti podnositelju zahtjeva takvu ponovnu uporabu informacija koja bi spriječila ponovnu uporabu tih informacija od strane drugih korisnika.
+(3) Na tijelo javne vlasti koje ponovno koristi svoje informacije kao osnovu za komercijalne aktivnosti koje ne spadaju u djelokrug njegovih javnih poslova, primjenjuju se isti uvjeti kao za druge korisnike.
+Isključiva prava
+Članak 34.
+(1) Iznimno od članka 33. stavka 2. ovog Zakona, tijelo javne vlasti može odobriti isključivo pravo na ponovnu uporabu informacija ako je to prijeko potrebno za pružanje javne usluge ili drugih usluga u javnom interesu. Valjanost razloga za odobrenje takvog isključivog prava podliježe redovitoj provjeri Povjerenika i provjerava se najmanje svake tri godine.
+(2) Svi propisani podaci o odobravanju i provjeri ugovora o davanju isključivog prava na ponovnu uporabu informacija dostavljaju se Povjereniku u roku od 15 dana od dana sklapanja ugovora. Povjerenik vodi javno dostupnu evidenciju o svim odobrenim isključivim pravima.
+(3) Detaljne uvjete o ponovnoj uporabi informacija i odobravanju isključivih prava iz stavka 1. ovog članka, kao i sadržaj i način objave, te s time povezano vođenje evidencije propisat će pravilnikom ministar nadležan za poslove opće uprave.
+
+VII. POVJERENIK ZA INFORMIRANJE
+Povjerenik za informiranje
+Članak 35.
+(1) Povjerenik štiti, prati i promiče Ustavom Republike Hrvatske zajamčeno pravo na pristup informacijama.
+(2) Povjerenik ne može biti pozvan na odgovornost, pritvoren ili kažnjen za izraženo mišljenju i poduzete radnje u okviru svog djelokruga rada, osim ako se radi o kršenju zakona od strane Povjerenika koje predstavlja kazneno djelo.
+(3) Povjerenik:
+– obavlja poslove drugostupanjskog tijela u rješavanju žalbi o ostvarivanju prava na pristup informacijama i prava na ponovnu uporabu informacija;
+– obavlja nadzor i provodi inspekcijski nadzor nad provedbom ovog Zakona;
+– prati provedbu ovog Zakona i propisa koji uređuju pravo na pristup informacijama te izvješćuje javnost o njihovoj provedbi;
+– predlaže tijelima javne vlasti poduzimanje mjera radi unapređivanja ostvarivanja prava na pristup informacijama, uređenog ovim Zakonom;
+– informira javnost o ostvarivanju prava korisnika na pristup informacijama;
+– predlaže mjere za stručno osposobljavanje i usavršavanje službenika za informiranje u tijelima javne vlasti i upoznavanje s njihovim obvezama u vezi s primjenom ovog Zakona;
+– inicira donošenje ili izmjene propisa radi provedbe i unapređenja prava na pristup informacijama;
+– podnosi Hrvatskom saboru izvješće o provedbi ovog Zakona i druga izvješća kad ocijeni da je to potrebno;
+– sudjeluje u radu radnih tijela Hrvatskog sabora i prisustvuje sjednicama Hrvatskog sabora kad su na dnevnom redu pitanja iz njegova djelokruga;
+– podnosi optužni prijedlog i izdaje prekršajni nalog za utvrđene prekršaje.
+(4) Za pristup i rad s klasificiranim podacima Povjerenik i državni službenici u Uredu, moraju ispunjavati uvjete propisane posebnim zakonom, te su dužni čuvati, sukladno zakonu kojim se uređuje tajnost podataka, sve osobne i druge povjerljive podatke koje saznaju u obavljanju svojih dužnosti.
+Izbor Povjerenika
+Članak 36.
+(1) Povjerenika bira Hrvatski sabor na vrijeme od pet godina uz mogućnost ponovnog izbora.
+(2) Najkasnije šest mjeseci prije isteka mandata Povjerenika, odnosno najkasnije 30 dana nakon prestanka dužnosti iz drugih razloga, Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora objavljuje javni poziv za dostavu kandidatura za izbor Povjerenika.
+(3) Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora uz prethodno pribavljeno mišljenje Odbora za informiranje, informatizaciju i medije Hrvatskoga sabora, utvrđuje prijedlog najmanje dvaju kandidata za Povjerenika na temelju pristiglih prijava iz javnog poziva te ga upućuje Hrvatskom saboru.
+(4) Povjerenik je u svom radu samostalan i neovisan, te je za svoj rad odgovoran Hrvatskom saboru.
+Uvjeti za izbor Povjerenika
+Članak 37.
+(1) Za Povjerenika može biti izabrana osoba koja ispunjava sljedeće uvjete:
+– hrvatsko državljanstvo i prebivalište na području Republike Hrvatske,
+– završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij pravne ili društvene struke,
+– najmanje 10 godina radnog iskustva u struci,
+– istaknuti stručnjak s priznatim etičkim i profesionalnim ugledom i iskustvom iz područja zaštite i unapređenja ljudskih prava, slobode medija i razvoja demokracije,
+– koja nije osuđivana i protiv koje se ne vodi kazneni postupak za kaznena djela za koja se postupak pokreće po službenoj dužnosti,
+– koja nije član političke stranke.
+(2) Na Povjerenika se na odgovarajući način primjenjuju odredbe Zakona o obvezama i pravima državnih dužnosnika.
+(3) Povjerenik ima pravo na plaću u visini plaće potpredsjednika radnih tijela Hrvatskoga sabora.
+Razrješenje Povjerenika
+Članak 38.
+(1) Hrvatski sabor razriješit će dužnosti Povjerenika prije isteka vremena na koje je izabran:
+– ako to sam zatraži,
+– ako nastupe okolnosti zbog kojih više ne ispunjava uvjete za izbor iz članka 37. ovog Zakona,
+– ako je spriječen obavljati dužnost u razdoblju duljem od šest mjeseci,
+– ako ne obavlja dužnost sukladno ovom Zakonu.
+(2) Postupak za razrješenje Povjerenika pokreće Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora.
+(3) Povjerenika razrješuje Hrvatski sabor uz prethodno mišljenje Odbora za informiranje, informatizaciju i medije Hrvatskoga sabora.
+Ustroj Ureda povjerenika
+Članak 39.
+(1) Povjerenik ima Ured povjerenika, kao stručnu službu.
+(2) U Uredu povjerenika ustrojavaju se unutarnje ustrojstvene jedinice za pojedina područja rada, u skladu s vrstom posla.
+(3) Na zaposlene u Uredu povjerenika primjenjuju se odredbe Zakona o državnim službenicima.
+(4) Povjerenik ima položaj čelnika tijela u odnosu na zaposlene u Uredu povjerenika.
+(5) Unutarnje ustrojstvo Ureda povjerenika uređuje se Poslovnikom.
+(6) Sjedište Ureda povjerenika je u Zagrebu.
+(7) Sredstva za rad Ureda povjerenika osiguravaju se u državnom proračunu Republike Hrvatske.
+Poslovnik Povjerenika i Pravilnik o unutarnjem redu
+Članak 40.
+(1) Povjerenik donosi Poslovnik koji potvrđuje Hrvatski sabor. Poslovnik se objavljuje u »Narodnim novinama«.
+(2) Poslovnikom se uređuje unutarnje ustrojstvo, način rada Povjerenika, način planiranja i obavljanja poslova te druga pitanja od važnosti za obavljanje poslova Povjerenika.
+(3) Povjerenik donosi Pravilnik o unutarnjem redu kojim se uređuje broj državnih službenika potrebnih za obavljanje poslova s naznakom njihovih osnovnih poslova i zadaća i stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti te druga pitanja od značaja za rad Povjerenika.
+
+VIII. NADZOR
+Nadzor nad provedbom Zakona
+Članak 41.
+Nadzor nad provedbom ovog Zakona obavlja Povjerenik.
+Inspekcijski nadzor
+Članak 42.
+(1) Inspekcijski nadzor nad provedbom ovog Zakona obavljaju inspektori i drugi ovlašteni službenici Ureda povjerenika (u daljnjem tekstu: inspektori).
+(2) Inspektori moraju ispunjavati sljedeće stručne uvjete: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, pravne struke ili neke druge struke društvenog smjera, tri godine radnog iskustva na poslovima provedbe zakona ili nadzora nad provedbom zakona i drugih propisa i položen državni stručni ispit.
+Članak 43.
+Inspekcijski nadzor obavlja se povodom zaprimljenih predstavki korisnika prava na pristup informacijama i ponovnu uporabu informacija, na prijedlog treće strane ili po službenoj dužnosti.
+Članak 44.
+(1) Inspektor je samostalan u radu.
+(2) Nitko ne smije korištenjem službenog položaja ili na drugi način onemogućavati ili ometati inspektora u obavljanju nadzora i poduzimanju mjera i radnji za koje je ovlašten.
+Poslovi inspektora
+Članak 45.
+(1) U obavljanju inspekcijskog nadzora nad primjenom ovog Zakona inspektori nadziru osobito:
+– da li je u tijelu javne vlasti određen službenik za informiranje i da li službenik za informiranje postupa u skladu s ovlastima propisanim ovim Zakonom;
+– vodi li tijelo javne vlasti poseban službeni upisnik o zahtjevima, postupcima i odlukama o ostvarivanju prava na pristup informacijama i ponovnu uporabu informacija;
+– objavljuje li tijelo javne vlasti visinu naknade za pristup informacijama i ponovnu uporabu informacija, sukladno članku 19. stavku 2. ovog Zakona;
+– objavljuje li tijelo javne vlasti informacije sukladno članku 10. stavku 1. ovog Zakona;
+– dostavlja li tijelo javne vlasti izvješće sukladno članku 60. ovog Zakona;
+– pravilnost primjene odredbi ovog Zakona povodom zahtjeva za pristup informacijama i zahtjeva za ponovnu uporabu informacija;
+– poduzimanje ostalih radnji povodom zaprimljenih zahtjeva za pristup informacijama i zahtjeva za ponovnu uporabu.
+(2) U obavljanju inspekcijskog nadzora, inspektori imaju pravo zahtijevati i dobiti od tijela javne vlasti sve informacije koje su predmet postupka, u skladu s ovim Zakonom.
+(3) Predmetom inspekcijskog nadzora ne mogu biti informacije iz članka 1. stavka 4. i 5. ovog Zakona.
+Način rada inspektora
+Članak 46.
+Inspekcijski nadzor provodi se kao:
+1. neposredni inspekcijski nadzor, izravnim uvidom u podatke i dokumentaciju nadziranog tijela javne vlasti te uvjete i način rada nadziranog tijela javne vlasti;
+2. posredni inspekcijski nadzor, izravnim uvidom u dostavljene podatke i dokumentaciju.
+Članak 47.
+(1) Inspektor je dužan o provedbi neposrednoga inspekcijskog nadzora obavijestiti čelnika tijela javne vlasti u kojem će se provesti inspekcijski nadzor (u daljnjem tekstu: čelnik nadziranog tijela), najkasnije tri dana prije početka nadzora.
+(2) Iznimno od stavka 1. ovog članka, inspektor može obaviti inspekcijski nadzor bez prethodne najave u slučaju postojanja razloga za hitno postupanje.
+(3) Čelnik nadziranog tijela javne vlasti dužan je omogućiti nesmetanu provedbu inspekcijskog nadzora, što uključuje osiguranje radnog prostora za provedbu nadzora, korištenje tehničkih pomagala, podataka i dokumentacije koji su predmet nadzora.
+(4) Inspektor može po potrebi u okviru provedbe nadzora uzimati izjave čelnika nadziranih tijela javne vlasti ili drugih službenika.
+Članak 48.
+(1) Inspektor u provedbi posrednoga inspekcijskog nadzora ovlašten je pisano zatražiti dostavu dokumentacije te za dostavu iste odrediti primjereni rok.
+(2) Čelnik nadziranog tijela javne vlasti ili druga ovlaštena osoba dužna je postupiti po traženju inspektora, kao i osigurati dostavu potpunih i točnih podataka, a u slučaju nemogućnosti postupanja, pisano, bez odgađanja, dostaviti očitovanje.
+Članak 49.
+(1) Nakon provedenoga inspekcijskog nadzora, inspektor sastavlja zapisnik o utvrđenim nezakonitostima, nepravilnostima i nedostacima.
+(2) Zapisnik o inspekcijskom nadzoru iz stavka 1. ovog članka (u daljnjem tekstu: zapisnik) mora sadržavati:
+1) činjenično stanje te povrede zakona i drugih propisa, nepravilnosti i nedostatke u radu,
+2) ocjenu stanja,
+3) mjere kojima se naređuje otklanjanje utvrđenih nezakonitosti, te rok za izvršenje naređenih mjera,
+4) prijedloge za uklanjanje utvrđenih nepravilnosti i nedostataka u radu,
+5) obvezu izvješćivanja inspektora o poduzetim mjerama,
+6) pouku o pravu na prigovor.
+(3) Inspektor je dužan, ovisno o prirodi naređenih mjera, odrediti primjeren rok za izvršenje istih.
+(4) Ako se prilikom provedbe inspekcijskog nadzora ne utvrde nezakonitosti, nepravilnosti ili nedostaci u radu, o toj činjenici pisano će se obavijestiti čelnik nadziranog tijela javne vlasti.
+Prava i dužnosti inspektora
+Članak 50.
+Inspektor zapisnikom može izreći sljedeće mjere:
+1) narediti poduzimanje odgovarajućih mjera radi otklanjanja utvrđenih povreda ovog Zakona i drugih propisa, nepravilnosti i nedostataka u radu nadziranog tijela javne vlasti,
+2) zabraniti obavljanje radnji koje su poduzimane protivno ovom Zakonu ili drugim propisima,
+3) predložiti poduzimanje mjera u cilju otklanjanja nepravilnosti ili nedostataka u radu,
+4) predložiti poduzimanje mjera sa ciljem unapređenja rada nadziranog tijela javne vlasti.
+Članak 51.
+(1) Zapisnik se dostavlja čelniku nadziranog tijela javne vlasti.
+(2) Zapisnik se može dostaviti i tijelu kojem, na temelju propisa o ustrojstvu državne uprave, odnosno lokalne i područne (regionalne) samouprave, nadzirano tijelo neposredno odgovara za rad.
+
+Prigovor na zapisnik
+Članak 52.
+(1) Protiv zapisnika čelnik nadziranog tijela javne vlasti može podnijeti prigovor u roku od osam dana od dana primitka zapisnika.
+(2) Prigovorom se može pobijati zapisnik zbog:
+1) nepotpuno ili pogrešno utvrđenog činjeničnog stanja, pogrešne primjene propisa i na temelju toga izrečene mjere,
+2) prekoračenja ovlasti u provedbi inspekcijskog nadzora od strane inspektora.
+(3) Povodom prigovora donosi se odluka o prigovoru na zapisnik (u daljnjem tekstu: odluka).
+(4) Odluka iz stavka 3. ovog članka Zakona nije upravni akt.
+Članak 53.
+(1) Odluka se mora donijeti u roku od 30 dana od primitka prigovora.
+(2) Prigovor odgađa obvezu postupanja po izrečenim mjerama do zaprimanja odluke.
+Postupanje po prigovoru
+Članak 54.
+(1) Prigovor podnesen protiv zapisnika inspektora, iz razloga navedenih u članku 52. stavku 2. točki 1. ovog Zakona razmatra inspektor koji je obavio nadzor i izradio zapisnik. U slučaju osnovanosti prigovora inspektor će izmijeniti zapisnik u smislu navoda iz prigovora.
+(2) Ako inspektor prigovor ocijeni u cijelosti ili djelomično neosnovanim, prigovor će, uz očitovanje, dostaviti Povjereniku na odlučivanje.
+(3) Povjerenik će preispitati prigovor i očitovanje, te je ovlašten:
+1) ukinuti ili izmijeniti izrečenu mjeru, ako su navodi iz prigovora osnovani,
+2) odbiti prigovor.
+Članak 55.
+(1) O prigovoru na zapisnik podnesenom iz razloga propisanih člankom 52. stavkom 2. točkom 2. ovog Zakona odlučuje Povjerenik.
+(2) U postupanju po prigovoru Povjerenik je ovlašten:
+1) ukinuti izrečenu mjeru, ako je inspektor izrekao istu izvan zakonskih ovlasti,
+2) odbiti prigovor.
+Kontrola izvršenja mjera iz zapisnika
+Članak 56.
+(1) Čelnik nadziranog tijela javne vlasti dužan je izvršiti izrečene mjere u roku koji je određen zapisnikom.
+(2) Čelnik nadziranog tijela javne vlasti dužan je u roku od 15 dana od isteka roka za poduzimanje zapisnikom izrečenih mjera dostaviti inspektoru izvješće i dokaze o izvršenju mjera.
+Članak 57.
+(1) Kontrolu izvršenja izrečenih mjera inspektor obavlja u pravilu posredno, pribavljanjem izvješća i dokaza o provedbi mjera.
+(2) Kontrola izvršenja izrečenih mjera može se obaviti i neposrednim kontrolnim inspekcijskim nadzorom, ako to zahtijeva priroda radnji koje se u izvršenju mjera trebaju poduzeti, odnosno kada potrebu neposrednoga kontrolnog nadzora zbog nedostataka u izvješću utvrdi inspektor.
+Članak 58.
+Povjerenik je obvezan u slučaju neizvršenja mjere od strane nadziranog tijela javne vlasti, izrečene radi uklanjanja nezakonitosti, izvijestiti:
+1) Vladu Republike Hrvatske, ako mjere nisu izvršene od strane središnjih tijela državne uprave čiji čelnik neposredno odgovara Vladi Republike Hrvatske,
+2) središnje tijelo državne uprave koje provodi nadzor nad radom državne upravne organizacije, sukladno zakonu,
+3) središnje tijelo državne uprave nadležno za sustav i ustrojstvo državne uprave, lokalne i područne (regionalne) samouprave, ako mjere nisu izvršene od strane ureda državne uprave u županiji, odnosno tijela jedinica lokalne i područne (regionalne) samouprave.
+4) osnivača tijela javne vlasti.
+Postupanje po predstavkama
+Članak 59.
+(1) Inspektori postupaju po predstavkama na rad tijela javne vlasti vezano uz primjenu ovog Zakona.
+(2) Inspektor je dužan razmotriti podnesenu predstavku.
+(3) Ako po razmatranju predstavke inspektor ocijeni navode iznesene u predstavci osnovanim, uz traženje izvješća ovlašten je uputiti upozorenje radi hitnog uklanjanja mogućih nezakonitosti.
+(4) Ako se u postupanju po predstavci utvrdi da su činjenice izložene u predstavci točne, a otklanjanje nezakonitosti ili nepravilnosti zahtijeva izricanje mjere, inspektor će po službenoj dužnosti provesti inspekcijski nadzor, na način i sukladno ovlastima iz ovog Zakona.
+(5) Inspektor je dužan pisanim putem obavijestiti podnositelja predstavke o utvrđenim činjenicama, odnosno poduzetim mjerama povodom predstavke. Obavijest nije upravni akt.
+
+IX. IZVJEŠĆIVANJE
+Izvješća
+Članak 60.
+(1) Sva tijela javne vlasti dužna su surađivati s Povjerenikom.
+(2) Tijela javne vlasti dužna su Povjereniku dostaviti izvješće o provedbi ovog Zakona za prethodnu godinu najkasnije do 31. siječnja tekuće godine.
+(3) Izvješće sadrži podatke o:
+1) broju zaprimljenih zahtjeva za pristup informacijama i ponovnu uporabu informacija,
+2) broju usvojenih zahtjeva,
+3) broju djelomično usvojenih zahtjeva,
+4) broju izdanih obavijesti, sukladno članku 23. stavku 2. ovog Zakona,
+5) broju odbijenih zahtjeva i razlozima odbijanja,
+6) broju odbačenih zahtjeva i razlozima odbacivanja,
+7) broju ustupljenih zahtjeva,
+8) broju zaprimljenih zahtjeva za ispravak ili dopunu informacije,
+9) broju usvojenih zahtjeva za ispravak ili dopunu informacije,
+10) broju odbijenih zahtjeva za ispravak ili dopunu informacije,
+11) broju odbačenih zahtjeva za ispravak ili dopunu informacije,
+12) broju zahtjeva riješenih u roku,
+13) broju zahtjeva riješenih izvan roka,
+14) broju neriješenih zahtjeva,
+15) broju obustavljenih postupaka,
+16) broju izjavljenih žalbi,
+17) broju usvojenih žalbi,
+18) broju odbijenih žalbi,
+19) broju odbačenih žalbi,
+20) broju podnesenih tužbi,
+21) broju ugovora o isključivim pravima na ponovnu uporabu informacija,
+22) visini ostvarene naknade iz članka 19. ovog Zakona,
+23) informacijama koje su objavljene sukladno obvezama utvrđenim člankom 10. ovog Zakona.
+(4) Tijela javne vlasti dužna su uz dostavu podataka iz stavka 3. ovog članka Zakona dati obrazloženje i ocjenu postojećeg stanja na osnovi iskazanih podataka.
+(5) Povjerenik podnosi Hrvatskom saboru izvješće o provedbi ovog Zakona najkasnije do 31. ožujka tekuće godine za prethodnu godinu.
+(6) Povjerenik će izraditi obrazac izvješća iz stavka 2. ovog članka i odrediti način dostave podataka.
+
+X. PREKRŠAJNE ODREDBE
+Članak 61.
+(1) Novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna kaznit će se za prekršaj tijelo javne vlasti koje suprotno odredbama ovog Zakona onemogući ili ograniči ostvarivanje prava na pristup informacijama i ponovnu uporabu informacija.
+(2) Za prekršaj iz stavka 1. ovog članka kaznit će se i odgovorna osoba u tijelu javne vlasti novčanom kaznom od 5.000,00 do 20.000,00 kuna.
+(3) Novčanom kaznom od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja ošteti, uništi, sakrije ili na drugi način učini nedostupnim dokument koji sadrži informaciju u namjeri da onemogući ostvarivanje prava na pristup informacijama.
+(4) Za prekršaj iz stavka 3. ovog članka kaznit će se tijelo javne vlasti i odgovorna osoba u tijelu javne vlasti novčanom kaznom od 20.000,00 do 50.000,00 kuna.
+(5) Novčanom kaznom u iznosu od 1.000,00 do 50.000,00 kuna kaznit će se fizička osoba, odnosno novčanom kaznom od 2.000,00 do 100.000,00 kuna pravna osoba koja upotrijebi informacije protivno objavljenim uvjetima za ponovnu uporabu informacija iz članka 32. ovog Zakona.
+Članak 62.
+(1) Novčanom kaznom u iznosu od 2.000,00 do 4.000,00 kuna kaznit će se za prekršaj tijelo javne vlasti ako:
+1) ne objavljuje informacije sukladno članku 10. stavku 1. i članku 11. ovog Zakona;
+2) ne imenuje službenika za informiranje;
+3) ne dostavi godišnje izvješće o provedbi Zakona.
+(2) Za prekršaj iz stavka 1. ovog članka Zakona kaznit će se i odgovorna osoba u tijelu javne vlasti novčanom kaznom od 1.000,00 do 2.000,00 kuna.
+(3) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj tijelo javne vlasti ako:
+1) ne postupi po rješenju Povjerenika,
+2) ne omogući Povjereniku uvid u informacije koje su predmet postupka, ne dostavi tražene podatke ili dostavi nepotpune odnosno netočne podatke,
+3) onemogući inspektoru nesmetano obavljanje nadzora,
+4) u zapisnikom određenom roku ne otkloni nezakonitosti, nepravilnosti i nedostatke utvrđene zapisnikom.
+(4) Za prekršaj iz stavka 3. ovog članka Zakona kaznit će se i odgovorna osoba u tijelu javne vlasti novčanom kaznom od 3.000,00 do 5.000,00 kuna.
+Potpuno ispunjenje obveze
+Članak 63.
+Tijelo javne vlasti obvezno je korisniku omogućiti ostvarivanje prava na pristup informaciji i pored izricanja prekršajnih sankcija, u slučaju utvrđene odgovornosti na temelju neopravdane uskrate ili ograničenja ostvarivanja prava na pristup informaciji.
+
+XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 64.
+(1) Pravilnike iz članka 10. stavka 3., članka 14. i članka 34. stavka 3. ovog Zakona ministar nadležan za poslove opće uprave donijet će najkasnije u roku od 90 dana od dana stupanja na snagu ovog Zakona.
+(2) Povjerenik će utvrditi kriterije za određivanje visine naknade iz članka 19. stavka 3. ovog Zakona u roku od 90 dana od dana izbora Povjerenika.
+Članak 65.
+Tijela javne vlasti osigurat će organizacijske, materijalne, tehničke i druge uvjete za provođenje odredbi ovog Zakona u roku od 90 dana od dana stupanja na snagu ovog Zakona.
+Članak 66.
+(1) Agencija za zaštitu osobnih podataka obavljat će poslove neovisnog državnog tijela za zaštitu prava na pristup informacijama do izbora Povjerenika za informiranje.
+(2) Danom izbora Povjerenika, Ured povjerenika preuzet će poslove i zaposlenike Odjela za pravo na pristup informacijama Agencije za zaštitu osobnih podataka, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze, razmjerno preuzetim poslovima.
+(3) Administrativno-tehničke poslove za potrebe Ureda povjerenika obavljat će Agencija za zaštitu osobnih podataka, što se uređuje Sporazumom sklopljenim između Povjerenika i Agencije za zaštitu osobnih podataka.
+Izbor Povjerenika
+Članak 67.
+U roku od osam dana od stupanja na snagu ovog Zakona Odbor za Ustav, Poslovnik i politički sustav pokrenut će postupak izbora Povjerenika.
+Članak 68.
+(1) Povjerenik će najkasnije u roku od 60 dana od dana izbora podnijeti na potvrdu Hrvatskome saboru Poslovnik izrađen na temelju odredaba ovoga Zakona i posebnog zakona kojima se uređuju pitanja iz nadležnosti Povjerenika.
+(2) Povjerenik će donijeti Pravilnik o unutarnjem redu najkasnije u roku od 30 dana od stupanja na snagu Poslovnika iz stavka 1. ovoga članka.
+Članak 69.
+(1) Postupci započeti do stupanja na snagu ovog Zakona nastavit će se i dovršiti prema odredbama Zakona o pravu na pristup informacijama (»Narodne novine«, br. 172/03., 144/10., 37/11. i 77/11.).
+(2) Pravilnik o ustroju, sadržaju i načinu vođenja službenog upisnika o ostvarivanju prava na pristup informacijama (»Narodne novine«, br. 137/04.) ostaje na snazi do stupanja na snagu pravilnika iz članka 14. stavka 2. ovog Zakona.
+(3) Kriteriji za određivanje visine naknade iz članka 19. stavka 2. Zakona o pravu na pristup informacijama (»Narodne novine«, br. 172/03., 144/10., 37/11. i 77/11.) ostaju na snazi do stupanja na snagu kriterija za određivanje visine naknade i načina naplate naknade iz članka 19. stavka 3. ovog Zakona.
+Članak 70.
+Danom izbora Povjerenika zaposlenici Odjela za pravo na pristup informacijama Agencije za zaštitu osobnih podataka preuzimaju se u Ured povjerenika i nastavljaju obavljati poslove na kojima su zatečeni na dan stupanja na snagu ovog Zakona, zadržavaju pravo na plaću te druga prava iz radnog odnosa do donošenja rješenja o rasporedu na radna mjesta, sukladno stručnoj spremi, stručnom znanju, vještinama, sposobnostima, dotadašnjem radnom iskustvu i rezultatima u radu na temelju Pravilnika o unutarnjem redu Povjerenika.
+Članak 71.
+Stupanjem na snagu ovog Zakona prestaje važiti Zakon o pravu na pristup informacijama (»Narodne novine«, br. 172/03., 144/10., 37/11. i 77/11.).
+Članak 72.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 008-02/12-01/03
+Zagreb, 15. veljače 2013.
+
+ PAGE 16
+Zakon o pravu na pristup informacijama
+NN 25/13 - na snazi od 08.03.2013. do …
+

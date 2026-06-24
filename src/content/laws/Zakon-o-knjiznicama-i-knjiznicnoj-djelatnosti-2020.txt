@@ -1,0 +1,355 @@
+
+ZAKON O KNJIŽNICAMA I KNJIŽNIČNOJ DJELATNOSTI
+
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim Zakonom uređuje se knjižnična djelatnost, osnivanje i prestanak rada knjižnica, ustrojstvo i upravljanje knjižnicama, vrste knjižnica, rad Nacionalne i sveučilišne knjižnice u Zagrebu i knjižnični sustav Republike Hrvatske te druga pitanja važna za obavljanje knjižnične djelatnosti.
+(2) Knjižnična građa i knjižnična djelatnost od interesa su za Republiku Hrvatsku i uživaju njezinu osobitu zaštitu.
+Članak 2.
+Ovim se Zakonom:
+– osigurava obavljanje knjižnične djelatnosti javnih i privatnih knjižnica kao javne službe
+– potiče razvoj knjižnične djelatnosti radi promicanja i razvoja pismenosti, kulture, odgoja, obrazovanja, znanosti i izvrsnosti te očuvanja nacionalnog književnog, umjetničkog i znanstvenog stvaralaštva
+– osigurava dostupnost knjižnične građe i informacija radi jačanja kompetencija za razvoj demokracije, gospodarstva, znanosti i sudjelovanja u informacijskom društvu
+– osigurava zaštita i očuvanje knjižnične građe koja ima svojstvo kulturnog dobra
+– utvrđuju načini financiranja knjižnične djelatnosti.
+Članak 3.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+1. knjižnična djelatnost obuhvaća organiziranje i pružanje javnosti kulturnih, informacijskih, obrazovnih i znanstvenih usluga, zasnivajući ih na sustavnom odabiru, prikupljanju, stručnoj obradi, pohranjivanju, zaštiti, posudbi i davanju na korištenje knjižnične građe te slobodnom pristupu izvorima informacija
+2. knjižnica je pravna osoba koja obavlja knjižničnu djelatnost sukladno odredbama ovoga Zakona
+3. knjižnica u sastavu je ustrojstvena jedinica ustanove ili druge pravne osobe koja obavlja knjižničnu djelatnost sukladno odredbama ovoga Zakona
+4. javna knjižnica je neprofitna pravna osoba koja obavlja knjižničnu djelatnost sukladno ovom Zakonu, a kojoj je osnivač Republika Hrvatska, jedinice lokalne i područne (regionalne) samouprave, pravna osoba u pretežitom vlasništvu Republike Hrvatske ili jedinice lokalne i područne (regionalne) samouprave odnosno zajedno s njima druga pravna i fizička osoba
+5. javna knjižnica u sastavu je knjižnica u sastavu neprofitne pravne osobe koja obavlja knjižničnu djelatnost sukladno ovom Zakonu, a kojoj je osnivač Republika Hrvatska, jedinice lokalne i područne (regionalne) samouprave, pravna osoba u pretežitom vlasništvu Republike Hrvatske ili jedinice lokalne i područne (regionalne) samouprave odnosno zajedno s njima druga pravna i fizička osoba
+6. privatna knjižnica je knjižnica kojoj je osnivač druga pravna ili fizička osoba
+7. knjižnična građa je svaki jezični, slikovni i zvučni dokument u analognom ili digitalnom obliku informacijskog, umjetničkog, obrazovnog, znanstvenog ili stručnog sadržaja, proizveden u više primjeraka i namijenjen javnosti, kao i rukopisi odnosno sva druga građa koju knjižnica posjeduje u svojem fondu i stavlja na raspolaganje korisnicima
+8. knjižnični fond je skup knjižnične građe koju određena vrsta knjižnice posjeduje
+9. knjižnična zbirka je dio knjižničnog fonda sastavljen prema općeprihvaćenim stručnim načelima i kriterijima
+10. nakladnik je fizička ili pravna osoba koja je publikaciju objavila sukladno posebnom propisu
+11. publikacija je svaki zapis informacije na bilo kojem nositelju koji je objavljen, izrađen, prerađen u analognom ili digitalnom obliku i stavljen na raspolaganje javnosti
+12. obvezni primjerak obuhvaća publikacije koje nakladnici u Republici Hrvatskoj sukladno ovom Zakonu dostavljaju besplatno i o svom trošku Nacionalnoj i sveučilišnoj knjižnici u Zagrebu i drugim depozitnim knjižnicama radi pohrane i zaštite te stvaranja nacionalne zbirke knjižnične građe
+13. digitalna knjižnica je knjižnica koja pruža usluge korisnicima na temelju sustavnog upravljanja digitalnim sadržajem uz posebne funkcionalnosti vezane uz taj sadržaj, u skladu s utvrđenim pravilima.
+Članak 4.
+Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski spol.
+Članak 5.
+(1) Na zaštitu i očuvanje knjižnične građe koja je kulturno dobro Republike Hrvatske u pitanjima koja nisu uređena ovim Zakonom primjenjuje se zakon i drugi propisi kojima se uređuje zaštita i očuvanje kulturnih dobara.
+(2) Na korištenje knjižnične građe kojoj nije istekao rok autorskopravne zaštite primjenjuju se propisi iz područja autorskog prava.
+
+II. KNJIŽNIČNA DJELATNOST
+Članak 6.
+(1) Knjižnična djelatnost obuhvaća:
+– nabavu knjižnične građe i izgradnju knjižničnih zbirki
+– stručnu obradu knjižnične građe prema stručnim standardima, što uključuje izradu informacijskih pomagala u tiskanom i/ili elektroničkom obliku
+– pohranu, čuvanje i zaštitu knjižnične građe te provođenje mjera zaštite knjižnične građe koja je kulturno dobro
+– pružanje informacijskih usluga, posudbu i davanje na korištenje knjižnične građe, uključujući međuknjižničnu posudbu
+– digitalizaciju knjižnične građe
+– usmjeravanje i podučavanje korisnika pri izboru i korištenju knjižnične građe, informacijskih pomagala i drugih izvora
+– vođenje dokumentacije i prikupljanje statističkih podataka o poslovanju, knjižničnoj građi, korisnicima i o korištenju usluga knjižnice
+– prikupljanje statističkih podataka vezanih uz provedbu propisa kojima se uređuju autorska i srodna prava
+– pripremanje kulturnih, informacijskih, obrazovnih i znanstvenih sadržaja i programa te
+– obavljanje i drugih poslova sukladno ovom Zakonu i drugim propisima.
+(2) Prilikom obavljanja digitalizacije knjižnične građe iz svojih zbirki knjižnice su dužne poštovati norme za digitalizaciju građe, izradu arhivskih i korisničkih primjeraka te metapodataka sukladno standardima iz članka 12. stavka 2. ovoga Zakona.
+(3) Knjižnice su obvezne prikupljati statističke podatke o svome poslovanju i unositi ih u sustav jedinstvenog elektroničkog prikupljanja statističkih podataka o poslovanju knjižnica pri Nacionalnoj i sveučilišnoj knjižnici u Zagrebu sukladno standardima iz članka 12. stavka 2. ovoga Zakona.
+Članak 7.
+Knjižnice su dužne poduzimati mjere za zaštitu knjižnične građe te redovito provoditi postupak revizije i otpisa građe sukladno pravilniku kojim se uređuje zaštita, revizija i otpis knjižnične građe, a koji donosi ministar nadležan za kulturu, uz prethodno mišljenje Hrvatskoga knjižničnog vijeća.
+
+III. ORGANIZACIJA KNJIŽNICA
+Članak 8.
+(1) Prema namjeni i sadržaju knjižničnog fonda vrste knjižnica su: nacionalna, narodna, školska, sveučilišna, visokoškolska, znanstvena i specijalna knjižnica.
+(2) Pojedine knjižnice mogu prema potrebi obavljati poslove i zadaće više vrsta knjižnica.
+Članak 9.
+(1) Javnu knjižnicu kao ustanovu može osnovati Republika Hrvatska, jedinice lokalne i područne (regionalne) samouprave te pravna osoba u pretežitom vlasništvu Republike Hrvatske ili jedinice lokalne i područne (regionalne) samouprave.
+(2) Privatnu knjižnicu može osnovati druga pravna i fizička osoba.
+(3) Više osnivača iz stavka 1. ovoga članka može zajednički osnovati javnu knjižnicu odnosno više osnivača iz stavka 2. ovoga članka može osnovati privatnu knjižnicu, a međusobna prava i obveze osnivača uređuju se ugovorom.
+(4) Javnu knjižnicu mogu zajednički osnovati Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave i fizička i pravna osoba, a međusobna prava i obveze osnivača uređuju se ugovorom.
+(5) Knjižnicu u sastavu osniva pravna osoba kao svoju podružnicu odnosno kao svoju samostalnu ustrojstvenu jedinicu.
+Članak 10.
+(1) Školske ustanove, visoka učilišta i javni znanstveni instituti dužni su osnovati knjižnicu u sastavu tih ustanova, odnosno posebnim ugovorom s kojom drugom javnom knjižnicom visoka učilišta i javni znanstveni instituti mogu osigurati knjižnične usluge nužne za obavljanje nastavne i znanstvene djelatnosti, sukladno standardima iz članka 12. stavka 2. ovoga Zakona.
+(2) Općine i gradovi s više od 3000 stanovnika dužni su samostalno ili zajedno osnovati narodnu knjižnicu kao ustanovu te njezine podružnice na svojem području, osim kada djelatnost narodne knjižnice već obavlja koja druga knjižnica na njihovu području za rad koje su osigurali sredstva.
+(3) Općine i gradovi s manje od 3000 stanovnika, a koji nemaju narodnu knjižnicu dužni su posebnim ugovorom obavljanje djelatnosti narodne knjižnice povjeriti narodnoj knjižnici u drugoj općini i gradu ili osigurati osnivanje podružnice te narodne knjižnice na svojem području.
+(4) U svrhu osiguranja knjižnične usluge za svako naselje, općine i gradovi dužni su, zajedno sa županijom na čijem su području, osigurati uslugu pokretne knjižnice koja se pruža svim korisnicima koji žive na udaljenim područjima tih općina, gradova i županije, sukladno ovom Zakonu i propisanim standardima iz članka 12. stavka 2. ovoga Zakona.
+Članak 11.
+(1) Knjižnica se može osnovati ako su, sukladno odredbama standarda za pojedinu vrstu knjižnica, osigurani:
+– knjižnična građa
+– prostor, oprema i pristup informacijsko-komunikacijskoj tehnologiji
+– sredstva za rad
+– rad stručnih knjižničarskih djelatnika
+– program rada i razvitka.
+(2) Postojanje uvjeta iz stavka 1. ovoga članka utvrđuje rješenjem ministarstvo nadležno za poslove kulture za narodne i specijalne knjižnice, a ministarstvo nadležno za poslove znanosti i obrazovanja za školske, visokoškolske, znanstvene i sveučilišne knjižnice na temelju izvješća knjižnice koja obavlja matičnu djelatnost, najkasnije u roku od 30 dana od podnošenja zahtjeva.
+(3) Osnivač knjižice dužan je pribaviti rješenje iz stavka 2. ovoga članka prije traženja upisa u sudski ili drugi registar.
+(4) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+Članak 12.
+(1) Knjižnice svoju djelatnost obavljaju sukladno ovom Zakonu i standardima propisanim za pojedine vrste knjižnica, kojima se uređuju poslovi i usluge, kadrovski i tehnički uvjeti svojstveni pojedinim vrstama knjižnica, standardi za digitalnu knjižnicu, kao i prava i dužnosti korisnika knjižničnih usluga.
+(2) Standarde iz stavka 1. ovoga članka donosi:
+– za narodne, specijalne knjižnice i digitalne knjižnice ministar nadležan za kulturu, uz prethodno mišljenje Hrvatskoga knjižničnog vijeća
+– za školske, visokoškolske, znanstvene i sveučilišne knjižnice ministar nadležan za znanost i obrazovanje, uz prethodno mišljenje Hrvatskoga knjižničnog vijeća.
+(3) Rad i razvoj knjižnica u Republici Hrvatskoj osigurava se na temelju nacionalnog plana razvitka knjižnica i knjižnične djelatnosti koji donosi Vlada Republike Hrvatske, na prijedlog ministra nadležnog za kulturu i uz prethodnu suglasnost ministra nadležnog za znanost i obrazovanje i prethodno mišljenje Hrvatskoga knjižničnog vijeća.
+
+Članak 13.
+(1) Nacionalna i sveučilišna knjižnica u Zagrebu vodi Upisnik knjižnica u Republici Hrvatskoj u svrhu praćenja stanja u knjižničnoj djelatnosti.
+(2) Sadržaj Upisnika iz stavka 1. ovoga članka uređuje se pravilnikom koji donosi ministar nadležan za kulturu.
+Članak 14.
+(1) Knjižnica prestaje s radom sukladno odredbama ovoga Zakona i zakona na temelju kojega je osnovana.
+(2) Odluku o prestanku i statusnim promjenama javnih knjižnica i javnih knjižnica u sastavu pravnih osoba u pretežitom vlasništvu Republike Hrvatske ili jedinica lokalne i područne (regionalne) samouprave osnivači mogu donijeti samo uz prethodnu suglasnost ministra nadležnog za kulturu za narodne i specijalne knjižnice odnosno ministra nadležnog za znanost i obrazovanje za školske, visokoškolske, znanstvene i sveučilišne knjižnice, ako posebnim zakonom nije drukčije određeno.
+(3) Odluka o prestanku i statusnim promjenama knjižnice iz stavka 2. ovoga članka te privatnih knjižnica mora sadržavati odredbe o zaštiti i smještaju knjižnične građe i knjižnične dokumentacije odnosno o pohrani digitalne knjižnične građe i digitalne knjižnične dokumentacije na temelju prethodnog mišljenja Hrvatskoga knjižničnog vijeća.
+Članak 15.
+Ustrojstvo i upravljanje knjižnicom uređuje se statutom ili drugim općim aktom knjižnice odnosno općim aktom pravne osobe u čijem je sastavu, a u skladu sa zakonom i aktom o osnivanju.
+Članak 16.
+(1) Tijela javne knjižnice su: ravnatelj, upravno vijeće i stručno vijeće, osim ako ovim Zakonom nije drukčije određeno.
+(2) Privatna knjižnica ima tijela propisana zakonom na temelju kojega je osnovana te stručno vijeće sukladno odredbama ovoga Zakona.
+Članak 17.
+(1) Javna knjižnica s više od deset zaposlenih ima upravno vijeće.
+(2) Upravno vijeće ima pet ili sedam članova, od kojih većinu imenuje osnivač iz redova istaknutih kulturnih, javnih, znanstvenih djelatnika, pravnih, ekonomskih i financijskih stručnjaka, jednoga bira stručno vijeće, a ako ono nije osnovano, stručno knjižničarsko osoblje iz svojih redova, te jednoga člana biraju svi radnici sukladno zakonu kojim se uređuju radni odnosi.
+(3) Za člana upravnog vijeća iz stavka 2. ovoga članka osnivač može imenovati osobu koja ima završen diplomski sveučilišni ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili s njim izjednačen studij, osim ako posebnim zakonom nije drukčije određeno.
+(4) Kada je osnivač ili suosnivač javne knjižnice Republika Hrvatska, članove upravnog vijeća iz stavka 2. ovoga članka u ime osnivača imenuje i razrješuje nadležno ministarstvo u čijem je djelokrugu rad knjižnice, sukladno aktu o osnivanju, a kada je osnivač ili suosnivač javne knjižnice jedinica lokalne i područne (regionalne) samouprave, članove upravnog vijeća iz stavka 2. ovoga članka u ime osnivača imenuje i razrješuje predstavničko tijelo.
+(5) Način izbora članova upravnog vijeća, trajanje mandata, donošenje odluka i druga pitanja u vezi s radom upravnog vijeća uređuju se statutom javne knjižnice.
+Članak 18.
+(1) Upravno vijeće:
+– donosi plan rada i razvitka knjižnice
+– razmatra izvršavanje plana rada i razvitka knjižnice
+– odlučuje o financijskom planu i godišnjem financijskom izvještaju
+– donosi statut i druge opće akte
+– utvrđuje način i uvjete korištenja knjižnične građe
+– odlučuje o promjenama u organiziranju rada knjižnice te
+– obavlja druge poslove određene ovim Zakonom, drugim propisom, aktom o osnivanju i statutom knjižnice.
+(2) Prijedlog akata iz stavka 1. ovoga članka priprema i upravnom vijeću predlaže ravnatelj.
+Članak 19.
+(1) Javnom knjižnicom upravlja ravnatelj.
+(2) Ravnatelj predstavlja i zastupa javnu knjižnicu u pravnom prometu i pred tijelima državne vlasti te obavlja druge poslove predviđene zakonom, aktom o osnivanju i statutom.
+(3) Ako javna knjižnica nema upravno vijeće, ravnatelj obavlja i poslove iz članka 18. ovoga Zakona.
+Članak 20.
+(1) Ravnatelja javne knjižnice kojoj je osnivač Republika Hrvatska imenuje i razrješuje ministar u čijem je djelokrugu rad knjižnice, a sukladno aktu o osnivanju.
+(2) Ako je Republika Hrvatska suosnivač javne knjižnice, ravnatelja imenuje i razrješuje ministar u čijem je djelokrugu rad knjižnice, uz prethodno pribavljeno mišljenje suosnivača, a sukladno aktu o osnivanju.
+(3) Ravnatelja javne knjižnice kojoj je osnivač ili suosnivač jedinica lokalne i područne (regionalne) samouprave imenuje i razrješuje predstavničko tijelo odnosno predstavnička tijela više osnivača sporazumno.
+(4) Ravnatelja javne knjižnice kojoj je osnivač pravna osoba u pretežitom vlasništvu Republike Hrvatske ili jedinice lokalne i područne (regionalne) samouprave odnosno zajedno s njima druga pravna i fizička osoba imenuje i razrješuje tijelo upravljanja te pravne osobe propisano posebnim zakonom i statutom.
+(5) Način imenovanja i razrješenja ravnatelja iz stavka 3. ovoga članka pobliže se uređuje statutom i ugovorom osnivača.
+(6) Javni natječaj za imenovanje ravnatelja iz stavaka 1., 2. i 3. ovoga članka raspisuje i provodi upravno vijeće javne knjižnice odnosno osnivač ako javna knjižnica nema upravno vijeće.
+(7) Ne raspiše li upravno vijeće javne knjižnice iz stavka 6. ovoga članka natječaj za imenovanje ravnatelja u propisanom roku, natječaj će raspisati osnivač.
+(8) Ravnatelja javne knjižnice imenuje se na mandat od četiri godine i može biti ponovno imenovan.
+(9) Ravnateljem javne knjižnice može se, na temelju predloženog četverogodišnjeg plana rada, imenovati osoba koja ima završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili s njim izjednačen studij, položen stručni knjižničarski ispit, najmanje pet godina rada u knjižnici, odlikuje se stručnim, radnim i organizacijskim sposobnostima te ispunjava druge uvjete propisane statutom.
+(10) Iznimno od stavka 9. ovoga članka, ako se na ponovljeni natječaj ne javi osoba koja ima propisane uvjete za ravnatelja javne knjižnice, može se na temelju predloženog četverogodišnjeg plana rada imenovati osoba koja ima završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili s njim izjednačen studij, uz uvjet polaganja stručnog knjižničarskog ispita u roku od tri godine od dana imenovanja, te ispunjava druge uvjete propisane statutom.
+(11) Položen stručni knjižničarski ispit u smislu stavka 9. ovoga članka ima i osoba koja je oslobođena polaganja stručnog knjižničarskog ispita na temelju zakona kojima je uređivana knjižnična djelatnost.
+(12) Za vršitelja dužnosti ravnatelja javne knjižnice može se, bez provođenja javnog natječaja, imenovati osoba koja ima obrazovanje propisano stavkom 10. ovoga članka, a na ovu dužnost može se imenovati i osoba koja nije djelatnik javne knjižnice, a najdulje do godinu dana.
+(13) Statutom javne knjižnice mogu se propisati i drugi uvjeti za imenovanje ravnatelja javne knjižnice.
+Članak 21.
+(1) Knjižnica i knjižnica u sastavu s više od pet zaposlenih ima stručno vijeće.
+(2) Stručno vijeće knjižnice čine u pravilu svi stručni knjižničarski djelatnici knjižnice, osim ako statutom knjižnice odnosno pravne osobe u čijem je sastavu knjižnica nije određen drukčiji sastav stručnog vijeća.
+(3) Stručno vijeće razmatra i daje mišljenja o stručnim i drugim pitanjima rada i razvitka knjižnice, predlaže način organiziranja i vođenja stručnog rada te obavlja i druge poslove određene statutom knjižnice.
+Članak 22.
+(1) Voditelj javne knjižnice u sastavu pravne osobe kojoj je osnivač ili suosnivač Republika Hrvatska ili pravna osoba u njezinu pretežitom vlasništvu mora ispunjavati iste uvjete kao ravnatelj javne knjižnice, a voditelj javne knjižnice u sastavu pravne osobe kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave ili pravna osoba u njezinu pretežitom vlasništvu može biti osoba koja ima obrazovanje propisano člankom 20. stavkom 10. ovoga Zakona te ispunjava druge uvjete propisane statutom, osim ako drugim zakonom nije drukčije određeno.
+(2) Odluku o izboru i razrješenju voditelja javne knjižnice u sastavu iz stavka 1. ovoga članka donosi tijelo upravljanja pravne osobe u sastavu koje je knjižnica.
+
+IV. NACIONALNA I SVEUČILIŠNA KNJIŽNICA U ZAGREBU
+Članak 23.
+(1) Nacionalna i sveučilišna knjižnica u Zagrebu javna je ustanova od nacionalnog značenja koja obavlja knjižničnu i informacijsku djelatnost nacionalne knjižnice Republike Hrvatske i središnje knjižnice Sveučilišta u Zagrebu, kao i znanstvenoistraživačku i razvojnu djelatnost radi unaprjeđivanja hrvatskog knjižničarstva te izgradnje i razvoja knjižničnog sustava Republike Hrvatske.
+(2) Nacionalna i sveučilišna knjižnica u Zagrebu središnja je ustanova knjižničnog sustava Republike Hrvatske.
+(3) Osnivač Nacionalne i sveučilišne knjižnice u Zagrebu je Republika Hrvatska, a prava i dužnosti osnivača obavlja Vlada Republike Hrvatske.
+(4) Sredstva za rad Nacionalne i sveučilišne knjižnice u Zagrebu osiguravaju se iz državnog proračuna, iz vlastitih prihoda, od zaklada, od sponzora, darovima i na drugi način, u skladu sa zakonom.
+Članak 24.
+Nacionalna i sveučilišna knjižnica u Zagrebu, uz opće zadaće propisane člankom 6. ovoga Zakona, ima i posebne zadaće:
+– izgrađuje, organizira, čuva, trajno zaštićuje i čini dostupnom Croaticu, nacionalnu zbirku knjižnične građe
+– obavlja djelatnost nacionalnog informacijskog i bibliografskog središta
+– obavlja djelatnost središnjeg knjižnično-informacijskog sustava: izgrađuje nacionalni knjižnični katalog, objavljuje tekuće i retrospektivne nacionalne bibliografije, skrbi za izgradnju skupnih kataloga, izgrađuje nacionalnu bibliografsku i normativnu bazu podataka, koordinira nadzor nad primjenom standarda i pravilnika za izradu i razmjenu te uporabu knjižničnih podataka te potiče razvoj knjižničnog poslovanja
+– u skladu s odredbama ovoga Zakona, organizira postupanje s obveznim primjerkom
+– osigurava dostupnost i korištenje elektroničkih izvora znanstvenih i stručnih informacija za akademsku i znanstvenu zajednicu u Republici Hrvatskoj
+– izgrađuje, organizira, čuva i čini dostupnim reprezentativne zbirke inozemnih znanstvenih i stručnih knjiga, serijskih publikacija i ostalih informacijskih izvora
+– koordinira izgradnju nacionalnog sustava zaštite, pohrane i trajnog očuvanja knjižnične kulturne i znanstvene baštine u svim pojavnim oblicima
+– izgrađuje i organizira Hrvatsku digitalnu knjižnicu
+– organizira i vodi stručno usavršavanje knjižničara
+– obavlja zadaće središnje matične knjižnice u Republici Hrvatskoj
+– promiče hrvatske tiskane i elektroničke publikacije te knjižnične proizvode i usluge
+– provodi i potiče znanstveno-razvojna i stručna istraživanja u knjižničarstvu
+– utvrđuje svojstvo kulturnog dobra za knjižničnu građu sukladno zakonu kojim se uređuje zaštita i očuvanje kulturnih dobara
+– izrađuje nacrte prijedloga standarda za sve vrste knjižnica
+– obavlja i druge zadaće sveučilišne knjižnice Sveučilišta u Zagrebu
+– obavlja i druge zadaće predviđene ovim Zakonom, drugim propisom i Statutom Nacionalne i sveučilišne knjižnice u Zagrebu.
+Članak 25.
+(1) Nacionalnom i sveučilišnom knjižnicom u Zagrebu upravlja glavni ravnatelj.
+(2) Glavnog ravnatelja, na temelju javnog natječaja koji provodi Upravno vijeće Nacionalne i sveučilišne knjižnice u Zagrebu, imenuje i razrješuje Vlada Republike Hrvatske, na zajednički prijedlog ministra nadležnog za kulturu i ministra nadležnog za znanost i obrazovanje.
+(3) Glavni ravnatelj imenuje se na vrijeme od četiri godine.
+(4) Za glavnog ravnatelja može se, na temelju predloženog četverogodišnjeg plana rada, imenovati osoba koja ima doktorat znanosti ili zvanje knjižničarskog savjetnika te najmanje pet godina iskustva u upravljanju u kulturi, obrazovanju ili znanosti, kao i druge uvjete propisane Statutom.
+(5) Statutom Nacionalne i sveučilišne knjižnice u Zagrebu propisuje se postupak, a mogu se propisati i posebni uvjeti za imenovanje glavnog ravnatelja.
+(6) Nacionalna i sveučilišna knjižnica u Zagrebu ima pomoćnike glavnog ravnatelja, a uvjeti i postupak za njihovo imenovanje uređuju se Statutom.
+Članak 26.
+(1) Nacionalna i sveučilišna knjižnica u Zagrebu ima upravno vijeće koje čini devet članova, od kojih po tri imenuju ministar nadležan za kulturu i ministar nadležan za znanost i obrazovanje, dva bira stručno vijeće knjižnice i jedan se bira iz reda svih zaposlenika.
+(2) Upravno vijeće iz stavka 1. ovoga članka obavlja poslove propisane člankom 18. stavkom 1. ovoga Zakona.
+Članak 27.
+Ustroj i upravljanje Nacionalnom i sveučilišnom knjižnicom u Zagrebu pobliže se uređuju njezinim Statutom, pravilnikom kojim se uređuje unutarnji ustroj i način rada te drugim općim aktima Nacionalne i sveučilišne knjižnice u Zagrebu, a u skladu s ovim Zakonom i drugim propisima.
+
+V. HRVATSKA KNJIŽNICA ZA SLIJEPE
+Članak 28.
+(1) Hrvatska knjižnica za slijepe središnja je javna ustanova od interesa za Republiku Hrvatsku koja obavlja djelatnost proizvodnje i nabave knjižnične građe u pristupačnim formatima u svrhu pružanja knjižnične usluge osobama koje ne mogu čitati standardni tisak te obavlja i druge zadaće predviđene ovim Zakonom, drugim propisom i Statutom Knjižnice.
+(2) Knjižnica iz stavka 1. ovoga članka obavlja matičnu djelatnost za sve knjižnice u Republici Hrvatskoj koje obavljaju djelatnost proizvodnje i nabave knjižnične građe u pristupačnim formatima u svrhu pružanja knjižnične usluge osobama koje ne mogu čitati standardni tisak.
+(3) Knjižnica je u obavljanju svoje djelatnosti ovlaštena koristiti knjižničnu građu kojoj nije istekao rok autorskopravne zaštite u skladu s propisima iz područja autorskog prava.
+
+VI. SREDSTVA ZA RAD KNJIŽNICA
+Članak 29.
+(1) Sredstva za rad knjižnica osigurava osnivač, a sredstva za rad knjižnica uključuju sredstva za plaće, sredstva za nabavu građe, sredstva za program, materijalne izdatke, stalno stručno usavršavanje knjižničarskih djelatnika i sredstva za zaštitu knjižnične građe, kao i sredstva za investicije i investicijsko održavanje, ako posebnim zakonom nije drukčije određeno.
+(2) Sredstva za posebne programe osigurava osnivač, a ovisno o svome interesu i tijela državne uprave u čijem je djelokrugu program koji se ostvaruje, kao i jedinice lokalne i područne (regionalne) samouprave na području kojih se program ostvaruje te druge pravne i fizičke osobe.
+(3) Sredstva za rad knjižnica osiguravaju se i iz vlastitih prihoda, sponzorstvima, darovanjima i na drugi način u skladu sa zakonom.
+(4) Sredstva za provedbu odredbi članka 10. stavaka 2., 3. i 4. ovoga Zakona dužni su osigurati općine i gradovi te županija na koju se ove odredbe odnose.
+Članak 30.
+(1) Knjižnica kojoj je osnivač Republika Hrvatska i/ili jedinica lokalne i područne (regionalne) samouprave vodi financijsko poslovanje i računovodstvo u skladu s propisima za proračunske korisnike.
+(2) Knjižnica koja je osnovana kao ustanova kojoj je osnivač druga pravna osoba vodi financijsko poslovanje i računovodstvo u skladu s propisima za poduzetnike ako je pravna osoba osnivač obveznik utvrđivanja i plaćanja poreza na dobit za svoju ukupnu djelatnost ili je temeljni cilj osnivanja i djelovanja knjižnice stjecanje dobiti.
+(3) Knjižnica osnovana kao trgovačko društvo bez obzira na osnivača vodi financijsko poslovanje i računovodstvo u skladu s propisima za poduzetnike.
+(4) Knjižnica osnovana kao zadruga vodi financijsko poslovanje i računovodstvo u skladu s posebnim propisima.
+
+VII. STRUČNI KNJIŽNIČARSKI DJELATNICI
+Članak 31.
+(1) Stručni knjižničarski djelatnici koji su stekli odgovarajuća stručna knjižničarska zvanja obavljaju stručne knjižničarske poslove.
+(2) Ministarstvo nadležno za poslove kulture donosi rješenje o stjecanju viših stručnih knjižničarskih zvanja u skladu s odredbama pravilnika iz stavka 4. ovoga članka, uz mišljenje Hrvatskoga knjižničnog vijeća.
+(3) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(4) Stručna knjižničarska zvanja te uvjete i način njihova stjecanja propisuje pravilnikom ministar nadležan za kulturu, uz prethodnu suglasnost ministra nadležnog za znanost i obrazovanje.
+Članak 32.
+Privatne knjižnice dužne su osigurati rad stručnih knjižničarskih djelatnika za obavljanje stručnih poslova u knjižnici sukladno standardima iz članka 12. stavka 2. i pravilniku iz članka 31. stavka 4. ovoga Zakona.
+
+VIII. KNJIŽNIČNI SUSTAV REPUBLIKE HRVATSKE
+Članak 33.
+(1) Knjižnični sustav Republike Hrvatske čine Nacionalna i sveučilišna knjižnica u Zagrebu te narodne, školske, sveučilišne, visokoškolske, znanstvene i specijalne knjižnice.
+(2) Knjižnice iz stavka 1. ovoga članka povezuju se u knjižnični sustav Republike Hrvatske sukladno potrebama određenog stručnog, znanstvenog, umjetničkog područja, potrebi za učinkovitijim poslovanjem u upravljanju digitalnom građom i potrebi za stalnim stručnim usavršavanjem, a na temelju:
+– usklađivanja planova rada i razvitka knjižnica koje se provodi kroz matičnu djelatnost
+– nacionalnog plana razvitka knjižnica i knjižnične djelatnosti
+– standardizacije i usklađivanja postupaka u nabavi i izgradnji knjižničnih zbirki, obradi i protoku građe i informacija
+– izgrađivanja skupnih kataloga, središnjih upisnika, baza podataka, repozitorija i Hrvatske digitalne knjižnice
+– razvitka mrežnih informacijskih usluga
+– usklađivanja, sudjelovanja u provedbi i vrednovanja programa edukacije
+– jedinstvenog sustava praćenja poslovanja i kvalitete
+– nacionalnog programa stalnog stručnog usavršavanja.
+(3) Sredstva za obavljanje posebnih zadaća knjižničnog sustava Republike Hrvatske osiguravaju se iz državnog proračuna putem ministarstva nadležnog za poslove kulture te ministarstva nadležnog za poslove znanosti i obrazovanja.
+Članak 34.
+(1) Radi trajnog i sustavno organiziranog rada na razvitku i unaprjeđivanju knjižničarstva, određene knjižnice, kao matične knjižnice, obavljaju i poslove matične djelatnosti za više knjižnica određenog teritorijalnog, znanstvenog ili umjetničkog područja ili za pojedinu vrstu knjižnica.
+(2) Matična djelatnost obuhvaća:
+– stručni nadzor nad radom knjižnica
+– pružanje stručne pomoći vezane uz osnivanje i prestanak rada knjižnica
+– planiranje i unaprjeđivanje djelatnosti knjižnica i njihova međusobnog povezivanja i uključivanja u jedinstven knjižnični sustav Republike Hrvatske.
+(3) Sredstva za obavljanje poslova matične djelatnosti osiguravaju se u državnom proračunu.
+(4) Matična djelatnost i sustav matičnih knjižnica utvrđuju se pravilnikom koji donosi ministar nadležan za kulturu, uz prethodnu suglasnost ministra nadležnog za znanost i obrazovanje i prethodno mišljenje Hrvatskoga knjižničnog vijeća.
+
+IX. HRVATSKO KNJIŽNIČNO VIJEĆE
+Članak 35.
+Hrvatsko knjižnično vijeće savjetodavno je tijelo pri ministarstvu nadležnom za poslove kulture koje obavlja stručne i druge poslove knjižnične djelatnosti u skladu s odredbama ovoga Zakona, a osobito:
+– razmatra stanje u knjižničnoj djelatnosti u Republici Hrvatskoj
+– predlaže opće i specifične mjere i programe poticanja razvitka i unaprjeđivanja knjižnične djelatnosti
+– potiče unaprjeđenje standarda i propisa važnih za knjižničnu djelatnost
+– daje preporuke i mišljenja o pojedinim pitanjima iz područja knjižnične djelatnosti
+– vrednuje i predlaže financiranje programskih aktivnosti iz područja knjižnične djelatnosti
+– daje mišljenje ministarstvu nadležnom za poslove kulture o stjecanju zvanja u knjižničarskoj struci
+– obavlja poslove predviđene ovim Zakonom i drugim propisima, kao i druge poslove koje mu povjeri ministarstvo nadležno za poslove kulture.
+Članak 36.
+(1) Hrvatsko knjižnično vijeće ima sedam članova, od kojih je jedan predsjednik, a imenuju se iz reda istaknutih stručnjaka iz područja knjižnične, znanstvene i obrazovne djelatnosti.
+(2) Predsjednika i dva člana Vijeća imenuje i razrješuje ministar nadležan za kulturu, a po jednog člana imenuje i razrješuje ministar nadležan za znanost i obrazovanje, Rektorski zbor visokih učilišta Republike Hrvatske i Nacionalna i sveučilišna knjižnica u Zagrebu te Hrvatsko knjižničarsko društvo.
+(3) Članovi Vijeća imenuju se na četiri godine, a u slučaju razrješenja člana Vijeća prije isteka mandata novi član imenovat će se za preostali dio mandata.
+(4) Sredstva za rad Hrvatskoga knjižničnog vijeća osiguravaju se u državnom proračunu.
+(5) Hrvatsko knjižnično vijeće donosi poslovnik o svojem radu u roku od 90 dana od imenovanja članova Vijeća.
+
+X. OBVEZNI PRIMJERAK
+Članak 37.
+Pod obveznim primjerkom, bez obzira na medij, podrazumijevaju se sljedeće vrste publikacija: knjige, serijske publikacije (novine, časopisi, zbornici radova, godišnjaci i slično), službene publikacije, glazbene zvučne snimke, neglazbene zvučne snimke, glazbene note, zemljopisne i druge karte, slikovna djela (reprodukcije slikovnih umjetničkih djela, plakati, razglednice i slično), multimedija, kompleti, mikrooblici, sitni tisak (brošure, letci, tiskanice, prospekti, katalozi, programi, kalendari i slično), online publikacije (e-knjige, e-serijske publikacije, mrežne stranice i dr.).
+Članak 38.
+Obvezni primjerak prikuplja se u svrhu:
+– stvaranja nacionalne zbirke knjižnične građe kao kulturnog dobra
+– izrade nacionalne bibliografije
+– vođenja statistike o nacionalnoj nakladničkoj produkciji
+– pohrane i zaštite građe u svrhu njezine trajne dostupnosti korisnicima
+– izgradnje zavičajnih/regionalnih zbirki te zbirki službenih publikacija
+– izgradnje Hrvatske digitalne knjižnice.
+Članak 39.
+(1) Nakladnik koji ima sjedište u Republici Hrvatskoj i objavljuje ili proizvodi tiskane publikacije, publikacije na elektroničkom prijenosnom mediju ili u drugim materijalnim oblicima iz članka 37. ovoga Zakona namijenjene javnosti dužan je od te građe besplatno i o svom trošku, a najkasnije u roku od 30 dana nakon završetka tiskanja, umnažanja ili proizvodnje, dostaviti Nacionalnoj i sveučilišnoj knjižnici u Zagrebu dva primjerka publikacija u obliku u kojem je objavljena ili proizvedena, jedan primjerak Sveučilišnoj knjižnici u Splitu te po jedan primjerak publikacija sveučilišnim knjižnicama u Osijeku, Puli i Rijeci, kao i u Mostaru te općeznanstvenim knjižnicama u Dubrovniku i Zadru.
+(2) Iznimno od stavka 1. ovoga članka, za sveučilišne knjižnice u Osijeku, Puli i Rijeci, kao i u Mostaru te općeznanstvene knjižnice u Dubrovniku i Zadru vrste publikacija iz članka 37. ovoga Zakona koje su im nakladnici dužni dostaviti kao obvezni primjerak mogu se pravilnikom iz stavka 7. ovoga članka utvrditi u suženom obujmu prema potrebama ovih knjižnica.
+(3) Nakladnik iznimno vrijednog i skupog izdanja (bibliografska izdanja, grafičke mape i slično) dužan je dostaviti po jedan primjerak tekstualnog dijela Nacionalnoj i sveučilišnoj knjižnici u Zagrebu.
+(4) Nakladnik je dužan digitalnu tiskarsku matricu kao posljednju digitalnu inačicu publikacije pripremljene za tisak trajno čuvati ili predati Nacionalnoj i sveučilišnoj knjižnici u Zagrebu na trajnu pohranu.
+(5) Svaki nakladnik dužan je u roku iz stavka 1. ovoga članka dostaviti još po jedan primjerak građe matičnoj knjižnici na području županije na kojoj je njegovo sjedište radi stvaranja zavičajne zbirke. Tiskar s područja jedne županije koji tiska za nakladnika iz druge županije dužan je u istom roku jedan primjerak dostaviti matičnoj knjižnici na području županije na kojoj je njegovo sjedište.
+(6) Obvezni primjerci moraju biti ispravni i potpuni, u obliku u kojem su namijenjeni prodaji i raspačavanju.
+(7) Obvezni primjerak uređuje se pravilnikom koji donosi ministar nadležan za kulturu, uz prethodno mišljenje Hrvatskoga knjižničnog vijeća.
+Članak 40.
+(1) Nakladnik koji ima sjedište u Republici Hrvatskoj i objavljuje online publikacije (e-knjige, e-serijske publikacije, mrežne stranice i dr.) dužan je obavijestiti Nacionalnu i sveučilišnu knjižnicu u Zagrebu o postojanju i objavljivanju publikacije i dostaviti metapodatke i građu u formatu propisanom pravilnikom iz članka 39. stavka 7. ovoga Zakona.
+(2) Obvezni primjerak iz stavka 1. ovoga članka pohranjuje se u sustavima Hrvatske digitalne knjižnice.
+Članak 41.
+(1) Nacionalna i sveučilišna knjižnica u Zagrebu osigurava zaštitu i trajnu dostupnost te korištenje građe dostavljene obveznim primjerkom.
+(2) Nakladnik digitalne građe ima pravo odrediti uvjete pristupa, ali je dužan dopustiti minimalnu razinu pristupa u prostoru Nacionalne i sveučilišne knjižnice u Zagrebu u kontroliranoj radnoj okolini.
+(3) Nacionalna i sveučilišna knjižnica u Zagrebu postupa s obveznim primjerkom sukladno pravilniku iz članka 39. stavka 7. ovoga Zakona kojim se uređuje postupanje s obveznim primjerkom.
+
+XI. ZAŠTITA KNJIŽNIČNE GRAĐE
+Članak 42.
+(1) Knjige i ostala tiskana građa (novine, časopisi, plakati i dr.) nastala do 1850. godine te sva rukopisna građa javnih knjižnica i knjižnica u sastavu pravnih osoba kojima su osnivači Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave te pravne osobe u njihovu pretežitom vlasništvu imaju status kulturnog dobra, a katalozi ove knjižnične građe navedenih knjižnica sastavni su dio Registra kulturnih dobara Republike Hrvatske koji se vodi u skladu sa zakonom kojim se uređuje zaštita i očuvanje kulturnih dobara.
+(2) Croatica, nacionalna zbirka knjižnične građe iz članka 24. ovoga Zakona također ima status kulturnog dobra, a njezin katalog sastavni je dio Registra kulturnih dobara Republike Hrvatske koji se vodi u skladu sa zakonom kojim se uređuje zaštita i očuvanje kulturnih dobara.
+(3) Za knjižničnu građu koja ima svojstva građe iz stavka 1. ovoga članka knjižnica vjerske zajednice može, radi osiguranja skrbi, sklopiti sporazum s Nacionalnom i sveučilišnom knjižnicom u Zagrebu ili drugom javnom ustanovom koja obavlja posao zaštite i očuvanja kulturnih dobara.
+(4) Pravne i fizičke osobe koje su vlasnici baštinskih knjižničnih zbirki i/ili pojedinačnih primjeraka vrijedne knjižnične građe mogu, radi osiguranja skrbi o navedenoj građi, sklopiti sporazum s Nacionalnom i sveučilišnom knjižnicom u Zagrebu ili drugom javnom ustanovom koja obavlja posao zaštite i očuvanja kulturnih dobara.
+(5) Zaštita i očuvanje građe iz stavaka 1. i 2. ovoga članka uredit će se pravilnikom iz članka 7. ovoga Zakona.
+
+XII. NADZOR NAD RADOM KNJIŽNICA
+Članak 43.
+(1) Stručni nadzor nad radom knjižnica obavlja matična knjižnica.
+(2) Stručni nadzor nad radom matičnih knjižnica obavlja Nacionalna i sveučilišna knjižnica u Zagrebu.
+(3) Stručni nadzor nad radom Nacionalne i sveučilišne knjižnice u Zagrebu obavlja Hrvatsko knjižnično vijeće.
+(4) Knjižnica iz stavka 1. ovoga članka dužna je matičnoj knjižnici, na zahtjev, omogućiti uvid u podatke potrebne za obavljanje stručnog nadzora.
+(5) Matična knjižnica iz stavka 2. ovoga članka dužna je Nacionalnoj i sveučilišnoj knjižnici u Zagrebu, na zahtjev, omogućiti uvid u podatke potrebne za obavljanje stručnog nadzora.
+Članak 44. (NN 98/19)
+(1) Nadzor nad zakonitošću rada i općih akata javne knjižnice kojoj je osnivač Republika Hrvatska obavlja ministarstvo nadležno za poslove kulture, ako posebnim zakonom nije drukčije određeno.
+(2) Nadzor nad zakonitošću rada Nacionalne i sveučilišne knjižnice u Zagrebu obavljaju ministarstvo nadležno za poslove kulture i ministarstvo nadležno za poslove znanosti i obrazovanja.
+(3) Nadzor nad zakonitošću rada i općih akata knjižnice kojoj je osnivač druga pravna i fizička osoba obavlja ministarstvo nadležno za poslove kulture, ako posebnim zakonom nije drukčije određeno.
+Članak 45. (NN 98/19)
+(1) Ako nadležno tijelo iz članka 44. stavka 3. ovoga Zakona u obavljanju nadzora nad zakonitošću rada i općih akata utvrdi da knjižnica odnosno knjižnica u sastavu ne ispunjava koji od uvjeta iz članka 11. stavka 1. i članka 12. stavka 2. ovoga Zakona, odredit će osnivaču rok u kojem je dužan otkloniti uočene nedostatke.
+(2) Ne otkloni li osnivač uočene nedostatke u određenome roku, nadležno tijelo iz članka 44. stavka 3. ovoga Zakona donijet će rješenje o zabrani rada knjižnice odnosno knjižnice u sastavu.
+(3) Protiv rješenja o zabrani rada iz stavka 2. ovoga članka koje je donijelo nadležno tijelo iz članka 44. stavka 3. ovoga Zakona žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(4) Ako nadležno tijelo iz članka 44. stavka 3. ovoga Zakona utvrdi da je statut ili drugi opći akt knjižnice protivan ovom Zakonu ili drugim propisima, zatražit će od knjižnice da ga u roku od mjesec dana uskladi.
+(5) Ako knjižnica u roku iz stavka 4. ovoga članka ne uskladi statut ili drugi opći akt knjižnice, nadležno tijelo iz članka 44. stavka 3. ovoga Zakona rješenjem će poništiti odnosno ukinuti ove akte ili pojedine njihove odredbe, odnosno, ako se radi o pravnoj osobi s javnim ovlastima, obustavit će njihovu daljnju primjenu te uputiti zahtjev za ocjenu zakonitosti općeg akta Visokom upravnom sudu Republike Hrvatske.
+(6) Protiv rješenja iz stavka 5. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+XIII. PREKRŠAJNE ODREDBE
+Članak 46.
+(1) Novčanom kaznom od 5000,00 do 30.000,00 kuna kaznit će se za prekršaj knjižnica te pravna osoba u čijem se sastavu nalazi knjižnica koja:
+1. ne prikuplja statističke podatke o svome poslovanju i ne unosi ih u sustav jedinstvenog elektroničkog prikupljanja statističkih podataka o poslovanju knjižnica u skladu s odredbom članka 6. stavka 3. ovoga Zakona
+2. nije poduzela mjere za zaštitu knjižnične građe te nije redovito provodila postupak revizije i otpisa građe sukladno pravilniku iz članka 7. ovoga Zakona
+3. započne obavljati knjižničnu djelatnost, a nije pribavila rješenje o postojanju uvjeta u skladu s odredbom članka 11. stavka 2. ovoga Zakona
+4. ne omogući uvid u podatke potrebne za obavljanje stručnog nadzora u skladu s odredbama članka 43. stavaka 4. i 5. ovoga Zakona.
+(2) Novčanom kaznom od 2000,00 do 10.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.
+
+Članak 47.
+(1) Novčanom kaznom od 2000,00 do 10.000 kuna kaznit će se za prekršaj pravna osoba koja:
+1. kao nakladnik u roku od 30 dana nakon završetka tiskanja, umnažanja ili proizvodnje ne dostavi Nacionalnoj i sveučilišnoj knjižnici u Zagrebu dva primjerka publikacija u obliku u kojem je objavljena ili proizvedena, jedan primjerak Sveučilišnoj knjižnici u Splitu te po jedan primjerak publikacija sveučilišnim knjižnicama u Osijeku, Puli i Rijeci, kao i u Mostaru te općeznanstvenim knjižnicama u Dubrovniku i Zadru, sukladno članku 39. stavku 1. ovoga Zakona
+2. kao nakladnik ne obavijesti Nacionalnu i sveučilišnu knjižnicu u Zagrebu o postojanju i objavljivanju publikacije i ne dostavi metapodatke i građu sukladno članku 40. stavku 1. ovoga Zakona
+3. kao nakladnik u roku od 30 dana nakon završetka tiskanja, umnažanja ili proizvodnje ne dostavi matičnoj knjižnici na području županije na kojoj je njegovo sjedište jedan primjerak građe, sukladno članku 39. stavku 5. ovoga Zakona
+4. kao tiskar s područja jedne županije koji tiska za nakladnika s područja druge županije u roku od 30 dana nakon završetka tiskanja ne dostavi jedan primjerak građe matičnoj knjižnici na području županije na kojoj je njegovo sjedište, sukladno članku 39. stavku 5. ovoga Zakona.
+(2) Novčanom kaznom od 2000,00 do 10.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom od 2000,00 do 5000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka fizička osoba koja obavlja djelatnost nakladnika odnosno tiskara.
+
+XIV. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 48.
+Knjižnice i pravne osobe u čijem se sastavu nalaze knjižnice uskladit će statut, druge opće akte i rad s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+Članak 49.
+(1) Hrvatsko knjižnično vijeće imenovano prema odredbama Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98. – ispravak, 104/00., 87/08. i 69/09.) nastavlja s radom do imenovanja Hrvatskoga knjižničnog vijeća prema odredbama ovoga Zakona.
+(2) Ministar nadležan za kulturu u roku od 60 dana od dana stupanja na snagu ovoga Zakona pokrenut će postupak imenovanja predsjednika i članova Hrvatskoga knjižničnog vijeća sukladno članku 36. stavku 2. ovoga Zakona.
+Članak 50.
+(1) Ministar nadležan za kulturu donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona pravilnike iz članka 7., članka 13. stavka 2., članka 31. stavka 4., članka 34. stavka 4. i članka 39. stavka 7. ovoga Zakona.
+(2) Ministar nadležan za kulturu donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona standarde iz članka 12. stavka 2. podstavka 1. ovoga Zakona, a ministar nadležan za znanost i obrazovanje donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona standarde iz članka 12. stavka 2. podstavka 2. ovoga Zakona.
+(3) Do stupanja na snagu propisa iz stavaka 1. i 2. ovoga članka primjenjivat će se:
+– Pravilnik o upisniku knjižnica i knjižnica u sastavu (»Narodne novine«, br. 139/98. i 25/17.)
+– Standardi za narodne knjižnice u Republici Hrvatskoj (»Narodne novine«, br. 58/99.)
+– Standardi za školske knjižnice (»Narodne novine«, br. 34/00.)
+– Standardi za visokoškolske knjižnice u Republici Hrvatskoj (»Vjesnik bibliotekara Hrvatske«, 33, 1 – 4 (1990), str. 21 – 226)
+– Hrvatski standardi za specijalne knjižnice (»Vjesnik bibliotekara Hrvatske«, 35, 3 – 4 (1992), str. 258 – 269; »Glasnik Ministarstva kulture i prosvjete«, 5 (1993), str. 12 – 14)
+– Pravilnik o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci (»Narodne novine«, br. 28/11., 16/14., 60/14. – ispravak i 47/17.)
+– Pravilnik o matičnoj djelatnosti knjižnica u Republici Hrvatskoj (»Narodne novine«, br. 43/01.)
+– Pravilnik o reviziji i otpisu knjižnične građe (»Narodne novine«, br. 21/02.)
+– Pravilnik o zaštiti knjižnične građe (»Narodne novine«, br. 52/05.).
+
+Članak 51.
+(1) Zbirka obveznog primjerka službenih publikacija nastala na temelju članka 39. stavka 1. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98. – ispravak, 104/00., 87/08. i 69/09.), a koja se vodi u Središnjem državnom uredu za razvoj digitalnog društva, pripaja se zbirci Središnjega kataloga službenih dokumenata Republike Hrvatske u svrhu pohrane i zaštite građe te njezine trajne dostupnosti korisnicima.
+(2) Središnji državni ured za razvoj digitalnog društva obvezuje se digitalizirati fizički dio građe iz stavka 1. ovoga članka te predati građu nakon obavljene digitalizacije Nacionalnoj i sveučilišnoj knjižnici u Zagrebu (Zbirka službenih publikacija) na daljnje postupanje.
+Članak 52.
+Ministar nadležan za kulturu predložit će Vladi Republike Hrvatske donošenje nacionalnog plana razvitka knjižnica i knjižnične djelatnosti iz članka 12. stavka 3. ovoga Zakona u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
+Članak 53.
+Postupci započeti do stupanja na snagu ovoga Zakona nastavit će se i dovršiti prema odredbama Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98., 104/00. i 69/09.).
+Članak 54.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o knjižnicama (»Narodne novine«, br. 105/97., 5/98. – ispravak, 104/00., 87/08. i 69/09.).
+Članak 55.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Prijelazne i završne odredbe iz NN 98/19
+Članak 3.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+ Ispisano: PRINTDATE \@ "d. MMMM yyyy." 0. XXX 0000.
+
+ PAGE 1
+Zakon o knjižnicama i knjižničnoj djelatnosti
+NN 17/19, 98/19 - na snazi od 01.01.2020.
+

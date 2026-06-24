@@ -1,0 +1,445 @@
+ZAKON
+O ZAŠTITI OD POŽARA
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim se Zakonom uređuje sustav zaštite od požara.
+(2) Sustav zaštite od požara podrazumijeva planiranje zaštite od požara, propisivanje mjera zaštite od požara građevina, ustrojavanje subjekata zaštite od požara, provođenje mjera zaštite od požara, financiranje zaštite od požara te osposobljavanje i ovlašćivanje za obavljanje poslova zaštite od požara, s ciljem zaštite života, zdravlja i sigurnosti ljudi i životinja te sigurnosti materijalnih dobara, okoliša i prirode od požara, uz društveno i gospodarski prihvatljiv požarni rizik.
+(3) U cilju zaštite od požara poduzimaju se organizacijske, tehničke i druge mjere i radnje za:
+– otklanjanje opasnosti od nastanka požara,
+– rano otkrivanje, obavješćivanje te sprječavanje širenja i učinkovito gašenje požara,
+– sigurno spašavanje ljudi i životinja ugroženih požarom,
+– sprječavanje i smanjenje štetnih posljedica požara,
+– utvrđivanje uzroka nastanka požara te otklanjanje njegovih posljedica.
+(4) Odredbe ovoga Zakona odgovarajuće se primjenjuju i na tehnološke eksplozije koje nastaju kao posljedica uporabe zapaljivih tekućina i plinova te ostalih gorivih tvari koje sa zrakom mogu stvoriti eksplozivnu atmosferu, ako posebnim propisom nije drukčije određeno.
+(5) Odredbe ovoga Zakona odnose se i na građevinske dijelove i prostore u vlasništvu Republike Hrvatske dane na upravljanje Ministarstvu obrane, odnosno Ministarstvu pravosuđa te na građevine, građevinske dijelove i prostore koji su od posebnog interesa za obranu Republike Hrvatske, osim ako posebnim propisom nije drukčije određeno.
+(6) Odredbe ovoga Zakona ne primjenjuju se na prijevozna sredstva, osim ako posebnim propisom nije drukčiji određeno.
+(7) Odredbe ovoga Zakona ne odnose se na građevne proizvode uređene posebnim propisima kojima se uređuju tehnička svojstva, ocjenjivanje sukladnosti, dokazivanje uporabljivosti i druga pitanja vezana za građevne proizvode, osim u dijelu u kojem se ovim Zakonom ili podzakonskim propisima donesenim na temelju njega, uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva, određuju svojstva otpornosti na požar i/ili reakcije na požar građevnih proizvoda.
+Članak 2.
+(1) Pojedini pojmovi koji se koriste u ovom Zakonu imaju sljedeće značenje:
+1) Požar je samopodržavajući proces gorenja koji se nekontrolirano širi u prostoru.
+2) Gorenje je brza kemijska reakcija neke tvari s oksidansom, najčešće s kisikom iz zraka u kojoj nastaju produkti gorenja te se oslobađa toplina, plamen i svjetlost.
+3) Tehnološka eksplozija je naglo širenje plinova uslijed gorenja ili druge kemijske reakcije.
+4) Požarni rizik je vjerojatnost nastanka požara u danim procesima ili stanjima.
+5) Ugroženost od požara je potencijalna opasnost od požara za zdravlje ili život ljudi i materijalnih dobara.
+6) Otpornost na požar je sposobnost dijela građevine da kroz određeno vrijeme ispunjava zahtijevanu nosivost (R) i/ili cjelovitost (E) i/ili toplinsku izolaciju (I) i/ili drugo očekivano svojstvo, kako je propisano normom o ispitivanju otpornosti na požar.
+7) Reakcija na požar je doprinos materijala razvoju požara uslijed vlastite razgradnje do koje dolazi izlaganjem tog materijala određenim ispitnim uvjetima.
+8) Neposredna opasnost je stanje visokog požarnog rizika, koje može u bliskoj budućnosti dovesti do požara.
+9) Evakuacijski put iz građevine je posebno projektiran i izveden put koji vodi od bilo koje točke u građevini do vanjskog prostora ili sigurnog prostora u građevini, čije značajke (otpornost i reakcija na požar, širina, visina, označavanje, protupanična rasvjeta i dr.) omogućuju da osobe zatečene u požaru mogu sigurno (samostalno ili uz pomoć spasitelja) napustiti građevinu.
+(2) Izrazi koji se u ovom Zakonu koriste za osobe u muškom rodu su neutralni i odnose se na muške i ženske osobe.
+Članak 3.
+(1) Na postupovna pitanja u postupcima koja nisu uređena ovim Zakonom, primjenjuju se odredbe propisa kojima se uređuje opći upravni postupak.
+(2) Na pitanja koja nisu uređena ovim Zakonom, a odnose na stavljanje proizvoda na tržište i/ili na raspolaganje, ocjenjivanje sukladnosti, kao i njihovog nadzora, primjenjuju se odredbe propisa kojima se uređuje područje tehničkih zahtjeva za proizvode i ocjenjivanje sukladnosti.
+Članak 4.
+(1) Zaštita od požara od posebnog je interesa za Republiku Hrvatsku.
+(2) Zaštitu od požara provode, osim fizičkih i pravnih osoba propisanih ovim Zakonom, i pravne osobe i udruge koje obavljaju vatrogasnu djelatnost i djelatnost zaštite i spašavanja te jedinice lokalne i područne (regionalne) samouprave, sukladno propisima kojima se uređuje područje zaštite i spašavanja.
+(3) Vatrogasna djelatnost te zaštita i spašavanje uređuju se posebnim propisima.
+Članak 5.
+(1) Gospodarski subjekti mogu stavljati na tržište i/ili na raspolaganje proizvode za zaštitu od požara samo ako su u skladu s odredbama važećih pravnih propisa koji se na njih odnose, za što su odgovorni prema odredbama propisa kojim se uređuje područje tehničkih zahtjeva i ocjenjivanja sukladnosti.
+(2) Iznimno od stavka 1. ovoga članka, proizvodi za zaštitu od požara mogu se stavljati na tržište i/ili na raspolaganje ako posjeduju ispravu o ispravnosti i podobnosti za namijenjenu svrhu, koju izdaje pravna osoba ovlaštena od strane ministra unutarnjih poslova (u daljnjem tekstu: ministar).
+(3) Ministar će pravilnikom propisati tehničke i druge uvjete koje moraju ispunjavati pravne osobe iz stavka 2. ovoga članka.
+Članak 6.
+(1) Ministar donosi podzakonske propise kojima se prenosi usklađeno zakonodavstvo Europske unije, a kojima se propisuju tehnički zahtjevi za proizvode ili skupine proizvoda za zaštitu od požara, posebni zahtjevi koje moraju zadovoljiti tijela za ocjenjivanje sukladnosti i način ispunjavanja propisanih zahtjeva, postupak praćenja njihovog rada te mjere koje treba poduzeti u slučaju neispunjavanja propisanih zahtjeva, kao i postupci ocjenjivanja sukladnosti uključujući redovite i izvanredne preglede proizvoda za zaštitu od požara u uporabi.
+(2) Propisi iz stavka 1. ovoga članka mogu sadržavati i zahtjev da se na proizvod ili skupinu proizvoda stavljaju propisane oznake sukladnosti te da budu praćeni uputama i podacima o sigurnosti na hrvatskom jeziku i latiničnom pismu.
+(3) Proizvodi za zaštitu od požara sukladni su s bitnim zahtjevima propisa iz stavka 1. ovoga članka ako su sukladni s hrvatskim normama kojima su prihvaćene usklađene europske norme za te proizvode, što se dokazuje ispravama o sukladnosti proizvoda prema propisu kojima se uređuje područje tehničkih zahtjeva i ocjenjivanja sukladnosti.
+(4) Popis hrvatskih normi iz stavka 3. ovoga članka Ministarstvo unutarnjih poslova (u daljnjem tekstu: Ministarstvo) objavljuje u »Narodnim novinama«, u suradnji s hrvatskim normirnim tijelom.
+(5) Tijelo za ocjenjivanje sukladnosti iz stavka 1. ovoga članka može obavljati poslove ocjenjivanja sukladnosti na temelju rješenja o ovlaštenju koje donosi ministar ukoliko su ispunjeni posebni zahtjevi iz stavka 1. ovoga članka, kao i ukoliko su ispunjeni uvjeti propisani propisom iz stavka 1. ovoga članka. Ispunjenost zahtjeva za tijela koja provode ocjenjivanje sukladnosti utvrđuje ministar koji to može povjeriti drugoj, za to osposobljenoj pravnoj osobi.
+(6) Protiv rješenja o ovlaštenju iz stavka 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(7) Ministar će, na zahtjev, priznati isprave o sukladnosti izdane u inozemstvu na način i pod uvjetima propisanima propisom kojim se uređuje područje tehničkih zahtjeva za proizvode i ocjenjivanja sukladnosti, o čemu se vodi evidencija i objavljuje na internetskim stranicama Ministarstva.
+Članak 7.
+Ispunjavanje zahtjeva iz članka 5. i 6. ovoga Zakona proizvoda za zaštitu od požara stavljenih na tržište i/ili na raspolaganje u Republici Hrvatskoj, osigurava se provođenjem inspekcijskog nadzora nad tržištem, koji obavljaju inspekcijska tijela državne uprave, samostalno ili u međusobnoj koordinaciji, na način i u skladu s propisanim nadležnostima, ovim Zakonom i propisom kojim se uređuje sustav državne uprave.
+II. PRAVA, DUŽNOSTI I ODGOVORNOSTI U ZAŠTITI OD POŽARA
+Članak 8.
+(1) Svaka fizička i pravna osoba, tijelo državne vlasti te jedinica lokalne i područne (regionalne) samouprave dužni su djelovati na način kojim se ne može izazvati požar.
+(2) Svaka fizička i pravna osoba, tijela državne vlasti te jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: osobe nad kojima se provodi nadzor) dužni su provoditi mjere zaštite od požara utvrđene odredbama ovoga Zakona i drugim propisima donesenim na temelju njega, planovima i procjenama ugroženosti od požara, odlukama jedinica lokalne i područne (regionalne) samouprave te drugim općim aktima iz područja zaštite od požara.
+(3) Svaka fizička i pravna osoba odgovorna je za neprovođenje mjera zaštite od požara, izazivanje požara, kao i za posljedice koje iz toga nastanu sukladno odredbama ovoga Zakona i odlukama jedinica lokalne i područne (regionalne) samouprave.
+Članak 9.
+(1) Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave mogu poticati znanstvena istraživanja te izradu stručnih studija, kao i provedbu projekata i programa sigurnih tehnologija i zahvata u prostoru kojima se smanjuje ili sprječava nastanak i širenje požara.
+(2) Ministarstvo daje prethodno mišljenje na dostavljene stručne studije, projekte i programe iz stavka 1. ovoga članka koji će se financirati ili sufinancirati iz državnog proračuna.
+Članak 10.
+(1) Vlasnici, odnosno korisnici građevina i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su:
+– osigurati provedbu mjera propisanih ovim Zakonom, propisima donesenim na temelju ovoga Zakona te drugim propisima, planovima, aktima i odlukama iz zaštite od požara na njihovom području i/ili vlasništvu,
+– poduzimati mjere za smanjenje opasnosti od nastanka i širenja požara, kao i mjera za unapređenje stanja zaštite od požara na svom vlasništvu uzimajući u obzir ugroženost i stanje zaštite od požara,
+– posjedovati vozila, uređaje, opremu, alat i sredstva za dojavu, gašenje i sprječavanje širenja požara na svom vlasništvu, odnosno na svom području u količinama, vrsti i na mjestima kako je utvrđeno posebnim propisima te procjenama i planovima zaštite od požara.
+(2) Osobe koje imaju posebne ovlasti i odgovornosti u pravnim osobama odgovorne su, u svom djelokrugu, za provedbu obveza iz stavka 1. ovoga članka.
+Članak 11.
+(1) Ministarstvo na informacijskom sustavu vodi evidenciju i statistiku zaštite od požara.
+(2) Fizičke i pravne osobe i jedinice lokalne i područne (regionalne) samouprave dužne su policijskoj upravi, neposredno ili putem centra 112, prijaviti nastanak požara i sve informacije o požaru.
+(3) Pravne osobe su dužne voditi evidenciju o požarima na svom vlasništvu.
+(4) Sadržaj i način vođenja evidencije iz stavka 1. i 3. ovoga članka propisat će ministar.
+III. PLANOVI I DOKUMENTI ZAŠTITE OD POŽARA
+Članak 12.
+(1) Dokumentima zaštite od požara uređuje se organizacija i mjere zaštite od požara na prostoru za koji se donose.
+(2) Dokumenti zaštite od požara državne razine su:
+– Nacionalna strategija zaštite od požara,
+– Nacionalni plan djelovanja zaštite od požara,
+– Izvješće o stanju zaštite od požara u Republici Hrvatskoj,
+– Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku.
+(3) Dokumenti zaštite od požara lokalne i područne (regionalne) razine su planovi zaštite od požara te provedbeni planovi unapređenja zaštite od požara.
+(4) Hrvatski sabor, na prijedlog Vlade Republike Hrvatske, donosi Nacionalnu strategiju zaštite od požara za razdoblje od najmanje 10 godina.
+(5) Nacionalna strategija zaštite od požara, osim opisa i analize postojećeg stanja zaštite od požara u Republici Hrvatskoj sadrži i glavne ciljeve, prioritete, međunarodne obveze, pravni okvir te instrumente i mjere provedbe kao i nositelje i odgovornosti i elemente ocjene.
+(6) Nacionalni plan djelovanja zaštite od požara donosi Vlada Republike Hrvatske na prijedlog Ministarstva, za razdoblje od četiri godine i sadrži osobito: mjere i aktivnosti u području zaštite od požara, način, redoslijed, rokove i nositelje provedbe mjera, projekte, procjenu potrebnih sredstava te analizu troškova i koristi.
+(7) Ostali dokumenti zaštite od požara ne mogu biti u suprotnosti s Nacionalnom strategijom zaštite od požara.
+(8) Hrvatski sabor razmatra četverogodišnje Izvješće o stanju zaštite od požara u Republici Hrvatskoj.
+(9) Vlada Republike Hrvatske na prijedlog Ministarstva, uz prethodno mišljenje Nacionalnog odbora za preventivnu zaštitu i gašenje požara osnovanog prema posebnom propisu i središnjeg tijela državne uprave za vatrogastvo, donosi godišnji program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku.
+Članak 13.
+(1) Jedinice lokalne i područne (regionalne) samouprave donose plan zaštite od požara za svoje područje na temelju procjene ugroženosti od požara, po prethodno pribavljenom mišljenju nadležne policijske uprave. Procjena ugroženosti i plan zaštite od požara županije temelje se na procjenama ugroženosti i planovima zaštite od požara gradova i općina na području županije.
+(2) Ministar propisuje uvjete i način izrade te sadržaj planova i procjena ugroženosti iz stavka 1. ovoga članka.
+(3) Nadležna vatrogasna zajednica daje prethodno mišljenje na dio procjene ugroženosti od požara za svoje područje koji se odnosi na organizaciju vatrogasne djelatnosti kroz minimalna mjerila dana posebnim propisom kojim se uređuje područje vatrogastva.
+(4) Jedinice lokalne i područne (regionalne) samouprave na temelju procjene ugroženosti iz stavka 1. ovoga članka donose godišnji provedbeni plan unapređenja zaštite od požara za svoje područje za čiju provedbu će osigurati financijska sredstva. Godišnji provedbeni planovi unapređenja zaštite od požara gradova i općina donose se na temelju godišnjeg provedbenog plana unapređenja zaštite od požara županije na čijem prostoru se nalaze. Godišnji provedbeni plan unapređenja zaštite od požara županije donosi se uz sudjelovanje nadležne policijske uprave i vatrogasne zajednice županije.
+(5) Godišnji provedbeni plan unapređenja zaštite od požara iz stavka 4. ovoga članka može biti dio dugoročnijeg plana unapređenja zaštite od požara.
+(6) Jedinice lokalne i područne (regionalne) samouprave najmanje jednom godišnje usklađuju planove iz stavka 1. ovoga članka s novonastalim uvjetima.
+(7) Jedinice lokalne i područne (regionalne) samouprave najmanje jednom u 5 godina usklađuju procjene ugroženosti iz stavka 1. ovoga članka s novonastalim uvjetima.
+(8) Predstavnička tijela jedinica lokalne i područne (regionalne) samouprave najmanje jednom godišnje razmatraju izvješće o stanju zaštite od požara na svom području i stanju provedbe godišnjeg provedbenog plana unapređenja zaštite od požara za svoje područje. Izvješće o stanju zaštite od požara županije i stanju provedbe godišnjeg provedbenog plana unapređenja zaštite od požara županije dostavlja se Nacionalnom odboru za preventivnu zaštitu i gašenje požara i središnjem tijelu državne uprave za vatrogastvo.
+(9) Jedinice lokalne i područne (regionalne) samouprave u donošenju planova iz stavka 1. i 4. ovoga članka osigurat će sudjelovanje javnosti.
+Članak 14.
+Jedinice lokalne i područne (regionalne) samouprave uređuju područje zaštite od požara na svom području sukladno odredbama ovoga Zakona i drugih propisa kojima se uređuje područje zaštite od požara te prema vlastitim planovima, potrebama i prosudbama.
+IV. UPOZNAVANJE I OSPOSOBLJAVANJE ZA ZAŠTITU OD POŽARA
+Članak 15.
+(1) Svatko ima pravo i obvezu biti upoznat s opasnostima od požara na mjestu gdje boravi ili radi.
+(2) Odluku o planu, programu i načinu upoznavanja s opasnostima od požara donose jedinice lokalne i područne (regionalne) samouprave za svoje područje te pravne osobe na svom vlasništvu.
+Članak 16.
+Radi osiguranja pravodobne i učinkovite zaštite od požara jedinice lokalne i područne (regionalne) samouprave te pravne osobe organiziraju osposobljavanje pučanstva za provedbu preventivnih mjera zaštite od požara, gašenje početnih požara i spašavanje ljudi i imovine ugroženih požarom prema posebnim propisima, o čemu su dužni voditi evidenciju.
+V. PREVENTIVNO POSTUPANJE, OBAVJEŠĆIVANJE I GAŠENJE POČETNIH POŽARA
+Članak 17.
+U cilju održavanja i provjere provedbe preventivnih mjera zaštite od požara jedinice lokalne i područne (regionalne) samouprave te pravne osobe održavaju protupožarne vježbe, na način i u vremenu koje odredi ministar.
+Članak 18.
+(1) Svatko tko primijeti neposrednu opasnost od nastanka požara ili požar odmah će sukladno svojim psihofizičkim sposobnostima pristupiti otklanjanju opasnosti, odnosno gašenju požara, vodeći pri tome računa da ne dovede u opasnost sebe ili drugu osobu.
+(2) Ukoliko osoba iz stavka 1. ovoga članka nije uspjela otkloniti opasnosti, odnosno ugasiti požar, dužna je obavijestiti Centar 112, najbližu vatrogasnu postrojbu ili policiju, odnosno postupiti prema planu zaštite od požara.
+(3) Pravne osobe i jedinice lokalne i područne (regionalne) samouprave dužne su, na način i pod uvjetima utvrđenim zakonom i propisima donesenim na temelju njega te planovima zaštite od požara, svojim alatom, opremom, tehničkim i prijevoznim sredstvima, a fizičke osobe i svojim radom, sudjelovati u gašenju požara i spašavanju ljudi i imovine ugroženih požarom.
+VI. ORGANIZACIJA I USTROJ ZAŠTITE OD POŽARA
+Članak 19.
+(1) Jedinice lokalne i područne (regionalne) samouprave organiziraju zaštitu od požara na svom području kao javnu službu te skrbe o stanju zaštite od požara na svom području sukladno odredbama ovoga Zakona, propisima donesenim na temelju njega, planovima zaštite od požara, općim aktima i drugim odlukama, kao i priznatim pravilima tehničke prakse.
+(2) Vlasnici odnosno korisnici građevina i drugih nekretnina te prostora odnosno upravitelji zgrada organiziraju zaštitu od požara te skrbe o stanju zaštite od požara sukladno odredbama ovoga Zakona, propisima donesenim na temelju njega, odlukama i planovima tijela državne uprave i jedinica lokalne i područne (regionalne) samouprave, općim aktima pravnih osoba, procjenama ugroženosti i planovima zaštite od požara.
+Članak 20.
+(1) Radi utvrđivanja odgovarajuće organizacije i provođenja mjera zaštite od požara, građevine, građevinski dijelovi i druge nekretnine te prostori razvrstavaju se rješenjem ministra u jednu od četiri propisane kategorije ugroženosti od požara, prema kriterijima, uvjetima i osnovama utvrđenim pravilnikom koji, uz prethodno mišljenje čelnika središnjeg tijela državne uprave za vatrogastvo i Hrvatske vatrogasne zajednice, donosi ministar.
+(2) Rješenjem iz stavka 1. ovoga članka određuju se i rokovi za izvršenje obveza koje iz toga proizlaze. Protiv rješenja nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(3) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora razvrstanih u prvu i drugu kategoriju ugroženosti od požara dužni su donijeti plan zaštite od požara izrađen na temelju procjene ugroženosti od požara te organizirati službu zaštite od požara.
+(4) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada razvrstanih u treću kategoriju ugroženosti od požara dužni su zaposliti najmanje jednog djelatnika, koji će biti zadužen za obavljanje poslova zaštite od požara i unapređenje stanja zaštite od požara.
+(5) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada razvrstanih u četvrtu kategoriju ugroženosti od požara dužni su imati zaposlenog najmanje jednog djelatnika zaduženog za obavljanje poslova zaštite od požara i unapređenje stanja zaštite od požara, koji smije obavljati i druge poslove.
+(6) Najmanje jednom u 5 godina provest će se usklađivanje procjena ugroženosti iz stavka 3. ovoga članka s novonastalim uvjetima.
+(7) Planovi iz stavka 3. ovoga članka moraju biti usklađeni s planom zaštite od požara jedinice lokalne i područne (regionalne) samouprave na području na kojem se građevine, građevinski dijelovi i druge nekretnine te prostori nalaze, te se usklađuju najmanje jednom godišnje s novonastalim uvjetima.
+(8) Djelatnici službe za zaštitu od požara iz stavka 3. ovoga članka moraju imati završen najmanje preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine tehničkog smjera, te položen stručni ispit.
+(9) Djelatnici zaduženi za obavljanje poslova i unapređenje stanja zaštite od požara iz stavka 4. i 5. ovoga članka moraju imati najmanje zvanje vatrogasca ili završeno srednjoškolsko obrazovanje u programu gimnazije ili srednjoškolsko strukovno obrazovanje u četverogodišnjem trajanju, te položen stručni ispit.
+(10) Stručni ispit iz stavka 8. i 9. ovoga članka polaže se na način i prema programu koji propisuje ministar.
+(11) Obveze iz stavka 3., 4. i 5. ovoga članka mogu se prenijeti na treću osobu ukoliko ispunjava uvjete propisane ovim člankom, te ukoliko to ne utječe na ispunjavanje njezinih osnovnih zadaća i odgovornosti prema propisima kojima se uređuje područje vatrogastva.
+(12) Središnje tijelo državne uprave za vatrogastvo i/ili nadležna vatrogasna zajednica daje prethodno mišljenje na dio procjene ugroženosti od požara koje se odnosi na ustroj i opremanje vatrogasne postrojbe kroz minimalna mjerila koja određuje ministar.
+(13) Pravilnikom iz stavka 1. ovoga članka utvrđuju se i vrste građevina i prostora koje se ne razvrstavaju u kategorije ugroženosti od požara sukladno stavku 1. ovoga članka.
+Članak 21.
+(1) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada iz članka 20. ovoga Zakona, općim aktom uređuju stanje zaštite od požara, sukladno propisima, vlastitim planovima i potrebama.
+(2) Ministar će pravilnikom propisati sadržaj općeg akta iz stavka 1. ovoga članka.
+VII. ZAŠTITA OD POŽARA U SUSTAVU ZAŠTITE OKOLIŠA, PROSTORNOG UREĐENJA I GRADNJE
+Članak 22.
+(1) Ministarstvo, kao subjekt zaštite okoliša prema posebnom propisu, sudjeluje u donošenju dokumenata održivog razvitka i zaštite okoliša državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razine, prema odredbama propisa kojim se uređuje područje zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(2) Ministarstvo daje mišljenje u postupku strateške procjene utjecaja na okoliš državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razne, sukladno posebnom propisu iz područja zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(3) Ministarstvo sudjeluje u postupku kojim se provodi procjena utjecaja zahvata na okoliš, odnosno utvrđuju objedinjeni uvjeti zaštite okoliša državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razine, sukladno posebnom propisu iz područja zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(4) Ministar, uz prethodno mišljenje ministra nadležnog za zaštitu okoliša, donijet će pravilnik kojim se određuju zahvati u prostoru u kojima Ministarstvo odnosno nadležna policijska uprava ne sudjeluje u postupcima iz stavka 3. ovoga članka.
+Članak 23.
+(1) Ministarstvo, na traženje nadležnog tijela, sudjeluje u postupku donošenja dokumenata prostornog uređenja državne razine sukladno posebnom propisu kojim se uređuje područje prostornog uređenja i građenja.
+(2) Nadležna policijska uprava, na traženje nadležnog tijela, sudjeluje u postupku donošenja dokumenata prostornog uređenja područne (regionalne) i lokalne razine sukladno propisu kojim se uređuje područje prostornog uređenja i građenja.
+(3) Pri donošenju dokumenata prostornog uređenja iz stavka 1. i 2. ovoga članka treba voditi računa o prostornim uvjetima zaštite od požara, posebice o:
+– mogućnosti evakuacije i spašavanja ljudi, životinja i imovine,
+– sigurnosnim udaljenostima između građevina ili njihovom požarnom odjeljivanju,
+– osiguranju pristupa i operativnih površina za vatrogasna vozila,
+– osiguranju dostatnih izvora vode za gašenje,
+uzimajući u obzir postojeća i nova naselja, građevine, postrojenja i prostore te njihova požarna opterećenja i zauzetost osobama.
+Članak 24.
+(1) Nadležna policijska uprava, na traženje nadležnog tijela, sudjeluje u postupku izdavanja rješenja o uvjetima građenja prema propisu kojim se uređuje područje prostornog uređenja i gradnje, radi izdavanja potvrde o usklađenosti idejnog projekta s posebnim propisima iz područja zaštite od požara.
+(2) Nadležna policijska uprava, na traženje nadležnog tijela, sudjeluje u postupku izdavanja lokacijske dozvole za zahvat u prostoru prema propisu kojim se uređuje područje prostornog uređenja i gradnje, radi određivanja posebnih uvjeta zaštite od požara.
+(3) Nadležna policijska uprava, na zahtjev projektanta, odnosno investitora i/ili na traženje nadležnog tijela određuje posebne uvjete zaštite od požara prije i/ili tijekom postupka izdavanja rješenja za građenje prema propisu kojim se uređuje područje prostornog uređenja i gradnje.
+(4) Kada lokacijsku dozvolu iz stavka 2. ovoga članka izdaje ministarstvo nadležno za poslove prostornog uređenja i gradnje, u postupku izdavanja lokacijske dozvole sudjeluje Ministarstvo.
+(5) Kada rješenje za građenje iz stavka 3. ovoga članka izdaje ministarstvo nadležno za poslove prostornog uređenja i gradnje, posebne uvjete zaštite od požara određuje Ministarstvo.
+(6) Ministar, u suglasnosti s ministrom nadležnim za poslove prostornog uređenja i gradnje, određuje zahvate u prostoru u kojima nadležna policijska uprava, odnosno Ministarstvo ne sudjeluje u postupku izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole.
+(7) Odredbe ovoga članka na odgovarajući se način primjenjuju i na izmjene i/ili dopune rješenja o uvjetima građenja, odnosno lokacijske dozvole te rješenja o izvedenom stanju koja se izdaju prema propisu kojim se uređuje područje prostornog uređenja i gradnje.
+Članak 25.
+(1) Prilikom projektiranja i građenja građevine mora se osigurati zaštita od požara, kao jedan od bitnih zahtjeva za građevinu propisanih posebnim propisom kojim se uređuje područje prostornog uređenja i gradnje, tako da se u slučaju požara:
+– očuva nosivost konstrukcije tijekom određenog vremena utvrđena posebnim propisom,
+– spriječi širenje vatre i dima unutar građevine,
+– spriječi širenje vatre na susjedne građevine,
+– omogući da osobe mogu neozlijeđene napustiti građevinu, odnosno da se omogući njihovo spašavanje,
+– omogući zaštita spašavatelja.
+(2) Smatra se da je bitni zahtjev zaštite od požara iz stavka 1. ovoga članka ispunjen ukoliko građevina udovoljava minimalnim tehničkim zahtjevima zaštite od požara utvrđenim posebnim propisima i odlukama, procjenama utjecaja zahvata na okoliš, odnosno objedinjenim uvjetima zaštite okoliša iz članka 22. ovoga Zakona, dokumentima prostornog uređenja iz članka 23. ovoga Zakona i posebnim uvjetima zaštite od požara iz članka 24. ovoga Zakona.
+(3) Ispunjavanje bitnog zahtjeva zaštite od požara može se dokazivati i prema priznatim metodama proračuna i modelima koji su različiti od načina dokazivanja propisanog stavkom 2. ovoga članka.
+(4) Odstupanje od bitnog zahtjeva zaštite od požara dopušteno je samo u postupku propisanom propisom kojim se uređuje područje prostornog uređenja i gradnje iz prethodno pribavljeno mišljenje Ministarstva, odnosno nadležne policijske uprave.
+(5) Iznimno od stavka 2. i 3. ovoga članka, ispunjavanje bitnog zahtjeva zaštite od požara može se dokazivati i na drugi način, uz odobrenje Ministarstva, a na obrazložen zahtjev investitora ili projektanta građevine.
+(6) O zahtjevu iz stavka 5. ovoga članka Ministarstvo odlučuje rješenjem protiv kojeg nije dopuštena žalba, ali se može pokrenuti upravni spor.
+Članak 26.
+(1) Vrijeme u kojem konstrukcija građevine mora očuvati nosivost i zahtjeve u vezi:
+– sa sprječavanjem širenja vatre unutar građevine,
+– sa sprječavanjem širenja vatre na susjedne građevine,
+– s omogućavanjem da osobe mogu neozlijeđene napustiti građevinu, odnosno da se omogući njihovo spašavanje,
+– s omogućavanjem zaštite spašavatelja
+te druge zahtjeve koje u vezi sa zaštitom od požara moraju ispunjavati građevine kao i svojstva otpornosti na požar i/ili reakcije na požar građevinskih proizvoda propisuje ministar u suglasnosti s ministrom nadležnim za zaštitu okoliša, prostorno uređenje i graditeljstvo.
+(2) Podzakonski propisi i odluke drugih tijela, procjena utjecaja zahvata na okoliš odnosno objedinjeni uvjetima zaštite okoliša iz članka 22. ovoga Zakona, dokumenti prostornog uređenja iz članka 23. ovoga Zakona i posebni uvjeti zaštite od požara iz članka 24. ovoga Zakona moraju biti u skladu s odredbama ovoga Zakona i podzakonskih propisa iz stavka 1. ovoga članka.
+Članak 27.
+(1) Prema zahtjevnosti mjera zaštite od požara građevine se dijele na:
+– građevine skupine 1 – manje zahtjevne građevine i
+– građevine skupina 2 – zahtjevne građevine.
+(2) Ministar u suglasnosti s ministrom nadležnim za gradnju, razvrstat će propisom građevine u skupine iz stavka 1. ovoga članka.
+Članak 28.
+(1) Podaci za projektiranje mjera zaštite od požara u glavnom projektu, koji je sastavni dio potvrde glavnog projekta, građevinske dozvole, odnosno rješenja za građenje prema propisima kojima se uređuje područje građenja, dobivaju se iz elaborata zaštite od požara koji je poslužio kao podloga za njegovu izradu.
+(2) Elaborat zaštite od požara izrađuje se samo za građevine skupine 2.
+(3) Elaborat zaštite od požara izrađuje osoba ovlaštena za izradu elaborata zaštite od požara i ovjerava ga svojim potpisom i žigom.
+(4) Ovlaštenje za izradu elaborata zaštite od požara daje Ministarstvo rješenjem osobi koja:
+1. ima visoku stručnu spremu odnosno završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij tehničkog smjera, i položen stručni ispit za obavljanje poslova u graditeljstvu prema posebnom zakonu te koja u skladu s tim zakonom upotpunjava i usavršava svoje znanje u području zaštite od požara te ima
+– najmanje pet godina radnog iskustva na poslovima projektiranja, odnosno stručnog nadzora zaštite od požara građevina
+ili
+– najmanje dvije godine radnog iskustva na poslovima projektiranja odnosno stručnog nadzora građevina glede zaštite od požara i završen poslijediplomski i/ili specijalistički studij iz područja požarnog inženjerstva i/ili zaštite od požara u građevinama s najmanje 60 ECTS bodova,
+ili
+2. ima najmanje visoku stručnu spremu, odnosno završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij tehničkog smjera i položen državni stručni ispit čiji ispitni program sadrži područje zaštite od požara te ima najmanje pet godina radnog iskustva na poslovima inspekcijskog nadzora zaštite od požara građevina.
+(5) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(6) Ministar rješenjem oduzima ovlaštenje osobi iz stavka 3. ovoga članka ukoliko više ne ispunjava uvjete iz stavka 4. ovoga članka.
+(7) Protiv rješenja iz stavka 6. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(8) O ovlaštenjima iz stavka 4. ovoga članka Ministarstvo vodi očevidnik.
+(9) Ministar će, uz prethodnu suglasnost ministra nadležnog za poslove prostornog uređenja i graditeljstva, pravilnikom propisati sadržaj elaborata zaštite od požara.
+(10) Ministar će pravilnikom propisati način davanja i oduzimanja ovlaštenja za izradu elaborata za zaštitu od požara te isprave i način dokazivanja činjenica na temelju kojih se daje ovlaštenje.
+Članak 29.
+(1) Glavni projekt građevina podliježe provjeri tehničkog rješenja iz zaštite od požara.
+(2) Provjeru iz stavka 1. ovoga članka provodi jedan ili više ovlaštenih revidenata.
+(3) Ovlaštenje za obavljanje provjere projekata može se dati osobi koja:
+1. prema propisima koji uređuju prostorno uređenje i gradnju ima pravo na obavljanje poslova projektiranja u području zaštite od požara, koja ima visoku stručnu spremu, odnosno završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij s najmanje deset godina radnog iskustva u projektiranju, koja je projektirala u svojstvu odgovorne osobe građevine osobite inženjerske složenosti i koja je na drugi način unaprijedila tehničku struku u području zaštite od požara
+ili
+2. ima najmanje visoku stručnu spremu, odnosno završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij s najmanje deset godina radnog iskustva u inspekcijskom nadzoru zaštite od požara građevina osobite inženjerske složenosti i koja je na drugi način unaprijedila tehničku struku u području zaštite od požara.
+(4) Ovlaštenje za obavljanje provjere projekata po prethodno pribavljenom mišljenju povjerenstva, daje i oduzima ministar. Povjerenstvo osniva i imenuje ministar.
+(5) Povjerenstvo iz stavka 4. ovoga članka čini predsjednik i četiri člana koji se imenuju iz redova Ministarstva, ministarstva nadležnog za poslove prostornog uređenja i graditeljstva i strukovnih organizacija.
+(6) O ovlaštenjima iz stavka 4. ovoga članka Ministarstvo vodi očevidnik. Popis ovlaštenih revidenata, na temelju podataka iz propisanog očevidnika, objavljuje se jednom godišnje u »Narodnim novinama«.
+(7) Detaljnije uvjete u odnosu na radno i stručno iskustvo za davanje, produženje važenja i oduzimanje ovlaštenja za obavljanje provjere projekata kao i načina kojima se dokazuje, odnosno ocjenjuje ispunjavanje tih uvjeta, vrstu građevina za koje provjeru projekata provodi jedan ili više revidenata, te sadržaj i način vođenja očevidnika iz stavka 6. ovoga članka propisuje ministar uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša, prostorno uređenje i graditeljstvo.
+Članak 30.
+(1) Revident iz članka 29. ovoga Zakona ne može obaviti provjeru projekta u čijoj je izradi u cijelosti ili djelomično sudjelovao.
+(2) Revident je odgovoran da projekt za koji je proveo provjeru i dao pozitivno izvješće udovoljava zahtjevima iz ovoga Zakona, posebnih zakona i propisa donesenih na temelju tih zakona, tehničkih specifikacija i pravila struke u vezi sa zaštitom od požara.
+(3) Na revidenta se na odgovarajući način primjenjuju i odredbe o odgovornosti projektanta prema posebnim propisima kojima se uređuje područje prostornog uređenja i graditeljstva.
+Članak 31.
+(1) Revident je dužan, nakon što obavi provjeru projekta, ovjeriti dijelove projekta te o tome sastaviti pisano izvješće.
+(2) Sadržaj, način i opseg obavljanja provjere projekta, način i značenje ovjere te način izračuna naknade za obavljenu kontrolu propisuje ministar.
+Članak 32.
+Osoba ovlaštena za izradu elaborata zaštite od požara iz članka 28. ovoga Zakona i ovlašteni revident iz članka 29. ovoga Zakona dužni su imati odgovarajuće osiguranje od profesionalne odgovornosti ili drugi oblik jednakovrijednog ili usporedivog jamstva.
+Članak 33.
+Ministarstvo daje mišljenje iz područja zaštite od požara na tipski projekt u postupku izdavanja rješenja o tipskom projektu sukladno propisu kojim se uređuje područje gradnje.
+Članak 34.
+Ministar pravilnikom propisuje mjere zaštite od požara prilikom građenja koje se obavlja sukladno posebnim propisima kojima se uređuje područje gradnje.
+Članak 35.
+(1) Ministarstvo, odnosno nadležna policijska uprava sudjeluje u radu Povjerenstva za tehnički pregled u postupku izdavanja uporabne dozvole za izgrađenu građevinu, prema posebnom propisu kojim se uređuje područje građenja samo u slučajevima u kojima su sudjelovali u postupcima izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole i rješenja za građenje iz članka 24. ovoga Zakona.
+(2) Ministarstvo, odnosno nadležna policijska uprava u postupku iz stavka 1. ovoga članka daje mišljenje o tome može li se izgrađena građevina koristiti ili se prethodno moraju otkloniti utvrđeni nedostaci ili se ne može izdati uporabna dozvola.
+(3) Odredbe ovoga članka odgovarajuće se primjenjuju i na postupak izdavanja uvjerenja za uporabu prema posebnom propisu kojim se uređuje područje prostornog uređenja i graditeljstva.
+VIII. ZAŠTITA OD POŽARA U UPORABI GRAĐEVINA I PROSTORA
+Članak 36.
+(1) Svaka građevina ili njezin dio, ovisno o svojoj namjeni, mora se tijekom svog trajanja održavati na način da ispunjava bitni zahtjev zaštite od požara.
+(2) Svaki prostor ili njegov dio, ovisno o svojoj namjeni, mora se održavati na način da ispunjava propisane mjere zaštite od požara.
+Članak 37.
+Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su održavati slobodnima i propisno označenima evakuacijske putove, kao i pristupe vatrogasnim vozilima.
+Članak 38.
+(1) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su posjedovati uređaje, opremu i sredstva za gašenje požara.
+(2) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su sukladno propisima, tehničkim normativima, normama i uputama proizvođača održavati u ispravnom stanju postrojenja, uređaje i instalacije električne, plinske, ventilacijske i druge namjene, dimnjake i ložišta, kao i druge uređaje i instalacije, koji mogu prouzročiti nastajanje i širenje požara te o održavanju moraju posjedovati dokumentaciju.
+Članak 39.
+(1) Vozila, uređaji, oprema, alat i sredstva za zaštitu od požara moraju se održavati u ispravnom i funkcionalnom stanju sukladno propisima, tehničkim normativima, normama i uputama proizvođača, o čemu mora postojati dokumentacija.
+(2) Vozila, uređaji, oprema, alat i sredstva iz stavka 1. ovoga članka moraju biti propisno označena, uvijek dostupna te se namjenski koristiti.
+(3) Stavci 1. i 2. ovoga članka ne odnose se na vozila, uređaje, opremu, alat i sredstva za zaštitu od požara vatrogasnih postrojbi na koje se odnose obveze propisane posebnim propisom kojim se uređuje područje vatrogastva.
+Članak 40.
+(1) Ispravnost i funkcionalnost izvedenih stabilnih sustava, uređaja i instalacija za otkrivanje i dojavu te gašenje požara, sustava, uređaja i instalacija za otkrivanje i dojavu prisutnosti zapaljivih plinova i para, kao i drugih ugrađenih sustava, uređaja i instalacija za sprječavanje širenja požara (u daljnjem tekstu: stabilni sustavi zaštite od požara) provjerava korisnik, sukladno uputi proizvođača, o čemu mora postojati evidencija, a pravna osoba ovlaštena od strane ministra, najmanje jednom godišnje, o čemu se izdaje uvjerenje.
+(2) Način provjere ispravnosti i funkcionalnosti izvedenih stabilnih sustava zaštite od požara, kao i uvjete za davanje ovlaštenja iz stavka 1. ovoga članka propisuje ministar.
+(3) Ocjenu ispunjavanja propisanih uvjeta iz stavka 2. ovoga članka ministar može povjeriti drugoj, za to osposobljenoj, pravnoj osobi.
+(4) Stabilni sustavi zaštite od požara iz stavka 1. ovoga članka moraju biti propisno označeni, uvijek dostupni te se namjenski koristiti.
+(5) Ministar će rješenjem oduzeti ovlast pravnoj osobi iz stavka 1. ovoga članka ako se u provedbi inspekcijskog nadzora utvrdi da ne ispunjava uvjete propisane za davanje ovlaštenja ili da stručne poslove za koje je ovlašten obavlja protivno ovom Zakonu ili propisima donesenim na temelju njega.
+Članak 41.
+(1) Vlasnik, odnosno korisnik građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su održavati prijenosne i prijevozne aparata za gašenje požara, sukladno uputi proizvođača, o čemu mora postojati evidencija.
+(2) Ispravnost i funkcionalnost prijenosnih i prijevoznih aparata za gašenje požara ispituje pravna osoba, fizička osoba obrtnik ili stručna služba (serviser) ovlaštena od proizvođača ili njegovog ovlaštenog zastupnika, najmanje jednom godišnje, o čemu na aparatu mora postojati vidljiva oznaka.
+(3) Uvjete koje moraju ispunjavati serviser i njegovi zaposlenici te uvjete za davanje i oduzimanje ovlaštenja iz stavka 2. ovoga članka propisuje proizvođač ili njegov ovlašteni zastupnik.
+(4) Propisani uvjeti iz stavka 3. ovoga članka moraju biti javno objavljeni.
+(5) Način provjere i način označavanja te vještačenja aparata za gašenje požara iz stavka 1. ovoga članka propisuje ministar.
+(6) Prijenosni i prijevozni aparati za gašenje požara moraju biti propisno označeni, uvijek dostupni te se namjenski koristiti.
+(7) Proizvođač ili njegov ovlašteni zastupnik dužan je osigurati održavanje aparata ispravnim i funkcionalnim.
+(8) Proizvođač ili njegov ovlašteni zastupnik vodi popis pravnih osoba, fizičkih osoba obrtnika i stručnih službi (servisera) kojima su dali ovlaštenje iz stavka 2. ovoga članka, o čemu je dužan izvijestiti Ministarstvo.
+Članak 42.
+Ministarstvo vodi popis pravnih osoba, fizičkih osoba obrtnika i stručnih službi koje posjedu ovlaštenje iz članka 40. i 41. ovoga Zakona, koji se objavljuje na internetskim stranicama Ministarstva.
+Članak 43.
+(1) U slučaju privremenog povećanog požarnog rizika, za cijelo vrijeme njegovog trajanja, poduzimaju se odgovarajuće dodatne, organizacijske i tehničke, mjere zaštite od požara, koje uključuju osiguranje vatrogasnog dežurstva, odnosno motrilačko-dojavne službe, kao i primjenu odgovarajuće opreme i sredstava za gašenje.
+(2) Dodatne mjere iz stavka 1. ovoga članka poduzimaju na temelju izrađene prosudbe privremenog povećanog požarnog rizika, a osobito za:
+– privremena mjesta pretakanja zapaljivih tekućina i plinova količina većih od onih definiranih držanjem prema posebnom propisu iz područja zapaljivih tekućina i plinova,
+– privremena mjesta zavarivanja i uporabe otvorenog plamena ili alata koji u uporabi iskre, u prostoru koji nije za to predviđen, a postoji opasnost za nastanak požara,
+– građevine, građevinske dijelove i prostore za vrijeme održavanja skupova na kojima se privremeno okuplja veći broj ljudi (priredbe, sajmovi, izložbe i sl.),
+– građevine, građevinske dijelove i prostore za vrijeme obavljanja poslova kojima se privremeno povećava opasnost od nastajanja i/ili širenja požara ili njegovih posljedica (velika gradilišta, žetve i sl.),
+– vrijeme povećane požarne opasnosti otvorenog prostora proglašene od nadležnog tijela prema posebnom propisu iz područja ustroja i djelokruga lokalne samouprave.
+(3) Vatrogasno dežurstvo iz stavka 1. ovoga članka smiju obavljati samo osobe osposobljene prema propisima kojima se uređuje područje vatrogastva.
+(4) Obveze iz stavka 1. i 2. ovoga članka odnose se na vlasnika, odnosno korisnika građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelje zgrada, kao i nositelje drugih stvarnih prava.
+IX. NADZOR
+Članak 44.
+(1) Upravni nadzor nad provedbom ovoga Zakona provodi Ministarstvo, a inspekcijski nadzor inspektori Ministarstva.
+(2) Osobe nad kojima se provodi nadzor iz stavka 1. dužne su omogućiti inspektoru zaštite od požara (u daljnjem tekstu: inspektor) ili drugoj ovlaštenoj osobi nesmetano obavljanje njegovih ovlasti.
+(3) Osobe nad kojima se provodi nadzor dužne su postupiti po zahtjevu i naredbi inspektora.
+Članak 45.
+(1) Inspekcijski nadzor provode inspektori Ministarstva, a inspekcijske službe drugih tijela državne uprave prema posebnim propisima, neposrednim uvidom.
+(2) U provedbi inspekcijskog nadzora provodi se izravan uvid u opće i pojedinačne akte, uvjete i način rada nadziranih osoba te poduzimaju zakonom i drugim propisima predviđene mjere da se ustanovljeno stanje i poslovanje uskladi sa zakonom i drugim propisima.
+(3) Osim inspekcijskog nadzora nad provedbom ovoga Zakona, inspektori obavljaju i inspekcijski nadzor nad provedbom drugih zakona i propisa donesenih na temelju tih zakona, u slučajevima kada je to propisano posebnim propisima.
+(4) Ministar, u suglasnosti s ministrom nadležnim za poslove obrane i ministrom nadležnim za poslove pravosuđa, pravilnikom određuje sadržaj i način obavljanja inspekcijskog nadzora zaštite od požara za potrebe Ministarstva obrane i Ministarstva pravosuđa.
+Članak 46.
+(1) Inspektori su osobe s posebnim ovlastima i odgovornostima.
+(2) Ministar pravilnikom propisuje minimalnu radnu i zaštitnu, pojedinačnu i skupnu, opremu te odjeću i obuću inspektora.
+(3) Službeno svojstvo, identitet i ovlasti iz stavka 1. ovoga članka, dokazuju se službenom iskaznicom i znakom (službena značka). Oblik i sadržaj službene iskaznice i izgled službene značke te način njihova izdavanja, uporabe i vođenja evidencija propisuje ministar.
+Članak 47.
+(1) Odlukom jedinice lokalne i područne (regionalne) samouprave, uz prethodnu pribavljenu suglasnost nadležne policijske uprave, može se propisati da određene poslove kontrole provedbe propisanih mjera zaštite od požara utvrđenih ovim Zakonom i propisima donesenim na temelju njega obavljaju vatrogasne postrojbe i/ili vatrogasne zajednice na svom području.
+(2) Odlukom iz stavka 1. ovoga članka odredit će se:
+1. vrsta građevina, građevinskih dijelova i otvorenog prostora koji će biti obuhvaćeni kontrolom,
+2. način i postupak obavljanja poslova kontrole,
+3. način izvješćivanja nadležne policijske uprave o nedostacima utvrđenih kontrolom,
+4. uvjeti koje moraju ispunjavati osobe za obavljanje poslova kontrole u pogledu stručne spreme.
+(3) Ministar pravilnikom propisuje obrazac iskaznice kojom se utvrđuje identitet osobe ovlaštene za obavljanje poslova kontrole, ovlaštenja te način njezinog izdavanja.
+Članak 48.
+Inspektor je ovlašten:
+1. pregledati prostorije, prostore, građevine i predmete radi utvrđivanja stanja zaštite od požara,
+2. pregledati dokumentaciju u svezi sa zaštitom od požara,
+3. upozoriti i udaljiti osobu koja ometa ili onemogućava obavljanje inspekcijskog nadzora,
+4. davati pisana i usmena upozorenja i zapovijedi u svezi sa zaštitom od požara,
+5. ukazati na nedostatke iz zaštite od požara i odrediti rokove za njihovo uklanjanje,
+6. privremeno zabraniti obavljanje određenih djelatnosti i radnji koje predstavljaju neposrednu opasnost od nastajanja i širenja požara,
+7. ući u dom na traženje vlasnika ili u slučaju otklanjanja ozbiljne neposredne opasnosti od požara po život i zdravlje ljudi ili imovine većeg opsega,
+8. tražiti potrebne podatke i obavijesti te uzimati izjave u svezi sa zaštitom od požara,
+9. utvrđivati činjenice na vizualan način (foto i videozapis),
+10. provjeriti i utvrditi identitet osoba i predmeta kada je to potrebno radi pravilnog vođenja postupka,
+11. privremeno oduzeti dokumentaciju, opremu i sredstva te ostalo u svezi sa zaštitom od požara kada je to potrebno radi pravilnog vođenja postupka ili mogu poslužiti u prekršajnom ili sudbenom postupku kao dokaz ili je to potrebno radi sprječavanja težih posljedica, o čemu izdaje potvrdu,
+12. pregledati mjesto požara radi utvrđivanja uzroka njegovog nastajanja i širenja,
+13. izdati prekršajne naloge i podnositi optužne prijedloge,
+14. izreći i naplatiti novčanu kaznu na mjestu počinjenja prekršaja,
+15. poduzimati i druge potrebne radnje u skladu s propisima.
+Članak 49.
+Inspektor je dužan, prije početka primjene ovlasti iz članka 48. ovoga Zakona, predstaviti se pokazivanjem službene značke i službene iskaznice.
+Članak 50.
+(1) O obavljenom inspekcijskom nadzoru inspektor je dužan sastaviti zapisnik.
+(2) Inspektor je dužan voditi očevidnik o inspekcijskim nadzorima i poduzetim mjerama, kao službenu evidenciju, čiji sadržaj, oblik i način vođenja propisuje ministar.
+Članak 51.
+(1) Svatko može podnijeti prijavu za pokretanje postupka inspekcijskog nadzora.
+(2) Početak postupka inspekcijskog nadzora ne mora biti najavljen osobi nad kojom se provodi nadzor.
+(3) Ako se u postupku inspekcijskog nadzora utvrde nepravilnosti, inspektor će osobi nad kojom se provodi nadzor ukazati na nepravilnosti i odrediti rok otklanjanja, što se unosi u zapisnik, od kojeg se jedan primjerak daje osobi nad kojom je proveden nadzor.
+(4) Osoba nad kojom je proveden nadzor obvezna je pisano obavijestiti inspektora o poduzetim mjerama, u roku koji nije duži od 7 dana od dana ukazivanja. Ukoliko osoba nad kojom je proveden nadzor ne otkloni nedostatke u zadanom roku rješenjem će se narediti otklanjanje nedostataka ili pokrenuti prekršajni postupak.
+(5) Inspektor je dužan pravodobno pisano obavijestiti poznatog podnositelja prijave iz stavka 1. ovoga članka o nalazu inspekcijskog nadzora i poduzetim mjerama.
+Članak 52.
+U obavljanju poslova iz svoje nadležnosti inspektor je obvezan surađivati s drugim inspekcijama, pravnim osobama i stručnim službama, ako je to potrebno radi pravilne ocjene činjeničnog stanja.
+Članak 53.
+U obavljanju poslova iz svoje nadležnosti inspektor je dužan čuvati kao tajnu podatke koji su prema posebnom propisu klasificirani i označeni odgovarajućim stupnjem tajnosti.
+Članak 54.
+U obavljanju poslova iz svoje nadležnosti inspektor Ministarstva, odnosno nadležne policijske uprave, poduzima upravne mjere i radnje prema vlasniku, odnosno korisniku građevine, građevinskih dijelova i drugih nekretnina te prostora odnosno upravitelju zgrada kao i nositeljima drugih stvarnih prava te jedinicama lokalne i područne (regionalne) samouprave, radi provođenja određenih mjera zaštite od požara propisanih Zakonom i propisima donesenim na temelju njega, odlukama tijela državne uprave i lokalne uprave i samouprave, općim aktima pravnih osoba, procjenama ugroženosti i planovima zaštite od požara, a rješenjem osobito nalaže:
+1. izvođenje i održavanje vatrogasnih putova, pristupa i prilaza vatrogasnim vozilima i tehnici radi spašavanja osoba i gašenja požara,
+2. izvođenje i održavanje protupožarnih prosjeka,
+3. izvođenje i održavanje prohodnim izlaznih putova iz građevine ili njezinog dijela radi omogućavanja žurnog spašavanja ljudi i imovine u slučaju požara,
+4. dovođenje u ispravno stanje izvedenih postrojenja, uređaja i instalacija koji predstavljaju opasnost od nastajanja i širenja požara,
+5. uklanjanje i zbrinjavanje predmeta i tvari koji predstavljaju opasnost od nastajanja i širenja požara (zapaljivi otpad i sl.),
+6. postavljanje, obilježavanje mjesta postavljanja i osiguranje pristupačnosti vatrogasnih aparata za početno gašenje požara,
+7. izvođenje i održavanje u ispravnom stanju uređaja, opreme, instalacije i sustava za dojavu i gašenje požara,
+8. onemogućavanje izazivanja požara izvana, građevina i drugih nekretnina te prostora kojima je pristup ograničen,
+9. osiguranje vatrogasnog dežurstva ili motrilačko-dojavne službe,
+10. obavljanje ili obustavljanje obavljanja određenih radnji i postupaka koji su u svezi sa zaštitom od požara,
+11. nabavu opreme i sredstava za dojavu i gašenje požara.
+Članak 55.
+(1) Inspektor će privremeno usmeno zabraniti, iz razloga neposredne opasnosti za život i zdravlje ljudi ili imovine:
+1. držanje predmeta i tvari koji predstavljaju neposrednu opasnost od nastanka i širenja požara,
+2. uporabu uređaja, opreme i instalacija koji predstavljaju neposrednu opasnost od nastajanja i širenja požara,
+3. uporabu otvorene vatre kada postoji neposredna opasnost od nastajanja i širenja požara,
+4. obavljanje ili obustavljanje obavljanja određenih radnji ili djelatnosti kada postoji neposredna opasnost od nastajanja i širenja požara ili je ugrožena evakuacija osoba,
+5. kretanje osoba na određenom prostoru kada postoji neposredna opasnost od požara.
+(2) Obveza izvršenja mjere zabrane iz stavka 1. ovoga članka počinje teći odmah.
+(3) U provedbi mjera zabrane iz stavka 1. ovoga članka inspektor može koristiti mjeru pečaćenja.
+(4) Postupak pečaćenja, oblik, sadržaj i način uporabe pečata za pečaćenje iz stavka 3. ovoga članka propisuje ministar.
+(5) Ministarstvo, odnosno policijska uprava, mjeru zabrane iz stavka 1. i 3. ovoga članka, izdat će u obliku rješenja, najkasnije u roku od osam dana od dana izricanja usmene mjere zabrane.
+(6) Žalba protiv rješenja iz stavka 5. ovoga članka ne odgađa njegovo izvršenje.
+Članak 56.
+(1) Ukoliko se ne postupi po izvršnom rješenju iz članka 54. i 55. ovoga Zakona, rješenje će se prisilno izvršiti.
+(2) Do naplate od izvršenika, troškovi izvršenja rješenja namiruju se iz državnog proračuna, odnosno iz proračuna jedinice lokalne i područne (regionalne) samouprave na čijem se području izvršenje provodi.
+(3) Ako je izvršenik izvršio obvezu iz rješenja ili je iz nekog drugog razloga prestala obveza izvršenja rješenja, donijet će se rješenje o obustavi izvršenja po službenoj dužnosti.
+X. UNAPREĐENJE ZAŠTITE OD POŽARA
+Članak 57.
+(1) Pravne osobe dužne su analizirati svaki događaj koji je mogao dovesti do požara te poduzimati mjere potrebne da do takvih događaja više ne dođe, o čemu su dužne voditi evidenciju te obavještavati nadležne službe sukladno posebnim propisima.
+(2) Pravne osobe dužne su voditi evidenciju svih požara koji su nastali na njihovom vlasništvu, kao i razlozima njihova nastanka.
+(3) Za potrebe analize stanja zaštite od požara i poduzimanja mjera njezina unapređenja policijska uprava obavlja stručno istraživanje uzroka nastalih požara, o čemu vodi evidenciju na informacijskom sustavu. U slučaju požara sa posljedicama po ljudski život ili s većom materijalnom štetom ili iz drugih razloga Ministarstvo obavlja vještačenje požara, pri čemu može obavljanje pojedinih stručnih radnji povjeriti znanstvenim ili drugim stručnim ustanovama ili osobama.
+(4) Vještačenje požara obavlja se i na zahtjev državnog odvjetništva prema posebnom propisu.
+(5) Kada se utvrdi da je zbog neprovođenja zaštite od požara došlo do požara s većom materijalnom štetom, Ministarstvo, odnosno nadležna policijska uprava obavještava jedinicu lokalne i područne (regionalne) samouprave na čijem području je došlo do požara radi traženja povrata troškova vatrogasne intervencije u skladu sa propisom kojim se uređuje područje vatrogastva.
+(6) Osiguravajuća društva će pratiti i analizirati stanje predmeta osiguranja zaštite od požara ovisno o uzroku požara i materijalnoj šteti te mogu predlagati mjere i financijski poticati stručne studije, projekte i programe razvoja sigurnih tehnologija, kao i primjenu inženjerskih metoda kojima se smanjuje ili sprječava nastanak i širenje požara.
+Članak 58.
+(1) Radi promicanja i doprinosa zaštiti života, zdravlja i sigurnosti ljudi, životinja, imovine, okoliša i prirode od požara, pravnim i fizičkim osobama, sudionicima zaštite od požara, dodjeljuju se godišnja priznanja i nagrade.
+(2) Ministar će pravilnikom propisati vrste priznanja i nagrada iz stavka 1. ovoga članka te postupak, način i mjerila za njihovu dodjelu, kao i vođenje evidencije.
+(3) Za odlučivanje o dodjeli priznanja i nagrada iz stavka 1. ovoga članka ministar imenuje Povjerenstvo za dodjelu priznanja i nagrada iz zaštite od požara, na vrijeme od četiri godine, koje čine predsjednik i četiri člana. Članovi Povjerenstva imenuju se iz redova Ministarstva i strukovnih organizacija.
+XI. FINANCIRANJE
+Članak 59.
+(1) Fizičke i pravne osobe osiguravaju financijska sredstva za provedbu zaštite od požara na svom vlasništvu prema vlastitim planovima i općim aktima iz zaštite od požara te propisanim obvezama.
+(2) Jedinice lokalne i područne (regionalne) samouprave osiguravaju u svojim proračunima financijska sredstva za provedbu zaštite od požara na svom području prema vlastitim planovima zaštite od požara te propisanim obvezama.
+(3) Financiranje provedbe zaštita od požara pravnih osoba i udruga koje obavljaju vatrogasnu djelatnost i djelatnost zaštite i spašavanja osigurava se prema posebnom propisu kojim se uređuje područje vatrogastva i zaštite i spašavanja.
+(4) Za provedbu godišnjeg programa aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku iz članka 12. stavka 9. ovoga Zakona Vlada Republike Hrvatske osigurava financijska sredstva u državnom proračunu.
+(5) Vlada Republike Hrvatske i jedinice lokalne i područne (regionalne) samouprave mogu, prema vlastitim odlukama, a u cilju unapređenja zaštite od požara, sredstvima iz proračuna sufinancirati nabavu vozila, uređaja i opreme za zaštitu od požara pravnim osobama na svom području.
+(6) Osiguravajuća društva mogu, prema vlastitim odlukama, vlastitim sredstvima sufinancirati nabavu vozila, uređaja i opreme za zaštitu od požara pravnim osobama ili lokalnoj samoupravi, u cilju unapređenja zaštite od požara na njihovom vlasništvu ili području.
+XII. KAZNENE ODREDBE
+Članak 60.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj tijelo za ocjenjivanje sukladnosti, odnosno pravna osoba koja obavlja poslove ocjenjivanja sukladnosti bez rješenja o ovlaštenju (članak 6. stavak 5.).
+(2) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će odgovorna osoba u tijelu za ocjenjivanje sukladnosti, odnosno pravnoj osobi za prekršaj iz stavka 1. ovoga članka.
+Članak 61.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna ili kaznom zatvora do 60 dana kaznit će se za prekršaj fizička osoba koja izazove požar. Osoba koja izazove požar iz nehaja kaznit će se za prekršaj novčanom kaznom od 2.000,00 kn do 15.000,00 kn (članak 8. stavak 3.).
+(2) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba koja propustom izazove požar (članak 8. stavak 3.).
+(3) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će odgovorna osoba u pravnoj osobi za prekršaj iz stavka 2. ovoga članka.
+(4) Ministarstvo vodi evidenciju osoba koje su kažnjene za prekršaj iz stavka 1. ovoga članka.
+Članak 62.
+(1) Novčanom kaznom u iznosu od 1.000,00 do 15.000,00 kuna kaznit će se za prekršaj fizička osoba:
+– koja ne prijavi nastanak požara i sve informacije o požaru (članak 11. stavak 2.),
+– koja ne omogući inspektoru ili drugoj ovlaštenoj osobi nesmetano obavljanje njegovih ovlasti (članak 44. stavak 2.),
+– koja ne postupi po zahtjevu odnosno naredbi inspektora (članak 44. stavak 3.),
+– koja ošteti ili odstrani službeni pečat inspektora stavljen u postupku provedbe mjere zabrane (članak 55. stavak 3.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se pravna osoba novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna.
+(4) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj fizička osoba koja ne pristupi otklanjanju neposredne opasnosti, odnosno gašenju požara ili o tome ne obavijesti najbližu vatrogasnu postrojbu, policiju ili Državni centar za sustav 112, odnosno ne postupi prema planu zaštite od požara (članak 18. stavak 1. i 2.).
+Članak 63.
+Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj vlasnik odnosno korisnik građevine, građevinskih dijelova i drugih nekretnina te prostora odnosno upravitelji zgrada:
+– koji ne održavaju evakuacijske putove i vatrogasne pristupe slobodnima i propisno označenima (članak 37.),
+– koji ne posjeduju uređaje, opremu i sredstva za gašenje požara (članak 38. stavak 1.),
+– koji ne posjeduju uvjerenje o ispravnosti i funkcionalnosti izvedenih stabilnih sustava zaštite od požara (članak 40. stavak 1.),
+– koji nenamjenski koriste vozila, uređaje, opremu, alat ili sredstva za zaštitu od požara ili stabilne sustave za zaštitu od požara (članak 39. stavak 2. i članak 40. stavak 4.),
+– koji nemaju vidljivu oznaku o provjeri ispravnosti i funkcionalnosti mobilnih aparata za gašenje požara (članak 41. stavak 2.),
+– koji u slučaju privremenog povećanog požarnog rizika ne poduzmu odgovarajuće dodatne, organizacijske i tehničke mjere zaštite od požara (članak 43. stavak 1.).
+Članak 64.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba ako obavlja poslove provjere ispravnosti i funkcionalnosti stabilnih sustava bez ovlaštenja ili protivno propisima (članak 40. stavak 1. i 2.).
+(2) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba, fizička osoba obrtnik ili stručna služba (serviser) ako ispituje ispravnost i funkcionalnosti prijenosnih i prijevoznih aparata bez ovlaštenja ili protivno propisima (članak 41. stavak 2. i 5).
+(3) Za prekršaj iz stavka 1. i 2. ovoga članka kaznit će se odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna.
+(4) Uz kaznu za prekršaj iz stavka 1. ovoga članka pravnoj osobi može se primijeniti zaštitna mjera oduzimanja ovlaštenja od tri do šest mjeseci, a za ponovljeni prekršaj uz novčanu kaznu izreći će se zaštitna mjera u trajanju od šest mjeseci do jedne godine.
+Članak 65.
+(1) Novčanom kaznom u iznosu od 2.000,00 do 150.000,00 kuna kaznit će se za prekršaj vlasnik, odnosno korisnik građevine, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada ako ne poduzmu mjere naložene rješenjem:
+– ministra o razvrstavanju u kategoriju ugroženosti od požara u roku određenom tim rješenjem (članak 20. stavak 2.),
+– inspektora Ministarstva, odnosno nadležne policijska uprave (članak 54. stavak 1.).
+(2) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka odgovorna osoba u pravnoj osobi i tijelu jedinice lokalne i područne (regionalne) samouprave.
+(3) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba ako ne poduzme mjere zabrane naložene rješenjem Ministarstva, odnosno nadležne policijske uprave (članak 55. stavak 5.).
+(4) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 3. ovoga članka odgovorna osoba u pravnoj osobi i tijelu jedinice lokalne i područne (regionalne) samouprave.
+Članak 66.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba ako izrađuje elaborat zaštite od požara, a nije za to ovlaštena (članak 28. stavak 3.).
+(2) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba ako:
+– je obavila kontrolu glavnog projekta, a nije za to ovlaštena (članak 29. stavak 1.),
+– je kao revident, obavila provjeru projekta u čijoj je izradi u cijelosti ili djelomično sudjelovala (članak 30. stavak 1.),
+– projekt ili dio projekta za koji je provela kontrolu i dala pozitivno izvješće ne udovoljava zahtjevima iz ovoga Zakona, posebnih zakona i propisa donesenih na temelju tih zakona, tehničkih specifikacija i pravila struke u vezi s kontroliranim svojstvom (članak 30. stavak 2.),
+– nije sastavila pisano izvješće o provjeri projekta i/ili nije ovjerila dijelove projekta na propisani način (članak 31. stavak 1.).
+(3) Uz kaznu za prekršaj iz stavka 2. ovoga članka osobi koja obavlja provjeru projekta (revidentu) može se primijeniti zaštitna mjera oduzimanja ovlaštenja za provjeru projekta od šest mjeseci do jedne godine, a za ponovljeni prekršaj uz novčanu kaznu izreći će se navedena mjera u trajanju od jedne godine do dvije godine.
+XII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 67.
+(1) Provedbene propise iz ovoga Zakona ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+(2) Ministar, u suglasnosti s nadležnim ministrom, u okviru ovlasti utvrđenih zakonom, donosi podzakonske propise o uvjetima sigurnosti i zaštite od požara za građevine javne namjene, stambene, poslovne i druge građevine, šume i usjeve te ostale građevine u kojima postoji povećana opasnost nastajanja požara.
+(3) Do donošenja provedbenih propisa na temelju ovoga Zakona, ostaju na snazi provedbeni propisi doneseni na temelju Zakon o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.), osim Pravilnika o uvjetima za ispitivanje uvezenih uređaja za gašenje požara (»Narodne novine«, br. 75/94.) koji ostaje na snazi do dana pristupanja Republike Hrvatske Europskoj uniji, ukoliko nisu u suprotnosti s odredbama ovoga Zakona.
+Članak 68.
+Pravne i fizičke osobe ovlaštene za obavljanje poslova na temelju Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) nastavljaju s obavljanjem poslova kao osobe ovlaštene prema odredbama ovoga Zakona, osim:
+– pravnih ili fizičkih osoba odnosno stručnih službi iz članka 41. ovoga Zakona ovlaštenih na temelju članka 22. stavka 5. Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) za obavljanje poslova održavanja vatrogasnih aparata, koje su dužne uskladiti svoje poslovanje s odredbom članka 41. ovoga Zakona do 1. listopada 2011. godine,
+– pravnih osoba ovlaštenih na temelju članka 21. stavka 7. Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) za izdavanje isprava o ispravnosti i podobnosti za namijenjenu svrhu kojima prestaje ovlaštenje danom pristupanja Republike Hrvatske Europskoj uniji.
+Članak 69.
+Postupci započeti do stupanja na snagu ovoga Zakona dovršit će se po odredbama propisa koji su bili na snazi do dana stupanja na snagu ovoga Zakona.
+Članak 70.
+Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.).
+Članak 71.
+(1) Danom pristupanja Republike Hrvatske Europskoj uniji prestaju važiti odredbe članka 5. stavka 2. i 3. i članka 6. stavka 7. ovoga Zakona.
+(2) Danom pristupanja Republike Hrvatske Europskoj uniji prestaju važiti sljedeći propisi:
+– Pravilnik o tehničkim normativima za uređaje za automatsko zatvaranje vrata ili vatrootpornih zaklopaca (Službeni list, broj 35/80.),
+– Pravilnik o tehničkim normativima za stabilne uređaje za gašenje požara ugljičnim dioksidom (Službeni list, br. 44/83. i 31/89.),
+– Pravilnik o tehničkim normativima za zaštitu od požara i eksplozija pri čišćenju posuda za zapaljive tekućine (Službeni list, br. 44/83. i 60/86.),
+– Pravilnik o tehničkim normativima za sustave za odvođenje dima i topline pri požaru (Službeni list, broj 45/83.),
+– Pravilnik o tehničkim normativima za zaštitu visokih objekata od požara (Službeni list, broj 7/84.),
+– Pravilnik o tehničkim normativima za uređaje u kojima se nanose i suše premazna sredstva (Službeni list, broj 57/85.),
+– Naredba o obveznom atestiranju ručnih i prijevoznih uređaja za gašenje požara (Službeni list, broj 16/83. i »Narodne novine«, br. 1/01.).
+(3) Danom pristupanja Republike Hrvatske Europskoj uniji svojstva reakcije na požar i otpornosti na požar u graditeljstvu navedena u podzakonskim propisima donesenim na temelju Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) određuju se prema hrvatskim normama kojima su preuzete usklađene europske norme, a dokazuju sukladno posebnim propisima iz područja ocjenjivanja sukladnosti.
+(4) Danom pristupanja Republike Hrvatske Europskoj uniji ili stupanjem na snagu međunarodnog sporazuma o ocjenjivanju sukladnosti i prihvaćanju industrijskih proizvoda (ACCA) za proizvode iz članka 6. ovoga Zakona, ukoliko ta činjenica nastupi ranije:
+– u članku 6. stavku 2. ovoga Zakona riječi: »na hrvatskom jeziku i latiničnom pismu«, zamjenjuju se riječima: »na hrvatskom jeziku i latiničnom pismu ili na jeziku koji mogu lako razumjeti potrošači i drugi korisnici«,
+– u članku 7. ovoga Zakona riječi: »Republici Hrvatskoj«, zamjenjuju se riječima: »Europskoj uniji«.
+Članak 72.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 28. do 32. ovoga Zakona koje stupaju na snagu 1. listopada 2011.
+Klasa: 214-01/10-01/03
+Zagreb, 15. srpnja 2010.
+HRVATSKI SABOR
+Predsjednik Hrvatskoga sabora Luka Bebić, v. r.
+
