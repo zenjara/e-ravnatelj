@@ -1,25 +1,43 @@
 "use client";
 
 import { useRef, useState } from "react";
+import Link from "next/link";
+
+interface Source {
+  slug: string;
+  title: string;
+  article: string;
+}
 
 /**
- * Find "članak" references in the answer so the user can verify the source.
- * Matches Croatian declensions (članak/članka/članku/člankom/članci/…) followed
- * by a number, and renders each canonically as "Članak N.".
+ * Find cited article numbers in the answer. Matches Croatian declensions
+ * (članak/članka/članku/člankom/članci/…) followed by a number.
  * (Avoids \b — JS word boundaries don't play well with "č".)
  */
-function findArticles(text: string): string[] {
+function findArticleNumbers(text: string): string[] {
   const re = /član(?:ak|ka|ku|kom|cima|aka|ci)\.?\s+(\d+[a-z]?)/gi;
   const nums = new Set<string>();
   for (const m of text.matchAll(re)) nums.add(m[1].toLowerCase());
-  return [...nums]
-    .sort((a, b) => parseInt(a, 10) - parseInt(b, 10))
-    .map((n) => `Članak ${n}.`);
+  return [...nums].sort((a, b) => parseInt(a, 10) - parseInt(b, 10));
+}
+
+/** Decode the base64-JSON X-Sources header (UTF-8 safe). */
+function decodeSources(b64: string | null): Source[] {
+  if (!b64) return [];
+  try {
+    const json = new TextDecoder().decode(
+      Uint8Array.from(atob(b64), (c) => c.charCodeAt(0)),
+    );
+    return JSON.parse(json) as Source[];
+  } catch {
+    return [];
+  }
 }
 
 export function AskForm() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
+  const [sources, setSources] = useState<Source[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const abortRef = useRef<AbortController | null>(null);
@@ -32,6 +50,7 @@ export function AskForm() {
     setLoading(true);
     setError(null);
     setAnswer("");
+    setSources([]);
     abortRef.current = new AbortController();
 
     try {
@@ -47,6 +66,8 @@ export function AskForm() {
         setError(data?.error ?? "Došlo je do greške. Pokušajte ponovno.");
         return;
       }
+
+      setSources(decodeSources(res.headers.get("X-Sources")));
 
       const reader = res.body.getReader();
       const decoder = new TextDecoder();
@@ -66,7 +87,7 @@ export function AskForm() {
     }
   }
 
-  const articles = answer ? findArticles(answer) : [];
+  const articleNumbers = answer ? findArticleNumbers(answer) : [];
 
   return (
     <div className="flex flex-col gap-4">
@@ -108,19 +129,31 @@ export function AskForm() {
         <div className="flex flex-col gap-3 rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-white/5">
           <p className="whitespace-pre-wrap text-sm leading-relaxed">{answer}</p>
 
-          {articles.length > 0 ? (
+          {articleNumbers.length > 0 ? (
             <div className="flex flex-wrap items-center gap-2 border-t border-black/10 pt-3 dark:border-white/10">
               <span className="text-xs text-black/50 dark:text-white/50">
                 Citirano:
               </span>
-              {articles.map((a) => (
-                <span
-                  key={a}
-                  className="rounded-full bg-black/5 px-2.5 py-0.5 text-xs font-medium dark:bg-white/10"
-                >
-                  {a}
-                </span>
-              ))}
+              {articleNumbers.map((n) => {
+                const src = sources.find((s) => s.article === n);
+                const label = `Članak ${n}.`;
+                const chip =
+                  "rounded-full bg-black/5 px-2.5 py-0.5 text-xs font-medium dark:bg-white/10";
+                return src ? (
+                  <Link
+                    key={n}
+                    href={`/zakoni/${src.slug}#clanak-${n}`}
+                    title={`Otvori: ${src.title}`}
+                    className={`${chip} underline-offset-2 hover:underline`}
+                  >
+                    {label}
+                  </Link>
+                ) : (
+                  <span key={n} className={chip}>
+                    {label}
+                  </span>
+                );
+              })}
             </div>
           ) : null}
         </div>

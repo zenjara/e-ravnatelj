@@ -28,7 +28,8 @@ function titleOf(file: string): string {
     .trim();
 }
 
-function slugify(s: string): string {
+/** URL slug for a law, derived from its title/source name. */
+export function slugify(s: string): string {
   return s
     .normalize("NFD") // decomposes č/ć/š/ž into base letter + combining mark
     .replace(/\p{Diacritic}/gu, "") // remove the combining marks
