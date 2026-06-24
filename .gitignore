@@ -38,6 +38,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# large local backup artifact (regenerate with: npm run dump:chunks)
+/supabase/law_chunks_dump.sql.gz
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

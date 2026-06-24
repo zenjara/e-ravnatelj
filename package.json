@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "seed": "node --env-file=.env.local scripts/seed.mjs",
-    "ingest": "node --env-file=.env.local scripts/ingest.mjs"
+    "ingest": "node --env-file=.env.local scripts/ingest.mjs",
+    "dump:chunks": "node --env-file=.env.local scripts/dump-chunks.mjs"
   },
   "dependencies": {
     "@google/genai": "^2.8.0",
