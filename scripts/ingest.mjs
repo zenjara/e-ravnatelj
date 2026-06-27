@@ -170,7 +170,7 @@ async function main() {
   // Stable identity per chunk so re-runs are idempotent/resumable.
   const keyOf = (c) =>
     createHash("md5").update(`${c.source}${c.article}${c.content}`).digest("hex");
-  console.log(`Total: ${chunks.length} chunks from ${files.length} files`);
+  console.log(`Total: ${chunks.length} chunks from ${laws.length} laws`);
 
   // 2. Skip chunks already embedded (resume after a rate-limit stop).
   const done = new Set();
