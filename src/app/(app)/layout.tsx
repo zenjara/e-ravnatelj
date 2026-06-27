@@ -18,6 +18,7 @@ export default async function AppLayout({
   return (
     <AppShell
       school={session.school || null}
+      isAdmin={session.role === "admin"}
       laws={laws.map(({ slug, title }) => ({ slug, title }))}
       logout={
         <form

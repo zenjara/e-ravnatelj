@@ -10,11 +10,13 @@ import { LawNav } from "./law-nav";
  */
 export function AppShell({
   school,
+  isAdmin,
   laws,
   logout,
   children,
 }: {
   school: string | null;
+  isAdmin: boolean;
   laws: { slug: string; title: string }[];
   logout: React.ReactNode;
   children: React.ReactNode;
@@ -41,7 +43,7 @@ export function AppShell({
           className="flex-1 overflow-y-auto p-3"
           onClick={() => setOpen(false)}
         >
-          <LawNav laws={laws} />
+          <LawNav laws={laws} isAdmin={isAdmin} />
         </div>
 
         {logout}

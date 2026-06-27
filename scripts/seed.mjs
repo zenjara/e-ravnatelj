@@ -20,11 +20,19 @@ const PRINCIPALS = [
     username: "ravnatelj1",
     password: "lozinka123",
     school_name: "OŠ Ivana Gundulića, Zagreb",
+    role: "principal",
   },
   {
     username: "ravnatelj2",
     password: "lozinka456",
     school_name: "OŠ Petra Preradovića, Đakovo",
+    role: "principal",
+  },
+  {
+    username: "admin",
+    password: "admin123",
+    school_name: "Administrator",
+    role: "admin",
   },
 ];
 
@@ -52,6 +60,7 @@ async function main() {
       username: p.username,
       password_hash: await bcrypt.hash(p.password, SALT_ROUNDS),
       school_name: p.school_name,
+      role: p.role,
     })),
   );
 

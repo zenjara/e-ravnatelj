@@ -7,9 +7,6 @@
 //
 // Idempotent: clears law_chunks and rebuilds. Requires 0002_law_chunks.sql applied.
 
-import { readdir, readFile } from "node:fs/promises";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { createHash } from "node:crypto";
 import { createClient } from "@supabase/supabase-js";
 import { GoogleGenAI } from "@google/genai";
@@ -47,14 +44,6 @@ function tokenBatches(items) {
 const MAX_CHUNK_CHARS = 4000; // split longer articles/annexes into sub-chunks
 const MAX_EMBED_CHARS = 8000; // hard ceiling for embedding input
 
-const LAWS_DIR = path.join(
-  path.dirname(fileURLToPath(import.meta.url)),
-  "..",
-  "src",
-  "content",
-  "laws",
-);
-
 const ARTICLE_RE = /^\s*Članak\s+(\d+[a-z]?)\b/i;
 const SECTION_RE = /^\s*[IVXLC]+\.\s+\S/; // roman-numeral section headings
 
@@ -65,14 +54,6 @@ function env(name) {
     process.exit(1);
   }
   return v;
-}
-
-function sourceName(file) {
-  return file
-    .replace(/\.(md|txt)$/i, "")
-    .replace(/[_-]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
 }
 
 /** Split one law's text into { article, heading, content } chunks by članak. */
@@ -171,15 +152,20 @@ async function main() {
   const supabase = createClient(url, key, { auth: { persistSession: false } });
   const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-  // 1. Collect chunks from every law file.
-  const files = (await readdir(LAWS_DIR)).filter(
-    (f) => /\.(md|txt)$/i.test(f) && !f.startsWith("_") && f.toLowerCase() !== "readme.md",
-  );
+  // 1. Collect chunks from the `laws` table (source of truth — kept in sync with
+  //    admin-approved changes; the .txt files are only the initial seed).
+  const { data: laws, error: lawsErr } = await supabase
+    .from("laws")
+    .select("title, current_text")
+    .order("title");
+  if (lawsErr) {
+    console.error("✗ could not read laws table:", lawsErr.message);
+    console.error("  → Apply 0003 migration and run `npm run seed:laws` first.");
+    process.exit(1);
+  }
   const chunks = [];
-  for (const f of files.sort()) {
-    const text = await readFile(path.join(LAWS_DIR, f), "utf8");
-    const c = chunkLaw(sourceName(f), text);
-    chunks.push(...c);
+  for (const law of laws) {
+    chunks.push(...chunkLaw(law.title, law.current_text));
   }
   // Stable identity per chunk so re-runs are idempotent/resumable.
   const keyOf = (c) =>

@@ -20,6 +20,8 @@ export interface SessionPayload {
   usr: string;
   /** school name (org, not personal PII) */
   school: string;
+  /** role: "principal" | "admin" */
+  role: string;
   /** expiry, epoch milliseconds */
   exp: number;
 }

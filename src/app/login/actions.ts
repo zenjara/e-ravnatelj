@@ -38,7 +38,7 @@ export async function login(
     const supabase = getSupabaseAdmin();
     const { data: user, error } = await supabase
       .from("users")
-      .select("id, username, password_hash, school_name")
+      .select("id, username, password_hash, school_name, role")
       .eq("username", username)
       .maybeSingle();
 
@@ -51,6 +51,7 @@ export async function login(
       uid: user.id,
       usr: user.username,
       school: user.school_name ?? "",
+      role: user.role ?? "principal",
     });
   } catch (e) {
     console.error("login error:", e);

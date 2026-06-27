@@ -57,6 +57,14 @@ export async function requireSession(): Promise<SessionPayload> {
   return session;
 }
 
+/** Require an admin session; send non-admins home, unauthenticated to /login. */
+export async function requireAdmin(): Promise<SessionPayload> {
+  const session = await getSession();
+  if (!session) redirect("/login");
+  if (session.role !== "admin") redirect("/");
+  return session;
+}
+
 /** Clear the session cookie (logout). */
 export async function deleteSession(): Promise<void> {
   const store = await cookies();

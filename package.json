@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "seed": "node --env-file=.env.local scripts/seed.mjs",
+    "seed:laws": "node --env-file=.env.local scripts/seed-laws.mjs",
     "ingest": "node --env-file=.env.local scripts/ingest.mjs",
     "dump:chunks": "node --env-file=.env.local scripts/dump-chunks.mjs"
   },

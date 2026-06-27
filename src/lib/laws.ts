@@ -1,31 +1,16 @@
 import "server-only";
-import { readdir, readFile } from "node:fs/promises";
-import path from "node:path";
+import { getSupabaseAdmin } from "@/lib/supabase-admin";
 
 /**
- * Lists and reads the law texts in `src/content/laws/` for the in-app reader.
- * These are the same files used as the RAG ingestion source.
+ * Laws are stored in the `laws` table (authoritative, editable at runtime).
+ * The reader and the RAG ingestion both read from here; the .txt files in
+ * src/content/laws/ are only the initial seed.
  */
-
-const LAWS_DIR = path.join(process.cwd(), "src", "content", "laws");
 
 export interface LawMeta {
   slug: string;
   title: string;
-  file: string;
-}
-
-function isLawFile(name: string): boolean {
-  if (name.startsWith("_") || name.toLowerCase() === "readme.md") return false;
-  return /\.(md|txt)$/i.test(name);
-}
-
-function titleOf(file: string): string {
-  return file
-    .replace(/\.(md|txt)$/i, "")
-    .replace(/[_-]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
+  kind: string;
 }
 
 /** URL slug for a law, derived from its title/source name. */
@@ -40,20 +25,26 @@ export function slugify(s: string): string {
     .replace(/^-+|-+$/g, "");
 }
 
-/** All laws, sorted by title, each with a URL slug. */
+/** All laws, sorted by title. */
 export async function listLaws(): Promise<LawMeta[]> {
-  const files = (await readdir(LAWS_DIR)).filter(isLawFile);
-  return files
-    .map((file) => ({ file, title: titleOf(file), slug: slugify(titleOf(file)) }))
-    .sort((a, b) => a.title.localeCompare(b.title, "hr"));
+  const { data, error } = await getSupabaseAdmin()
+    .from("laws")
+    .select("slug, title, kind")
+    .order("title");
+  if (error) throw new Error(`listLaws failed: ${error.message}`);
+  return (data ?? []).sort((a, b) => a.title.localeCompare(b.title, "hr"));
 }
 
-/** Full text + title for one law, or null if the slug is unknown. */
+/** Full current text + title for one law, or null if the slug is unknown. */
 export async function getLaw(
   slug: string,
 ): Promise<{ title: string; text: string } | null> {
-  const law = (await listLaws()).find((l) => l.slug === slug);
-  if (!law) return null;
-  const text = await readFile(path.join(LAWS_DIR, law.file), "utf8");
-  return { title: law.title, text };
+  const { data, error } = await getSupabaseAdmin()
+    .from("laws")
+    .select("title, current_text")
+    .eq("slug", slug)
+    .maybeSingle();
+  if (error) throw new Error(`getLaw failed: ${error.message}`);
+  if (!data) return null;
+  return { title: data.title, text: data.current_text };
 }
