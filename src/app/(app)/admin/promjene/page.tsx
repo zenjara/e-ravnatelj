@@ -2,6 +2,27 @@ import Link from "next/link";
 import { requireAdmin } from "@/lib/session";
 import { getSupabaseAdmin } from "@/lib/supabase-admin";
 import { approveProposal, rejectProposal } from "../actions";
+import { ProposalDiff, type ArticleChange } from "../proposal-diff";
+
+/** Parse the stored per-article "PRIJE/POSLIJE" diff text into structured pairs. */
+function parseDiff(diff: string | null): ArticleChange[] {
+  if (!diff) return [];
+  return diff
+    .split(/══════ Članak /)
+    .slice(1)
+    .map((b) => {
+      const article = (b.match(/^(\d+[a-z]?)/)?.[1] ?? "").trim();
+      const pIdx = b.indexOf("— PRIJE —");
+      const aIdx = b.indexOf("— POSLIJE —");
+      if (pIdx === -1 || aIdx === -1) return null;
+      return {
+        article,
+        before: b.slice(pIdx + "— PRIJE —".length, aIdx).trim(),
+        after: b.slice(aIdx + "— POSLIJE —".length).trim(),
+      };
+    })
+    .filter((x): x is ArticleChange => x !== null);
+}
 
 // Re-ingestion (embedding ~hundreds of chunks) can take a while.
 export const maxDuration = 60;
@@ -71,17 +92,15 @@ export default async function PromjenePage() {
                 {p.amendment_title ? (
                   <p className="text-sm font-medium">{p.amendment_title}</p>
                 ) : null}
+
                 {p.summary ? (
-                  <p className="mt-1 text-sm text-black/70 dark:text-white/70">
+                  <div className="mt-2 rounded-md border-l-2 border-black/25 bg-black/[0.025] px-3 py-2 text-sm text-black/75 dark:border-white/25 dark:bg-white/[0.03] dark:text-white/75">
+                    <span className="mr-1 font-medium">Sažetak:</span>
                     {p.summary}
-                  </p>
+                  </div>
                 ) : null}
 
-                {p.diff ? (
-                  <pre className="mt-3 max-h-96 overflow-auto whitespace-pre-wrap rounded-md bg-black/[0.03] p-3 text-xs leading-relaxed dark:bg-white/[0.04]">
-                    {p.diff}
-                  </pre>
-                ) : null}
+                <ProposalDiff changes={parseDiff(p.diff)} />
               </div>
 
               <footer className="flex items-center gap-2 border-t border-black/10 px-4 py-3 dark:border-white/10">
