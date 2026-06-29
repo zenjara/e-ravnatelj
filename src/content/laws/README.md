@@ -1,21 +1,28 @@
 # Law texts (propisi)
 
-This folder holds the **plain text** of the Croatian laws and regulations the AI
-answers from. These files are the **source corpus** for retrieval (RAG): they are
-chunked per article (članak), embedded, and stored in Supabase (`law_chunks`).
-At question time `/api/ask` retrieves the most relevant articles — it does NOT
-read these files at runtime.
+This folder is the **initial seed** for the law corpus. The runtime source of
+truth is the Supabase `laws` table (editable via the admin UI); these files are
+loaded into it. From there each law is chunked per article (članak), embedded,
+and stored in `law_chunks`. At question time `/api/ask` retrieves the most
+relevant articles — nothing is read from this folder at runtime.
 
-## How to add / update a law
+## How to add / update / remove a law
 
-1. Drop the full text into a `.md` or `.txt` file here (one file per propis),
-   `README.md` and files starting with `_` are ignored.
+1. Add/edit/rename/delete `.md` or `.txt` files here (one file per propis; the
+   filename becomes the title + slug). `README.md` and files starting with `_`
+   are ignored.
 2. Keep the article markers (`Članak N`) intact — chunking splits on them, and
    the model cites them.
-3. Re-run ingestion to (re)build the vector store:
+3. Sync the DB to match this folder:
    ```
-   npm run ingest        # requires 0002_law_chunks.sql applied in Supabase
+   npm run sync:laws
    ```
+   This upserts current files into the `laws` table, **removes** laws whose file
+   was deleted/renamed (and their chunks), and **re-embeds only changed/new**
+   laws (unchanged ones are skipped — no cost). Use this for everyday changes.
+
+   (`npm run seed:laws` + `npm run ingest` still exist for the first bulk load;
+   `ingest` is resumable but only ADDS — it won't clean up deletions/renames.)
 
 ## If the source is a PDF or .doc/.docx
 
