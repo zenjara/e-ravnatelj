@@ -1,0 +1,1158 @@
+﻿ZAKON O ZAŠTITI NA RADU
+ 
+I. OPĆE ODREDBE
+ 
+Članak 1. (NN 94/18)
+Predmet i svrha Zakona
+(1) Ovim Zakonom uređuje se sustav zaštite na radu u Republici Hrvatskoj, a osobito nacionalna politika i aktivnosti, opća načela prevencije i pravila zaštite na radu, obveze poslodavca, prava i obveze radnika i povjerenika radnika za zaštitu na radu, djelatnosti u vezi sa zaštitom na radu te nadzor i prekršajna odgovornost.
+(2) Svrha ovoga Zakona je sustavno unapređivanje sigurnosti i zaštite zdravlja radnika i osoba na radu, sprječavanje ozljeda na radu, profesionalnih bolesti i bolesti u vezi s radom.
+(3) Radi unapređivanja sigurnosti i zaštite zdravlja na radu propisuju se opća načela sprječavanja rizika na radu i zaštite zdravlja, pravila za uklanjanje čimbenika rizika i postupci osposobljavanja radnika te postupci obavješćivanja i savjetovanja radnika i njihovih predstavnika s poslodavcima i njihovim ovlaštenicima.
+(4) Ovim se Zakonom propisuju i dodatni uvjeti zaštite posebno osjetljivih skupina radnika i osoba na radu od, za njih, specifičnih rizika.
+ 
+Članak 2. (NN 94/18)
+(1) Ovim Zakonom se u pravni poredak Republike Hrvatske prenose sljedeće Direktive Europske unije:
+1) Direktiva Vijeća 89/391/EEZ od 12. lipnja 1989. o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu (SL L 183, od 29. 6. 1989.)
+2) Direktiva 2007/30/EZ Europskog parlamenta i Vijeća od 20. lipnja 2007. kojom se mijenja Direktiva Vijeća 89/391/EEZ, njezine pojedinačne direktive i direktive Vijeća 83/477/EEZ, 91/383/EEZ, 92/29/EEZ i 94/33/EZ u odnosu na pojednostavljenje i racionalizaciju izvješća o praktičnoj provedbi (SL L 165, od 27. 6. 2007.)
+3) Direktiva Vijeća 92/57/EEZ od 24. lipnja 1992. o primjeni minimalnih sigurnosnih i zdravstvenih zahtjeva na privremenim ili pokretnim gradilištima (osma pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 245, 26. 8. 1992.)
+4) Direktiva Vijeća 91/383/EEZ od 25. lipnja 1991. o dopunama mjera za poticanje poboljšanja sigurnosti i zdravlja na radu radnika u radnom odnosu na određeno vrijeme i privremenom radnom odnosu (SL L 206, od 29. 7. 1991.)
+5) Direktiva Vijeća 92/85/EEZ od 19. listopada 1992. o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja na radu trudnih radnica te radnica koje su nedavno rodile ili doje (deseta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 348, od 28. 11. 1992.)
+6) Direktiva Vijeća 94/33/EZ od 29. lipnja 1994. o zaštiti mladih ljudi na radu (SL L 216, od 20. 8. 1994.).
+(2) Vlada Republike Hrvatske će Europskoj komisiji podnositi jedinstveno izvješće o provedbi Direktive 89/391/EEZ i pojedinačnih direktiva u sadržaju i rokovima propisanih Direktivom 2007/30/EZ.
+ 
+Članak 3. (NN 94/18)
+Pojašnjenje pojmova
+(1) Pojmovi koji se koriste u ovom Zakonu i propisima donesenim na temelju ovoga Zakona imaju sljedeće značenje:
+1) Biološke štetnosti su biološki agensi, odnosno mikroorganizmi, uključujući i genetski modificirane, stanične kulture i endoparaziti čovječjeg i životinjskog porijekla, koji mogu uzrokovati zarazu, alergiju ili trovanje, a koji se koriste u radu ili su prisutni u radnom okolišu
+2) Bolesti u vezi s radom su bolesti koje uzrokuje više čimbenika od kojih je rad jedan od njih
+3) Druga osoba je osoba koja se po bilo kojoj osnovi rada nalazi na mjestu rada (poslovni suradnik, davatelj usluga i dr.)
+4) Eksplozivna atmosfera je smjesa zraka sa zapaljivim plinom ili parom ili maglicom ili prašinom pri atmosferskim uvjetima, u kojoj se nakon početnog paljenja, proces gorenja prenosi na cijelu smjesu, zbog čega predstavlja mogući izvor eksplozije ili požara na mjestu rada te može dovesti do ozljeđivanja radnika i drugih osoba
+5) Izdvojeno mjesto rada je mjesto rada u kojemu radnik ugovoreni posao obavlja kod kuće ili u drugom prostoru koji nije prostor poslodavca
+6) Mjesto rada je svako mjesto na kojemu radnici i osobe na radu moraju biti, ili na koje moraju ići, ili kojemu imaju pristup tijekom rada zbog poslova koje obavljaju za poslodavca, kao i svaki prostor, odnosno prostorija koju poslodavac koristi za obavljanje poslova i koja je pod njegovim izravnim ili neizravnim nadzorom
+7) Napori su statodinamički, psihofiziološki napori, napori vida i napori govora, koji mogu uzrokovati oštećenje zdravlja radnika koji su im izloženi
+8) Nezgoda je neočekivani i neželjeni događaj na radu ili u vezi s radom koji nije uzrokovao ozljeđivanje radnika, ali bi ga pri minimalno izmijenjenim subjektivnim, odnosno objektivnim okolnostima, u ponovljenom slučaju mogao uzrokovati
+9) Opasne kemikalije su tvari, smjese i pripravci u skladu s posebnim propisom
+10) Opasnosti su svi uvjeti na radu i u vezi s radom, koji mogu ugroziti sigurnost i zdravlje radnika
+11) Osoba na radu je fizička osoba koja nije u radnom odnosu kod tog poslodavca, ali za njega obavlja određene aktivnosti, odnosno poslove (osoba na stručnom osposobljavanju za rad; osoba na sezonskom radu za obavljanje privremenih, odnosno povremenih sezonskih poslova u poljoprivredi; osoba koja radi na određenim poslovima u skladu s posebnim propisom; redoviti student i redoviti učenik srednjoškolske ustanove na radu u skladu s posebnim propisom; osoba koja radi kao volonter, naučnik, student i učenik na praksi, osoba koja radi u vrijeme izdržavanja kazne zatvora ili odgojne mjere i slično)
+12) Ovlaštenik je radnik kojemu je poslodavac, neovisno o drugim ugovorenim poslovima, dao ovlaštenja za provedbu zaštite na radu
+13) Ovlaštena osoba je pravna ili fizička osoba koju je ministarstvo nadležno za rad ovlastilo za obavljanje poslova zaštite na radu
+14) Ozljeda na radu je ozljeda radnika nastala u prostoru poslodavca u kojemu obavlja rad, ili ga tijekom rada koristi, ili mu može pristupiti, odnosno u drugom prostoru koji nije prostor poslodavca, ali radnik u njemu obavlja rad
+15) Poslodavac je fizička ili pravna osoba za koju radnik, odnosno osoba na radu obavlja poslove
+16) Poslovi s posebnim uvjetima rada su poslovi pri čijem obavljanju radnik koji radi na tim poslovima mora, osim općih uvjeta za zasnivanje radnog odnosa, ispunjavati propisane posebne uvjete koji se odnose na dob, stručnu osposobljenost, zdravstveno stanje, odnosno psihičku sposobnost
+17) Povjerenik radnika za zaštitu na radu je radnik koji je u skladu s ovim Zakonom izabran da zastupa interese radnika na području zaštite na radu
+18) Prevencija je planirana, odnosno poduzeta mjera u svakom radnom postupku kod poslodavca, s ciljem sprječavanja ili smanjenja rizika na radu
+19) Radilište je privremeno ili pokretno mjesto rada, kao što je gradilište, šumarsko radilište, mjesto gradnje broda te mjesta na kojima se obavljaju privremeni radovi na održavanju, rušenju i popravcima, poljoprivredni radovi i radovi na istraživanju i iskorištavanju mineralnih sirovina
+20) Radna oprema su strojevi i uređaji, postrojenja, sredstva za prijenos i prijevoz tereta i alati te skele i druga sredstva za povremeni rad na visini
+21) Radni okoliš čine fizikalni, kemijski i biološki čimbenici na mjestu rada i u njegovom okruženju
+22) Radnica koja doji dijete je radnica majka djeteta u dobi do navršene prve godine života djeteta koje doji, koja je o tome obavijestila poslodavca u pisanom obliku najkasnije 30 dana prije povratka na rad
+23) Radnica koja je nedavno rodila, je radnica kojoj od poroda nije prošlo više od šest mjeseci, koja je o tome obavijestila poslodavca u pisanom obliku
+24) Radnik je fizička osoba koja u radnom odnosu obavlja poslove za poslodavca
+25) Rizik je umnožak vjerojatnosti nastanka opasnog ili štetnog događaja i štetnosti toga događaja, odnosno njegove posljedice
+26) Specijalist medicine rada je specijalist izabran od strane poslodavca u skladu s propisima o specifičnoj zdravstvenoj zaštiti i zdravstvenom osiguranju
+27) Sredstva rada su građevine namijenjene za rad s pripadajućim instalacijama, uređajima i opremom, prometna sredstva i radna oprema
+28) Stres na radu su zdravstvene i psihičke promjene koje su posljedica akumulirajućeg utjecaja stresora na radu kroz dulje vrijeme, a očituju se kao fiziološke, emocionalne i kognitivne reakcije te kao promjene ponašanja radnika
+29) Stručnjak zaštite na radu je radnik kojeg je poslodavac odredio za obavljanje poslova zaštite na radu i koji ispunjava propisane uvjete za obavljanje tih poslova
+30) Štetnosti su kemijske, biološke i fizikalne štetnosti, koje mogu uzrokovati oštećenje zdravlja radnika i drugih osoba koje su im izložene
+31) Trudna radnica je radnica koja je o trudnoći obavijestila poslodavca u pisanom obliku
+32) Zaštita na radu je sustav pravila, načela, mjera, postupaka i aktivnosti, čijom se organiziranom primjenom ostvaruje i unapređuje sigurnost i zaštita zdravlja na radu, s ciljem sprječavanja rizika na radu, ozljeda na radu, profesionalnih bolesti, bolesti u vezi s radom te ostalih materijalnih i nematerijalnih šteta na radu i u vezi s radom.
+(2) Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski rod.
+ 
+Članak 4. (NN 94/18)
+Područje primjene
+(1) Odredbe ovoga Zakona primjenjuju se u svim djelatnostima u kojima radnici obavljaju poslove za poslodavca.
+(2) Odredbe iz ovoga Zakona ne odnose se na obrtnika koji obrt obavlja sam kao niti na poslodavca kojeg zastupa jedna fizička osoba koja je ujedno i jedini radnik kod poslodavca, osim kada za njih obavljaju određene aktivnosti osobe na radu.
+(3) Osobe iz stavka 2. ovoga članka obvezne su primjenjivati ovaj Zakon kada zajedno s drugom osobom ili s više drugih osoba obavljaju radove na istom mjestu rada.
+(4) Pri obavljanju pojedinih specifičnih poslova kod kojih se zbog njihovih posebnosti i neizbježne proturječnosti s ovim Zakonom ne mogu u cijelosti primijeniti opća načela prevencije, kao pri pojedinim poslovima Oružanih snaga Republike Hrvatske, policije, zaštite i spašavanja, zaštite osoba i imovine, vatrogasaca i pirotehničara te drugim specifičnim poslovima, zaštita na radu uređuje se posebnim propisima ili priznatim pravilima zaštite na radu.
+(5) Obveze poslodavca u provođenju zaštite na radu propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona u odnosu na radnika odnose se i na osobe na radu ako ovim Zakonom nije drukčije propisano.
+(6) Odredbe ovoga Zakona ne odnose se na kućnu poslugu.
+ 
+ 
+II. NACIONALNA POLITIKA I AKTIVNOSTI
+ 
+Članak 5.
+Poseban društveni interes štititi život i zdravlje na radu
+(1) Život, zdravlje i očuvanje radne sposobnosti vrednote su od posebnog društvenog interesa u Republici Hrvatskoj.
+(2) Zaštita na radu kao organizirano sustavno djelovanje od javnog je interesa.
+ 
+Članak 6. (NN 94/18)
+Nadležnost Vlade Republike Hrvatske
+(1) Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) sustavno prati stanje u području zaštite na radu u Republici Hrvatskoj te uz savjetovanje s predstavnicima poslodavaca i radnika utvrđuje, predlaže, provodi i sustavno preispituje politiku zaštite na radu te predlaže izmjene zakonodavstva radi unapređivanja sigurnosti i zaštite zdravlja radnika i u tu svrhu osniva Nacionalno vijeće za zaštitu na radu.
+(2) Nacionalno vijeće za zaštitu na radu ima sedam članova.
+(3) Članove Nacionalnog vijeća iz stavka 2. ovoga članka imenuje Vlada odlukom kao svoje savjetodavno tijelo za zaštitu na radu, a čine ga dva predstavnika koje predlaže ministar nadležan za rad (u daljnjem tekstu: ministar), jedan predstavnik kojeg predlaže ministar nadležan za zdravstvo i po dva predstavnika poslodavaca i radnika koje predlažu reprezentativne udruge poslodavaca i radnika više razine prema posebnom propisu.
+(4) Ministarstvo nadležno za rad, u suradnji s Nacionalnim vijećem za zaštitu na radu, predlaže Vladi donošenje Nacionalnog programa zaštite na radu, koji se objavljuje u »Narodnim novinama«.
+(5) Administrativne poslove za Nacionalno vijeće za zaštitu na radu obavlja ministarstvo nadležno za rad.
+ 
+Članak 7.
+(1) Nacionalno vijeće za zaštitu na radu:
+1) prati, analizira i ocjenjuje sustav i politiku zaštite na radu i o svojim nalazima i ocjenama izvješćuje Vladu te predlaže potrebne promjene
+2) prati učinke primjene ovoga Zakona, njegovih provedbenih propisa, posebnih zakona i drugih propisa kojima se u Republici Hrvatskoj štite sigurnost i zdravlje radnika te, prema potrebi, predlaže Vladi njihove promjene, kao i njihovo usklađivanje s međunarodnim propisima
+3) daje mišljenje na nacrte iskaza o procjeni učinaka propisa i na nacrte prijedloga propisa iz područja zaštite na radu
+4) predlaže mjere za unapređivanje sustava zaštite na radu u Republici Hrvatskoj
+5) sudjeluje u organiziranju obilježavanja Nacionalnog dana zaštite na radu
+6) obavlja i druge poslove na zahtjev Vlade.
+(2) Predsjednika Nacionalnog vijeća biraju članovi Nacionalnog vijeća na svojoj prvoj sjednici.
+ 
+Članak 8.
+(1) Radi unapređivanja zaštite na radu u Republici Hrvatskoj, pravnim i fizičkim osobama mogu se dodijeliti priznanja i nagrade.
+(2) Ministar pravilnikom propisuje vrste priznanja i nagrada, njihov izgled, odnosno novčani iznos te postupak, način i uvjete za dodjelu priznanja i nagrada.
+67. Pravilnik o priznanjima i nagradama radi unapređivanja zaštite na radu
+ 
+Članak 9.
+Nacionalni dan zaštite na radu
+Nacionalni dan zaštite na radu obilježava se u Republici Hrvatskoj 28. travnja na Svjetski dan zaštite na radu.
+ 
+ 
+III. PRAVILA ZAŠTITE NA RADU I OPĆA NAČELA PREVENCIJE
+ 
+Članak 10.
+Pravila zaštite na radu
+(1) Zaštita na radu kao organizirano djelovanje obuhvaća sustav pravila, a osobito:
+1) pravila pri projektiranju i izradi sredstava rada
+2) pravila pri uporabi, održavanju, pregledu i ispitivanju sredstava rada
+3) pravila koja se odnose na radnike te prilagodbu procesa rada njihovom spolu, dobi, fizičkim, tjelesnim i psihičkim sposobnostima
+4) načine i postupke osposobljavanja i obavješćivanja radnika i poslodavaca sa svrhom postizanja odgovarajuće razine zaštite na radu
+5) načine i postupke suradnje poslodavca, radnika i njihovih predstavnika i udruga te državnih ustanova i tijela nadležnih za zaštitu na radu
+6) zabranu stavljanja radnika u nepovoljniji položaj zbog aktivnosti poduzetih radi zaštite na radu
+7) ostale mjere za sprječavanje rizika na radu, sa svrhom uklanjanja čimbenika rizika i njihovih štetnih posljedica.
+(2) Zaštita na radu kao sustavno organizirano djelovanje sastavni je dio organizacije rada i izvođenja radnog postupka, koje poslodavac ostvaruje primjenom osnovnih, posebnih i priznatih pravila zaštite na radu u skladu s općim načelima prevencije.
+ 
+Članak 11.
+Opća načela prevencije
+Poslodavac je obvezan provoditi zaštitu na radu na temelju sljedećih općih načela prevencije:
+1) izbjegavanja rizika
+2) procjenjivanja rizika
+3) sprječavanja rizika na njihovom izvoru
+4) prilagođavanja rada radnicima u vezi s oblikovanjem mjesta rada, izborom radne opreme te načinom rada i radnim postupcima radi ublažavanja jednoličnog rada, rada s nametnutim ritmom, rada po učinku u određenom vremenu (normirani rad) te ostalih napora s ciljem smanjenja njihovog štetnog učinka na zdravlje
+5) prilagođavanja tehničkom napretku
+6) zamjene opasnog neopasnim ili manje opasnim
+7) razvoja dosljedne sveobuhvatne politike prevencije povezivanjem tehnologije, organizacije rada, uvjeta rada, ljudskih odnosa i utjecaja radnog okoliša
+8) davanja prednosti skupnim mjerama zaštite pred pojedinačnim
+9) odgovarajuće osposobljavanje i obavješćivanje radnika
+10) besplatnosti prevencije, odnosno mjera zaštite na radu za radnike.
+ 
+Članak 12.
+Osnovna pravila zaštite na radu
+(1) Osnovna pravila zaštite na radu sadrže zahtjeve kojima mora udovoljavati sredstvo rada kada je u uporabi, a osobito:
+1) zaštitu od mehaničkih opasnosti
+2) zaštitu od udara električne struje
+3) sprječavanje nastanka požara i eksplozije
+4) osiguranje mehaničke otpornosti i stabilnosti građevine
+5) osiguranje potrebne radne površine i radnog prostora
+6) osiguranje potrebnih putova za prolaz, prijevoz i evakuaciju radnika i drugih osoba
+7) osiguranje čistoće
+8) osiguranje propisane temperature i vlažnosti zraka i ograničenja brzine strujanja zraka
+9) osiguranje propisane rasvjete
+10) zaštitu od buke i vibracija
+11) zaštitu od štetnih atmosferskih i klimatskih utjecaja
+12) zaštitu od fizikalnih, kemijskih i bioloških štetnih djelovanja
+13) zaštitu od prekomjernih napora
+14) zaštitu od elektromagnetskog i ostalog zračenja
+15) osiguranje prostorija i uređaja za osobnu higijenu.
+(2) Osnovna pravila zaštite na radu imaju prednost u primjeni u odnosu na posebna pravila zaštite na radu.
+ 
+Članak 13.
+Posebna pravila zaštite na radu
+(1) Ako se rizici za sigurnost i zdravlje radnika ne mogu ukloniti ili se mogu samo djelomično ukloniti primjenom osnovnih pravila zaštite na radu, dodatno se primjenjuju posebna pravila zaštite na radu koja se odnose na radnike, način obavljanja poslova i radne postupke.
+(2) Posebna pravila zaštite na radu sadrže zahtjeve glede dobi, spola, završenog stručnog obrazovanja i drugih oblika osposobljavanja i usavršavanja za rad, zdravstvenog stanja, tjelesnog stanja, psihofizioloških i psihičkih sposobnosti, kojima radnici moraju udovoljavati pri obavljanju poslova s posebnim uvjetima rada.
+(3) Posebna pravila zaštite na radu, osim zahtjeva iz stavka 2. ovoga članka, sadrže i prava i obveze u vezi s:
+1) organizacijom radnog vremena i korištenjem odmora
+2) načinom korištenja odgovarajuće osobne zaštitne opreme
+3) posebnim postupcima pri uporabi, odnosno izloženosti fizikalnim štetnostima, opasnim kemikalijama, odnosno biološkim štetnostima
+4) postavljanjem sigurnosnih znakova kojima se daje informacija ili uputa
+5) uputama o radnim postupcima i načinu obavljanja poslova, posebno glede trajanja posla, obavljanja jednoličnog rada i rada po učinku u određenom vremenu (normirani rad) te izloženosti radnika drugim naporima na radu ili u vezi s radom
+6) postupcima s ozlijeđenim ili oboljelim radnikom do pružanja hitne medicinske pomoći, odnosno do prijma u zdravstvenu ustanovu.
+ 
+Članak 14.
+Priznata pravila zaštite na radu
+Ako u pravnom poretku Republike Hrvatske nisu na snazi pravna pravila zaštite na radu koja bi poslodavac trebao primijeniti radi sigurnosti i zaštite zdravlja radnika, primjenjivat će priznata pravila zaštite na radu koja podrazumijevaju norme, pravila struke ili u praksi provjerene načine, pomoću kojih se otklanjaju ili smanjuju rizici na radu i kojima se sprječava nastanak ozljeda na radu, profesionalnih bolesti, bolesti u vezi s radom te ostalih štetnih posljedica za radnike.
+CentarZNR: Pravila zaštite na radu i opća načela prevencije
+ 
+Članak 15.
+Primjena za radnika najpovoljnijeg prava
+Ovaj Zakon i njegovi provedbeni propisi propisuju minimalne zahtjeve zaštite na radu, ali ne utječu na primjenu povoljnije zaštite na radu, ako je ta povoljnija zaštita propisana zakonom, drugim propisom, odnosno kolektivnim ugovorom, sporazumom sklopljenim između radničkog vijeća i poslodavca ili ugovorom o radu.
+ 
+Članak 16.
+Ovlaštenja ministara za donošenje podzakonskih propisa
+(1) Podzakonske propise zaštite na radu donosi ministar, odnosno ministar nadležan za zdravstvo uz suglasnost ministra, na temelju ovlasti propisanih ovim Zakonom.
+(2) Podzakonske propise koji se odnose na zdravstvenu zaštitu na radu donosi ministar nadležan za zdravstvo, na temelju ovlasti propisanih ovim Zakonom te posebnim propisima iz područja zdravstvene zaštite.
+(3) Podzakonske propise zaštite na radu u pojedinim područjima djelatnosti provedbenim propisima propisuju nadležni ministri uz suglasnost ministra.
+(4) Izradu stručnih podloga za podzakonske propise iz stavaka 1., 2. i 3. ovoga članka, nadležni ministar može povjeriti znanstvenoj ili stručnoj ustanovi, odnosno znanstvenicima ili stručnjacima za pojedina pitanja u vezi sa zaštitom na radu, te je ovlašten imenovati radne skupine za izradu nacrta prijedloga propisa.
+ 
+ 
+IV. OBVEZE POSLODAVCA U PROVOĐENJU ZAŠTITE NA RADU
+ 
+1. Organiziranje i provedba zaštite na radu
+ 
+Članak 17.
+Opće obveze poslodavca u vezi s organiziranjem i provođenjem zaštite na radu
+(1) Poslodavac je obvezan organizirati i provoditi zaštitu na radu, vodeći pri tome računa o prevenciji rizika te obavještavanju, osposobljavanju, organizaciji i sredstvima.
+(2) Poslodavac je obvezan provoditi prevenciju u svim radnim postupcima, u organizaciji rada i upravljanju radnim postupcima, pri čemu mora osigurati radnicima najveću moguću razinu zaštite na radu.
+(3) Pri organiziranju i provođenju zaštite na radu, poslodavac je obvezan uvažavati prirodu obavljanih poslova te prilagoditi zaštitu na radu promjenjivim okolnostima radi poboljšanja stanja.
+(4) Poslodavac je u organizaciji radnog procesa i povjeravanju poslova radniku obvezan voditi računa o sposobnostima radnika koje mogu utjecati na zaštitu na radu.
+(5) U svrhu unapređivanja sigurnosti i zaštite zdravlja radnika poslodavac je obvezan poboljšavati razinu zaštite na radu i usklađivati radne postupke s promjenama i napretkom u području tehnike, zdravstvene zaštite, ergonomije i drugih znanstvenih i stručnih područja, te ih je obvezan organizirati tako da smanji izloženost radnika opasnostima, štetnostima i naporima propisanima u pravilniku iz članka 18. stavka 6. ovoga Zakona, a osobito izloženost jednoličnom radu, radu s nametnutim ritmom, radu po učinku u određenom vremenu (normirani rad), radi sprječavanja ozljeda na radu, profesionalnih bolesti i bolesti u vezi s radom.
+(6) Troškove provođenja zaštite na radu snosi poslodavac, odnosno njezino provođenje ne smije teretiti radnika.
+(7) Ministar nadležan za zdravstvo, uz prethodnu suglasnost ministra, pravilnikom propisuje mjere, pravila, postupke i aktivnosti zaštite na radu radnika koji su izloženi statodinamičkim, psihofiziološkim i drugim naporima.
+ 
+Članak 18. (NN 94/18)
+Obveza procjene rizika na radu
+(1) Poslodavac je obvezan, uzimajući u obzir poslove i njihovu prirodu, procjenjivati rizike za život i zdravlje radnika i osoba na radu, osobito u odnosu na sredstva rada, radni okoliš, tehnologiju, fizikalne štetnosti, kemikalije, odnosno biološke agense koje koristi, uređenje mjesta rada, organizaciju procesa rada, jednoličnost rada, statodinamičke i psihofiziološke napore, rad s nametnutim ritmom, rad po učinku u određenom vremenu (normirani rad), noćni rad, psihičko radno opterećenje i druge rizike koji su prisutni, radi sprječavanja ili smanjenja rizika.
+(2) Poslodavac je obvezan imati procjenu rizika izrađenu u pisanom ili elektroničkom obliku, koja odgovara postojećim rizicima na radu i u vezi s radom i koja je dostupna radniku na mjestu rada.
+(3) Poslodavac je obvezan na temelju procjene rizika primjenjivati pravila zaštite na radu, preventivne mjere, organizirati i provoditi radne i proizvodne postupke, odnosno metode te poduzimati druge aktivnosti za sprječavanje i smanjenje izloženosti radnika utvrđenim rizicima, kako bi otklonio ili sveo na najmanju moguću mjeru vjerojatnost nastanka ozljede na radu, oboljenja od profesionalne bolesti ili bolesti u vezi s radom te kako bi na svim stupnjevima organizacije rada i upravljanja osigurao bolju razinu zaštite na radu.
+(4) Propusti učinjeni u postupku procjene rizika (npr. propust uočiti vjerojatnost nastanka opasnog ili štetnog događaja na radu ili u vezi s radom, pogrešna procjena štetnosti događaja, odnosno podcjenjivanje njegove štetne posljedice i sl.) ne oslobađaju poslodavca obveza i odgovornosti u vezi sa zaštitom na radu.
+(5) Poslodavac je obvezan radnike odnosno njihove predstavnike uključiti u postupak procjene rizika i o tome imati dokumentirane informacije.
+(6) Ministar pravilnikom propisuje uvjete, način i metodu izrade procjene rizika, obvezne sadržaje obuhvaćene procjenom, podatke na kojima se procjena rizika mora temeljiti i klasifikaciju opasnosti, štetnosti i napora na radu i u vezi s radom.
+CentarZNR: Procjena rizika – kako je izraditi?
+41. Pravilnik o izradi procjene rizika
+ 
+Članak 19.
+Odgovornost poslodavca za organiziranje i provođenje zaštite na radu
+(1) Poslodavac je odgovoran za organiziranje i provođenje zaštite na radu radnika u svim dijelovima organizacije rada i u svim radnim postupcima.
+(2) Poslodavac u skladu s općim propisom o radu, pravilnikom ili drugim aktom utvrđuje organizaciju provedbe zaštite na radu te prava, obveze i odgovornosti njegovih ovlaštenika i radnika, ako ta pitanja nisu uređena ovim Zakonom i propisima donesenima na temelju njega, kolektivnim ugovorom, sporazumom sklopljenim između radničkog vijeća i poslodavca ili ugovorom o radu.
+(3) Poslodavac je odgovoran za organiziranje i provođenje zaštite na radu, neovisno o tome je li u tu svrhu zaposlio jednog ili više stručnjaka zaštite na radu ili je obavljanje poslova zaštite na radu ugovorio s osobom ovlaštenom za obavljanje tih poslova.
+(4) Prenošenje ovlaštenja za provođenje zaštite na radu ne oslobađa poslodavca odgovornosti.
+(5) Na odgovornost poslodavca iz stavka 1. ovoga članka ne utječu propisane obveze radnika u području zaštite na radu.
+SUDSKA PRAKSA: Presuda
+CentarZNR: Popis obveza u zaštiti na radu za poslodavce
+ 
+Članak 20. (NN 94/18)
+Ugovaranje obavljanja poslova zaštite na radu
+(1) Poslodavac je obvezan utvrditi i obavljati poslove zaštite na radu u skladu s procjenom rizika, stanjem zaštite na radu i brojem radnika.
+(2) Poslodavac koji zapošljava do uključivo 49 radnika, poslove iz stavka 1. ovoga članka, može obavljati sam ako ispunjava propisane uvjete ili obavljanje tih poslova može ugovoriti ugovorom o radu sa stručnjakom zaštite na radu.
+(3) Poslodavac koji zapošljava 50 do uključivo 249 radnika, obavljanje poslova iz stavka 1. ovoga članka obvezan je ugovorom o radu ugovoriti sa stručnjakom zaštite na radu.
+(4) Poslodavac koji zapošljava 250 ili više radnika, obavljanje poslova iz stavka 1. ovoga članka, obvezan je ugovorom o radu ugovoriti s jednim ili više stručnjaka zaštite na radu u skladu s provedbenim propisom iz stavka 9. ovoga članka.
+(5) Poslodavac može ugovoriti obavljanje poslova zaštite na radu iz stavka 1. ovoga članka s ovlaštenom osobom samo u slučaju kada zbog objektivnih i opravdanih razloga ne može te poslove obavljati sam, odnosno te poslove ugovoriti na način iz stavaka 2., 3. i 4. ovoga članka.
+(6) Ako je poslodavac ugovorio obavljanje poslova zaštite na radu s ovlaštenom osobom, ta je osoba dužna pisanim putem odrediti jednog ili više stručnjaka zaštite na radu za obavljanje poslova zaštite na radu kod toga poslodavca.
+(7) Više poslodavaca koji posluju na istoj lokaciji mogu međusobno ugovoriti zajedničko obavljanje poslova zaštite na radu, primjenjujući kriterij broja radnika i ostale kriterije iz stavaka 1., 2., 3. i 4. ovoga članka.
+(8) Radnici, stručnjaci zaštite na radu, povjerenici radnika za zaštitu na radu i ovlaštene osobe obvezni su surađivati u provođenju zaštite na radu.
+(9) Ministar pravilnikom propisuje vrste, stupnjeve stručne spreme i broj stručnjaka zaštite na radu, način i uvjete obavljanja poslova zaštite na radu kod poslodavca, ovisno o rizicima, djelatnosti i broju radnika.
+CentarZNR: Pojašnjenja vezana za obveze iz čl. 20. Zakona
+62. Pravilnik o obavljanju poslova zaštite na radu
+68. Pravilnik o osposobljavanju i usavršavanju iz zaštite na radu te polaganju stručnog ispita
+ 
+Članak 21. (NN 94/18)
+Poslovi zaštite na radu
+(1) Poslovi zaštite na radu su osobito:
+1) stručna pomoć poslodavcu i njegovim ovlaštenicima, radnicima te povjerenicima radnika za zaštitu na radu u provedbi i unapređivanju zaštite na radu
+2) sudjelovanje u izradi poslovne strategije te operativnih planova i programa poslovanja poslodavca, u dijelu u kojem se moraju odnositi na zaštitu na radu, te sudjelovanje u primjeni upravljačkih metoda ili tehnika za provođenje strategije
+3) sudjelovanje u postupku izrade procjene rizika
+4) unutarnji nadzor nad primjenom pravila zaštite na radu te poticanje i savjetovanje poslodavca i njegovih ovlaštenika da otklanjaju nedostatke u zaštiti na radu utvrđene unutarnjim nadzorom
+5) prikupljanje i analiziranje podataka u vezi s nezgodama, ozljedama na radu, profesionalnim bolestima i bolestima u vezi s radom te priprema propisanih prijava ozljeda na radu i profesionalnih bolesti i izrada izvješća za potrebe poslodavca
+6) suradnja s tijelima nadležnima za poslove inspekcije rada, sa zavodom nadležnim za zaštitu zdravlja i sigurnost na radu,  ovlaštenima osobama te sa specijalistom medicine rada
+7) osposobljavanje radnika, poslodavca i ovlaštenika za rad na siguran način
+8) osposobljavanje povjerenika radnika za zaštitu na radu i pomaganje u njihovom djelovanju
+9) djelovanje u odboru za zaštitu na radu kod poslodavca
+10) suradnja s poslodavcem prilikom projektiranja, građenja i rekonstrukcije građevina namijenjenih za rad, nabave radne opreme i ostalih sredstava rada, osobne zaštitne opreme i opasnih kemikalija
+11) sudjelovanje u primjeni međunarodnih certifikacijskih normi za upravljanje zaštitom na radu, kvalitetom, rizicima, društvenom odgovornošću u poslovanju i sl. kod poslodavca
+12) ostali poslovi zaštite na radu u skladu s potrebama poslodavca.
+(2) O obavljenom unutarnjem nadzoru sastavljaju se i čuvaju dokumenti, koji mogu biti u pisanom ili elektroničkom obliku.
+(3) Poslove iz stavka 1. ovoga članka, pod uvjetima propisanima ovim Zakonom, obavlja poslodavac, stručnjak zaštite na radu, odnosno ovlaštena osoba.
+ 
+Članak 22. (NN 94/18)
+Uvjeti za rad stručnjaka zaštite na radu
+(1) Poslodavac je obvezan stručnjaku zaštite na radu omogućiti ispunjavanje obveza te je obvezan osigurati mu potrebno vrijeme, opremu, pomoć drugih stručnih radnika i ostale uvjete za rad, kao i profesionalnu neovisnost te ga ne smije staviti u nepovoljniji položaj zbog obavljanja poslova zaštite na radu prema odredbama ovoga Zakona i drugih propisa te prema pravilima struke.
+(2) Poslodavac je obvezan omogućiti stručnjaku zaštite na radu stručno usavršavanje iz zaštite na radu i snositi troškove toga osposobljavanja.
+(3) Ministar pravilnikom iz članka 20. stavka 9. ovoga Zakona propisuje način i uvjete polaganja stručnog ispita za stručnjaka zaštite na radu, sastav i način rada ispitne komisije, visinu naknade kojom se podmiruju troškovi polaganja stručnog ispita za stručnjaka zaštite na radu te uvjete za priznavanje statusa stručnjaka zaštite na radu, oblike stalnog stručnog usavršavanja i načine njegova vrednovanja te evidenciju izdanih uvjerenja stručnjacima zaštite na radu.
+68. Pravilnik o osposobljavanju i usavršavanju iz zaštite na radu te polaganju stručnog ispita
+69. Pravilnik o ovlaštenjima za poslove zaštite na radu
+ 
+Članak 23.
+Ovlaštenik
+Poslodavac može provođenje zaštite na radu prenijeti u pisanom obliku na svojeg ovlaštenika u okviru njegovog djelokruga rada.
+ 
+Članak 24.
+Poslovi ovlaštenika
+(1) Poslodavac koji zaštitu na radu provodi djelovanjem ovlaštenika obvezan je ovlastiti ovlaštenika, osobito za to da:
+1) radniku koji nije osposobljen za rad na siguran način ne dopusti rad bez nadzora osposobljenog radnika
+2) radniku za kojeg nije na propisani način utvrđeno da ispunjava tražene uvjete, ne dopusti obavljanje poslova s posebnim uvjetima rada, odnosno da radniku koji više ne ispunjava tražene uvjete zabrani da nastavi obavljati poslove s posebnim uvjetima rada
+3) posebno osjetljivim skupinama radnika ne dozvoli da obavljaju poslove koji bi mogli na njih štetno utjecati
+4) isključi iz uporabe radnu opremu koja nije ispravna, odnosno sigurna, kao i osobnu zaštitnu opremu na kojoj nastanu promjene zbog kojih postoje rizici za sigurnost i zdravlje radnika
+5) u suradnji sa stručnjakom za zaštitu na radu osigura evidentiranje svake nezgode i ozljede na radu te svakog slučaja postupanja radnika u skladu s odredbom članka 69. stavaka 3. i 4. ovoga Zakona
+6) nadzire da radnici rade u skladu s pravilima zaštite na radu, uputama poslodavca, odnosno proizvođača radne opreme, osobne zaštitne opreme, opasnih kemikalija i bioloških štetnosti te da koriste propisanu osobnu zaštitnu opremu
+7) radniku zabrani rad ako ga obavlja suprotno podstavku 6. ovoga stavka
+8) osigura potreban broj radnika osposobljenih za evakuaciju i spašavanje, za pružanje prve pomoći te da im stavi na raspolaganje svu potrebnu opremu
+9) osigura da se u vrijeme rada ne piju alkoholna pića te da se ne uzimaju druga sredstva ovisnosti, odnosno da zabrani rad radnicima koji su na radu pod utjecajem alkohola ili drugih sredstava ovisnosti i da ih udalji s mjesta rada.
+(2) Poslodavac je obvezan ovlašteniku osigurati uvjete za rad te ga ne smije staviti u nepovoljniji položaj zbog poduzimanja aktivnosti u skladu s pravilima zaštite na radu te postupanja po pravilima struke i danim ovlaštenjima poslodavca.
+(3) Pod uvjetima za rad iz stavka 2. ovoga članka podrazumijevaju se samostalnost ovlaštenika u donošenju i provođenju odluka te samostalnost u raspolaganju sredstvima koja mu je obvezan osigurati poslodavac.
+CentarZNR: Ovlaštenik poslodavca za zaštitu na radu - najvažnije
+ 
+ 
+2. Odgovornost za štetu na radu i u vezi s radom
+ 
+Članak 25.
+Odgovornost poslodavca
+(1) Ozljeda na radu i profesionalna bolest koju je radnik pretrpio obavljajući poslove za poslodavca smatra se da potječe od rada i poslodavac za nju odgovara po načelu objektivne odgovornosti.
+(2) Poslodavac može biti oslobođen odgovornosti ili se njegova odgovornost može umanjiti ako je šteta nastala zbog više sile, odnosno namjerom ili krajnjom nepažnjom radnika ili treće osobe, na koje poslodavac nije mogao utjecati niti je njihove posljedice mogao izbjeći, unatoč provedenoj zaštiti na radu.
+SUDSKA PRAKSA: Presuda, Presuda, Presuda, Presuda, Presuda, Presuda
+ 
+Članak 26.
+Odgovornost ovlaštene osobe i njezinog stručnjaka zaštite na radu
+(1) Ovlaštena osoba iz članka 82. ovoga Zakona odgovara za štetu na radu i u vezi s radom koju uzrokuje poslodavcu, odnosno radniku, obavljanjem poslova zaštite na radu, ako ne postupa u skladu s odredbama ovoga Zakona i drugih propisa.
+(2) Na utvrđivanje odgovornosti iz stavka 1. ovoga članka primjenjuju se opći propisi obveznog prava.
+ 
+ 
+3. Osposobljavanje za rad na siguran način
+ 
+Članak 27.
+Obveza osposobljavanja radnika za rad na siguran način
+(1) Poslodavac je obvezan, na temelju procjene rizika, osposobiti radnika za rad na siguran način, i to:
+1) prije početka rada
+2) kod promjena u radnom postupku
+3) kod uvođenja nove radne opreme ili njezine promjene
+4) kod uvođenja nove tehnologije
+5) kod upućivanja radnika na novi posao, odnosno na novo mjesto rada
+6) kod utvrđenog oštećenja zdravlja uzrokovanog opasnostima, štetnostima ili naporima na radu.
+(2) Poslodavac će osposobljavanje iz stavka 1. ovoga članka provesti na način da radnika obavijesti o svim činjenicama i okolnostima koje utječu ili bi mogle utjecati na sigurnost i zdravlje radnika (o organizaciji rada, rizicima i načinu izvođenja radnih postupaka i sl.), da radniku objasni i da radnika osposobi za praktičnu primjenu mjera zaštite na radu koje je dužan primjenjivati tijekom rada u skladu s procjenom rizika kojima je izložen na radu i u vezi s radom.
+(3) Osposobljavanje iz stavaka 1. i 2. ovoga članka poslodavac je obvezan provesti u slučaju promjene, odnosno pojave novih rizika, neovisno o tome je li s tim u vezi već izmijenio ili dopunio procjenu rizika.
+(4) Poslodavac je obvezan osposobljavanje radnika, ovlaštenika i povjerenika radnika za zaštitu na radu provoditi tijekom radnog vremena o svom trošku.
+SUDSKA PRAKSA: Presuda
+CentarZNR: Osposobljavanje radnika za rad na siguran način – kako ga obaviti?
+CentarZNR: Ponovno polaganje zaštite na radu kod promjene mjesta rada
+ 
+Članak 28.
+Zabrana rada radnika koji nije osposobljen za rad na siguran način
+(1) Poslodavac ne smije dozvoliti samostalno obavljanje poslova radniku koji prethodno nije osposobljen za rad na siguran način.
+(2) Radniku koji nije osposobljen za rad na siguran način poslodavac je obvezan osigurati rad pod neposrednim nadzorom radnika osposobljenog za rad na siguran način, ali ne dulje od 60 dana.
+CentarZNR: Znate li što je rad pod nadzorom u zaštiti na radu?
+ 
+Članak 29.
+Obvezno osposobljavanje i usavršavanje poslodavca i ovlaštenika
+Poslodavac, odnosno njegov ovlaštenik moraju biti osposobljeni i moraju se stručno usavršavati iz područja zaštite na radu, u skladu s procjenom rizika.
+ 
+Članak 30.
+Osposobljavanje za rad na siguran način
+(1) Poslodavci mogu osposobljavanje za rad na siguran način izvoditi sami ili povjeriti osobi ovlaštenoj za obavljanje tih poslova.
+(2) Osoba ovlaštena za obavljanje poslova osposobljavanja za rad na siguran način mora imati osnovna andragoška znanja, koja dokazuje ispravom ovlaštene ustanove o osposobljenosti iz područja osnovnih andragoških znanja, odnosno potvrdom visokoškolske ustanove, ako je ta znanja stekla tijekom studija.
+(3) Zapisnik o ocjeni osposobljenosti radnika za rad na siguran način sastavljaju i potpisuju neposredni ovlaštenik osposobljavanog radnika, radnik i stručnjak zaštite na radu.
+(4) Ministar pravilnikom iz članka 20. stavka 9. ovoga Zakona propisuje uvjete i način osposobljavanja za rad na siguran način iz članka 27. ovoga Zakona te uvjete i način osposobljavanja i usavršavanja iz članka 29. ovoga Zakona.
+ 
+ 
+4. Obavješćivanje i savjetovanje
+ 
+Članak 31.
+Obveza obavješćivanja i savjetovanja
+Poslodavac je obvezan obavješćivati i savjetovati se s radnicima, odnosno njihovim predstavnicima o pitanjima zaštite na radu u skladu s ovim Zakonom i općim propisima o radu.
+ 
+Članak 32. (NN 94/18)
+Obavješćivanje
+(1) Poslodavac je obvezan obavijestiti radnike, povjerenika radnika za zaštitu na radu, stručnjaka zaštite na radu, ovlaštenu osobu ako je s njom ugovorio obavljanje poslova zaštite na radu, i druge osobe o svim rizicima i promjenama koje bi mogle utjecati na sigurnost i zdravlje radnika, a osobito o:
+1) rizicima vezanim za mjesto rada i narav ili vrstu poslova, o mogućem oštećenju zdravlja te o zaštitnim i preventivnim mjerama i aktivnostima u svakom radnom postupku
+2) mjerama pružanja prve pomoći, zaštite od požara, zaštite i spašavanja radnika te o radnicima koji ih provode.
+(2) Poslodavac je obvezan pisanim uputama osigurati provedbu radnog postupka u skladu s pravilima zaštite na radu te je obvezan dati radnicima upute u skladu sa stavkom 1. ovoga članka.
+(3) Poslodavac je obvezan istaknuti na mjestima rada pisane upute o radnom okolišu, sredstvima rada, opasnim kemikalijama, biološkim štetnostima, opasnostima na radu, izvorima fizikalnih štetnosti i drugim rizicima na radu i u vezi s radom, u skladu s procjenom rizika.
+(4) Poslodavac je obvezan osigurati da pristup mjestima rada na kojima se obavljaju poslovi s posebnim uvjetima rada imaju samo radnici koji su dobili pisane upute za rad na siguran način i osobnu zaštitnu opremu čija obvezna uporaba proizlazi iz procjene rizika.
+(5) Poslodavac je obvezan stručnjaku zaštite na radu, ovlašteniku i povjereniku radnika za zaštitu na radu učiniti dostupnom odgovarajuću dokumentaciju, a osobito:
+1) procjenu rizika i popis mjera koje se provode u svrhu uklanjanja ili smanjenja procijenjenih rizika
+2) evidencije i isprave, koje je obvezan voditi i čuvati u skladu s odredbama članka 61. stavka 1. i 2. ovoga Zakona
+3) upravne mjere koje je naredio nadležni inspektor.
+(6) Poslodavac koji nema obvezu osnivanja odbora za zaštitu na radu i kod kojega je utemeljeno radničko vijeće ili djeluje sindikalni povjerenik s pravima i obvezama radničkog vijeća, obvezan je najmanje svakih tri mjeseca pisanim putem izvijestiti povjerenike radnika za zaštitu na radu o stanju zaštite na radu i planiranim aktivnostima u sljedećem izvještajnom razdoblju.
+(7) Poslodavac koji nema obvezu osnivanja odbora za zaštitu na radu i kod kojeg nije utemeljeno radničko vijeće ili ne djeluje sindikalni povjerenik s pravima i obvezama radničkog vijeća, obvezan je najmanje svakih šest mjeseci pisanim putem izvijestiti povjerenike radnika za zaštitu na radu o stanju zaštite na radu i planiranim aktivnostima u narednom izvještajnom razdoblju.
+(8) Iznimno od odredbe stavaka 6. i 7. ovoga članka, u slučaju svake smrtne ili teške ozljede na radu, utvrđenog slučaja profesionalne bolesti i nalaza nadležnog inspektora kojim je utvrđen nedostatak u provedbi zaštite na radu, poslodavac je obvezan o nastanku događaja odmah izvijestiti povjerenika radnika za zaštitu na radu.
+(9) U slučaju svake smrtne ili teške ozljede na radu, poslodavac je obvezan pozvati na očevid na mjestima rada povjerenika radnika za zaštitu na radu.
+(10) Poslodavac je obvezan pravodobno dati radniku upute o postupanju u slučaju nastanka neposrednog rizika za život i zdravlje, kojemu je, ili bi mogao biti izložen, kao i o mogućim mjerama koje je u tom slučaju potrebno poduzeti radi sprječavanja ili smanjivanja rizika.
+ 
+Članak 33.
+Savjetovanje
+Poslodavac je obvezan, unaprijed i pravodobno, savjetovati se s povjerenikom radnika za zaštitu na radu o:
+1) zapošljavanju stručnjaka zaštite na radu i poslovima koje će obavljati
+2) povjeravanju provođenja zaštite na radu ovlaštenoj osobi i poslovima koje će obavljati
+3) izradi procjene rizika te izmjenama, odnosno dopunama procjene rizika
+4) izboru radnika za pružanje prve pomoći i radnika za provođenje mjera zaštite od požara, evakuacije i spašavanja
+5) zaštiti i prevenciji od rizika na radu te sprječavanju i smanjivanju rizika
+6) sprječavanju nezgoda, ozljeda na radu i profesionalnih bolesti
+7) promjenama u procesu rada i tehnologiji
+8) planiranju i provođenju osposobljavanja iz zaštite na radu
+9) poboljšanju uvjeta rada te planiranju i uvođenju novih tehnologija
+10) utjecaju radnih uvjeta i radnog okoliša na sigurnost i zdravlje radnika
+11) izboru sredstava rada i osobne zaštitne opreme
+12) izloženosti radnika jednoličnom radu, radu s nametnutim ritmom, radu po učinku u određenom vremenu (normirani rad) te ostalim naporima.
+ 
+Članak 34. (NN 94/18)
+Odbor za zaštitu na radu
+(1) Poslodavac koji zapošljava 50 ili više radnika obvezan je osnovati odbor zaštite na radu (u daljnjem tekstu: odbor) kao svoje savjetodavno tijelo za unapređivanje zaštite na radu.
+(2) Iznimno od stavka 1. ovoga članka, odbor je obvezan osnovati i poslodavac koji zapošljava manje od 50 radnika ako je to propisano posebnim zakonom ili drugim propisom.
+(3) Odbor čine poslodavac ili njegov ovlaštenik, stručnjak zaštite na radu koji obavlja poslove zaštite na radu kod poslodavca, specijalist medicine rada izabran u skladu s posebnim propisom te povjerenik radnika za zaštitu na radu ili njihov koordinator.
+(4) Predsjednik odbora je poslodavac ili njegov ovlaštenik.
+(5) O imenovanju članova odbora poslodavac donosi pisanu odluku.
+(6) Radi rješavanja specifičnih problema zaštite na radu, poslodavac će u rad odbora uključiti stručnjake za pojedina područja.
+(7) Odbor se sastaje najmanje jedanput u šest mjeseci i o svojem radu vodi zapisnik.
+(8) Iznimno od odredbe stavka 7. ovoga članka, u slučaju događaja iz članka 65. stavka 1. i 2. ovoga Zakona, utvrđenog slučaja profesionalne bolesti ili nalaza nadležnog inspektora kojim je utvrđen nedostatak u provedbi zaštite na radu, poslodavac je obvezan sazvati sjednicu u roku od dva radna dana od nastanka ozljede.
+(9) O sjednici odbora iz stavka 8. ovoga članka poslodavac obavještava nadležnog inspektora, koji može prisustvovati sjednici.
+(10) Ako poslodavac sjednicu odbora ne sazove u rokovima iz stavaka 7. i 8. ovoga članka, sjednicu odbora ima pravo sazvati povjerenik radnika za zaštitu na radu ili koordinator povjerenika, odnosno radničko vijeće ili sindikalni povjerenik s pravima i obvezama radničkog vijeća.
+CentarZNR: Obveza osnivanja odbora za zaštitu na radu
+ 
+Članak 35.
+Poslovi odbora
+(1) Sa svrhom stalnog unapređivanja zaštite na radu, odbor planira i nadzire:
+1) primjenu pravila zaštite na radu kod poslodavca
+2) organizaciju obavljanja poslova zaštite na radu
+3) obavješćivanje i osposobljavanje u vezi sa zaštitom na radu
+4) prevenciju rizika na radu i u vezi s radom te njezine učinke na zdravlje i sigurnost radnika.
+(2) Poslovi odbora iz stavka 1. ovoga članka mogu se proširiti kolektivnim ugovorom i sporazumom sklopljenim između radničkog vijeća i poslodavca.
+ 
+ 
+5. Poslovi s posebnim uvjetima rada
+ 
+Članak 36.
+Obveze poslodavca u vezi s poslovima s posebnim uvjetima rada
+(1) Poslodavac ne smije dopustiti obavljanje poslova s posebnim uvjetima rada radniku koji ne ispunjava uvjete propisane posebnim propisom iz stavka 6. ovoga članka, odnosno posebnim propisom za te poslove.
+(2) Osobu s kojom namjerava sklopiti ugovor o radu za obavljanje poslova s posebnim uvjetima rada, poslodavac upućuje na pregled specijalistu medicine rada, uputnicom koja sadrži podatke o naravi ili vrsti poslova i drugim okolnostima od utjecaja na ocjenu njezine sposobnosti za obavljanje tih poslova i mogućeg utjecaja štetnosti s mjesta rada na zdravlje radnika.
+(3) Poslodavac je obvezan radnika koji obavlja poslove s posebnim uvjetima rada ponovno uputiti na pregled prije isteka roka utvrđenog propisom iz stavka 6. ovoga članka ili kada to ocijeni specijalist medicine rada.
+(4) Poslodavac ne smije dozvoliti radniku da obavlja poslove s posebnim uvjetima rada ako ga ponovno ne uputi na pregled u roku u kojem je to bio obvezan učiniti ili ako radnik odbije pristupiti pregledu na koji ga je uputio.
+(5) Na izdvojenim mjestima rada u smislu općeg propisa o radu ne mogu se obavljati poslovi s posebnim uvjetima rada.
+(6) Ministar nadležan za zdravstvo, uz suglasnost ministra, pravilnikom propisuje poslove s posebnim uvjetima rada i uvjete koje moraju ispunjavati radnici koji obavljaju te poslove.
+CentarZNR: Poslovi s posebnim uvjetima rada (PUR) | obveze poslodavaca
+ 
+ 
+6. Posebno osjetljive skupine radnika
+ 
+Članak 37.
+Posebno osjetljive skupine radnika
+(1) Posebno osjetljive skupine kojima je poslodavac obvezan osigurati posebnu zaštitu na radu su maloljetni radnici, trudne radnice, radnice koje su nedavno rodile, radnice koje doje, radnici oboljeli od profesionalne bolesti te radnici kod kojih je utvrđena smanjena i preostala radna sposobnost ili postoji neposredni rizik od smanjenja radne sposobnosti.
+(2) Radi provedbe posebne zaštite na radu, poslodavac je obvezan u procjeni rizika naznačiti poslove koji su potencijalno rizični za posebno osjetljive skupine radnika iz stavka 1. ovoga članka.
+ 
+Članak 38.
+Posebna zaštita na radu maloljetnih radnika
+(1) Poslodavac je obvezan osigurati posebnu zaštitu na radu maloljetniku radi očuvanja njegovog nesmetanoga duševnog i tjelesnog razvoja.
+(2) Maloljetnik ne smije obavljati poslove s posebnim uvjetima rada, osim maloljetnika koji je završio stručno srednjoškolsko obrazovanje za te poslove i koji ispunjava ostale propisane uvjete.
+(3) Radi sigurnosti i zaštite zdravlja na radu maloljetnika, poslodavac je obvezan:
+1) prilagoditi uvjete i raspored radnog vremena radi uklanjanja rizika za sigurnost i zdravlje
+2) osigurati druge odgovarajuće poslove, odnosno mjesto rada, ako prilagodbe nisu izvedive, odnosno opravdane
+3) osigurati primjenu ostalih pravila zaštite na radu, u skladu s posebnim propisom.
+ 
+Članak 39.
+Posebna zaštita na radu trudnih radnica, radnica koje su nedavno rodile i koje doje
+(1) Poslodavac je obvezan provoditi posebnu zaštitu na radu trudnih radnica, radnica koje su nedavno rodile i radnica koje doje, radi zaštite od rizika koji bi mogli ugroziti ostvarivanje materinstva i oporavak od trudnoće i poroda.
+(2) Trudna radnica i radnica koja doji ne smije obavljati poslove utvrđene pravilnikom iz članka 45. stavka 5. ovoga Zakona.
+(3) Radi zaštite od rizika kojima ne smiju biti izložene, poslodavac je obvezan radnicama iz stavka 1. ovoga članka:
+1) prilagoditi uvjete i organizaciju radnog vremena, radi uklanjanja rizika za sigurnost i zdravlje
+2) osigurati mogućnost obavljanja drugih odgovarajućih poslova, odnosno rad na drugom mjestu rada, ako prilagodbe nisu tehnički izvedive, odnosno opravdane na poslovima ili mjestu rada koje su obavljale, odnosno na kojima su radile prije trudnoće ili poroda.
+(4) Prilagodba uvjeta, organizacija radnog vremena te promjena mjesta rada ne smije imati za posljedicu smanjenje plaće radnicama iz stavka 1. ovoga članka.
+(5) Ako nije moguće osigurati posebnu zaštitu na radu, radnice iz stavka 1. ovoga članka ostvaruju pravo na dopust uz naknadu plaće u skladu s posebnim propisom.
+(6) Ocjenu o rizicima koji bi mogli štetno utjecati na sigurnost i zdravlje trudnih radnica, odnosno na plod te na sigurnost i zdravlje radnica koje su nedavno rodile, kao i ocjenu o tome koji su poslovi za njih odgovarajući, daje specijalist medicine rada na prijedlog specijalista ginekologije, odnosno porodništva, na temelju procjene rizika.
+(7) Ocjenu o rizicima koji bi mogli štetno utjecati na sigurnost i zdravlje djeteta koje doji radnica, kao i ocjenu o tome koji su poslovi za nju odgovarajući, daje specijalist medicine rada na prijedlog specijalista pedijatra, odnosno izabranog liječnika obiteljske medicine, na temelju procjene rizika.
+50. Pravilnik o sigurnosti i zaštiti zdravlja na radu trudne radnice, radnice koja je nedavno rodila i radnice koja doji
+ 
+Članak 40.
+Posebna zaštita na radu radnika kojima je utvrđena smanjena i preostala radna sposobnost ili su izloženi neposrednom riziku od smanjenja radne sposobnosti
+(1) Poslodavac je obvezan provoditi posebnu zaštitu na radu za radnike kod kojih je utvrđeno oboljenje od profesionalne bolesti, kojima je nadležno tijelo za vještačenje prema posebnom propisu utvrdilo smanjenu i preostalu radnu sposobnost ili su izloženi neposrednom riziku od smanjenja radne sposobnosti, radi sprječavanja daljnjeg oštećenja zdravlja i umanjenja preostale radne sposobnosti.
+(2) Pravo na posebnu zaštitu na radu ostvaruje i radnik za kojega je specijalist medicine rada utvrdio da je trajno nesposoban raditi na poslovima s posebnim uvjetima rada, kada je štetnost ili napor na mjestu rada uzrok oštećenju zdravlja.
+(3) Poslodavac je obvezan radnicima iz stavaka 1. i 2. ovoga članka:
+1) prilagoditi radne uvjete i organizaciju radnog vremena, radi uklanjanja izloženosti rizicima za sigurnost i zdravlje
+2) omogućiti obavljanje drugih odgovarajućih poslova, odnosno rad na drugom mjestu rada, ako prilagodbe nisu tehnički izvedive, odnosno opravdane na mjestu rada ili na poslovima koje su obavljali u vrijeme utvrđenja oboljenja od profesionalne bolesti, smanjenja radne sposobnost ili izloženosti neposrednom riziku od smanjenja radne sposobnosti ili trajne nesposobnosti za rad na poslovima s posebnim uvjetima rada.
+ 
+ 
+7. Sredstva rada, osobna zaštitna oprema i mjesta rada
+ 
+Članak 41.
+Obveze poslodavca u vezi sa sredstvima rada, osobnom zaštitnom opremom i mjestima rada
+(1) Poslodavac je obvezan osigurati da su mjesta rada koja se koriste u svakom trenutku sigurna, održavana, prilagođena za rad i u ispravnom stanju, u skladu s pravilima zaštite na radu.
+(2) Poslodavac je obvezan prestati s radom u građevinama namijenjenima za rad na kojima nastanu promjene zbog kojih postoji opasnost za sigurnost i zdravlje radnika.
+(3) Poslodavac je obvezan osigurati da sredstva rada i osobna zaštitna oprema u uporabi budu u svakom trenutku sigurni, održavani, prilagođeni za rad i u ispravnom stanju te da se koriste u skladu s pravilima zaštite na radu, tehničkim propisima i uputama proizvođača tako da u vrijeme rada ne ugrožavaju radnike.
+(4) Poslodavac je obvezan isključiti iz uporabe sredstva rada i osobnu zaštitnu opremu na kojoj nastanu promjene zbog kojih postoje rizici za sigurnost i zdravlje radnika.
+(5) Kad organizacijskim mjerama, odnosno osnovnim pravilima zaštite na radu nije moguće otkloniti ili u dovoljnoj mjeri ograničiti rizike za sigurnost i zdravlje radnika, poslodavac je obvezan osigurati odgovarajuću osobnu zaštitnu opremu i osigurati da je radnici koriste na propisani način pri obavljanju poslova.
+SUDSKA PRAKSA: Presuda, Presuda
+ 
+Članak 42.
+(1) Poslodavac je obvezan, u skladu s ovim Zakonom, njegovim provedbenim propisima, pravilima zaštite na radu, posebnim propisima, odnosno uputama proizvođača, obavljati preglede, odnosno ispitivanja sredstava rada koja se koriste, radi utvrđivanja jesu li na njima primijenjena pravila zaštite na radu i jesu li zbog nastalih promjena tijekom njihove uporabe ugroženi sigurnost i zdravlje radnika.
+(2) Ministar pravilnikom propisuje mjere, pravila i rokove pregleda ili ispitivanja u vezi sa sredstvima rada, sigurnosnim znakovima, osobnom zaštitnom opremom te mjestima rada.
+49. Pravilnik o sigurnosnim znakovima
+54. Pravilnik o pregledu i ispitivanju radne opreme
+56. Pravilnik o zaštiti na radu pri uporabi radne opreme
+63. Pravilnik o zaštiti na radu za mjesta rada
+65. Pravilnik o uporabi osobne zaštitne opreme
+ 
+Članak 43. (NN 94/18)
+Nadzorni uređaji kao sredstva zaštite na radu
+(1) Poslodavac smije koristiti nadzorne uređaje kao sredstvo zaštite na radu pod uvjetima propisanima ovim Zakonom.
+(2) Dopušteno je korištenje nadzornih uređaja radi kontrole ulazaka i izlazaka iz radnih prostorija i prostora te radi smanjenja izloženosti radnika riziku od razbojstva, provala, nasilja, krađa i sličnih događaja na radu ili u vezi s radom.
+(3) Zabranjeno je postavljanje nadzornih uređaja u prostorijama za osobnu higijenu i presvlačenje radnika.
+(4) Ako nadzorni uređaji čitavo radno vrijeme prate sve pokrete radnika tijekom obavljanja poslova, odnosno ako su nadzorni uređaji postavljeni tako da su radnici čitavo vrijeme tijekom rada u vidnom polju nadzornih uređaja, poslodavac smije koristiti nadzorne uređaje isključivo na temelju prethodne suglasnosti radničkog vijeća, odnosno sindikalnog povjerenika s pravima i obvezama radničkog vijeća.
+(5) Ako radničko vijeće, odnosno sindikalni povjerenik s pravima i obvezama radničkog vijeća uskrati suglasnost, poslodavac može u roku od 15 dana od dana dostave izjave o uskrati suglasnosti tražiti da tu suglasnost nadomjesti sudska ili arbitražna odluka u skladu s općim propisom o radu.
+(6) Poslodavac je obvezan prilikom zapošljavanja pisanim putem obavijestiti radnika da će biti nadziran nadzornim audio, odnosno video uređajima.
+(7) Poslodavac ne smije koristiti snimljene materijale u svrhe koje nisu propisane ovim člankom, ne smije ih emitirati u javnosti niti pred osobama koje nemaju ovlasti na nadzor opće sigurnosti i zaštite na radu te je obvezan osigurati da snimljeni materijali ne budu dostupni neovlaštenim osobama.
+(8) Odredbe ovoga članka o zabrani snimanja i zabrani korištenja snimljenih materijala obvezuju poslodavca i u odnosu na djecu i maloljetnike, neovisno nalaze li se na mjestima rada u svojstvu maloljetnih radnika ili osoba na radu.
+ 
+ 
+8. Tehnologija rada i radni postupci
+ 
+Članak 44.
+Obveze poslodavca u vezi s tehnologijom rada i radnim postupcima
+(1) Poslodavac je obvezan planirati, pripremati i provoditi radne postupke te razraditi i primjenjivati tehnologiju rada tako da ne ugrožava sigurnost i zdravlje radnika, uvažavajući pri tome najvišu moguću razinu zaštite od rizika na radu i u vezi s radom, u skladu s pravilima zaštite na radu i drugim propisima.
+(2) Poslodavac je obvezan osigurati da samo radnici koji su dobili odgovarajuće upute smiju imati pristup mjestima na kojima postoji ozbiljna i specifična opasnost.
+(3) Obveze iz stavaka 1. i 2. ovoga članka poslodavac ostvaruje u skladu s procjenom rizika, koju je obvezan usklađivati sa znanstvenim i stručnim spoznajama, odnosno napretkom.
+SUDSKA PRAKSA: Presuda
+ 
+ 
+9. Radni okoliš
+ 
+Članak 45.
+Obveza ispitivanja radnog okoliša
+(1) Poslodavac je obvezan procijeniti rizike i osigurati zaštitu zdravlja i sigurnost radnika izloženih fizikalnim, kemijskim i biološkim štetnim djelovanjima na radu, u skladu s ovim Zakonom, njegovim provedbenim propisima i pravilima zaštite na radu te posebnim propisima o zaštiti od fizikalnih, kemijskih i bioloških štetnosti.
+(2) Poslodavac je obvezan ispitivati radni okoliš na mjestu rada kada:
+1) radni postupak utječe na temperaturu, vlažnost i brzinu strujanja zraka
+2) u radnom postupku nastaje prašina
+3) u radnom postupku nastaje buka, odnosno vibracije
+4) pri radu koristi, proizvodi ili prerađuje opasne kemikalije
+5) pri radu postoji izloženost opasnim zračenjima
+6) su na radu prisutni rizici od eksplozivne atmosfere
+7) je pri radu potrebno osigurati odgovarajuću rasvjetu u skladu s procjenom rizika.
+(3) Ispitivanja iz stavka 2. ovoga članka poslodavac je obvezan obaviti na način i u rokovima utvrđenim provedbenim propisima i pravilima zaštite na radu te posebnim propisima.
+(4) Iznimno od stavaka 2. i 3. ovoga članka, obveza ispitivanja postoji odmah nakon što su nastali uvjeti, odnosno promjene zbog kojih je ispitivanje obvezno.
+(5) Ministar, uz suglasnost ministra nadležnog za zdravstvo, pravilnikom propisuje pravila zaštite radnika izloženih fizikalnim, kemijskim i biološkim štetnostima na radu ili u vezi s radom te obvezu, način i postupke ispitivanja radnog okoliša, rokove ispitivanja, sadržaj, oblik i način sastavljanja zapisnika te izdavanja isprava.
+50. Pravilnik o sigurnosti i zaštiti zdravlja na radu trudne radnice, radnice koja je nedavno rodila i radnice koja doji 
+53. Pravilnik o ispitivanju radnog okoliša
+59. Pravilnik o zaštiti radnika od izloženosti opasnim kemikalijama na radu, graničnim vrijednostima izloženosti i biološkim graničnim vrijednostima
+64. Pravilnik o zaštiti radnika od rizika zbog izloženosti biološkim štetnostima na radu
+70. Pravilnik o zaštiti radnika od izloženosti buci na radu
+71. Pravilnik o zaštiti radnika od izloženosti vibracijama na radu
+ 
+Članak 46.
+Obveze poslodavca u vezi s uporabom opasnih kemikalija na radu
+(1) Poslodavac je obvezan primjenom manje opasnih i štetnih tehnologija, radnih postupaka i radnih tvari stalno unapređivati zaštitu na radu.
+(2) Poslodavac koji koristi, proizvodi, prerađuje, odnosno skladišti opasne kemikalije, mora, u skladu s procjenom rizika, primjenjivati pravila zaštite na radu.
+ 
+Članak 47.
+Redoslijed postupanja s opasnim kemikalijama
+(1) Opasne kemikalije poslodavac smije koristiti samo ako ne može iste radne rezultate postići primjenom bezopasnih kemikalija.
+(2) Ako nije moguća zamjena opasnih kemikalija bezopasnim ili manje opasnim, odnosno manje štetnim kemikalijama, poslodavac je obvezan utvrditi da li se primjenom drugog radnog postupka može smanjiti opasnost ili štetnost od njihove primjene.
+(3) Ako koristi opasne kemikalije, poslodavac je obvezan pravila zaštite na radu primjenjivati sljedećim redoslijedom:
+1) koristiti zatvorene sustave, ako je to moguće prema vrsti poslova i stanju tehnike
+2) odvoditi s mjesta nastanka, odnosno izvan radnog okoliša opasne plinove, pare, prašine i aerosole čije oslobađanje ne može spriječiti, na način da pri odvođenju ne onečišćuje ljudski okoliš
+3) kada ne može odvoditi opasne plinove, pare, prašine i aerosole s mjesta nastanka, ograničiti na najmanju moguću mjeru:
+− količinu opasne kemikalije
+− broj radnika izloženih djelovanju opasne kemikalije
+− vrijeme izlaganja radnika utjecaju opasne kemikalije
+4) osigurati da radnici pri radu s opasnim kemikalijama koriste propisanu osobnu zaštitnu opremu, ako se pravilima navedenima u podstavcima 1., 2. i 3. ovoga stavka ne može postići zadovoljavajuća sigurnost i zaštita zdravlja radnika.
+ 
+Članak 48.
+Provjeravanje koncentracije opasnih kemikalija na radu
+(1) Obveza je poslodavca da koncentracija opasnih kemikalija, koje djeluju u obliku plinova, para, prašina i aerosola, na mjestima rada i u njihovom okruženju bude što niža i ispod granične vrijednosti izloženosti.
+(2) Ako se mjerenjem utvrdi da koncentracija opasnih kemikalija prelazi granične vrijednosti, poslodavac je obvezan neodgodivo:
+1) utvrditi razloge prekoračenja granične vrijednosti
+2) na temelju utvrđenih razloga primijeniti dodatna pravila zaštite na radu
+3) nakon primjene osnovnih pravila, ponoviti mjerenja.
+ 
+Članak 49.
+Ostale obveze poslodavca pri radu s opasnim kemikalijama
+(1) Poslodavac je obvezan osigurati da opasne kemikalije budu tako pakirane i označene da prilikom njihovog korištenja ne postoji opasnost, odnosno štetnost za zdravlje i sigurnost radnika.
+(2) Poslodavac je obvezan osigurati da za opasne kemikalije radnicima budu dani podaci o opasnostima ili štetnostima u vezi s njihovim korištenjem, kao i o pravilima, odnosno mjerama zaštite na radu.
+(3) Kod skladištenja opasnih kemikalija poslodavac je obvezan osigurati primjenu pravila zaštite na radu u skladu sa svojstvima tih kemikalija.
+(4) Poslodavac je obvezan osigurati da se s ambalažom preostalom nakon korištenja opasnih kemikalija postupa u skladu s pravilima zaštite na radu te da se odlaže u skladu s posebnim propisima.
+(5) Ministar, uz suglasnost ministra nadležnog za zdravstvo, pravilnikom iz članka 45. stavka 5. ovoga Zakona propisuje pravila, mjere, postupke, rokove i aktivnosti zaštite na radu radnika koji su izloženi opasnim kemikalijama na radu, granične vrijednosti izloženosti opasnim kemikalijama i biološke granične vrijednosti.
+59. Pravilnik o zaštiti radnika od izloženosti opasnim kemikalijama na radu, graničnim vrijednostima izloženosti i biološkim graničnim vrijednostima
+ 
+Članak 50.
+Obveze poslodavca u vezi s uporabom bioloških agensa na radu
+(1) Poslodavac je obvezan provoditi zaštitu na radu radnika koji su izloženi ili bi mogli biti izloženi biološkim štetnostima.
+(2) Zaštitu iz stavka 1. ovoga članka poslodavac provodi na temelju procjene rizika kojom je utvrđena priroda, stupanj i trajanje izloženosti radnika.
+(3) Poslodavac je obvezan pravila zaštite na radu primjenjivati sljedećim redoslijedom:
+1) ako narav posla, odnosno aktivnost to dopušta, mora izbjegavati uporabu biološke štetnosti, odnosno nadomjestiti je agensom koji nije štetan
+2) ako ne može izbjeći uporabu biološke štetnosti ili je ne može nadomjestiti agensom koji nije štetan, poslodavac je obvezan osigurati uporabu agensa koji je manje štetan za zdravlje i sigurnost radnika
+3) ako primjena pravila iz podstavaka 1. i 2. ovoga stavka nije tehnički moguća, poslodavac je obvezan smanjiti:
+− broj izloženih radnika, odnosno radnika koji bi mogli biti izloženi
+− vrijeme izloženosti radnika
+4) ako se pravilima iz podstavaka 1., 2. i 3. ovoga stavka ne može postići zadovoljavajuća zaštita zdravlja radnika, poslodavac je obvezan osigurati da radnici koriste propisanu osobnu zaštitnu opremu te da poduzimaju propisane higijenske mjere.
+(4) Poslodavac je obvezan osigurati da su radnici obaviješteni o rizicima kojima su izloženi pri radu s biološkim štetnostima i da su osposobljeni za rad na siguran način.
+(5) Na mjestima rada poslodavac je obvezan istaknuti pisane obavijesti i upute za postupanje u slučaju ozbiljne opasnosti, odnosno štetnosti uzrokovane uporabom bioloških štetnosti na radu.
+(6) Ministar, uz suglasnost ministra nadležnog za zdravstvo, pravilnikom iz članka 45. stavka 5. ovoga Zakona propisuje pravila, mjere, postupke i aktivnosti zaštite na radu radnika izloženih biološkim štetnostima.
+64. Pravilnik o zaštiti radnika od rizika zbog izloženosti biološkim štetnostima na radu
+ 
+ 
+10. Stres na radu ili u vezi s radom
+ 
+Članak 51.
+Obveze poslodavca u vezi s prevencijom stresa uzrokovanog na radu ili u vezi s radom
+(1) Poslodavac je obvezan provoditi prevenciju stresa na radu ili u vezi s radom koji je uzrokovan osobito čimbenicima kao što su sadržaj rada, organizacija rada, radno okruženje, loša komunikacija i međuljudski odnosi, kako bi sveo na najmanju mjeru potrebu radnika da svladava poteškoće zbog dugotrajnije izloženosti intenzivnom pritisku te otklonio mogućnost da se umanji radna učinkovitost radnika i pogorša njegovo zdravstveno stanje.
+(2) Ako postoje naznake stresa na radu ili u vezi s radom, poslodavac je obvezan posebnu pozornost usmjeriti na:
+1) organizaciju rada i radnih postupaka (radno vrijeme, stupanj samostalnosti, podudarnost između vještine radnika i potreba posla, radno opterećenje i dr.)
+2) radne uvjete i okolinu (izloženost radnika i poslodavca nasilnom ponašanju, buku, vrućinu, hladnoću, opasne kemikalije i dr.)
+3) komunikaciju (neizvjesnost o tome što se očekuje od posla, izgledi za očuvanjem posla ili nadolazeće promjene i sl.)
+4) subjektivne čimbenike (emocionalni i društveni pritisci, osjećaj nemoći, osjećaj da nema dovoljno podrške i sl.).
+ 
+Članak 52.
+Obveze radnika i njihovih predstavnika
+(1) Radnici imaju obvezu postupati u skladu s uputama poslodavca za sprječavanje, uklanjanje ili smanjivanje stresa na radu ili u vezi s radom.
+(2) Radnici i njihovi predstavnici imaju obvezu surađivati s poslodavcem radi sprječavanja, uklanjanja ili smanjivanja stresa na radu ili u vezi s radom.
+(3) Obveze iz stavaka 1. i 2. ovoga članka odnose se i na radnike koji u skladu s općim propisima o radu, kao rukovodeći radnici ili članovi obitelji poslodavca fizičke osobe, ostvaruju pravo samostalno odlučivati o svojem radnom vremenu, stanci te o dnevnom i tjednom odmoru.
+ 
+ 
+11. Sigurnosni znakovi, pisane obavijesti i upute
+ 
+Članak 53.
+Obveze poslodavca u vezi sa sigurnosnim znakovima, pisanim obavijestima i uputama
+(1) Poslodavac je obvezan na mjestima rada i sredstvima rada trajno postaviti sigurnosne znakove na vidljivom mjestu.
+(2) Ako sigurnosni znakovi nisu dovoljni za djelotvorno obavješćivanje radnika, poslodavac je obvezan postaviti pisane obavijesti i upute o uvjetima i načinu korištenja sredstava rada, opasnih kemikalija, bioloških štetnosti te izvora fizikalnih i drugih štetnosti na radu.
+(3) Ministar pravilnikom iz članka 42. stavka 2. ovoga Zakona propisuje pravila, mjere i postupke vezane za sigurnosne znakove.
+ 
+ 
+12. Strani radnici
+ 
+Članak 54. (NN 94/18)
+Provođenje zaštite na radu za strane radnike
+(1) Strani radnici moraju, uz uvjete propisane posebnim propisima, ispunjavati i uvjete propisane odredbama ovoga Zakona i propisa donesenih na temelju njega.
+(2) Brisan.
+CentarZNR: Strani radnici i zaštita na radu
+ 
+ 
+13. Zaštita od požara i eksplozije, neposrednog i značajnog rizika, evakuacija i spašavanje
+ 
+Članak 55.
+Obveze poslodavca u vezi sa zaštitom od požara, evakuacijom i spašavanjem
+(1) Poslodavac je obvezan poduzeti mjere zaštite od požara i spašavanja radnika, izraditi plan evakuacije i spašavanja, odrediti radnike koji će provoditi mjere te osigurati pozivanje i omogućiti postupanje javnih službi nadležnih za zaštitu od požara i spašavanje, u skladu s posebnim propisima.
+(2) Poslodavac je obvezan broj radnika iz stavka 1. ovoga članka, njihovu osposobljenost i potrebnu opremu, utvrditi i osigurati u skladu s propisima koji uređuju zaštitu od požara i spašavanje, ovisno o naravi procesa rada, veličini poslodavca te ukupnom broju radnika.
+(3) Poslodavac je u slučaju nastanka neposrednih i značajnih rizika za život i zdravlje radnika obvezan:
+1) odmah ih obavijestiti o nastalom riziku kojemu jesu ili bi mogli biti izloženi, kao i o mjerama koje jesu ili bi trebale biti provedene, kako bi se spriječio ili umanjio rizik za život i zdravlje
+2) poduzeti radnje i dati upute o prestanku rada, odnosno napuštanju mjesta rada i upućivanju na sigurno mjesto
+3) organizirati nastavak rada tek nakon otklanjanja rizika.
+(4) Poslodavac je obvezan osposobiti radnike da u slučaju nastanka neposrednih i značajnih rizika za život i zdravlje, kojima su izloženi ili bi mogli biti izloženi, a o tome ne mogu obavijestiti odgovornu osobu, mogu samostalno poduzeti mjere i provesti postupke u skladu sa svojim znanjem i raspoloživim tehničkim sredstvima, kako bi rizike otklonili ili smanjili.
+(5) Osposobljavanje radnika iz stavka 4. ovoga članka obuhvaća upoznavanje radnika s planom evakuacije i spašavanja za slučaj izvanrednog događaja i provođenje praktične vježbe evakuacije i spašavanja najmanje jednom u dvije godine.
+(6) Radnik koji postupa u skladu s odredbama stavaka 4. i 5. ovoga članka, zbog takvog postupanja ne smije trpjeti štetne posljedice, osim u slučaju ako je postupao namjerno ili s krajnjom nepažnjom.
+(7) Poslodavac je obvezan provoditi zaštitu na radu na mjestima rada ugroženim eksplozivnom atmosferom u skladu s provedbenim propisom i pravilima zaštite na radu.
+(8) Ministar, uz suglasnost ministra nadležnog za unutarnje poslove, pravilnikom propisuje zahtjeve za zaštitu na radu u prostorima ugroženima eksplozivnom atmosferom iz stavka 7. ovoga članka.
+CentarZNR: Plan evakuacije i spašavanja – kako ga izraditi?
+ 
+ 
+14. Pružanje prve pomoći
+ 
+Članak 56. (NN 94/18)
+Obveze poslodavca u vezi s pružanjem prve pomoći
+(1) Poslodavac je obvezan organizirati i osigurati pružanje prve pomoći radnicima i drugim osobama do pružanja hitne medicinske pomoći ili do prijema u zdravstvenu ustanovu te je obvezan omogućiti postupanje javne službe hitne medicinske pomoći.
+(2) Na svakom radilištu i u radnim prostorijama gdje istodobno radi dva do 50 radnika, najmanje jedan radnik, te još po jedan do svakih sljedećih 50 radnika, mora biti osposobljen za pružanje prve pomoći u skladu s pravilima zaštite na radu.
+(3) Broj osposobljenih i imenovanih radnika za pružanje prve pomoći mora odgovarati broju lokacija poslodavca, smjenskom radu te drugim organizacijskim okolnostima kod poslodavca.
+(4) Poslodavac je radnicima osposobljenim za pružanje prve pomoći dužan uručiti pisanu odluku o imenovanju za pružanje prve pomoći te obavijestiti sve ostale radnike o radnicima koji su osposobljeni i imenovani za pružanje prve pomoći.
+(5) Poslodavac je obvezan osigurati sredstva i opremu za pružanje prve pomoći, koji uvijek moraju biti dostupni, označeni i zaštićeni od neovlaštenog korištenja.
+(6) Ministar nadležan za zdravstvo, uz suglasnost ministra, pravilnikom propisuje postupke pružanja prve pomoći, sredstva, vrstu i količinu sanitetskog materijala koja mora biti osigurana na mjestu rada te način i rokove osposobljavanja radnika za pružanje prve pomoći.
+CentarZNR: Pružanje prve pomoći na radu | obveze poslodavca
+ 
+ 
+15. Zaštita nepušača, zabrana pijenja alkohola i uzimanja drugih sredstava ovisnosti
+ 
+Članak 57. (NN 94/18)
+Zaštita nepušača na radu
+(1) Poslodavac je obvezan provoditi zaštitu nepušača od djelovanja dima duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje te para elektroničkih cigareta.
+(2) Zabranjeno je pušenje duhanskih i srodnih proizvoda, elektroničkih cigareta i biljnih proizvoda za pušenje na radnim sastancima.
+(3) Zabranjeno je pušenje duhanskih i srodnih proizvoda, elektroničkih cigareta i biljnih proizvoda za pušenje na mjestu rada.
+(4) Iznimno od odredbe stavka 3. ovoga članka, poslodavac može pisanim putem dozvoliti pušenje duhanskih i srodnih proizvoda, elektroničkih cigareta i biljnih proizvoda za pušenje u posebnoj prostoriji, odnosno prostoru na kojima je obvezan postaviti znak dozvoljenog pušenja.
+ 
+Članak 58.
+Zabrana korištenja sredstava ovisnosti
+(1) Radnik u vrijeme rada ne smije biti pod utjecajem alkohola i drugih sredstava ovisnosti niti ih smije unositi na mjesto rada.
+(2) Poslodavac je obvezan provoditi zabranu zlouporabe alkoholnih pića i sredstava ovisnosti na mjestu rada prikladnim mjerama, a osobito:
+1) obavješćivati radnika o štetnosti sredstava ovisnosti i njihovom utjecaju na radnu sposobnost
+2) surađivati s njegovim ovlaštenikom, stručnjakom zaštite na radu, specijalistom medicine rada i povjerenikom radnika za zaštitu na radu, pri provođenju mjera sprječavanja zlouporabe sredstava ovisnosti
+3) sprječavati konzumaciju alkoholnih pića i drugih sredstava ovisnosti tijekom rada i provoditi zabranu njihovog unošenja u radne prostorije i prostore
+4) provoditi programe prevencije ovisnosti na mjestu rada, u skladu s utvrđenim potrebama
+5) pisano utvrditi postupak provjere je li radnik pod utjecajem alkohola ili drugih sredstava ovisnosti (provođenje postupka uz pristanak radnika, način provjere, vrsta testa ili aparata, način bilježenja i potvrđivanja rezultata, postupanje u slučaju odbijanja radnika da pristupi provjeri) i učinkovito provoditi utvrđeni postupak.
+(3) Smatrat će se da je radnik pod utjecajem alkohola ako u krvi ima alkohola više od 0,0 g/kg, odnosno više od 0,0 miligrama u litri izdahnutog zraka, odnosno u krvi ima višu koncentraciju alkohola od koncentracije dozvoljene procjenom rizika poslova koje taj radnik obavlja.
+ 
+Članak 59.
+Provjera je li radnik pod utjecajem sredstava ovisnosti i privremeno udaljenje s rada
+(1) Provjera je li radnik pod utjecajem alkohola ili drugih sredstava ovisnosti obavlja se alkometrom ili drugim prikladnim uređajem, postupkom ili sredstvom.
+(2) Ako radnik odbije pristupiti provjeri, smatra se da je pod utjecajem alkohola ili drugih sredstava ovisnosti.
+(3) Poslodavac je obvezan udaljiti s mjesta rada radnika koji je pod utjecajem alkohola ili drugih sredstava ovisnosti sve dok je pod njihovim utjecajem.
+(4) Ako radnik odbija napustiti mjesto rada, radnika će, po pozivu poslodavca, udaljiti nadležna redarstvena služba.
+ 
+Članak 60.
+Zabrana provjere
+(1) Poslodavac ne smije provjeravati je li radnik pod utjecajem drugih sredstava ovisnosti osim alkohola ako mu je radnik predao potvrdu da se nalazi u programu liječenja, odvikavanja ili rehabilitacije od ovisnosti ili u izvanbolničkom tretmanu liječenja od ovisnosti te da uzima supstitucijsku terapiju.
+(2) U slučaju iz stavka 1. ovoga članka, poslodavac može zatražiti ocjenu zdravstvene i psihofizičke sposobnosti toga radnika za obavljanje povjerenih mu poslova.
+(3) Ocjenu zdravstvene i psihofizičke sposobnosti iz stavka 2. ovoga članka daje specijalist medicine rada.
+(4) Potvrdu da se radnik nalazi u programu liječenja, odvikavanja ili rehabilitacije od ovisnosti, odnosno u izvanbolničkom tretmanu liječenja od ovisnosti i da uzima supstitucijsku terapiju izdaje ustanova kod koje se provodi program.
+ 
+ 
+16. Evidencije, isprave i obavijesti
+ 
+Članak 61.
+Vođenje i čuvanje evidencija i isprava te davanje podataka i obavijesti
+(1) Poslodavac je obvezan voditi evidencije, čuvati isprave te davati obavijesti i podatke u skladu s ovim Zakonom i drugim propisima o zaštiti na radu.
+(2) Osim evidencija iz stavka 1. ovoga članka, poslodavac je obvezan voditi evidencije o ozljedama na radu, profesionalnim bolestima i nezgodama na radu.
+(3) Davanje obavijesti i podataka poslodavac je obvezan provoditi na način da čuva privatnost radnika u skladu s posebnim propisom o zaštiti osobnih podataka.
+(4) Utvrđivanje tajnosti podataka, odnosno akata ili isprava u kojima su sadržani, ne oslobađa poslodavca obveze da daje podatke osobama koje na njih imaju pravo na temelju ovoga Zakona.
+ 
+Članak 62. (NN 94/18)
+Isticanje i dostupnost na mjestu rada
+(1) Poslodavac je obvezan na mjestu rada postaviti na vidljivo mjesto:
+1) sigurnosne znakove
+2) znakove za evakuaciju i spašavanje
+3) upute i oznake za rukovanje radnom opremom
+4) upute i oznake za rad s opasnim kemikalijama, biološkim štetnostima, izvorima zračenja i drugim izvorima opasnosti i štetnosti.
+(2) Poslodavac je obvezan osigurati da radniku budu dostupni:
+1) procjena rizika za mjesto rada i poslove koji se na njemu obavljaju
+2) upute za rad na siguran način za mjesto rada i poslove koji se na njemu obavljaju
+3) pisani dokaz o osposobljenosti radnika za rad na siguran način
+4) pisani dokaz da radnik udovoljava uvjetima za obavljanje poslova s posebnim uvjetima rada
+5) zapisnik o ispitivanju radne opreme, instalacija i radnog okoliša.
+(3) Iznimno od stavka 2. ovoga članka, procjena rizika, dokazi i zapisnici ne moraju se nalaziti na radilištu na kojemu rad ukupno traje kraće od 60 dana, ali moraju biti dostupni u roku koji odredi nadležni inspektor.
+ 
+ 
+17. Zdravstvena zaštita na radu
+ 
+Članak 63.
+Provođenje zdravstvene zaštite radnika
+(1) Poslodavac je obvezan osigurati radniku zdravstvenu zaštitu primjerenu rizicima za sigurnost i zdravlje kojima je izložen na radu, u skladu s posebnim propisima koji uređuju mjere zdravstvene zaštite u vezi s radom.
+(2) Radi osiguranja zdravstvenog nadzora primjerenog rizicima za sigurnost i zdravlje na radu kojima je izložen radnik, poslodavac je obvezan radniku, jednom u pet godina, na njegov zahtjev osigurati zdravstveni pregled.
+(3) Odredba stavka 2. ovoga članka ne primjenjuje se na radnike kojima je obveza redovitog zdravstvenog pregleda utvrđena propisima zaštite na radu.
+(4) Zdravstvena zaštita iz stavka 1. ovoga članka ostvaruje se suradnjom poslodavca, ovlaštenika, stručnjaka za zaštitu na radu i radnika s izabranim specijalistom medicine rada.
+(5) Poslodavac je obvezan izabranom specijalisti medicine rada osigurati pristup na mjesta rada.
+(6) Specijalisti medicine rada obvezni su surađivati s poslodavcem, njegovim ovlaštenicima, stručnjacima zaštite na radu, radnicima i povjerenicima radnika za zaštitu na radu te s nadležnim inspektorima.
+(7) Specijalisti medicine rada i stručnjaci zavoda nadležnog za zaštitu zdravlja i sigurnost na radu imaju potpunu profesionalnu neovisnost u odnosu na poslodavca i njegove ovlaštenike, radnike, stručnjake zaštite na radu te povjerenike radnika za zaštitu na radu.
+(8) Poslodavac i njegov ovlaštenik, stručnjak zaštite na radu, radnik i povjerenik radnika za zaštitu na radu, obvezni su izvijestiti specijalistu medicine rada o činjenicama vezanima uz rad, aktivnosti, mjesto rada i radni okoliš, za koje znaju ili pretpostavljaju da mogu nepovoljno utjecati na zdravlje radnika.
+(9) Specijalist medicine rada je obvezan izvijestiti nadležnog inspektora i zavod nadležan za zaštitu zdravlja i sigurnost na radu o svakom slučaju za koji se osnovano sumnja da se radi o profesionalnoj bolesti.
+ 
+Članak 64. (NN 94/18)
+Zdravstveni pregledi radnika i osoba koje poslodavac namjerava zaposliti
+(1) Radi utvrđivanja, odnosno provjere zdravstvene sposobnosti za obavljanje određenih poslova, poslodavac može prije i tijekom radnog odnosa o svom trošku uputiti radnika na zdravstveni pregled.
+(2) Prethodni i periodični pregledi i pribavljanje uvjerenja o tome da li osobe koje poslodavac namjerava zaposliti udovoljavaju posebnim uvjetima za rad, odnosno zaposlenje, u skladu s pravilima zaštite na radu i provedbenim propisima kojima se utvrđuju posebni uvjeti za obavljanje određenih poslova, ne smiju biti na trošak radnika.
+(3) Ako prema pravilima zaštite na radu, određene poslove mogu obavljati samo radnici koji ispunjavaju posebne uvjete koji se odnose na zdravstveno stanje, odnosno psihofizičku sposobnost, isprave o ispunjavanju tih uvjeta izdaje specijalist medicine rada.
+(4) Ocjenu zdravstvene sposobnosti iz stavaka 1. i 2. te ispunjavanje uvjeta iz stavka 3. ovoga članka utvrđuje specijalist medicine rada, na temelju uputnice poslodavca, uzimajući u obzir podatke o poslovima i drugim okolnostima od utjecaja na ocjenu sposobnosti radnika za obavljanje poslova iz procjene rizika, koji se odnosi na poslove koje obavlja radnik čiju je sposobnost potrebno ocijeniti.
+(5) Ministar nadležan za zdravstvo, uz prethodnu suglasnost ministra, pravilnikom propisuje sadržaj i način izdavanja isprava iz stavka 3. ovoga članka.
+ 
+ 
+18. Obveze prema tijelima nadzora
+ 
+Članak 65. (NN 94/18)
+Obveze poslodavca prema tijelima nadzora
+(1) Poslodavac je obvezan obavijestiti tijelo nadležno za inspekcijski nadzor o smrtnoj ozljedi nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad.
+(2) Poslodavac je obvezan obavijestiti tijelo nadležno za inspekcijski nadzor o ozljedi nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad zbog koje je radniku ili osobi na radu pružena hitna medicinska pomoć i zbog koje je ozlijeđena osoba zadržana na liječenju u stacionarnoj zdravstvenoj ustanovi ili dnevnoj bolnici.
+(3) Obavijest iz stavka 1. i 2. ovoga članka poslodavac je obvezan dostaviti odmah po nastanku ozljede.
+(4) Smatra se da je poslodavac ispunio obvezu iz stavka 3. ovoga članka ako je nakon isključenja izvora ozljede, pružanja prve pomoći ozlijeđenoj osobi te pozivanja hitne medicinske pomoći ili zbrinjavanja ozlijeđene osobe u stacionarnu zdravstvenu ustanovu ili dnevnu bolnicu, bez odgađanja obavijestio mjesno nadležni ured tijela nadležnog za inspekcijski nadzor na broj telefona objavljen na službenim stranicama toga tijela ili na jedinstveni telefonski broj za hitne službe 112.
+CentarZNR: Ozljeda na radu – što kada se dogodi?
+ 
+Članak 66.
+Pregled video i audio zapisa
+Poslodavac je obvezan omogućiti tijelu nadležnom za inspekcijski nadzor pregled video, odnosno audio zapisa iz članka 43. ovoga Zakona.
+ 
+ 
+V. OBVEZE I PRAVA RADNIKA
+ 
+Članak 67.
+Obveza osposobljavanja za rad na siguran način
+Radnik je obvezan osposobljavati se za rad na siguran način kada ga na osposobljavanje uputi poslodavac.
+ 
+Članak 68.
+Obveza rada dužnom pažnjom
+(1) Radnik je obvezan i odgovoran obavljati poslove dužnom pažnjom te pri tome voditi računa o svojoj sigurnosti i zaštiti zdravlja, kao i sigurnosti i zaštiti zdravlja ostalih radnika, koje mogu ugroziti njegovi postupci ili propusti na radu.
+(2) Smatra se da radnik radi dužnom pažnjom kada poslove obavlja u skladu sa znanjima i vještinama koje je stekao tijekom osposobljavanja za rad na siguran način te kada radi po uputama poslodavca, odnosno njegovog ovlaštenika, tako da:
+1) prije početka rada pregleda mjesto rada te o uočenim nedostacima izvijesti poslodavca ili njegovog ovlaštenika
+2) pravilno koristi sredstva rada
+3) pravilno koristi propisanu osobnu zaštitnu opremu, koju je nakon korištenja obvezan vratiti na za to određeno mjesto
+4) pravilno koristi i samovoljno ne isključuje, ne vrši preinake i ne uklanja zaštite na sredstvima rada
+5) odmah obavijesti poslodavca, njegovog ovlaštenika, stručnjaka zaštite na radu ili povjerenika radnika za zaštitu na radu o svakoj situaciji koju smatra značajnim i izravnim rizikom za sigurnost i zdravlje, o nepostojanju ili nedostatku uputa za takvu situaciju, kao i o bilo kojem uočenom nedostatku u organiziranju i provedbi zaštite na radu
+6) posao obavlja u skladu s pravilima zaštite na radu, pravilima struke te pisanim uputama poslodavca
+7) prije odlaska s mjesta rada ostavi sredstva rada koja je koristio u takvom stanju da ne ugrožavaju ostale radnike ili sredstva rada
+8) surađuje s poslodavcem, njegovim ovlaštenikom, stručnjakom zaštite na radu, specijalistom medicine rada i povjerenikom radnika za zaštitu na radu.
+ 
+Članak 69.
+Obveza suradnje
+(1) Radnik je obvezan surađivati s poslodavcem, njegovim ovlaštenikom, stručnjakom zaštite na radu, povjerenikom radnika za zaštitu na radu i specijalistom medicine rada u rješavanju svih pitanja zaštite na radu, osobito dok se ne osigura da radni okoliš i uvjeti rada ne predstavljaju rizik za sigurnost i zdravlje te dok se u cijelosti ne postigne zaštita na radu u skladu sa zahtjevima tijela nadležnih za nadzor provedbe zaštite na radu.
+(2) Radnik nije obvezan snositi troškove u vezi s primjenom pravila zaštite na radu i zdravstvenih mjera.
+(3) Radnik mora odmah izvijestiti poslodavca, njegovog ovlaštenika, stručnjaka za zaštitu na radu ili povjerenika za zaštitu na radu o svakoj činjenici za koju smatra da predstavlja neposredni rizik za sigurnost i zdravlje, kao i o svakom drugom nedostatku u sustavu zaštite na radu.
+(4) Radnik ima pravo odbiti raditi i napustiti mjesto rada ako mu izravno prijeti rizik za život i zdravlje, sve dok poslodavac ne poduzme korektivne mjere te zbog takvog postupanja ne smije trpjeti štetne posljedice.
+(5) Poslodavac ne smije zahtijevati od radnika da ostane na mjestu rada dok na tom mjestu postoji izravan i ozbiljan rizik za život i zdravlje radnika.
+(6) O postupku iz stavka 4. ovoga članka radnik mora obavijestiti poslodavca, njegovog ovlaštenika, stručnjaka za zaštitu na radu ili povjerenika radnika za zaštitu na radu.
+(7) U slučaju iz stavka 4. ovoga članka poslodavac, njegov ovlaštenik, odnosno radnik ili povjerenik radnika za zaštitu na radu obvezni su bez odgađanja izvijestiti nadležnog inspektora koji je obvezan u roku od 48 sati utvrditi činjenično stanje i osnovanost navoda radnika.
+(8) Za vrijeme dok ne radi zbog izbjegavanja izloženosti izravnom i ozbiljnom riziku za život i zdravlje, radnik ima pravo na plaću i druga prava iz radnog odnosa u skladu s općim propisom o radu.
+ 
+ 
+VI. POVJERENIK RADNIKA ZA ZAŠTITU NA RADU
+ 
+Članak 70.
+Izbor povjerenika
+(1) Kod poslodavca radnici između sebe mogu birati povjerenika radnika za zaštitu na radu.
+(2) Izbor povjerenika radnika za zaštitu na radu kod poslodavca koji zapošljava do uključivo 20 radnika provodi se na skupu radnika, kojega saziva poslodavac u skladu s općim propisom o radu, neposrednim i javnim izjašnjavanjem prisutnih radnika.
+(3) Izbor povjerenika radnika za zaštitu na radu kod poslodavca koji zapošljava više od 20 radnika provodi se u skladu s odredbama općeg propisa o radu kojim su uređena pitanja izbora radničkog vijeća.
+(4) Ako je prema propisanim kriterijima kod poslodavca izabrano više povjerenika, oni između sebe biraju svoga koordinatora.
+ 
+Članak 71.
+Prava i obveze
+(1) Povjerenik radnika za zaštitu na radu obvezan je štititi interese radnika na području zaštite na radu te pratiti primjenu pravila, mjera, postupaka i aktivnosti zaštite na radu.
+(2) Povjerenik radnika za zaštitu na radu ima pravo:
+1) podnositi poslodavcu prijedloge vezane uz donošenje odluka iz zaštite na radu
+2) zahtijevati od poslodavca da poduzme odgovarajuće mjere u svrhu smanjenja i otklanjanja rizika
+3) podnositi pritužbe tijelima nadležnim za zaštitu na radu
+4) sudjelovati s poslodavcem u planiranju unapređivanja uvjeta rada, uvođenja nove tehnologije, uvođenja novih kemikalija i bioloških štetnosti u radni i proizvodni proces te poticati poslodavca i njegove ovlaštenike na provedbu zaštite na radu
+5) biti obaviješten o svim promjenama koje utječu ili bi mogle utjecati na zaštitu na radu
+6) izvršiti uvid i koristiti dokumentaciju poslodavca iz zaštite na radu
+7) primati primjedbe radnika u vezi s primjenom pravila zaštite na radu te ih prenositi poslodavcu ili njegovom ovlašteniku
+8) izvijestiti nadležnog inspektora i specijalistu medicine rada o svojim zapažanjima, odnosno zapažanjima radnika
+9) prisustvovati inspekcijskim pregledima i očitovati se na činjenično stanje koje utvrdi nadležni inspektor
+10) pozvati nadležnog inspektora, kada ocijeni da su ugroženi sigurnost i zdravlje radnika, a poslodavac propušta ili odbija provoditi potrebnu zaštitu na radu
+11) osposobljavati se za obavljanje poslova povjerenika radnika za zaštitu na radu
+12) stalno proširivati i unapređivati znanje te pratiti i prikupljati obavijesti od važnosti za svoj rad
+13) staviti prigovor na inspekcijski nalaz
+14) svojim djelovanjem poticati radnike na provedbu zaštite na radu
+15) obavješćivati radnike o provedbi zaštite na radu.
+(3) Kolektivnim ugovorom mogu se urediti i druga pitanja vezana za rad povjerenika radnika za zaštitu na radu, a mogu se urediti i sporazumom sklopljenim između poslodavca i radničkog vijeća, ako stranke kolektivnog ugovora na to ovlaste stranke sporazuma.
+ 
+Članak 72. (NN 94/18)
+Zaštita djelovanja
+(1) Poslodavac je obvezan povjereniku radnika za zaštitu na radu:
+1) osigurati potrebno vrijeme za nesmetano obnašanje dužnosti
+2) davati sve potrebne obavijesti i omogućiti mu uvid u sve propise i isprave iz zaštite na radu
+3) osigurati uvjete za nesmetano obnašanje dužnosti u skladu s općim propisima o radu kojima su propisani uvjeti za rad radničkog vijeća.
+(2) Poslodavac ne smije povjereniku radnika za zaštitu na radu, tijekom obnašanja dužnosti, bez suglasnosti radničkog vijeća ili sindikalnog povjerenika koji ima prava i obveze radničkog vijeća, otkazati ugovor o radu, niti ga na drugi način staviti u nepovoljniji položaj u odnosu na njegove dotadašnje uvjete rada i u odnosu na ostale radnike.
+(3) Ako radničko vijeće ili sindikalni povjerenik koji ima prava i obveze radničkog vijeća uskrati suglasnost na otkaz, uskrata mora biti pisano obrazložena, a poslodavac može u roku od 15 dana od dana dostave tog očitovanja zatražiti da suglasnost nadomjesti sudska odluka.
+(4) Za obnašanje dužnosti povjerenika radnika za zaštitu na radu povjerenik ima pravo na naknadu plaće za najmanje tri sata tjedno, osim ako se kolektivnim ugovorom to pitanje drukčije ne uredi, a bez mogućnosti ustupanja toga prava drugom povjereniku.
+ 
+ 
+VII. DJELATNOSTI U VEZI SA ZAŠTITOM NA RADU
+ 
+1. Projektiranje i izvođenje radova
+ 
+Članak 73.
+Obveze i odgovornosti u fazi projektiranja
+(1) Investitor je obvezan primjenjivati opća načela prevencije i pravila zaštite na radu u svim fazama projektiranja i pripremi projekta kada se odlučuje o oblikovnim, tehničkim, tehnološkim, odnosno organizacijskim vidovima kako bi se nesmetano planirale različite aktivnosti ili faze rada koje se trebaju izvoditi istodobno ili u slijedu i procjenjuje vrijeme potrebno za dovršenje takvih radova ili faze rada u skladu s planom izvođenja radova.
+(2) Pri projektiranju građevina namijenjenih za rad projektant je obvezan u glavnom projektu primijeniti odgovarajuća pravila zaštite na radu.
+(3) Investitor je obvezan osigurati da se pri projektiranju građevina namijenjenih za rad u skladu s posebnim propisom izradi elaborat zaštite na radu koji obuhvaća i razrađuje način primjene pravila zaštite na radu pri korištenju građevina namijenjenih za rad.
+(4) Investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izrađuje glavni projekt, mora imenovati jednog ili više koordinatora zaštite na radu tijekom izrade projekta i tijekom građenja kada radove izvode ili je predviđeno da ih izvode dva ili više izvođača.
+(5) Investitor, vlasnik građevine, koncesionar ili druga osoba koja je po posebnom propisu povjerila izvođenje radova, obvezna je prije uspostave gradilišta osigurati izradu plana izvođenja radova u skladu s provedbenim propisom.
+(6) Imenovanje koordinatora za zaštitu na radu ne oslobađa osobe iz stavka 4. ovoga članka, odnosno sudionike u gradnji odgovornosti za provedbu zaštite na radu na radilištu.
+ 
+Članak 74.
+Privremeno radilište
+(1) Poslodavac koji obavlja građevinske radove ili radove na iskorištavanju šuma obvezan je prije početka radova na privremenom radilištu urediti radilište i osigurati da se radovi obavljaju u skladu s posebnim propisima i pravilima zaštite na radu.
+(2) Poslodavac iz stavka 1. ovoga članka koji sam obavlja radove na iskorištavanju šuma obvezan je najkasnije jedan dan prije početka izvođenja radova na privremenom radilištu na kojem će radovi trajati duže od pet dana dostaviti obavijest tijelu nadležnom za poslove inspekcije rada.
+(3) Poslodavac iz stavka 1. ovoga članka koji sam obavlja građevinske radove obvezan je najkasnije jedan dan prije početka izvođenja radova na privremenom gradilištu dostaviti prijavu gradilišta tijelu nadležnom za poslove inspekcije rada u skladu s provedbenim propisom.
+(4) Obavijest iz stavka 2. ovoga članka mora sadržavati podatke o točnoj lokaciji radilišta, vrsti radova, broju radnika, ovlaštenicima poslodavca za primjenu pravila zaštite na radu i predvidivom roku u kojem će se obavljati radovi.
+ 
+Članak 75.
+Zajedničko radilište
+(1) Investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izvode radovi na iskorištavanju šuma obvezan je najkasnije jedan dan prije početka izvođenja radova na privremenom radilištu, na kojem će radovi trajati duže od pet dana i na kojem će radove izvoditi dva ili više izvođača, dostaviti obavijest iz članka 74. stavka 2. ovoga Zakona tijelu nadležnom za poslove inspekcije rada.
+(2) U obavijesti iz članka 74. stavka 2. ovoga Zakona, investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izvode radovi na iskorištavanju šuma, obvezna je navesti izvođače koji će izvoditi radove na radilištu.
+(3) Investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izvode građevinski radovi, obvezna je najkasnije jedan dan prije početka izvođenja radova dostaviti prijavu gradilišta na kojem će radove izvoditi dva ili više izvođača tijelu nadležnom za poslove inspekcije rada u skladu s provedbenim propisom.
+(4) Smatrat će se da je investitor izvršio obvezu iz stavka 3. ovoga članka ako je dostavio prijavu gradilišta nadležnom tijelu graditeljstva u skladu s posebnim propisom te ako ista sadrži podatke u skladu s provedbenim propisom.
+(5) Plan izvođenja radova izrađen u skladu s provedbenim propisom mora se nalaziti na radilištu, odnosno gradilištu.
+(6) Investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izvode radovi, obvezna je ažurirati obavijest, odnosno prijavu u slučaju promjena koje utječu na rok dovršenja radova, kao i u slučajevima uvođenja novog izvođača ili privremene obustave radova.
+(7) Obveze o prijavi radilišta, odnosno gradilišta ne primjenjuju se kod izvođenja radova kod kojih zbog hitnosti, navedene obveze nije moguće ispuniti.
+(8) Investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izvode radovi ne može svoje obveze propisane ovim člankom prenijeti na izvođača radova.
+ 
+Članak 76.
+Usklađivanje obavljanja radova
+Poslodavci koji obavljaju poslove na istom mjestu rada, odnosno kada više poslodavaca dijeli mjesto rada ili kada na istom mjestu rada radove izvode ili je predviđeno da ih izvode dva ili više poslodavca, odnosno drugih osoba (izvođača), obvezni su, uzimajući u obzir prirodu poslova, provoditi zaštitu na radu, koordinirati svoje aktivnosti, provoditi informiranje i surađivati u primjeni sigurnosnih i zdravstvenih odredbi ovoga Zakona radi zaštite i prevencije od rizika na radu te organizirati rad i osigurati izvođenje radova tako da pri izvođenju radova ne ugrožavaju sigurnost i zdravlje radnika drugih poslodavaca i drugih osoba.
+ 
+Članak 77. (NN 94/18)
+Koordinator za zaštitu na radu
+(1) Koordinator zaštite na radu iz članka 73. stavka 4. ovoga Zakona obvezan je tijekom izrade projekta:
+1) koordinirati primjenu općih načela zaštite na radu i pravila zaštite na radu tijekom projektiranja
+2) izraditi ili dati izraditi plan izvođenja radova prema provedbenom propisu, uzimajući u obzir pravila primjenjiva na pojedinom radilištu, vodeći računa o svim aktivnostima koje se obavljaju na radilištu, koji mora sadržavati i posebne mjere ako su poslovi na radilištu opasni radovi prema provedbenom propisu.
+(2) Koordinator za zaštitu na radu iz članka 73. stavka 4. ovoga Zakona obvezan je tijekom građenja:
+1) koordinirati primjenu općih načela zaštite na radu kod donošenja odluka o rokovima i bitnim mjerama tijekom planiranja i izvođenja pojedinih faza rada, koje se izvode istodobno ili u slijedu
+2) koordinirati izvođenje odgovarajućih postupaka kako bi se osiguralo da poslodavci i druge osobe dosljedno primjenjuju opća načela zaštite na radu i izvode radove u skladu s planom izvođenja radova
+3) izraditi ili dati izraditi potrebna usklađenja plana izvođenja radova i dokumentacije sa svim promjenama na gradilištu
+4) osigurati suradnju i uzajamno obavješćivanje svih izvođača radova i njihovih radničkih predstavnika
+5) provjeravati provode li se radni postupci na siguran način i usklađivati propisane aktivnosti
+6) organizirati da na gradilište imaju pristup samo osobe koje su na njemu zaposlene i osobe koje imaju dozvolu ulaska na gradilište.
+(3) Projektanti i poslodavci koji izvode radove na gradilištu, odnosno sudionici u gradnji, obvezni su uvažavati upute koordinatora zaštite na radu.
+(4) Imenovanje koordinatora ne oslobađa projektante, izvođače i druge osobe na gradilištu, odnosno sudionike u gradnji od njihove odgovornosti za primjenu pravila zaštite na radu.
+ 
+Članak 78. (NN 94/18)
+Uvjeti za imenovanje i djelovanje koordinatora
+Ministar pravilnikom propisuje način i uvjete polaganja stručnog ispita za koordinatora zaštite na radu, sastav i način rada ispitne komisije, visinu naknade kojom se podmiruju troškovi polaganja stručnog ispita za koordinatora zaštite na radu te uvjete za priznavanje statusa koordinatora zaštite na radu, mjere, pravila, postupke i aktivnosti zaštite na radu na gradilištu te uvjete koje mora ispunjavati koordinator zaštite na radu tijekom izrade projekta, odnosno izvođenja radova.
+58. Pravilnik o zaštiti na radu na privremenim gradilištima
+68. Pravilnik o osposobljavanju i usavršavanju iz zaštite na radu te polaganju stručnog ispita
+ 
+ 
+2. Obrazovanje i osposobljavanje iz zaštite na radu
+ 
+Članak 79.
+Zaštita na radu u obrazovnim programima
+Programi obrazovanja, prekvalifikacije, osposobljavanja i usavršavanja za obavljanje određenih poslova obuhvaćaju i posebne sadržaje o zaštiti na radu u opsegu koji odgovara potrebi struke za koju se provodi obrazovanje, prekvalifikacija, osposobljavanje ili usavršavanje, u skladu s posebnim propisom.
+ 
+ 
+3. Medicina rada
+ 
+Članak 80.
+Obveza ugovaranja usluga medicine rada
+(1) Poslodavac je obvezan osigurati radnicima usluge medicine rada kako bi se osigurao zdravstveni nadzor primjeren opasnostima, štetnostima i naporima tijekom rada u svrhu očuvanja zdravlja radnika.
+(2) Poslodavac ugovara usluge medicine rada sa zdravstvenom ustanovom koja obavlja djelatnost medicine rada, odnosno sa specijalistom medicine rada u privatnoj praksi, u skladu s propisima o zdravstvenoj zaštiti i zdravstvenom osiguranju.
+(3) Izvanredni stručni nadzor nad radom specijalista medicine rada obavlja se na temelju pisane pritužbe poslodavca, prema posebnom propisu o stručnom nadzoru u djelatnosti medicine rada.
+ 
+Članak 81. (NN 94/18)
+Poslovi medicine rada
+(1) Poslovi medicine rada, uključujući plan i program mjera zdravstvene zaštite, propisani su posebnim propisima o zdravstvenoj zaštiti i zdravstvenom osiguranju.
+(2) Ministar nadležan za zdravlje, uz suglasnost ministra, pravilnikom propisuje, ovisno o vrsti djelatnosti i aktivnosti poslodavca, procjeni rizika, broju radnika i broju radnika koji obavljaju poslove s posebnim uvjetima rada, najmanji broj sati koje je poslodavac obvezan ugovoriti sa specijalistom medicine rada, a koje specijalist medicine rada mora provesti na mjestu rada.
+ 
+ 
+4. Osobe ovlaštene za zaštitu na radu
+ 
+Članak 82. (NN 94/18)
+Ovlaštenja, obveze i odgovornost
+(1) Poslove zaštite na radu kod poslodavca mogu obavljati ovlaštene osobe.
+(2) Osoba ovlaštena za obavljanje poslova zaštite na radu obvezna je poslove zaštite na radu obavljati u skladu s odredbama ovoga Zakona i drugih propisa zaštite na radu.
+(3) Osoba može biti ovlaštena za izradu procjene rizika, osposobljavanje za rad na siguran način, ispitivanje sredstava rada, ispitivanja u radnom okolišu te obavljanje poslova zaštite na radu u skladu sa stavkom 10. ovoga članka.
+(4) Ovlaštenje iz stavka 3. ovoga članka može se dati za obavljanje pojedinog ili više poslova zaštite na radu.
+(5) Ovlaštena osoba izdaje isprave o provedenim ispitivanjima radne opreme, odnosno radnog okoliša.
+(6) Ako ovlaštena osoba obavlja poslove zaštite na radu suprotno odredbama ovoga Zakona i drugih pravila zaštite na radu, ovlaštenoj fizičkoj osobi, ovlaštenoj pravnoj osobi i odgovornoj osobi u ovlaštenoj pravnoj osobi poništit će se i ukinuti ovlaštenja u skladu s propisom iz stavka 12. ovoga članka.
+(7) Ministarstvo postupa i rješava u upravnim stvarima u prvostupanjskom postupku u vezi s davanjem ovlaštenja osobama za zaštitu na radu.
+(8) Ministarstvo obavlja stručni nadzor i reviziju poslovanja ovlaštenih osoba u odnosu na dobivena ovlaštenja.
+(9) Rješenja iz stavka 7. ovoga članka su upravni akti, protiv kojih se može pokrenuti upravni spor.
+(10) Tijela državne uprave, tijela s javnim ovlastima te javne ustanove dužne su na zahtjev tijela državne i javne uprave te javnih ustanova osigurati dostupnost podataka s područja zaštite na radu, poštujući propise o zaštiti osobnih podataka.
+(11) Ministar pravilnikom propisuje obveznike, načine, postupke, rokove, vrste podataka i izvješća koje ministarstvu dostavljaju poslodavci, ovlaštene osobe, zavod nadležan za zaštitu zdravlja na radu, zavod nadležan za zdravstveno osiguranje, tijelo nadležno za poslove inspekcije rada te pravila o pristupanju podacima.
+(12) Ministar pravilnikom propisuje uvjete pod kojima poslodavac za svoje potrebe i osobe iz stavka 1. ovoga članka mogu biti ovlašteni za obavljanje poslova iz stavaka 3. i 5. ovoga članka, postupak izdavanja, poništavanja i ukidanja ovlaštenja, stručni nadzor nad obavljanjem poslova za koje su ovlašteni, postupak izdavanja isprava o provedenim ispitivanjima i osposobljavanju, obveze i način evidentiranja izdanih i oduzetih ovlaštenja.
+60. Pravilnik o ovlaštenjima za poslove zaštite na radu
+69. Pravilnik o ovlaštenjima za poslove zaštite na radu
+ 
+Članak 83. (NN 118/14, 94/18)
+Brisan.
+57. Odluka o troškovima komisije za nadzor rada i reviziju ovlaštenja ovlaštenih osoba za poslove zaštite na radu
+ 
+Članak 84. (NN 94/18)
+Brisan.
+48. Statut Zavoda za unapređivanje zaštite na radu
+ 
+Članak 85. (NN 94/18)
+Brisan.
+ 
+Članak 86. (NN 94/18)
+Brisan.
+ 
+Članak 87. (NN 94/18)
+Brisan.
+ 
+Članak 88. (NN 94/18)
+Brisan.
+ 
+ 
+VIII. NADZOR
+ 
+1. Upravni nadzor
+ 
+Članak 89.
+Ovlaštenje za upravni nadzor
+Upravni nadzor nad primjenom ovoga Zakona, podzakonskih propisa donesenih na temelju ovoga Zakona i drugih propisa zaštite na radu obavlja središnje tijelo državne uprave nadležno za poslove rada, osim odredaba o zdravstvenoj zaštiti i medicini rada, nad čijom primjenom upravni nadzor obavlja središnje tijelo državne uprave nadležno za poslove zdravstva ako drugim zakonom ili propisom nije drukčije određeno.
+ 
+2. Inspekcijski nadzor
+ 
+Članak 90.
+Stvarna nadležnost
+(1) Inspekcijski nadzor nad provedbom odredaba ovoga Zakona i na temelju njega donesenih propisa obavlja središnje tijelo državne uprave nadležno za poslove inspekcije rada, osim odredaba koje se odnose na rad zdravstvenih ustanova.
+(2) Inspekcijski nadzor nad provedbom posebnih propisa o sigurnosti i zaštiti zdravlja na radu za pojedine djelatnosti, poslove ili rizike obavljaju druga središnja tijela državne uprave, u skladu s posebnim propisima, primjenjujući odredbe ovoga Zakona i na temelju njega donesenih propisa na sva pitanja koja nisu uređena posebnim propisima.
+(3) Pri obavljanju inspekcijskog nadzora na izdvojenom mjestu rada nadležni inspektor je ovlašten obaviti nadzor o zaštiti života i zdravlja drugih osoba koje borave u neposrednoj blizini tog mjesta rada.
+ 
+Članak 91.
+Provedba nadzora
+(1) U provedbi inspekcijskog nadzora u području zaštite na radu nadležni inspektor će usmenim rješenjem, na vrijeme dok se ne otkloni utvrđeni nedostatak, poslodavcu zabraniti:
+1) uporabu sredstava rada i osobne zaštitne opreme, odnosno građevine ili njezinog sastavnog dijela, prostorije, postrojenja, uređaja i druge opreme za rad koji su neispravni ili za koje poslodavac ne može predočiti dokumentaciju propisanu ovim Zakonom i drugim propisima (članci 41. i 42.)
+2) obavljanje radnih postupaka protivno ovom Zakonu i drugim propisima, bez uporabe propisane osobne zaštitne opreme te drugog ponašanja ili postupanja koje je protivno odredbama ovoga Zakona i drugih propisa (članci 41., 43., 44., 48. i 49.)
+3) korištenje izvora fizikalnih, kemijskih, bioloških i drugih štetnosti, ako nije radniku osigurao podatke o rizicima koje uzrokuju ili za koje, na mjestu rada, nema dokumentaciju propisanu ovim Zakonom i drugim propisima (članci 45., 46., 47., 48., 49. i 50.).
+(2) U provedbi inspekcijskog nadzora u području zaštite na radu nadležni inspektor će usmenim rješenjem, na vrijeme dok se ne otkloni utvrđeni nedostatak, pravnoj, odnosno fizičkoj osobi zabraniti obavljanje poslova zaštite na radu ako za obavljanje tih poslova nema propisano ovlaštenje (članak 82.).
+(3) U provedbi inspekcijskog nadzora u području zaštite na radu nadležni inspektor će usmenim rješenjem, na vrijeme dok se ne otkloni utvrđeni nedostatak, poslodavcu narediti:
+1) udaljenje s mjesta rada radnika za kojeg ne može predočiti dokaze o ispunjavanju uvjeta koji su propisani ovim Zakonom i drugim propisima (članci 28., 36., 38., 39., 40. i 54.)
+2) udaljenje s mjesta rada radnika za kojeg se opravdano pretpostavlja da je pod utjecajem alkohola ili drugih sredstava ovisnosti (članci 58. i 59.).
+(4) Inspektor je obvezan u zapisniku o provedbi inspekcijskog nadzora u području zaštite na radu navesti doneseno usmeno rješenje iz stavaka 1., 2. i 3. ovoga članka.
+(5) Rješenje iz stavaka 1., 2. i 3. ovoga članka izvršava se pečaćenjem prostorija, objekata ili sredstava iz stavka 1. ovoga članka ili njihovog dijela ili na drugi pogodan način.
+(6) Žalba izjavljena protiv rješenja iz stavaka 1., 2. i 3. ovoga članka ne odgađa izvršenje rješenja.
+ 
+Članak 92.
+Ostale mjere u provedbi nadzora
+(1) U provedbi inspekcijskog nadzora u području zaštite na radu nadležni inspektor će usmenim rješenjem poslodavcu narediti:
+1) izradu procjene rizika za poslove na mjestu rada, odnosno da procjenu rizika učini dostupnu radniku na mjestu rada (članak 18.)
+2) provjeru osposobljenosti radnika za rad na siguran način (članak 28.)
+3) osnivanje odbora za zaštitu na radu ili sazivanje sjednice toga odbora (članak 34.)
+4) ispitivanje sredstava rada (članak 42.)
+5) ispitivanje parametara radnog okoliša (članak 45.)
+6) postavljanje sigurnosnih znakova (članak 53.)
+7) organiziranje pružanja prve pomoći radnicima na radu na propisani način (članak 56.)
+8) da na mjestu rada, na vidljivo mjesto, postavi sigurnosne znakove i upute iz članka 62. stavka 1. ovoga Zakona
+9) da na mjestu rada učini dostupnom propisanu dokumentaciju iz članka 62. stavka 2. ovoga Zakona
+10) da radniku osigura zdravstvenu zaštitu primjerenu rizicima za sigurnost i zdravlje (članak 63.).
+(2) Inspektor je obvezan u zapisniku o provedbi inspekcijskog nadzora u području zaštite na radu navesti doneseno usmeno rješenje iz stavka 1. ovoga članka.
+SUDSKA PRAKSA: Presuda
+ 
+Članak 93. (NN 94/18)
+Obveza provedbe nadzora
+(1) Nadležni inspektor rada dužan je obaviti nadzor povodom događaja iz članka 65. stavka 1. i 2. ovoga Zakona odmah nakon primitka obavijesti o nastanku takvoga događaja od poslodavca, policije, radnika ili liječnika koji je ozlijeđenoj osobi pružio medicinsku pomoć.
+(2) Nadležni inspektor rada dužan je obaviti nadzor kod poslodavca kod kojeg je utvrđena profesionalna bolest radnika.
+(3) O događaju iz članka 65. stavka 1. ovoga Zakona nadležni inspektor rada dužan je, najkasnije u roku od 24 sata od primljene obavijesti o događaju, izvijestiti svoga čelnika.
+(4) Čelnik tijela nadležnog za inspekciju rada naputkom određuje koje podatke mora sadržavati izvješće iz stavka 3. ovoga članka.
+61. Naputak o podacima koje sadrži izvješće o smrtnoj ozljedi nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad
+ 
+IX. PREKRŠAJNE ODREDBE
+ 
+Članak 94.
+(1) Novčanom kaznom u iznosu od 7.000,00 kuna kaznit će se za prekršaj koordinator zaštite na radu fizička osoba ako ne izradi ili ne da izraditi plan izvođenja radova, ili ako ne izradi ili ne da izraditi potrebna usklađenja plana izvođenja radova i dokumentacije sa svim promjenama na gradilištu (članak 77. stavak 1. podstavak 2. i stavak 2. podstavak 3.).
+(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(3) Za prekršaj iz stavaka 1. i 2. ovoga članka počinitelju se može izreći novčana kazna na mjestu izvršenja prekršaja u iznosu od 1.900,00 kuna.
+ 
+Članak 95. (NN 94/18)
+(1) Novčanom kaznom u iznosu od 10.000,00 kuna kaznit će se za prekršaj poslodavac pravna osoba:
+1) ako ne organizira sastajanje odbora za zaštitu na radu najmanje jedanput u šest mjeseci i ako u slučaju smrtne ozljede ne sazove sjednicu odbora za zaštitu na radu u roku od dva radna dana od nastanka takve ozljede (članak 34. stavci 7. i 8.)
+2) ako ne izradi plan evakuacije i spašavanja ili ne odredi radnike koji će provoditi mjere i osigurati pozivanje i omogućiti postupanje javnih službi nadležnih za zaštitu od požara i spašavanje, ili ne osposobi radnike na način da ih upozna s planom evakuacije i spašavanja za slučaj izvanrednog događaja, ili ne provodi praktične vježbe evakuacije i spašavanja najmanje jednom u dvije godine (članak 55. stavci 1. i 5.)
+3) ako ne provodi zaštitu nepušača od djelovanja dima duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje i para elektroničkih cigareta te ako ne spriječi pušenje na radnim sastancima ili na mjestu rada (članak 57. stavci 1., 2. i 3.)
+4) ako ne provodi zabranu zlouporabe alkoholnih pića i sredstava ovisnosti na mjestu rada prikladnim mjerama (članak 58. stavak 2.)
+5) ako ne osigura povjereniku radnika za zaštitu na radu potrebno vrijeme i uvjete za nesmetano obnašanje dužnosti (članak 72.)
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 3.000,00 kuna poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja poslodavcu pravnoj osobi u iznosu od 1.900,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.500,00 kuna.
+ 
+Članak 96. (NN 94/18)
+(1) Novčanom kaznom u iznosu od 30.000,00 kuna kaznit će se pravna osoba za koju se po posebnom propisu izrađuje projekt, odnosno izvode radovi:
+1) ako kao investitor ne osigura da se pri projektiranju izradi elaborat zaštite na radu koji obuhvaća i razrađuje način primjene pravila zaštite na radu pri korištenju građevina namijenjenih za rad ili kao investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izrađuje projekt ne imenuje koordinatora zaštite na radu pri izradi projekta ili tijekom građenja (članak 73. stavci 3. i 4.)
+2) ako najkasnije jedan dan prije početka izvođenja radova na iskorištavanju šuma na privremenom radilištu na kojem će radovi trajati duže od pet dana i na kojemu će radove izvoditi dva ili više izvođača nije tijelu nadležnom za poslove inspekcije rada dostavio obavijest iz članka 74. stavka 2. ovoga Zakona
+3) ako najkasnije jedan dan prije početka izvođenja građevinskih radova na gradilištu na kojemu će radove izvoditi dva ili više izvođača nije dostavio prijavu gradilišta tijelu nadležnom za poslove inspekcije rada u skladu s provedbenim propisom (članak 75. stavci 3. i 4.)
+4) ako na gradilištu nema plan izvođenja radova ili ako takav plan nema propisani sadržaj (članak 75. stavak 5.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 4.900,00 kuna poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja pravnoj osobi u iznosu od 10.000,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.
+ 
+Članak 97.
+(1) Novčanom kaznom u iznosu od 30.000,00 kuna kaznit će se poslodavac pravna osoba koji:
+1) sam obavlja radove na iskorištavanju šuma, ako najkasnije jedan dan prije početka izvođenja radova na privremenom radilištu na kojem će radovi trajati duže od pet dana ne dostavi obavijest tijelu nadležnom za poslove inspekcije rada (članak 74. stavak 2.)
+2) sam obavlja građevinske radove, ako najkasnije jedan dan prije početka izvođenja radova na privremenom gradilištu ne dostavi prijavu gradilišta tijelu nadležnom za poslove inspekcije rada u skladu s provedbenim propisom (članak 74. stavak 3.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 4.900,00 kuna poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja poslodavcu pravnoj osobi u iznosu od 10.000,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.
+ 
+Članak 98. (NN 94/18)
+(1) Novčanom kaznom u iznosu od 30.000,00 kuna kaznit će se za prekršaj poslodavac pravna osoba:
+1) ako nije procijenio rizike za život i zdravlje radnika i osoba na radu u pisanom ili elektroničkom obliku, uzimajući u obzir poslove i njihovu prirodu, ili ako procjena rizika nije dostupna radniku na mjestu rada, ili ako u postupku izrade procjene rizika nisu sudjelovali radnici odnosno njihovi predstavnici (članak 18. stavci 1., 2. i 5.)
+2) ako poslove zaštite na radu ne obavlja u skladu s odredbama članka 20. ovoga Zakona
+3) ako nije osigurao da pristup mjestima rada na kojim se obavljaju poslovi s posebnim uvjetima rada imaju samo radnici koji su dobili pisane upute za rad na siguran način i osobnu zaštitnu opremu (članak 32. stavak 4.)
+4) ako odmah po nastanku smrtne ozljede i ozljede nastale u prostoriji ili na prostoru u kojem poslodavac obavlja rad zbog koje je radniku ili osobi na radu pružena hitna medicinska pomoć i zbog koje je ozlijeđena osoba zadržana na liječenju u stacionarnoj zdravstvenoj ustanovi ili dnevnoj bolnici, ne obavijesti tijelo nadležno za inspekcijski nadzor (članak 65. stavci 1., 2. i 3.) i
+5) ako troškovi provođenja zaštite na radu terete radnika (članak 17. stavak 6.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 6.000,00 kuna poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja poslodavcu pravnoj osobi u iznosu od 10.000,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.
+ 
+Članak 99. (NN 94/18)
+(1) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj pravna osoba ovlaštena za obavljanje poslova zaštite na radu ako poslove zaštite na radu ne obavlja u skladu s odredbama ovoga Zakona i drugih propisa na temelju njega (članak 82. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 25.000,00 kuna ovlaštena fizička osoba i odgovorna osoba ovlaštene pravne osobe.
+(3) Za prekršaj iz stavka 1. ovoga članka počinjen drugi put ovlaštenoj pravnoj i fizičkoj osobi, kao i odgovornoj osobi ovlaštene pravne osobe, uz novčanu kaznu može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od jedne godine.
+(4) Za prekršaj iz stavka 1. ovoga članka izriče se novčana kazna na mjestu izvršenja prekršaja ovlaštenoj pravnoj osobi u iznosu od 14.900,00 kuna, a ovlaštenoj i odgovornoj osobi ovlaštene pravne osobe u iznosu od 1.900,00 kuna.
+ 
+Članak 100.
+(1) Novčanom kaznom u iznosu od 120.000,00 kuna kaznit će se za prekršaj pravna osoba ili poslodavac pravna osoba:
+1) ako obavlja poslove zaštite na radu bez ovlaštenja (članak 82. stavak 1.)
+2) ako ne izvrši izvršno rješenje nadležnog inspektora (članci 91. i 92.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 25.000,00 kuna ovlaštena fizička osoba ili poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja ovlaštenoj pravnoj osobi ili poslodavcu pravnoj osobi u iznosu od 14.900,00 kuna, a ovlaštenoj fizičkoj osobi ili poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.
+ 
+ 
+X. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
+Članak 101.
+(1) Uvjerenje o položenom općem dijelu stručnog ispita za stručnjaka zaštite na radu, uvjerenje o položenom stručnom ispitu stručnjaka zaštite na radu, rješenje o priznavanju statusa stručnjaka zaštite na radu te uvjerenje o položenom stručnom ispitu za koordinatora zaštite na radu te rješenje o priznavanju statusa koordinatora za zaštitu na radu koje je fizičkoj osobi izdalo ili donijelo nadležno tijelo temeljem Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.) i njegovih podzakonskih propisa, važi i nakon stupanja na snagu ovoga Zakona.
+(2) Rješenje kojim je pravna osoba ovlaštena za obavljanje pojedinih poslova zaštite na radu temeljem Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.) i njegovih podzakonskih propisa, ostaje na snazi godinu dana nakon stupanja na snagu ovoga Zakona.
+(3) Rješenje o oslobađanju obveze ustrojavanja službe zaštite na radu i rješenje o oslobađanju od obveze zapošljavanja stručnjaka zaštite na radu, odnosno o obavljanju poslova zaštite na radu po blažim kriterijima, donijeto temeljem Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.) i njegovih podzakonskih propisa, prestaje važiti istekom roka za usklađivanje u skladu s pravilnikom iz članka 20. stavka 9. ovoga Zakona.
+(4) Isprave izdane od ovlaštenih pravnih osoba o ispitivanju radnog okoliša te strojeva i uređaja s povećanim opasnostima na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.) prestaju važiti kada nastupe propisane okolnosti iz toga Zakona i propisa donesenog na temelju toga Zakona.
+(5) Izrađene procjene opasnosti i osposobljavanja za rad na siguran način provedena na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.), prestaju važiti kada nastupe propisane okolnosti iz toga Zakona i propisa donesenih na temelju toga Zakona.
+(6) Osposobljavanja poslodavaca i njihovih ovlaštenika provedena na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.), važe i nakon stupanja na snagu ovoga Zakona.
+(7) Izbor povjerenika radnika za zaštitu na radu, poslodavac je obvezan provesti u roku od 60 dana od dana stupanja na snagu ovoga Zakona, a do izbora povjerenika radnika za zaštitu na radu u skladu s ovim Zakonom, funkciju povjerenika za zaštitu na radu će obnašati povjerenik koji je izabran ili imenovan na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.).
+(8) Upravni postupci započeti prije stupanja na snagu ovoga Zakona, dovršit će se po odredbama Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.).
+ 
+Članak 102. (NN 154/14)
+(1) Vlada će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona imenovati članove Upravnog vijeća Zavoda iz članka 83. ovoga Zakona i imenovati privremenog ravnatelja, koji će do dana imenovanja ravnatelja imati ovlasti ravnatelja prema Zakonu o ustanovama.
+(2) Upravno vijeće Zavoda obvezno je donijeti Statut u roku od 60 dana od dana upisa Zavoda u sudski registar.
+(3) Danom upisa u sudski registar, Zavod će od Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu preuzeti sve poslove zaštite na radu propisane Zakonom o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.) i njegovim provedbenim propisima i sredstva osigurana za obavljanje djelatnosti i poslova zaštite na radu te prava i obveze koje proizlaze iz djelatnosti zaštite na radu.
+(4) Zavod će u roku od 30 dana od dana upisa u sudski registar preuzeti od Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu pismohranu i drugu dokumentaciju koja se odnosi na poslove zaštite na radu, koje je do toga dana obavljao Hrvatski zavod za zaštitu zdravlja i sigurnost na radu.
+(5) Danom upisa u sudski registar Zavod će postupati i rješavati u upravnim stvarima u prvostupanjskom postupku o svim pravima i obvezama propisanim ovim Zakonom.
+(6) Do dana upisa u sudski registar Zavoda, o pravima i obvezama iz stavka 5. ovoga članka postupat će i rješavati ministarstvo nadležno za rad.
+(7) Započete, neriješene predmete iz stavka 6. ovoga članka će u roku od 15 dana, od dana upisa Zavoda u sudski registar, preuzeti Zavod.
+ 
+Članak 103. (NN 94/18)
+(1) Vlada Republike Hrvatske će u roku od 30 dana od dana stupanja na snagu ovoga Zakona, imenovati članove Nacionalnog vijeća za zaštitu na radu.
+(2) Članovi Nacionalnog vijeća imenovani na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.), nastavljaju s radom do imenovanja Nacionalnog vijeća za zaštitu na radu iz stavka 1. ovoga članka.
+(3) Ministar će donijeti propise iz članka 8. stavka 2., članka 18. stavka 6., članka 20. stavka 9., članka 42. stavka 2., članka 55. stavka 8., članka 78., članka 82. stavka 7., članka 83. stavka 7. i članka 93. stavka 4. ovoga Zakona, u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(4) Ministar će, uz suglasnost ministra nadležnog za zdravstvo, donijeti propise iz članka 45. stavka 5. ovoga Zakona, u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(5) Ministar nadležan za zdravlje uz suglasnost ministra će donijeti propise iz članka 17. stavka 7., članka 36. stavka 6., članka 56. stavka 4. i članka 81. stavka 2. ovoga Zakona, u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(6) Do dana stupanja na snagu propisa iz stavaka 3., 4. i 5. ovoga članka, u dijelu u kojemu nisu u suprotnosti s ovim Zakonom, primjenjivat će se:
+1) Pravilnik o pružanju prve pomoći radnicima na radu (»Narodne novine«, br. 56/83.)
+2) Pravilnik o poslovima s posebnim uvjetima rada (»Narodne novine«, br. 5/84.)
+3) Pravilnik o zaštiti na radu za mjesta rada (»Narodne novine«, br. 29/13.)
+4) Pravilnik o evidenciji, ispravama, izvještajima i knjizi nadzora iz područja zaštite na radu (»Narodne novine«, br. 52/84.)
+5) Pravilnik o izradi procjene opasnosti (»Narodne novine«, br. 48/97., 114/02., 126/03. i 144/09.)
+6) Pravilnik o listi strojeva i uređaja s povećanim opasnostima (»Narodne novine«, br. 47/02.)
+7) Pravilnik o polaganju stručnog ispita stručnjaka zaštite na radu (»Narodne novine«, br. 114/02. i 126/03.)
+8) Pravilnik o programu i načinu provjere osposobljenosti poslodavca ili njegovog ovlaštenika za obavljanje poslova zaštite na radu (»Narodne novine«, br. 114/02. i 29/05.)
+9) Pravilnik o uvjetima za osposobljavanje radnika za rad na siguran način (»Narodne novine«, br. 114/02. i 126/03.)
+10) Pravilnik o uvjetima pod kojima pravne osobe mogu obavljati poslove zaštite na radu (»Narodne novine«, br. 114/02. i 126/03.)
+11) Pravilnik o ispitivanju radnog okoliša te strojeva i uređaja s povećanim opasnostima (»Narodne novine«, br. 114/02., 131/02. i 126/03.)
+12) Pravilnik o programu, sadržaju i načinu provjere znanja poslodavaca ili njihovih ovlaštenika iz područja zaštite na radu (»Narodne novine«, br. 69/05.)
+13) Pravilnik o zaštiti na radu na privremenim ili pokretnim gradilištima (»Narodne novine«, br. 51/08.)
+14) Pravilnik o uvjetima i stručnim znanjima za imenovanje koordinatora za zaštitu na radu te polaganju stručnog ispita (»Narodne novine«, br. 101/09. i 40/10.)
+15) Pravilnik o priznanjima i nagradi za promicanje zaštite na radu (»Narodne novine«, br. 1/11.).
+(7) Od dana stupanja na snagu ovoga Zakona, a do stupanja na snagu novih propisa, u dijelu u kojemu nisu u suprotnosti s ovim Zakonom, primjenjivat će se:
+1) Pravilnik o zaštiti na radu u poljoprivredi (»Službeni list«, br. 34/68.)
+2) Pravilnik o utvrđivanju opće i posebne zdravstvene sposobnosti radnika i sposobnosti radnika za obavljanje poslova s posebnim uvjetima rada (»Narodne novine«, br. 3/84. i 55/85.)
+3) Pravilnik o sadržaju plana uređenja privremenih i zajedničkih privremenih radilišta (»Narodne novine«, br. 45/84.) – članci 7., 8. i 9. koji se odnose na iskorištavanje šuma
+4) Pravilnik o zaštiti na radu u šumarstvu (»Narodne novine«, br. 10/86.)
+5) Pravilnik o zaštiti na radu pri utovaru i istovaru tereta (»Narodne novine«, br. 49/86.)
+6) Pravilnik o zaštiti na radu pri radu s tvarima koje sadrže polikloriranebifenile, polikloriranenaftalene i polikloriraneterfenile (»Narodne novine«, br. 7/89.)
+7) Pravilnik o sigurnosnim znakovima (»Narodne novine«, br. 29/05.)
+8) Pravilnik o zaštiti na radu pri ručnom prenošenju tereta (»Narodne novine«, br. 42/05.)
+9) Pravilnik o sigurnosti i zaštiti zdravlja pri radu s računalom (»Narodne novine«, br. 69/05.)
+10) Pravilnik o uporabi osobnih zaštitnih sredstava (»Narodne novine«, br. 39/06.)
+11) Pravilnik o najmanjim zahtjevima sigurnosti i zaštite zdravlja radnika te tehničkom nadgledanju postrojenja, opreme, instalacija i uređaja u prostorima ugroženim eksplozivnom atmosferom (»Narodne novine«, br. 39/06. i 106/07.)
+12) Pravilnik o najmanjim zahtjevima za unapređenje sigurnosti i zaštite zdravlja radnika zaposlenih u rudarstvu kod površinskih i podzemnih rudarskih radova (»Narodne novine«, br. 40/07.)
+13) Pravilnik o zaštiti radnika od rizika zbog izlaganja azbestu (»Narodne novine«, br. 40/07.)
+14) Pravilnik o najmanjim zahtjevima za unapređenje sigurnosti i zaštite zdravlja radnika zaposlenih u naftnom rudarstvu (»Narodne novine«, br. 40/07.)
+15) Pravilnik o zaštiti radnika od rizika zbog izloženosti karcinogenim i/ili mutagenim tvarima (»Narodne novine«, br. 40/07.)
+16) Pravilnik o sigurnosti i zdravlju pri uporabi radne opreme (»Narodne novine«, br. 21/08.)
+17) Pravilnik o zaštiti radnika od izloženosti buci na radu (»Narodne novine«, br. 46/08.)
+18) Pravilnik o zaštiti radnika od rizika zbog izloženosti kemijskim tvarima na radu (»Narodne novine«, br. 155/08.)
+19) Pravilnik o zaštiti radnika od rizika zbog izloženosti biološkim agensima pri radu (»Narodne novine«, br. 155/08.)
+20) Pravilnik o zaštiti radnika od rizika zbog izloženosti vibracijama na radu (»Narodne novine«, br. 155/08.)
+21) Pravilnik o graničnim vrijednostima izloženosti opasnim tvarima pri radu i o biološkim graničnim vrijednostima (»Narodne novine«, br. 13/09. i 75/13.)
+22) Pravilnik o sigurnosti i zdravlju pri radu s električnom energijom (»Narodne novine«, br. 88/12.).
+(8) Tri mjeseca od dana stupanja na snagu ovoga Zakona prestaju važiti:
+1) Opći pravilnik o higijenskim i tehničkim zaštitnim mjerama pri radu (»Službeni list«, br. 16/47., 18/47. i 36/50.)
+2) Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri radu u kudjeljarama (»Službeni list«, br. 46/47.)
+3) Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri radu u grafičkim poduzećima (»Službeni list«, br. 56/47.)
+4) Pravilnik o tehničkim i zdravstveno-tehničkim zaštitnim mjerama na radovima pri kemijsko-tehnološkim procesima (»Službeni list«, br. 55/5., osim odredbe članka 86.)
+5) Pravilnik o tehničkim i zdravstveno-tehničkim zaštitnim mjerama pri radu u crnoj metalurgiji (»Službeni list«, br. 7/55.)
+6) Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri ronilačkim radovima (»Službeni list«, br. 36/58.)
+7) Pravilnik o zaštiti na radu pri termičkom obrađivanju legura lakih metala u kupaonicama s nitratnim solima (»Službeni list«, br. 48/65.)
+8) Pravilnik o zaštiti na radu pri održavanju motornih vozila i prijevozu motornim vozilima (»Službeni list«, br. 55/65.)
+9) Pravilnik o zaštiti na radu s uređajima za ukrcavanje i iskrcavanje tereta na morskim brodovima i plovilima unutarnje plovidbe (»Službeni list«, br. 32/66.)
+10) Naredba o zabrani upotrebe motornih benzina za odmašćivanje, pranje ili čišćenje metalnih dijelova i predmeta od drugog materijala (»Službeni list«, br. 23/67.)
+11) Pravilnik o zaštiti na radu u građevinarstvu (»Službeni list«, br. 42/68. i 45/68.)
+12) Pravilnik o posebnim mjerama i normativima zaštite na radu pri preradi i obradi kože i krzna i otpadaka kože (»Službeni list«, br. 47/70.)
+13) Pravilnik o zaštiti na radu na željeznicama (»Narodne novine«, br. 11/84. i 7/89.)
+14) Pravilnik o zaštiti na radu pri preradi nemetalnih sirovina (»Narodne novine«, br. 10/86.)
+15) Pravilnik o zaštiti na radu pri proizvodnji i preradi teških i lakih obojenih metala i njihovih legura (»Narodne novine«, br. 10/86.)
+16) Pravilnik o zaštiti na radu pri mehaničkoj preradi i obradi drveta i sličnih materijala (»Narodne novine«, br. 49/86.).
+ 
+Članak 104.
+(1) Do donošenja naputka iz članka 93. stavka 4. ovoga Zakona, primjenjivat će se Naputak o podacima koje sadrži izvješće povodom događaja koji je prouzročio smrt ili skupnu ozljedu radnika (»Narodne novine«, br. 86/12.).
+(2) Do donošenja provedbenih propisa na temelju općeg propisa o radu, primjenjivat će se Pravilnik o zaštiti na radu za mjesta rada (»Narodne novine«, br. 29/13.).
+ 
+Članak 105.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o zaštiti na radu (»Narodne novine«, br. 59/96., 94/96., 114/03., 100/04., 86/08., 116/08., 75/09. i 143/12.).
+ 
+Članak 106.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+ 
+Prijelazne i završne odredbe iz NN 94/18
+ 
+Članak 32.
+(1) Ministar nadležan za zdravstvo će, uz prethodnu suglasnost ministra, donijeti pravilnik iz članka 17. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(2) Čelnik tijela nadležnog za inspekciju rada donijet će naputak iz članka 25. stavka 4. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 33. (NN 96/18)
+(1) Na dan 1. siječnja 2019. Zavod za unapređivanje zaštite na radu prestaje s radom.
+(2) Ravnatelj Zavoda za unapređivanje zaštite na radu podnijet će nadležnom sudu prijedlog za brisanje Zavoda za unapređivanje zaštite na radu iz sudskog registra u roku od osam dana od dana prestanka rada Zavoda za unapređivanje zaštite na radu.
+(3) Danom brisanja iz sudskog registra prestaje mandat predsjednici i članovima Upravnog vijeća Zavoda za unapređivanje zaštite na radu.
+(4) Danom iz stavka 1. ovoga članka Ministarstvo rada i mirovinskoga sustava preuzet će poslove, imovinu, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze Zavoda za unapređivanje zaštite na radu.
+(5) Danom iz stavka 1. ovoga članka Ministarstvo rada i mirovinskoga sustava će postupati i rješavati u upravnim stvarima u prvostupanjskom postupku o svim pravima i obvezama propisanim ovim Zakonom.
+(6) Postupke započete prema odredbama Zakona o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.) koji nisu pravomoćno dovršeni do prestanka rada Zavoda za unapređivanje zaštite na radu dovršit će Ministarstvo rada i mirovinskoga sustava.
+(7) Rješenja o ovlaštenju za obavljanje pojedinih poslova zaštite na radu koja je na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.) i njegovih podzakonskih propisa donio Zavod za unapređivanje zaštite na radu, ostaju na snazi.
+ 
+Članak 34.
+(1) Vlada Republike Hrvatske će u roku od 15 dana od dana stupanja na snagu ovoga Zakona uredbom urediti unutarnji ustroj Ministarstva rada i mirovinskoga sustava.
+(2) Ministar rada i mirovinskoga sustava uskladit će Pravilnik o unutarnjem redu u roku od 15 dana od dana stupanja na snagu Uredbe iz stavka 1. ovoga članka.
+ 
+Članak 35.
+(1) Danom stupanja na snagu Uredbe iz članka 34. stavka 1. ovoga Zakona radnike zaposlene i zatečene u Zavodu za unapređivanje zaštite na radu preuzet će Ministarstvo rada i mirovinskoga sustava.
+(2) Radnici iz stavka 1. ovoga članka do rasporeda na radno mjesto nastavljaju obavljati poslove koje su obavljali i zadržavaju sva prava iz radnog odnosa koja su stekli do njihova preuzimanja u Ministarstvo rada i mirovinskoga sustava.
+(3) Donošenjem Pravilnika iz članka 34. stavka 2. ovoga Zakona, radnici iz stavka 1. ovoga članka rješenjem će se rasporediti na radna mjesta za koja ispunjavaju uvjete sukladno Pravilniku.
+(4) Danom izvršnosti rješenja iz stavka 3. ovoga članka prestaju ugovori o radu radnika iz stavka 1. ovoga članka.
+ 
+Članak 36.
+(1) Vlada Republike Hrvatske imenovat će članove Nacionalnog vijeća za zaštitu na radu u roku od tri mjeseca od stupanja na snagu članka 5. ovoga Zakona.
+(2) Članovi Nacionalnog vijeća za zaštitu na radu, imenovani na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.), nastavljaju s radom do 1. siječnja 2019.
+ 
+Članak 37.
+Tri mjeseca nakon stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o evidenciji, ispravama, izvještajima i knjizi nadzora iz područja zaštite na radu (»Narodne novine«, br. 52/84.).
+ 
+Članak 38.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu osmoga dana od dana objave, osim odredaba članka 5., 23. i 24. ovoga Zakona koje stupaju na snagu dana 1. siječnja 2019.

@@ -1,0 +1,708 @@
+﻿I. OPĆE ODREDBE
+ 
+Članak 1.
+Predmet Zakona
+Ovim se Zakonom utvrđuju mjere za smanjenje i ograničavanje uporabe duhanskih i srodnih proizvoda, štetnih sastojaka duhanskih i srodnih proizvoda i obvezne oznake na pakiranjima duhanskih i srodnih proizvoda, preventivne mjere protiv pušenja te nadzor nad provedbom ovoga Zakona, a radi zaštite zdravlja ljudi, posebno mladih ljudi, te ispunjavanja obveza prema Okvirnoj konvenciji Svjetske zdravstvene organizacije o nadzoru nad duhanom.
+ 
+Članak 2. (NN 98/25)
+(1) Ovim se Zakonom prenose u pravni poredak Republike Hrvatske sljedeći propisi Europske unije:
+– Direktiva 2014/40/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o usklađivanju zakona i drugih propisa država članica o proizvodnji, predstavljanju i prodaji duhanskih i srodnih proizvoda i o stavljanju izvan snage Direktive 2001/37/EZ (SL L 127/1, 29. 4. 2014.) – u daljnjem tekstu: Direktiva
+– Delegirana Direktiva Komisije 2014/109/EU od 10. listopada 2014. o izmjeni Priloga II. Direktivi 2014/40/EU Europskog parlamenta i Vijeća uspostavljanjem zbirke slikovnih upozorenja za uporabu na duhanskim proizvodima (SL L 360, 17. 12. 2014.)
+– Provedbena odluka Komisije (EU) 2015/1842 od 9. listopada 2015. o tehničkim specifikacijama za položaj, dizajn i oblik kombiniranih zdravstvenih upozorenja za duhanske proizvode za pušenje (SL L 267, 14. 10. 2015.)
+– Delegirana direktiva Komisije (EU) 2022/2100 od 29. lipnja 2022. o izmjeni Direktive 2014/40/EU Europskog parlamenta i Vijeća u pogledu povlačenja određenih izuzeća za grijane duhanske proizvode (SL L 283, 3. 11. 2022.).
+(2) Ovaj Zakon notificiran je u skladu s Direktivom (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (kodificirani tekst) (Tekst značajan za EGP) (SL L 241, 17. 9. 2015.).
+ 
+Članak 3. (NN 98/25)
+Pojmovi
+Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1) duhan su listovi i drugi prirodni, prerađeni ili neprerađeni dijelovi biljke duhana, što uključuje ekspandirani i rekonstituirani duhan
+2) duhan za lulu jest duhan koji se može konzumirati putem postupka izgaranja i koji je namijenjen isključivo za korištenje u luli
+3) duhan za samostalno motanje jest duhan koji se može upotrebljavati za izradu cigareta koje izrađuju sami potrošači
+4) duhanski proizvodi su proizvodi koji se mogu konzumirati, a koji se sastoje, čak i samo djelomično, od duhana koji jest ili nije genetički modificiran
+5) bezdimni duhanski proizvod jest duhanski proizvod čija uporaba ne uključuje postupak izgaranja, uključujući duhan za žvakanje, duhan za šmrkanje i duhan za oralnu uporabu
+6) duhan za žvakanje jest bezdimni duhanski proizvod posebno namijenjen za žvakanje
+7) duhan za šmrkanje jest bezdimni duhanski proizvod koji se može konzumirati putem nosa
+8) duhan za oralnu uporabu su svi duhanski proizvodi za oralnu uporabu, osim onih namijenjenih za šmrkanje ili žvakanje, izrađeni u cijelosti ili djelomično od duhana, u obliku praha ili čestica ili u bilo kakvoj kombinaciji tih oblika, posebice oni u vrećicama ili poroznim vrećicama
+9) duhanski proizvodi za pušenje su duhanski proizvodi, osim bezdimnog duhanskog proizvoda
+10) cigareta jest smotuljak duhana koji se može konzumirati putem postupka izgaranja i koji je definiran posebnim propisom kojim se uređuju trošarine
+11) cigara jest smotuljak duhana koji se može konzumirati putem postupka izgaranja i koji je definiran posebnim propisom kojim se uređuju trošarine
+12) cigarilos jest manja vrsta cigare koja je definirana posebnim propisom kojim se uređuju trošarine
+13) duhan za vodenu lulu jest duhanski proizvod koji se može konzumirati putem vodene lule i smatra se duhanskim proizvodom za pušenje. Ako se proizvod može upotrebljavati i putem vodenih lula i kao duhan za samostalno motanje, smatra se duhanom za samostalno motanje
+14) novi duhanski proizvod jest duhanski proizvod koji ne pripada nijednoj od sljedećih kategorija: cigarete, duhan za samostalno motanje, duhan za lule, duhan za vodene lule, cigare, cigarilosi, duhan za žvakanje, duhan za šmrkanje ili duhan za oralnu uporabu, a stavljen je na tržište nakon 19. svibnja 2014.
+15) grijani duhanski proizvod jest novi duhanski proizvod koji se zagrijava kako bi se proizvele emisije koje sadržavaju nikotin i druge kemikalije koje korisnik zatim udiše i koji je, ovisno o njegovim svojstvima, bezdimni duhanski proizvod ili duhanski proizvod za pušenje
+16) biljni proizvod za pušenje jest proizvod na bazi biljaka, trava ili voća koji ne sadrži duhan, a može se konzumirati putem postupka izgaranja
+17) elektronička cigareta jest proizvod koji se može koristiti za konzumaciju pare koja sadrži nikotin putem usnika ili bilo kojeg sastavnog dijela toga proizvoda, uključujući uložak, spremnik i uređaj bez uloška ili spremnika. Elektroničke cigarete mogu biti potrošne ili ponovo punjive putem spremnika za ponovno punjenje i spremnika ili ponovno punjive pomoću uložaka za jednokratnu uporabu
+18) spremnik za ponovno punjenje jest posuda s tekućinom s nikotinom, a koja se može koristiti za ponovno punjenje elektroničke cigarete
+19) sastojak jest duhan, aditiv, kao i svaka tvar ili element prisutan u finaliziranom duhanskom ili srodnom proizvodu uključujući papir, filtar, tintu, kapsule i ljepila
+20) nikotin su nikotinski alkaloidi
+21) katran jest suhi, bezvodni, beznikotinski kondenzat dima
+22) emisije su tvari koje se otpuštaju prilikom namjenske uporabe duhanskog ili srodnog proizvoda, kao što su tvari iz dima ili tvari koje se otpuštaju u procesu uporabe bezdimnih duhanskih proizvoda
+23) maksimalna razina ili maksimalna razina emisije jest najveći sadržaj ili emisija tvari u duhanskom proizvodu, uključujući nulu, mjerena u miligramima
+24) aditiv jest tvar, osim duhana, koja je dodana duhanskom proizvodu, jediničnom pakiranju ili bilo kakvom vanjskom pakiranju
+25) aromatična tvar jest aditiv koji dodaje miris i/ili okus
+26) svojstvena aroma jest jasno zamjetljiv miris ili okus, osim duhanskog, koji je rezultat aditiva ili kombinacije aditiva, uključujući, ali ne i ograničavajući se na aromu voća, začina, bilja, alkohola, slatkiša, mentola ili vanilije, koja je zamjetljiva prije ili tijekom konzumacije duhanskog proizvoda
+27) stvaranje ovisnosti jest farmakološki potencijal tvari da uzrokuje ovisnost, stanje koje utječe na sposobnost pojedinca da kontrolira svoje ponašanje, davanjem osjećaja nagrade ili olakšanja od apstinencijskih simptoma ili oboje
+28) toksičnost jest stupanj do kojeg tvar može uzrokovati štetne učinke u ljudskom organizmu, uključujući učinke koji nastupaju tijekom vremena, obično putem višekratne ili kontinuirane konzumacije ili izloženosti
+29) vanjsko pakiranje jest bilo koje pakiranje u kojem su duhanski ili srodni proizvodi stavljeni na tržište i koje obuhvaća jednu ili više zapakiranih jedinica; prozirni omoti ne smatraju se vanjskim pakiranjem
+30) značajna promjena okolnosti jest povećanje opsega prodaje prema kategoriji proizvoda za najmanje 10% u najmanje pet država članica, na temelju podataka o prodaji poslanih u skladu s odredbom članka 6. stavka 9. ovoga Zakona, ili povećanje razine raširenosti pušenja u skupini potrošača mlađih od 25 godina za najmanje pet postotnih bodova u najmanje pet država članica po predmetnoj kategoriji proizvoda na temelju posebnog Eurobarometrova izvješća 385 iz svibnja 2012. godine ili jednakovrijedne studije o raširenosti pušenja; smatra se da se značajna promjena okolnosti nije dogodila ako obujam prodaje kategorije proizvoda na maloprodajnoj razini ne premašuje 2,5% ukupne prodaje duhanskih proizvoda na razini Europske unije
+31) jedinično pakiranje jest najmanje samostalno pakiranje duhanskog ili srodnog proizvoda koje se stavlja na tržište
+32) vrećica jest jedinično pakiranje duhana za samostalno motanje bilo u obliku pravokutnog džepa s preklopom koji pokriva otvor bilo u obliku samostojeće vrećice
+33) zdravstveno upozorenje jest upozorenje koje se tiče štetnih učinaka proizvoda za zdravlje ljudi ili drugih nepoželjnih posljedica njegove konzumacije, uključujući tekstualna upozorenja, kombinirana zdravstvena upozorenja, opća upozorenja i informativne poruke, kako je određeno ovim Zakonom
+34) kombinirano zdravstveno upozorenje jest zdravstveno upozorenje koje se sastoji od kombinacije teksta upozorenja i fotografija ili ilustracija koje mu pripadaju, kako je određeno ovim Zakonom
+35) prekogranična prodaja na daljinu jest prodaja potrošačima na daljinu kada se potrošač, u trenutku naručivanja proizvoda od maloprodajnog mjesta, nalazi u državi članici koja nije država članica ili treća zemlja u kojoj to maloprodajno mjesto ima poslovno sjedište, odnosno poslovni nastan; za maloprodajno mjesto smatra se da ima sjedište, odnosno poslovni nastan u državi članici:
+a) u slučaju fizičke osobe: ako ima svoju poslovnu jedinicu u toj državi članici
+b) u drugim slučajevima: ako maloprodajno mjesto ima svoje statutarno sjedište, središnju upravu ili poslovnu jedinicu, uključujući podružnicu, agenciju ili bilo kakvu drugu uspostavu, u toj državi članici
+36) potrošač jest fizička osoba koja djeluje za osobne potrebe, a izvan njegove trgovačke, poslovne, obrtne ili stručne djelatnosti
+37) sustav za provjeru starosti jest računalni sustav koji elektronički nedvosmisleno potvrđuje dob potrošača
+38) proizvođač jest bilo koja fizička ili pravna osoba koja proizvodi proizvod ili ima dizajniran ili proizveden proizvod i trguje njime pod svojim imenom ili zaštitnim znakom
+39) promet duhanskim ili srodnim proizvodima jest uvoz, izvoz i skladištenje radi prodaje i prodaja
+40) uvoz duhana ili srodnih proizvoda jest ulazak takvih proizvoda na teritorij Europske unije, osim ako za te proizvode, nakon njihova ulaska u Europsku uniju, ne vrijedi carinski postupak ili dogovor o izuzeću, kao i njihovo oslobađanje od carinskog postupka ili dogovora o izuzeću
+41) uvoznik duhana ili srodnih proizvoda jest vlasnik ili osoba koja ima pravo raspolaganja duhanom ili srodnim proizvodima koji su uvezeni na teritorij Europske unije
+42) stavljanje na tržište znači učiniti proizvode, bez obzira na mjesto proizvodnje, dostupnim potrošačima u Europskoj uniji besplatno ili uz plaćanje, uključujući prodaju na daljinu; u slučaju prekograničnih prodaja na daljinu, proizvod se smatra stavljenim na tržište u državi članici u kojoj se nalazi potrošač
+43) maloprodajno mjesto jest mjesto na kojem se duhanski proizvodi stavljaju na tržište, uključujući i mjesto na kojem ih na tržište stavlja fizička osoba
+44) oglašavanje i promidžba jest svaki oblik komercijalne komunikacije, uključujući usluge informacijskog društva
+45) informacijsko društvo jest društvo sukladno posebnim propisima kojima se reguliraju postupci službenog obavješćivanja u području tehničkih propisa te propisima o uslugama informacijskog društva
+46) sponzoriranje i promoviranje jest svaki oblik doprinosa pravne ili fizičke osobe događaju, aktivnosti ili pojedincu s ciljem, učinkom ili mogućim učinkom izravne ili neizravne promidžbe duhanskih i srodnih proizvoda te pušenja ili uporabe duhana
+47) pušenje jest uporaba duhanskih ili ostalih srodnih proizvoda na način da se udiše dim nastao njihovim izgaranjem
+48) štetne posljedice pušenja su znanstveno dokazane pojave oštećenja zdravlja i bolesti koje skraćuju život pušača i nepušača ako borave u istom zatvorenom prostoru u kojem se puši
+49) preventivne mjere protiv pušenja su sustavne aktivnosti čiji je cilj poboljšanje zdravlja te produljenje i poboljšanje kvalitete života pučanstva
+50) javni prostor jest zatvoreni prostor namijenjen skupnom boravku ljudi, a obuhvaća prostore u građevinama u kojima se obavljaju djelatnosti iz područja zdravstva, zaštite djece, socijalne skrbi, odgoja i obrazovanja, trgovine, športa i rekreacije, ugostiteljstva i turizma, kulture i umjetnosti, prometa, uključujući čekaonice, prostorije za sastanke, sve dvorane za okupljanje ljudi, gledališta, javna prometna sredstva, dizala, kabine žičare, javne zahode te otvorene prostore namijenjene održavanju kazališnih predstava i kinopredstava, prostore dvorišta odgojno-obrazovnih ustanova i druge prostore u kojima nepušači protiv svoje volje mogu biti izloženi duhanskom dimu
+51) prostor za pušenje jest potpuno zatvoren prostor koji je fizički odvojen od drugih zatvorenih prostora
+52) razmjerna naknada jest naknada koja odgovara stvarnom trošku pružanja usluge za koju se ona obračunava.
+ 
+Članak 4.
+Rodna jednakost
+Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje odnose se jednako na muški i ženski rod.
+ 
+II. DUHANSKI I SRODNI PROIZVODI
+ 
+Članak 5.
+Najviše dopuštene razine emisija katrana, nikotina, ugljikova monoksida i drugih tvari
+(1) Zabranjuje se proizvodnja i promet cigareta koje sadrže više od:
+– 10 mg katrana po cigareti
+– 1 mg nikotina po cigareti
+– 10 mg ugljikova monoksida po cigareti.
+(2) Mjerenje katrana, nikotina i ugljikova monoksida obavlja se na temelju ISO normi:
+– za katran ISO 4387
+– za nikotin ISO 10315
+– za ugljikov monoksid ISO 8454.
+(3) Točnost mjerenja za katran, nikotin i ugljikov monoksid određuje se sukladno ISO normi 8243.
+(4) Ministarstvo nadležno za zdravstvo (u daljnjem tekstu: ministarstvo) će proizvođačima i uvoznicima duhanskih proizvoda naplatiti razmjernu naknadu za provjeru mjerenja iz ovoga članka.
+(5) Mjerenja razina tvari iz ovoga članka provjerava ovlašteni laboratorij koji ne smije biti u vlasništvu duhanske industrije, niti duhanska industrija njime smije izravno ili neizravno upravljati.
+(6) Laboratorij iz stavka 5. ovoga članka:
+– mora se akreditirati u skladu s normom HRN EN ISO/IEC 17025:2007 o općim zahtjevima za osposobljenost ispitnih i umjernih laboratorija
+– mora imati odgovarajuće prostore
+– mora imati odgovarajuće kvalificirano osoblje
+– mora imati odgovarajuću opremu potrebnu za provođenje potrebnih analiza.
+(7) Laboratorij iz stavka 5. ovoga članka ministarstvu podnosi zahtjev za donošenje rješenja o ovlaštenju za mjerenje razina tvari iz ovoga članka.
+(8) Ministarstvo donosi rješenje o ovlaštenju iz stavka 7. ovoga članka u roku od 30 dana od dana podnošenja urednog zahtjeva iz stavka 7. ovoga članka.
+(9) Protiv rješenja iz stavka 8. ovoga članka nije dopuštena žalba, već se protiv toga rješenja može pokrenuti upravni spor.
+(10) Popis laboratorija iz stavka 5. ovoga članka, a koji se nalaze u Republici Hrvatskoj, ministarstvo dostavlja Europskoj komisiji (u daljnjem tekstu: Komisija). U popisu se navode i kriteriji korišteni za odobravanje i metode primijenjene za praćenje. Popis se ažurira prilikom svake promjene.
+(11) Odluku o visini razmjerne naknade iz stavka 4. ovoga članka donosi ministar nadležan za zdravstvo (u daljnjem tekstu: ministar).
+(12) Uvjete u pogledu prostora, osoblja i opreme koje mora ispunjavati laboratorij iz stavka 5. ovoga članka propisat će pravilnikom ministar.
+ 
+Članak 6.
+Izvješćivanje o sastojcima i emisijama
+(1) Prije stavljanja duhanskih proizvoda na tržište proizvođači i uvoznici obvezni su ministarstvu dostaviti sljedeće podatke prema robnoj marki i vrsti:
+a) popis svih sastojaka i njihovih količina korištenih u proizvodnji duhanskih proizvoda, u padajućem redoslijedu prema masi svakog sastojka sadržanog u duhanskim proizvodima
+b) razine emisija iz članka 5. stavka 1. ovoga Zakona
+c) podatke o drugim emisijama i njihovim razinama, ako je moguće.
+(2) Za proizvode koji su stavljeni na tržište do dana stupanja na snagu ovoga Zakona podaci iz stavka 1. ovoga članka dostavljaju se u roku koji će odlukom odrediti ministar.
+(3) Ako je sastav proizvoda izmijenjen na način koji nije u skladu s podacima dostavljenim sukladno ovome članku, proizvođači ili uvoznici obvezni su prije stavljanja na tržište tog proizvoda obavijestiti o tome ministarstvo.
+(4) Popis sastojaka iz stavka 1. točke a) ovoga članka mora biti popraćen izjavom u kojoj se navode razlozi zbog kojih su ti sastojci uključeni u te duhanske proizvode. U popisu se navodi status sastojaka, uključujući i podatak jesu li registrirani sukladno Uredbi (EZ) br. 1907/2006 Europskoga parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (u daljnjem tekstu: Uredba (EZ) br. 1907/2006), kao i njihovo razvrstavanje prema Uredbi (EZ) br. 1272/2008 Europskog parlamenta i Vijeća o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006.
+(5) Popis iz stavka 1. točke a) ovoga članka mora biti popraćen odgovarajućim toksikološkim podacima koji se tiču sastojaka u zapaljenom ili nezapaljenom obliku, ovisno o okolnostima konkretnog slučaja, posebno u odnosu na njihove učinke na zdravlje potrošača i bilo kakav učinak koji stvara ovisnost.
+(6) Za cigarete i duhan za samostalno motanje proizvođač ili uvoznik predaje tehnički dokument kojim se određuje opći opis korištenih aditiva i njihovih obilježja.
+(7) Osim za katran, nikotin i ugljikov monoksid te za emisije iz članka 5. stavka 5. ovoga Zakona, proizvođači i uvoznici obvezni su navesti i metode korištene za mjerenje emisija.
+(8) Ministarstvo će na svojim mrežnim stranicama objaviti podatke pribavljene u skladu sa stavkom 1. ovoga članka i člankom 7. ovoga Zakona, vodeći računa i uvažavajući zaštitu podataka koje su proizvođači i uvoznici prilikom dostave tih podataka označili kao poslovnu tajnu.
+(9) Proizvođači i uvoznici obvezni su ministarstvu dostaviti dostupne unutarnje i vanjske studije o istraživanju tržišta i sklonostima različitih skupina potrošača, uključujući mlade osobe i pušače, u vezi sa sastojcima i emisijama, kao i radne sažetke svakog istraživanja tržišta koje provode prilikom stavljanja novog proizvoda na tržište, kao i izvješće o opsegu njihove prodaje po robnoj marki i vrsti, navedeno u komadima cigareta, cigarilosa ili cigara ili u kilogramima.
+(10) Svi podaci i informacije iz ovoga članka i članka 7. ovoga Zakona dostavljaju se u elektroničkom obliku. Podaci se pohranjuju u elektroničkom obliku i moraju biti dostupni Komisiji i drugim državama članicama, uvažavajući zaštitu podataka i vodeći računa o tome da se poslovne tajne i drugi povjerljivi podaci tretiraju povjerljivo.
+(11) Ministarstvo će proizvođačima i uvoznicima duhanskih proizvoda naplatiti razmjernu naknadu za primitak, pohranu, rukovanje, analizu i objavu podataka dostavljenih na temelju odredaba ovoga članka.
+(12) Visinu naknade iz stavka 11. ovoga članka utvrdit će odlukom ministar.
+(13) Pravilnik o obliku i dostupnosti podataka i informacija o duhanskim proizvodima iz stavka 10. ovoga članka donijet će ministar.
+ 
+Članak 7.
+Prioritetni popis aditiva i pooštrene obveze izvješćivanja
+(1) Na aditive sadržane u cigaretama i u duhanu za samostalno motanje, a koji su uključeni na prioritetni popis, osim obveza izvješćivanja utvrđenih u članku 6. ovoga Zakona, primjenjuju se pooštrene obveze izvješćivanja propisane ovim člankom.
+(2) Proizvođači i uvoznici cigareta i duhana za samostalno motanje koji sadrže aditiv koji je uključen na prioritetni popis iz stavka 1. ovoga članka, obvezni su provesti opsežne studije u kojima se svaki aditiv ispituje s obzirom na sljedeće:
+a) doprinosi li toksičnosti ili svojstvu stvaranja ovisnosti proizvoda koji se ispituje te ima li to učinak na povećanje toksičnosti ili svojstva stvaranja ovisnosti u bilo kojem proizvodu koji se ispituje u znatnoj ili mjerljivoj količini
+b) rezultira li svojstvenom aromom
+c) olakšava li udisanje ili unos nikotina i
+d) vodi li stvaranju tvari koje imaju karcinogena, mutagena i reprotoksična svojstva (u daljnjem tekstu: CMR svojstva), njihove količine te ima li navedeno takav učinak da povećava CMR svojstva u bilo kojem dotičnom proizvodu u znatnoj ili mjerljivoj količini.
+(3) Studije iz stavka 2. ovoga članka uzimaju u obzir namjeravanu uporabu proizvoda i ispituju osobito emisije koje nastaju procesom sagorijevanja u koji je uključen taj aditiv. Studijama se također ispituje interakcija tog aditiva s drugim sastojcima sadržanima u tim proizvodima. Proizvođači ili uvoznici koji koriste isti aditiv u svojim duhanskim proizvodima mogu provesti zajedničku studiju ako koriste navedeni aditiv u usporedivom sastavu proizvoda.
+(4) Proizvođači ili uvoznici obvezni su sastavljati izvješća o ishodima studija iz stavka 2. ovoga članka te ih podnijeti Komisiji i ministarstvu. Izvješća uključuju radne sažetke, kao i opsežan pregled u kojem se prikuplja dostupna znanstvena literatura o ispitivanom aditivu, u kojem se sažimaju interni podaci o učincima ispitivanog aditiva. Ministarstvo može zatražiti dodatne informacije o aditivu od proizvođača ili uvoznika. Ove dodatne informacije čine dio izvješća.
+(5) Ministarstvo ima pravo zatražiti da izvješća iz stavka 4. ovoga članka pregleda neovisno znanstveno tijelo, posebno u pogledu njihove opsežnosti, metodologije i zaključaka.
+(6) Ministarstvo može proizvođačima i uvoznicima duhanskih proizvoda naplatiti razmjerne naknade za preglede iz stavka 5. ovoga članka.
+(7) Mala i srednja trgovačka društva, definirana Preporukom Komisije 2003/361/EZ, izuzimaju se od obveza koje proizlaze iz ovoga članka, ako je izvješće o aditivu iz stavka 1. ovoga članka pripremio drugi proizvođač ili uvoznik.
+(8) Odluku o visini razmjerne naknade iz stavka 6. ovoga članka donosi ministar.
+ 
+Članak 8. (NN 98/25)
+Sastojci
+(1) Zabranjeno je stavljanje na tržište duhanskih proizvoda u koji su dodane svojstvene arome. Od zabrane je izuzeta uporaba aditiva koji su ključni za proizvodnju duhanskih proizvoda, primjerice šećera radi nadomjestka šećera koji se gubi tijekom postupka sušenja, pod uvjetom da ti aditivi ne rezultiraju proizvodom svojstvene arome i ne povećavaju na znatan ili mjerljiv način stvaranje ovisnosti, toksičnost ili CMR svojstva proizvoda.
+(2) Ministarstvo može od Komisije zatražiti da utvrdi pripada li pojedini duhanski proizvod u područje primjene stavka 1. ovoga članka ili se savjetovati s neovisnim savjetodavnim tijelom uspostavljenim na razini Europske unije.
+(3) Zabranjuje se stavljanje na tržište duhanskih proizvoda koji sadrže sljedeće aditive:
+a) vitamine i druge aditive koji stvaraju dojam da duhanski proizvod koristi zdravlju ili je manje opasan za zdravlje
+b) kofein i taurin i druge aditive i stimulanse koji se povezuju s energijom i vitalnošću
+c) aditive koji imaju svojstva bojenja emisija
+d) kod duhanskih proizvoda za pušenje, aditive koji olakšavaju udisanje ili unos nikotina
+e) aditive koji imaju CMR svojstva u nezapaljenom stanju.
+(4) Zabranjuje se stavljanje na tržište duhanskih proizvoda koji sadrže aromatične tvari u bilo kojem od svojih sastavnih dijelova kao što su filtri, papiri, pakiranja, kapsule ili bilo kakva tehnička obilježja koja omogućuju izmjenu mirisa ili okusa duhanskog proizvoda ili jačine njihova dima. Filtri, papiri i kapsule ne smiju sadržavati duhan niti nikotin.
+(5) Zabranjuje se stavljanje na tržište, ako je to utemeljeno na znanstvenim dokazima, duhanskih proizvoda koji sadrže aditive u količinama koje u fazi konzumacije povećavaju toksični učinak ili stvaranje ovisnosti o duhanskom proizvodu ili CMR svojstva duhanskog proizvoda u znatnoj ili mjerljivoj količini. O mjerama za sprečavanje stavljanja na tržište duhanskih proizvoda koji sadrže aditive nabrojene u ovome stavku ministarstvo će izvijestiti Komisiju.
+(6) Ministarstvo može zatražiti od Komisije da utvrdi pripada li duhanski proizvod u područje primjene stavka 5. ovoga članka.
+(7) Iz zabrana utvrđenih u stavcima 1. i 4. ovoga članka izuzimaju se duhanski proizvodi, osim cigareta, duhana za samostalno motanje i grijanih duhanskih proizvoda.
+(8) Ministarstvo može proizvođačima i uvoznicima duhanskih proizvoda naplatiti razmjernu naknadu za utvrđivanje ima li proizvod svojstvenu aromu, jesu li korišteni zabranjeni aditivi i arome i sadrži li duhanski proizvod aditive u količinama koje u znatnoj i mjerljivoj količini povećavaju toksični učinak i stvaranje ovisnosti o duhanskom proizvodu ili CMR svojstva duhanskog proizvoda.
+(9) Uvjeti utvrđeni u Uredbi (EZ) br. 1907/2006 na odgovarajući način primjenjuju se na duhanske proizvode.
+(10) Odluku o visini razmjerne naknade iz stavka 8. ovoga članka donosi ministar.
+ 
+Članak 9.
+Označavanje i pakiranje
+(1) Svako jedinično pakiranje duhanskog proizvoda i sva vanjska pakiranja moraju sadržavati zdravstvena upozorenja propisana člancima 9. – 13. ovoga Zakona na hrvatskom jeziku i latiničnom pismu.
+(2) Zdravstvena upozorenja moraju pokrivati cijelu površinu jediničnog ili vanjskog pakiranja koja je za njih namijenjena i ne smiju se ni na koji način komentirati, parafrazirati niti se na njih smije ni na koji način referirati.
+(3) Zdravstvena upozorenja na jediničnim i svim vanjskim pakiranjima proizvoda moraju biti otisnuta tako da ih nije moguće ukloniti, da budu neizbrisiva i u cijelosti vidljiva te da ne budu u potpunosti ili djelomično skrivena ili prekinuta duhanskim markicama, oznakama cijene, sigurnosnim obilježjima, ovicima, košuljicama, kutijama ili drugim elementima. Na jediničnim pakiranjima duhanskih proizvoda, osim cigareta i duhana za samostalno motanje u vrećicama, zdravstvena upozorenja mogu se pričvrstiti naljepnicama, pod uvjetom da su takve naljepnice neuklonjive. Zdravstvena upozorenja moraju ostati netaknuta otvaranjem jediničnog pakiranja, osim na pakiranjima s preklopnim poklopcem, gdje se zdravstvena upozorenja mogu prekinuti otvaranjem, ali samo na način koji osigurava grafičku cjelovitost i vidljivost teksta, fotografija i podataka o prestanku pušenja.
+(4) Zdravstvena upozorenja ni na koji način ne smiju zakloniti ni prekinuti duhanske markice, oznake cijene, oznake za praćenje ili sigurnosna obilježja na jediničnim pakiranjima.
+(5) Dimenzije zdravstvenih upozorenja propisanih člancima
+10. – 13. ovoga Zakona izračunavaju se s obzirom na površinu zatvorenog pakiranja.
+(6) Zdravstvena upozorenja uokvirena su crnim rubom širine 1 mm unutar površine koja je rezervirana za ta upozorenja, osim za zdravstvena upozorenja iz članka 12. ovoga Zakona.
+ 
+Članak 10.
+Opća upozorenja i informativne poruke na duhanskim proizvodima za pušenje
+(1) Svako jedinično pakiranje i sva vanjska pakiranja duhanskih proizvoda za pušenje moraju sadržavati opće upozorenje: »Pušenje ubija«.
+(2) Svako jedinično pakiranje i sva vanjska pakiranja duhanskih proizvoda za pušenje moraju sadržavati sljedeću informativnu poruku: »Duhanski dim sadrži više od 70 tvari koje uzrokuju rak«.
+(3) Na pakiranjima cigareta i duhana za samostalno motanje u pakiranjima u obliku kvadra, opće upozorenje nalazi se na donjem dijelu jedne od bočnih površina jediničnih pakiranja. Informativna poruka nalazi se na donjem dijelu druge bočne površine. Ta upozorenja moraju biti široka najmanje 20 mm.
+(4) Na pakiranjima u obliku kutije sa zglobnim poklopcem koji rezultira trganjem bočnih površina na dva dijela prilikom otvaranja kutije, opće upozorenje i informativna poruka u cijelosti se nalaze na većim dijelovima od tih razdijeljenih površina. Opće upozorenje također se pojavljuje na unutrašnjosti gornje površine koja je vidljiva nakon otvaranja pakiranja. Visina bočnih površina ovakvih pakiranja ne smije biti manja od 16 mm.
+(5) Na duhanu za samostalno motanje koji se stavlja na tržište u vrećicama, opće upozorenje i informativna poruka nalaze se na površinama koje osiguravaju punu vidljivost tih zdravstvenih upozorenja.
+(6) Na duhanu za samostalno motanje u cilindričnim pakiranjima, opće upozorenje nalazi se na vanjskoj površini poklopca, a informativna poruka na unutrašnjoj površini poklopca.
+(7) Opće upozorenje i informativna poruka moraju zauzimati 50% površina na kojima su otisnuti.
+(8) Opće upozorenje i informativna poruka iz stavaka 1. i 2. ovoga članka moraju biti:
+a) otisnuti crnim, podebljanim slovima fonta Helvetica na bijeloj pozadini i
+b) u centru površine rezervirane za njih te na pakiranjima u obliku kvadra i svim vanjskim pakiranjima moraju biti paralelni s bočnim rubom jediničnog ili vanjskog pakiranja.
+(9) Točan položaj općih upozorenja i informativnih poruka na duhanu za samostalno motanje koji se stavlja na tržište u vrećicama iz ovoga članka propisat će pravilnikom ministar.
+ 
+Članak 11.
+Kombinirana zdravstvena upozorenja na duhanskim proizvodima za pušenje
+(1) Svako jedinično pakiranje i sva vanjska pakiranja duhanskih proizvoda za pušenje moraju sadržavati kombinirana zdravstvena upozorenja.
+(2) Kombinirana zdravstvena upozorenja moraju:
+a) sadržavati tekstualna upozorenja koja se nalaze u Prilogu I. ovoga Zakona koji čini njegov sastavni dio, kao i odgovarajuću fotografiju u boji specificiranu u zbirci fotografija koje se nalaze u Prilogu II. ovoga Zakona i koji čini njegov sastavni dio
+b) sadržavati tekst: »Za pomoć kod prestanka pušenja nazovite broj telefona 0800 7999«
+c) pokrivati 65% i vanjske prednje i stražnje površine jediničnog pakiranja i svih vanjskih pakiranja; cilindrična pakiranja moraju prikazivati kombinirana zdravstvena upozorenja, međusobno jednako udaljena, i svako mora pokrivati 65% svoje polovice zakrivljene površine
+d) prikazivati isto tekstualno upozorenje i fotografiju u boji na objema stranama jediničnog pakiranja i svih vanjskih pakiranja
+e) nalaziti se na gornjem rubu jediničnog pakiranja i svih vanjskih pakiranja te biti okrenuta u istom smjeru kao i svi drugi podaci koji se pojavljuju na toj površini pakiranja. Prijelazno izuzeće od te obveze o smještaju kombiniranih zdravstvenih upozorenja može se primjenjivati, kako slijedi:
+– ako je duhanska markica koja se upotrebljava u fiskalne svrhe pričvršćena na gornjem rubu jediničnog pakiranja izrađenog od kartonskog materijala, kombinirana zdravstvena upozorenja koja se trebaju nalaziti na stražnjoj površini mogu biti smještena odmah ispod duhanske markice
+– ako je jedinično pakiranje izrađeno od mekanog materijala, pravokutna površina visine do 13 mm između gornjeg ruba pakiranja i gornjeg kraja kombiniranih zdravstvenih upozorenja može biti rezervirana za duhansku markicu koja se upotrebljava u fiskalne svrhe.
+Izuzeća iz točke e) ovoga stavka primjenjuju se u razdoblju od tri godine od 20. svibnja 2016.; imena marki ili logotipi ne smiju se pozicionirati iznad zdravstvenog upozorenja.
+f) biti reproducirana u skladu s oblikom, rasporedom, dizajnom i omjerima utvrđenim točkom c) ovoga stavka
+g) u slučaju jediničnih pakiranja cigareta, poštovati sljedeće dimenzije:
+– visina: ne manja od 44 mm
+– širina: ne manja od 52 mm.
+(3) Kombinirana zdravstvena upozorenja razvrstana su u tri seta, kako je određeno u Prilogu II. ovoga Zakona. Svaki set koristi se u određenoj godini te se rotira na godišnjoj osnovi. Prva rotacija započinje danom stupanja na snagu ovoga Zakona. Svako kombinirano zdravstveno upozorenje koje je dostupno za korištenje u određenoj godini mora biti prikazano, koliko je to moguće, jednaki broj puta na svakoj robnoj marki duhanskih proizvoda.
+(4) Pravila o položaju, dizajnu i obliku kombiniranih zdravstvenih upozorenja za duhanske proizvode za pušenje sadržana su u Prilogu II. ovoga Zakona.
+(5) Odredbe ovoga članka primjenjuju se i na jedinična pakiranja zaobljenih ili ukošenih rubova.
+ 
+Članak 12. (NN 98/25)
+Označavanje duhanskih proizvoda za pušenje, osim cigareta, duhana za samostalno motanje, duhana za vodenu lulu i grijanih duhanskih proizvoda koji su po karakteristikama duhanski proizvodi za pušenje
+(1) Od obveze navođenja informativne poruke iz članka 10. stavka 2. ovoga Zakona i kombiniranih zdravstvenih upozorenja utvrđenih u članku 11. ovoga Zakona, izuzimaju se duhanski proizvodi za pušenje, osim cigareta, duhana za samostalno motanje, duhana za vodenu lulu i grijanih duhanskih proizvoda koji su po karakteristikama duhanski proizvodi za pušenje.
+(2) Proizvodi iz stavka 1. ovoga članka, uz dodatak općeg upozorenja iz članka 10. stavka 1. ovoga Zakona, na svakom jediničnom pakiranju i svim vanjskim pakiranjima moraju imati jedno od tekstualnih upozorenja iz Priloga I. ovoga Zakona. Opće upozorenje iz članka 10. stavka 1. ovoga Zakona mora uključivati podatke o prestanku pušenja iz članka 11. stavka 2. točke b) ovoga Zakona.
+(3) Opće upozorenje mora se nalaziti na najvidljivijoj površini jediničnog pakiranja i svih vanjskih pakiranja.
+(4) Svako tekstualno upozorenje mora biti prikazano, koliko je to moguće, jednaki broj puta na svakoj robnoj marki ovih proizvoda. Tekstualna upozorenja nalaze se na drugoj najvidljivijoj površini jediničnog pakiranja i svih vanjskih pakiranja.
+(5) Za jedinična pakiranja sa zglobnim poklopcem druga najvidljivija površina jest ona koja postaje vidljiva kada se pakiranje otvori.
+(6) Opće upozorenje iz stavka 2. ovoga članka mora zauzimati najmanje 30% relevantne površine jediničnog pakiranja i svih vanjskih pakiranja.
+(7) Tekstualno upozorenje iz stavaka 1. i 2. ovoga članka mora zauzimati najmanje 40% relevantne površine jediničnog pakiranja i svih vanjskih pakiranja.
+(8) Ako se zdravstvena upozorenja iz stavaka 1. i 2. ovoga članka moraju nalaziti na površini većoj od 150 cm², upozorenja moraju pokrivati površinu od najmanje 45 cm².
+(9) Zdravstvena upozorenja iz stavka 1. ovoga članka moraju udovoljavati zahtjevima iz članka 10. ovoga Zakona. Tekst zdravstvenog upozorenja mora biti paralelan s glavnim tekstom na površini rezerviranoj za ta upozorenja.
+(10) Zdravstvena upozorenja moraju biti okružena crnim rubom širine najmanje 3 mm, a najviše 4 mm. Taj rub nalazi se izvan površine rezervirane za zdravstvena upozorenja.
+ 
+Članak 13.
+Označavanje bezdimnih duhanskih proizvoda
+(1) Svako jedinično pakiranje i sva vanjska pakiranja bezdimnih duhanskih proizvoda moraju sadržavati sljedeće zdravstveno upozorenje: »Ovaj duhanski proizvod šteti Vašem zdravlju i stvara ovisnost.«.
+(2) Zdravstveno upozorenje iz stavka 1. ovoga članka mora biti usklađeno sa zahtjevima iz članka 10. stavka 8. ovoga Zakona. Tekst upozorenja mora biti paralelan s glavnim tekstom na površini rezerviranoj za ta upozorenja.
+(3) Zdravstveno upozorenje iz stavka 1. ovoga članka mora:
+a) se nalaziti na dvjema najvećim površinama jediničnog pakiranja i svih vanjskih pakiranja
+b) pokrivati 30% površine jediničnog pakiranja i svih vanjskih pakiranja.
+ 
+Članak 14.
+Predstavljanje proizvoda
+(1) Označavanja jediničnih pakiranja, svih vanjskih pakiranja i samog duhanskog proizvoda ne smiju sadržavati nikakav element niti obilježje koje:
+a) promiče duhanski proizvod ili potiče na njegovu konzumaciju stvaranjem pogrešnog dojma o njegovim svojstvima, učincima na zdravlje, opasnostima ili emisijama; oznake ne smiju sadržavati nikakve podatke o sadržaju nikotina, katrana ni ugljikova monoksida u duhanskom proizvodu
+b) sugerira da je određeni duhanski proizvod manje štetan od drugih ili da nastoji smanjiti učinak nekih štetnih sastavnica dima, ili da djeluje vitalizirajuće, energetski, ozdravljujuće, pomlađujuće ili ima prirodna ili organska svojstva, ili da ima druge koristi za zdravlje ili stil života
+c) upućuje na okus, miris, bilo kakve arome ili druge aditive ili njihovu odsutnost
+d) nalikuje na hranu ili kozmetički proizvod
+e) sugerira da određeni duhanski proizvod ima poboljšanu biorazgradivost ili druge prednosti za okoliš.
+(2) Jedinična pakiranja i sva vanjska pakiranja ne smiju sugerirati ekonomske prednosti uključivanjem tiskanih kupona, ponuda za popuste, upućivanja na besplatnu distribuciju, ponuda dva za jedan ili druge slične ponude.
+(3) Zabrana iz stavaka 1. i 2. ovoga članka uključuje tekstove, simbole, imena, zaštitne znakove, figurativne i druge oznake, kao i druge simbole ili oznake bilo koje vrste.
+ 
+Članak 15.
+Izgled i sadržaj jediničnih pakiranja
+(1) Jedinična pakiranja cigareta moraju biti u obliku kvadra.
+(2) Jedinična pakiranja duhana za samostalno motanje moraju biti u obliku kvadra ili u cilindričnom obliku ili u obliku vrećice.
+(3) Jedinično pakiranje cigareta mora sadržavati najmanje 20 cigareta.
+(4) Jedinično pakiranje duhana za samostalno motanje mora sadržavati najmanje 30 g duhana.
+(5) Jedinično pakiranje cigareta može se sastojati od kartona ili mekog materijala i ne smije imati otvor koji se može ponovno zatvoriti ili zapečatiti nakon što je jedanput otvoren, osim preklopnog poklopca i kutije sa zglobnim poklopcem. Kod pakiranja s preklopnim poklopcem ili zglobnim poklopcem poklopac može biti pričvršćen samo za stražnju stranu jediničnog pakiranja.
+ 
+Članak 16.
+Sljedivost
+(1) Sva jedinična pakiranja duhanskih proizvoda koja se stavljaju na tržište moraju sadržavati oznaku s jedinstvenom identifikacijom koja mora biti tiskana ili pričvršćena tako da je nije moguće ukloniti, mora biti neizbrisiva i ne smije biti skrivena ili prekinuta ni na koji način, uključujući duhanskim markicama, oznakama cijene ili otvaranjem pakiranja. U slučaju duhanskih proizvoda koji su proizvedeni izvan Europske unije, obveze iz ovoga članka primjenjuju se samo na one proizvode namijenjene tržištu Europske unije, odnosno stavljene na tržište Europske unije.
+(2) Jedinstvena identifikacija mora omogućavati određivanje:
+a) datuma i mjesta proizvodnje
+b) proizvodne ustanove
+c) stroja korištenog za proizvodnju duhanskog proizvoda
+d) proizvodne smjene ili vrijeme proizvodnje
+e) opisa proizvoda
+f) predviđenog tržišta za maloprodaju
+g) predviđene transportne rute
+h) uvoznika u Europsku uniju, gdje je primjenjivo
+i) stvarne transportne rute od proizvodnje do prvog maloprodajnog mjesta, uključujući sva korištena skladišta, kao i datuma transporta, odredišta, mjesta polaska i primatelja
+j) identiteta svih kupaca od proizvodnje do prvog maloprodajnog mjesta i
+k) računa, broja narudžbe i potvrde o plaćanju svih kupaca od proizvodnje do prvog maloprodajnog mjesta.
+(3) Podaci iz stavka 2. točaka a) – g) i, gdje je to primjenjivo, točke h) ovoga članka tvore dio jedinstvene identifikacijske oznake.
+(4) Svi podaci iz stavka 2. točaka i), j) i k) ovoga članka moraju biti elektronički dostupni putem poveznice na jedinstvenu identifikacijsku oznaku.
+(5) Svi gospodarski subjekti uključeni u trgovinu duhanskih proizvoda, od proizvođača do posljednjeg gospodarskog subjekta prije prvog maloprodajnog mjesta, obvezni su voditi evidencije o unosu svih jediničnih pakiranja u njihov posjed, kao i sva kretanja u međuvremenu, kao i konačni izlazak jediničnih pakiranja iz njihova posjeda. Ta obveza može se ispuniti označavanjem i evidencijom skupnih pakiranja, kao što su šteke, kartoni ili palete, pod uvjetom da praćenje i pronalazak jediničnih pakiranja ostane moguće.
+(6) Sve fizičke i pravne osobe uključene u nabavni lanac duhanskih proizvoda obvezne su voditi točnu i detaljnu evidenciju svih transakcija.
+(7) Proizvođači duhanskih proizvoda svim gospodarskim subjektima uključenim u prodaju duhanskih proizvoda, od proizvođača do posljednjeg gospodarskog subjekta prije prvog maloprodajnog mjesta, uključujući uvoznike, skladišta i prijevozna poduzeća, obvezni su osigurati opremu koja je potrebna za evidentiranje duhanskih proizvoda kupljenih, prodanih, skladištenih, transportiranih ili kojima se drukčije rukuje. Oprema mora biti u mogućnosti očitati i elektroničkim putem prenijeti podatke ustanovi za pohranu podataka na temelju stavka 8. ovoga članka.
+(8) Proizvođači i uvoznici duhanskih proizvoda obvezni su sklopiti ugovore s neovisnom trećom stranom za potrebe smještaja opreme za pohranu svih relevantnih podataka. Oprema za pohranu podataka mora se fizički nalaziti na teritoriju Europske unije. Prikladnost treće strane, a posebno njezinu neovisnost, tehničke kapacitete te ugovor odobrava Komisija.
+(9) Aktivnosti treće strane iz stavka 8. ovoga članka mora pratiti vanjski revizor kojeg predlaže i plaća proizvođač duhanskih proizvoda, a odobrava Komisija. Vanjski revizor predaje godišnje izvješće ministarstvu nadležnom za financije – upravi nadležnoj za carinske poslove i Komisiji, u kojemu se posebno procjenjuju sve nepravilnosti u pogledu pristupa.
+(10) Nadležno tijelo te vanjski revizor moraju imati potpun pristup objektima za pohranu podataka. U opravdanim slučajevima, nadležno tijelo može proizvođačima i uvoznicima odobriti pristup tim podacima, pod uvjetom da poslovno osjetljivi podaci ostanu dostatno zaštićeni u skladu s relevantnim pravom Europske unije i hrvatskim zakonodavstvom.
+(11) Nijedan gospodarski subjekt uključen u trgovinu duhanskih proizvoda ne smije mijenjati ili brisati zabilježene podatke.
+(12) Osobni podaci obrađuju se samo u skladu s pravilima i zaštitnim mjerama sukladno posebnom propisu kojim se regulira zaštita osobnih podataka.
+(13) Ministar nadležan za financije pravilnikom će:
+a) propisati tehničke standarde za uspostavljanje i rad sustava za praćenje i pronalazak kako je određeno ovim člankom, uključujući označavanje jedinstvenom identifikacijskom oznakom, bilježenje, prijenos, obradu i pohranu podataka te pristup pohranjenim podacima
+b) propisati tehničke standarde kojima će se osigurati da su sustavi, koji se upotrebljavaju za jedinstvene identifikacijske oznake i povezane funkcije, potpuno međusobno kompatibilni unutar Europske unije.
+ 
+Članak 17.
+Sigurnosno obilježje
+Osim jedinstvene identifikacijske oznake iz članka 16. ovoga Zakona, sva jedinična pakiranja duhanskih proizvoda koja se stavljaju na tržište moraju nositi sigurnosni element zaštićen od neovlaštenog rukovanja, sastavljen od vidljivih i nevidljivih elemenata. Sigurnosni element mora biti tiskan ili pričvršćen tako da ga nije moguće ukloniti, mora biti neizbrisiv i ne smije biti skriven ili prekinut ni na koji način, uključujući duhanskim markicama, sukladno posebnim propisima kojima se propisuju trošarine, oznakama cijene ili drugim elementima. Kao sigurnosni element mogu se upotrebljavati i duhanske markice ako ispunjavaju sve potrebne tehničke standarde i funkcije.
+ 
+Članak 18.
+Obavješćivanje o novim duhanskim proizvodima
+(1) Proizvođači i uvoznici novih duhanskih proizvoda obvezni su podnijeti obavijest ministarstvu o svim novim proizvodima koje namjeravaju staviti na tržište Republike Hrvatske. Obavijest se predaje u elektroničkom obliku šest mjeseci prije namjeravanog stavljanja na tržište. Obavijest mora sadržavati detaljan opis novoga duhanskog proizvoda, kao i upute za njegovu uporabu i podatke o sastojcima i emisijama, a u skladu s člankom 7. ovoga Zakona. Proizvođači i uvoznici koji podnose obavijest o novom duhanskom proizvodu, obvezni su ministarstvu također dostaviti:
+a) dostupne znanstvene studije o toksičnosti, stvaranju ovisnosti i privlačnosti novog duhanskog proizvoda, posebno s obzirom na njegove sastojke i emisije
+b) dostupne studije, njihove sažetke i istraživanje tržišta o preferencijama različitih potrošačkih skupina, uključujući i mlade osobe i trenutačne pušače
+c) druge dostupne i relevantne podatke, uključujući analizu rizika/koristi od proizvoda, njegove očekivane učinke na prestanak konzumacije duhana, očekivane učinke na započinjanje konzumacije duhana i predviđena shvaćanja potrošača.
+(2) Proizvođači i uvoznici novih duhanskih proizvoda obvezni su o svim novim ili ažuriranim informacijama o studijama, istraživanju i drugim informacijama iz stavka 1. točki a) – c) ovoga članka obavijestiti ministarstvo. Ministarstvo može od proizvođača i uvoznika novih duhanskih proizvoda zahtijevati obavljanje dodatnih testiranja ili predaju dodatnih podataka. Svi podaci dobiveni na temelju ovoga članka moraju biti dostupni Komisiji.
+(3) Novi duhanski proizvodi stavljeni na tržište moraju u cijelosti udovoljavati uvjetima iz ovoga Zakona, ovisno o tome potpadaju li ti proizvodi pod definiciju bezdimnih duhanskih proizvoda ili definiciju duhanskih proizvoda za pušenje.
+ 
+Članak 19. (NN 114/18, 98/25)
+Elektroničke cigarete
+(1) Elektroničke cigarete i spremnici za ponovno punjenje mogu se stavljati na tržište samo u skladu s ovim Zakonom i odgovarajućim propisima Europske unije. Ovaj Zakon ne primjenjuje se na elektroničke cigarete i spremnike za ponovno punjenje koji su podložni zahtjevu za odobrenjem sukladno posebnim propisima kojima se regulira stavljanje u promet lijeka ili medicinskog proizvoda.
+(2) Proizvođači i uvoznici elektroničkih cigareta i spremnika za ponovno punjenje obvezni su obavijestiti ministarstvo o svim takvim proizvodima koje namjeravaju staviti na tržište. Obavijest se predaje u elektroničkom obliku šest mjeseci prije namjeravanog stavljanja na tržište. Za elektroničke cigarete i spremnike za ponovno punjenje koji su već stavljeni na tržište do dana stupanja na snagu ovoga Zakona, obavijest se podnosi u roku od šest mjeseci od tog datuma. Za svaku značajnu preinaku proizvoda podnosi se nova obavijest. Ovisno o tome je li proizvod elektronička cigareta ili spremnik za ponovno punjenje, obavijest sadrži sljedeće informacije:
+a) ime i podatke za kontakt proizvođača, odgovorne pravne ili fizičke osobe unutar Europske unije i, gdje je to primjenjivo, uvoznika u Europsku uniju
+b) popis svih sastojaka sadržanih u proizvodu i emisija koje nastaju korištenjem proizvoda, po robnoj marki i tipu, uključujući i njihove količine
+c) toksikološke podatke u vezi sa sastojcima i emisijama toga proizvoda, uključujući kad su zagrijani, koji se osobito odnose na njihove učinke na zdravlje potrošača kad se udišu i uzimajući u obzir, među ostalim, sve učinke stvaranja ovisnosti
+d) informacije o dozi i unosu nikotina prilikom konzumacije u uobičajenim ili razumno predvidivim uvjetima
+e) opis sastavnih dijelova proizvoda, uključujući, gdje je to primjenjivo, mehanizma za otvaranje i punjenje elektroničke cigarete ili spremnika za punjenje
+f) opis postupaka proizvodnje, uključujući obuhvaća li serijsku proizvodnju, i izjavu da postupak proizvodnje osigurava sukladnost sa zahtjevima iz ovoga članka
+g) izjavu da proizvođač i uvoznik snose punu odgovornost za količinu i sigurnost proizvoda kod stavljanja na tržište i korištenja u uobičajenim okolnostima ili razumno predvidivim uvjetima.
+(3) Ako ministarstvo smatra da su dostavljeni podaci nepotpuni, zatražit će nadopunu podataka.
+(4) Ministarstvo će proizvođačima i uvoznicima naplatiti razmjerne naknade za primitak, pohranu, rukovanje i objavu podataka koji su im dostavljeni.
+(5) Proizvođači i uvoznici obvezni su osigurati:
+a) da se tekućina koja sadrži nikotin stavlja na tržište isključivo u za to namijenjenim spremnicima za ponovno punjenje koji nemaju obujam veći od 10 ml, u potrošnim elektroničkim cigaretama ili u ulošcima za jednokratnu uporabu i da ulošci ili tankovi ne premašuju obujam od 2 ml
+b) da tekućina koja sadrži nikotin ne sadrži više od 20 mg/ml nikotina
+c) da tekućina koja sadrži nikotin ne sadrži aditive iz članka 8. stavka 3. ovoga Zakona
+d) da se za proizvodnju tekućine koja sadrži nikotin koriste samo sastojci visoke čistoće. Tvari koje nisu navedene među sastojcima iz stavka 2. točke b) ovoga članka smiju biti prisutne u tekućini koja sadrži nikotin samo u tragovima, ako te tragove prilikom proizvodnje tehnički nije moguće izbjeći
+e) da, osim nikotina, jedini sastojci koji se koriste u tekućini koja sadrži nikotin ne predstavljaju opasnost za ljudsko zdravlje u zagrijanom ili nezagrijanom obliku
+f) da elektroničke cigarete oslobađaju doze nikotina u ujednačenim razinama
+g) da su elektroničke cigarete i spremnici za ponovno punjenje takvi da djeca njima ne mogu rukovati i da na njima nisu moguće neovlaštene izmjene te da su zaštićeni od lomljenja i curenja i da imaju mehanizam koji osigurava ponovno punjenje bez curenja.
+(6) Svako jedinično pakiranje elektroničkih cigareta i spremnika za ponovno punjenje mora sadržavati letak sa sljedećim podacima:
+a) uputama za korištenje i pohranjivanje proizvoda, uključujući i obavijest da se uporaba proizvoda ne preporučuje mladim osobama i nepušačima
+b) kontraindikacijama
+c) upozorenjem za posebne rizične skupine
+d) mogućim štetnim učincima
+e) o stvaranju ovisnosti i toksičnosti te
+f) za ostvarivanje kontakata s proizvođačem ili uvoznikom i pravnom ili fizičkom osobom za kontakt u Europskoj uniji.
+(7) Svako jedinično pakiranje i vanjsko pakiranje elektroničkih cigareta i spremnika za ponovno punjenje mora:
+a) uključivati popis svih sastojaka sadržanih u proizvodu u padajućem redoslijedu po masi te podatak o sadržaju nikotina u proizvodu i oslobađanje po dozi, serijski broj i preporuku da se proizvod drži izvan dohvata djece
+b) sadržavati podatke o sadržaju nikotina u spremniku i dodanim aromama
+c) nositi sljedeće zdravstveno upozorenje: »Ovaj proizvod sadrži nikotin koji izaziva snažnu ovisnost.«.
+(8) Svako jedinično pakiranje i vanjsko pakiranje mora sadržavati zdravstvena upozorenja u skladu s odredbama članka 13. stavaka 2. i 3. ovoga Zakona.
+(9) Zabranjeno je/su:
+a) komercijalne objave u uslugama informacijskog društva, u tisku i drugim tiskanim publikacijama, s ciljem izravnog ili neizravnog učinka na promicanje elektroničkih cigareta i spremnika za ponovno punjenje, osim u publikacijama koje su namijenjene isključivo za profesionalce uključene u trgovinu elektroničkim cigaretama ili spremnika za ponovno punjenje te publikacijama tiskanima i objavljenima u trećim zemljama, gdje te publikacije nisu prvenstveno namijenjene za tržište Europske unije
+b) komercijalne objave na radiju, s ciljem izravnog ili neizravnog učinka na promicanje elektroničkih cigareta i spremnika za ponovno punjenje
+c) bilo koji oblik javnog ili privatnog doprinosa radijskim programima s ciljem izravnog ili neizravnog promicanja elektroničkih cigareta i spremnika za ponovno punjenje
+d) bilo koji oblik javnog ili privatnog doprinosa bilo kakvom događaju, aktivnosti ili pojedinoj osobi s ciljem izravnog ili neizravnog promicanja elektroničkih cigareta i spremnika za ponovno punjenje koji uključuje ili se održava u nekoliko država članica ili na bilo koji drugi način ima prekogranični utjecaj
+e) audiovizualne komercijalne objave na koje se primjenjuje poseban propis o elektroničkim medijima, koje se odnose na elektroničke cigarete i spremnike za ponovno punjenje.
+(10) Proizvođači i uvoznici elektroničkih cigareta i spremnika za ponovno punjenje obvezni su, najkasnije do 31. ožujka tekuće godine za prethodnu godinu, ministarstvu te ministarstvu nadležnom za financije podnijeti:
+a) sveobuhvatne podatke o obujmu prodaje prema robnoj marki i vrsti proizvoda
+b) informacije o preferencijama raznih potrošačkih skupina, uključujući mlade osobe, nepušače i glavne skupine trenutačnih korisnika
+c) načine prodaje proizvoda
+d) sažetke svih istraživanja tržišta provedenih u vezi s gore navedenim na hrvatskom jeziku, uključujući njihov prijevod na engleski jezik.
+(11) Ministarstvo će informacije primljene na temelju stavka 2. ovoga članka objaviti na svojim mrežnim stranicama, vodeći računa i uvažavajući zaštitu podataka koje su proizvođači i uvoznici prilikom dostave tih podataka označili kao poslovnu tajnu.
+(12) Proizvođači, uvoznici i distributeri elektroničkih cigareta i spremnika za ponovno punjenje obvezni su uspostaviti i održavati sustav za prikupljanje informacija o svim štetnim učincima tih proizvoda za zdravlje ljudi na koje se sumnja.
+(13) Ako bilo koji od proizvođača, uvoznika ili distributera ima saznanja ili razloga za sumnju da elektroničke cigarete ili spremnici za ponovno punjenje, koji su u njihovu posjedu i namijenjeni su za stavljanje na tržište ili su stavljeni na tržište, nisu sigurni ili nisu dobre kvalitete ili na neki drugi način nisu u skladu s ovim Zakonom, obvezan je odmah poduzeti sve korektivne mjere potrebne da bi se taj proizvod uskladio s ovim Zakonom, da bi ga se povuklo ili opozvalo, ovisno o okolnostima konkretnog slučaja. U tom slučaju proizvođač, uvoznik ili distributer obvezan je odmah obavijestiti tijela nadležna za nadzor tržišta država članica u kojima je proizvod dostupan ili ga se namjerava učiniti dostupnim, kao i dostaviti pojedinosti, osobito o riziku za zdravlje i sigurnost ljudi te o poduzetim korektivnim mjerama i njihovim rezultatima.
+(14) Ministarstvo ima pravo od proizvođača, uvoznika ili distributera zatražiti i dodatne informacije, na primjer o sigurnosti i aspektima kvalitete, ili o bilo kakvim štetnim učincima elektroničkih cigareta i spremnika za ponovno punjenje.
+(15) U slučaju elektroničkih cigareta i spremnika za ponovno punjenje koji su usklađeni sa zahtjevima iz ovoga članka, ako nadležni inspektori iz članka 38. ovoga Zakona utvrde ili imaju razloga vjerovati da bi određene elektroničke cigarete ili spremnici za ponovno punjenje ili vrsta elektroničke cigarete ili spremnika za ponovno punjenje mogli predstavljati ozbiljnu opasnost za zdravlje ljudi, poduzet će mjere iz članka 39. ovoga Zakona i o tome obavijestiti Ministarstvo. Ministarstvo odmah obavješćuje Komisiju i nadležna tijela drugih država članica o poduzetim mjerama i priopćuje sve popratne podatke.
+(16) Maloprodajna mjesta koja sudjeluju u prekograničnoj prodaji na daljinu elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu ne mogu započeti s njihovom prodajom prije nego što se registriraju pri ministarstvu te pri nadležnim tijelima države članice u kojoj se nalaze stvarni ili potencijalni potrošači, pod uvjetom da je u toj državi prekogranična prodaja na daljinu dozvoljena, sa sljedećim podacima:
+a) naziv maloprodajnog mjesta te adresa odakle se proizvodi isporučuju
+b) datum početka prekogranične prodaje proizvoda putem usluga informacijskog društva
+c) adresa mrežnih stranica korištenih za prodaju na daljinu, uključujući sve podatke potrebne za njihovu identifikaciju
+te ishode potvrdu registracije pri ministarstvu.
+(17) Ministarstvo na svojim mrežnim stranicama objavljuje podatke o registriranim maloprodajnim mjestima iz stavka 16. ovoga članka.
+(18) Maloprodajno mjesto koje sudjeluje u prekograničnoj prodaji na daljinu iz stavka 16. ovoga članka mora raspolagati sustavom za provjeru starosti kupca čiji detaljan opis i način rada mora dostaviti ministarstvu.
+(19) Maloprodajno mjesto obrađuje osobne podatke potrošača isključivo sukladno posebnom zakonu kojim se uređuje područje zaštite osobnih podataka. Ti se podaci ne smiju otkriti proizvođaču elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu ni trgovačkim društvima koja čine dio iste skupine, kao ni trećim stranama. Osobni se podaci ne smiju upotrebljavati ni prenositi osim u svrhu konkretne kupnje. Zaštita osobnih podataka u smislu ovoga stavka primjenjuje se i kada je maloprodajno mjesto sastavni dio proizvođača elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu.
+(20) Ako se tekućine koje se nalaze u spremnicima za ponovno punjenje ili u elektroničkim i jednokratnim elektroničkim cigaretama razvrstavaju kao opasne prema Uredbi (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006 (Tekst značajan za EGP) (SL L 353, 31. 12. 2008.), one prilikom stavljanja na tržište moraju biti označene i u skladu s tom Uredbom.
+(21) Odluku o visini razmjerne naknade iz stavka 4. ovoga članka donosi ministar.
+(22) Pravilnik o načinu obavješćivanja o elektroničkim cigaretama i spremnicima za ponovno punjenje iz stavka 2. ovoga članka donijet će ministar.
+(23) Pravilnik o tehničkim standardima za mehanizam za ponovno punjenje elektroničkih cigareta iz stavka 5. točke g) ovoga članka donijet će ministar.
+ 
+Članak 20.
+Biljni proizvodi za pušenje
+(1) Svako jedinično pakiranje i sva vanjska pakiranja biljnih proizvoda za pušenje moraju sadržavati sljedeće zdravstveno upozorenje: »Pušenje ovoga proizvoda škodi vašem zdravlju.«.
+(2) Zdravstveno upozorenje iz stavka 1. ovoga članka tiska se na prednjoj i stražnjoj površini jediničnog pakiranja i svih vanjskih pakiranja.
+(3) Zdravstveno upozorenje mora biti usklađeno sa zahtjevima iz članka 10. stavka 8. ovoga Zakona te mora pokrivati 30% područja pripadajuće površine jediničnog pakiranja i svih vanjskih pakiranja.
+(4) Jedinična pakiranja i sva vanjska pakiranja biljnih proizvoda za pušenje ne smiju sadržavati ni jedan od elemenata ili obilježja određenih u članku 14. stavku 1. točkama a), b) i d) ovoga Zakona i ne smije se navoditi da proizvod ne sadrži aditive ili arome.
+ 
+Članak 21.
+Izvješćivanje o sastojcima biljnih proizvoda za pušenje
+(1) Proizvođači i uvoznici biljnih proizvoda za pušenje obvezni su ministarstvu dostaviti popis svih sastojaka i njihovih količina po robnoj marki i tipu, koji se koriste u proizvodnji takvih proizvoda. Proizvođači ili uvoznici obvezni su obavijestiti ministarstvo ako je sastav proizvoda izmijenjen u odnosu na podatke dostavljene na temelju ovoga članka. Podaci iz ovoga članka dostavljaju se ministarstvu prije stavljanja na tržište novog ili izmijenjenog biljnog proizvoda za pušenje.
+(2) Ministarstvo objavljuje podatke podnesene u skladu sa stavkom 1. ovoga članka na svojim mrežnim stranicama, vodeći računa i uvažavajući pritom zaštitu podataka koje su proizvođači i uvoznici prilikom dostave tih podataka označili kao poslovnu tajnu.
+ 
+III. MJERE ZA SMANJENJE I OGRANIČAVANJE UPORABE DUHANSKIH I SRODNIH PROIZVODA
+ 
+Članak 22.
+(1) Zabranjeno je sponzoriranje događaja, aktivnosti ili pojedinaca s ciljem, učinkom ili mogućim učinkom izravne ili neizravne promidžbe duhanskih i srodnih proizvoda, uključujući bezdimne duhanske proizvode, te biljnih proizvoda za pušenje, elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu.
+(2) Zabranjena je izravna i neizravna promidžba i oglašavanje proizvoda iz stavka 1. ovoga članka. Pod izravnom promidžbom proizvoda iz stavka 1. ovoga članka smatra se i izlaganje pojedinačnih pakiranja cigareta i ostalih duhanskih i srodnih proizvoda, elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu na vidljivim pozicijama u i na prodajnim mjestima, bilo koje vrste, na kojima se prodaju duhanski i srodni proizvodi, uključujući ponudu tih proizvoda.
+(3) Neizravnom promidžbom proizvoda iz stavka 1. ovoga članka smatra se organiziranje događanja na kojima se ističu naziv, logotip ili druge vizualne karakteristike koje podsjećaju na pojedini proizvod iz stavka 1. ovoga članka, prikazivanje logotipa i drugih znakova za označavanje proizvoda iz stavka 1. ovoga članka na predmetima koji u smislu ovoga Zakona nisu duhanski ili srodni proizvodi. Pod neizravnom promidžbom smatra se i besplatna ponuda proizvoda iz stavka 1. ovoga članka na javnom mjestu i u javnim prostorima.
+(4) Zabranjuje se svako isticanje naziva i logotipa proizvoda iz stavka 1. ovoga članka kroz svjetleće reklame, plitice, stalke za prodaju, letke, kataloge i ostale promidžbene materijale.
+(5) Zabranjeno je oglašavanje i promidžba proizvoda koji se ne smatraju proizvodom iz stavka 1. ovoga članka, a koji svojim oblikom, nazivom ili namjenom neposredno potiču potrošnju tih proizvoda te svako drugo oglašavanje koje oblikom, nazivom ili namjenom potiče potrošnju proizvoda iz stavka 1. ovoga članka.
+(6) Objavljivanje podataka o kakvoći i drugim svojstvima proizvoda iz stavka 1. ovoga članka u stručnim knjigama, časopisima i drugim stručnim publikacijama namijenjenim obavješćivanju proizvođača ili prodavača tih proizvoda ne smatra se oglašavanjem u smislu ovoga Zakona. Stručne knjige, časopisi i druge stručne publikacije namijenjene obavješćivanju proizvođača ili prodavača moraju biti zapakirane u neprozirnu foliju zatvorenu s obiju strana.
+(7) Podaci iz ovoga članka ne smiju biti dostupni ni putem usluga informacijskog društva.
+ 
+Članak 23. (NN 98/25)
+(1) Zabranjuje se prodaja duhanskih, nikotinskih i srodnih proizvoda, uključujući bezdimne duhanske proizvode, te biljnih proizvoda za pušenje, elektroničkih cigareta, spremnika za ponovno punjenje, uložaka za jednokratnu uporabu i grijanih duhanskih proizvoda osobama mlađim od 18 godina.
+(2) Proizvode iz stavka 1. ovoga članka ne smiju prodavati osobe mlađe od 18 godina.
+(3) Na svim prodajnim mjestima na kojima se prodaju proizvodi iz stavka 1. ovoga članka mora biti istaknuta oznaka o zabrani prodaje duhanskih i srodnih proizvoda, bezdimnih duhanskih proizvoda te biljnih proizvoda za pušenje i elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu osobama mlađim od 18 godina.
+(4) Oznaka iz stavka 3. ovoga članka mora biti istaknuta na vidljivom mjestu tako da se može pročitati s udaljenosti od deset metara.
+(5) Prodavač će od osobe za koju smatra da je mlađa od 18 godina zatražiti da odgovarajućom ispravom dokaže punoljetnost. Ako osoba ne dokaže punoljetnost, prodavač je obvezan uskratiti prodaju traženoga proizvoda iz stavka 1. ovoga članka.
+(6) Zabranjuje se prodaja maloljetnicima i drugih proizvoda za pušenje koji mogu maloljetnike poticati na pušenje.
+(7) Zabranjuje se prodaja i kupnja preko interneta, kao i prekogranična prodaja na daljinu proizvoda iz stavka 1. ovoga članka, osim elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu.
+(8) Zabranjuje se prodaja proizvoda iz stavka 1. ovoga članka iz automatskih naprava.
+(9) Zabranjuje se prodaja pojedinačnih cigareta, odnosno drugih proizvoda iz stavka 1. ovoga članka izvan originalnog pakiranja proizvođača.
+(10) Zabranjuje se prodaja duhana za oralnu uporabu.
+ 
+Članak 24.
+(1) Zabranjuje se pušenje i konzumacija duhanskih i srodnih proizvoda, uključujući bezdimne duhanske proizvode, elektroničkih cigareta i biljnih proizvoda za pušenje prilikom javnih nastupa i prikazivanje na televiziji osoba koje puše ili konzumiraju proizvode iz ovoga stavka.
+(2) Zabrana iz stavka 1. ovoga članka ne odnosi se na filmski program i umjetnička djela.
+(3) Zabranjuje se objavljivanje u tisku fotografija ili crteža osoba koje puše u promidžbene svrhe.
+ 
+Članak 25. (NN 98/25)
+(1) Zabranjuje se pušenje duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje i uporaba elektroničkih cigareta s nikotinskim punjenjem ili bez nikotinskog punjenja, vodenih lula i grijanih duhanskih proizvoda u svim zatvorenim javnim prostorima.
+(2) Zatvorenim javnim prostorom iz stavka 1. ovoga članka smatra se prostor koji ima krov i potpuno zatvoreno više od polovice površine pripadajućih stijena, kao i terase koje su ograđene staklenim stijenama ili nekim drugim materijalom. Također, zatvorenim javnim prostorom smatra se prostor koji ima krov i u kojem je moguće zatvoriti više od polovice pripadajućih stijena, kada su te stijene zatvorene. Pušenje je zabranjeno i u prostorima koji se po ovom Zakonu ne smatraju zatvorenim javnim prostorom, a funkcionalni su dio prostora u kojima se obavlja djelatnost odgoja i/ili obrazovanja.
+(3) Zabranjuje se pušenje na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu zdravstvene ustanove.
+(4) Zabranjuje se pušenje na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu obrazovne ustanove.
+(5) Prostori za pušenje nisu dopušteni u prostorima u kojima se obavlja zdravstvena djelatnost i djelatnost odgoja i obrazovanja.
+(6) Iznimno od odredbe stavka 1. ovoga članka, pušenje je dopušteno:
+a) u posebnim, za pušače određenim prostorima za smještaj gostiju sukladno propisima o ugostiteljskoj djelatnosti, o čemu u takvim prostorima mora biti istaknuta oznaka o dozvoli pušenja
+b) u posebnim, za pušače određenim prostorima u psihijatrijskim bolnicama i u posebnim, za pušače određenim prostorima drugih pružatelja zdravstvene odnosno socijalne skrbi duševno bolesnim osobama i u kaznionicama i zatvorima, o čemu u takvim prostorima mora biti istaknuta oznaka o dozvoli pušenja i
+c) u prostorima za pušenje u objektima u kojima se obavlja ugostiteljska djelatnost.
+ 
+Članak 26.
+Prostor za pušenje mora ispunjavati sljedeće uvjete:
+a) prostor mora biti uređen tako da iz njega nije moguć protok zraka onečišćenog duhanskim dimom u drugi prostor
+b) površina prostora ne smije biti manja od 10 m²
+c) prostor ne smije zauzimati više od 20% ukupne površine javnoga prostora, odnosno 20% površine prostora za posluživanje u ugostiteljskim objektima
+d) prostor ne smije biti namijenjen prijelazu u druge prostore
+e) u prostoru se ne smije posluživati hrana ni piće.
+ 
+Članak 27.
+(1) Prostor za pušenje mora biti zatvorena prostorija s cijelom površinom svih pripadajućih zidova i stropa, s vratima koja se moraju samostalno zatvarati i koja ne smiju biti otvorena. Zatvoreni prozori i vrata smatraju se dijelom zida.
+(2) Iznad ili uz vrata prostora za pušenje mora se nalaziti oznaka: »Prostor za pušenje« s navedenim brojem osoba koje prostor za pušenje istodobno može primiti.
+(3) Ispred ulaza u prostor za pušenje i u prostoru za pušenje mora se osigurati da se u slučaju kvara ventilacijskog sustava automatski pojavi oznaka: »Zabranjeno pušenje zbog kvara na ventilacijskom sustavu«.
+ 
+Članak 28.
+(1) Prostor za pušenje mora biti opremljen ventilacijskim sustavom i sustavom za filtriranje koji je sastavni dio prostora za pušenje i koji je fizički odvojen od drugoga ventilacijskog sustava zatvorenoga javnog prostora u kojem je prostor za pušenje. Duhanskim dimom onečišćen zrak iz prostora za pušenje ne smije prelaziti u druge zatvorene prostorije zatvorenoga javnog prostora.
+(2) Ventilacijski sustav prostora za pušenje mora raditi automatski i osiguravati da nema istjecanja dima u druge zatvorene prostorije zatvorenoga javnog prostora.
+ 
+Članak 29.
+(1) Ventilacijskim sustavom prostora za pušenje mora se u odnosu na zatvoren prostor iz kojeg se ulazi u prostor za pušenje u samom prostoru za pušenje osigurati podtlak od najmanje 5 Pa uz zatvorena vrata prostora za pušenje.
+(2) Prostor za pušenje mora biti opremljen uređajem za mjerenje i prikazivanje podataka o podtlaku.
+ 
+Članak 30.
+(1) Ventilacijskim sustavom u prostoru za pušenje mora biti osiguran dovod zraka iz otvorenog prostora ili iz zatvorenog prostora u kojemu je pušenje zabranjeno.
+(2) Sustav izmjene zraka mora se pročišćavati tako da je najmanja osigurana količina dodatnog zraka 30 litara u sekundi po osobi na temelju indeksa popunjenosti prostora od 0,7 osoba/m².
+ 
+Članak 31.
+Projektiranje, instaliranje i održavanje ventilacijskih sustava prostora za pušenje mora biti provedeno sukladno posebnim tehničkim propisima kojima se utvrđuju bitni zahtjevi za sustave ventilacije.
+ 
+Članak 32.
+(1) U objektu u kojemu se isključivo poslužuje piće, a u kojem nije moguće ispuniti uvjete iz članka 26. točke b) i c) ovoga Zakona, vlasnik odnosno korisnik objekta može prostor za posluživanje odrediti pušačkim prostorom, o čemu u tom prostoru mora biti istaknuta oznaka o dozvoli pušenja.
+(2) Pušački prostor iz stavka 1. ovoga članka mora ispunjavati sljedeće uvjete:
+a) ventilacijski sustav koji omogućuje najmanje 10 izmjena zraka na sat
+b) odvod zraka onečišćenog duhanskim dimom iz pušačkog prostora u otvoreni prostor mora se osigurati sustavom za filtriranje
+c) prostor mora biti opremljen sredstvima promidžbe spoznaje o štetnosti uporabe duhanskih proizvoda (plakat, leci, naljepnice ili sl.).
+ 
+Članak 33.
+(1) Pravna ili fizička osoba koja obavlja ugostiteljsku djelatnost ministarstvu podnosi zahtjev za donošenje rješenja o ispunjavanju uvjeta iz članaka 26. – 32. ovoga Zakona.
+(2) Ministarstvo donosi rješenje iz stavka 1. ovoga članka u roku od 30 dana od dana podnošenja urednog zahtjeva iz stavka 1. ovoga članka.
+(3) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+(4) U slučaju promjene okolnosti iz članaka 26. – 32. ovoga Zakona ministarstvo će ukinuti rješenje iz stavka 2. ovoga članka.
+ 
+Članak 34.
+Provedbu zabrane pušenja obvezni su osigurati vlasnik ili korisnik prostora u kojem je pušenje zabranjeno.
+ 
+IV. PREVENTIVNE MJERE PROTIV PUŠENJA
+ 
+Članak 35.
+(1) Obvezuju se ustanove koje obavljaju djelatnost odgoja i obrazovanja na promicanje spoznaje o štetnosti uporabe duhanskih i srodnih proizvoda za zdravlje među djecom i mladeži svih dobi u svim aktivnostima provedbe redovitog obrazovanja.
+(2) Program promicanja spoznaje o štetnosti uporabe duhanskih i srodnih proizvoda za zdravlje među djecom i mladeži svih dobi iz stavka 1. ovoga članka donosi ministar nadležan za obrazovanje, uz mišljenje ministra.
+ 
+Članak 36.
+(1) U ostvarivanju društvene skrbi za zaštitu zdravlja pučanstva od štetnih utjecaja pušenja duhana, duhanskih i srodnih proizvoda ministar osniva i imenuje Nacionalno povjerenstvo za borbu protiv pušenja (u daljnjem tekstu: Povjerenstvo).
+(2) Povjerenstvo ima deset članova, i to:
+a) tri zdravstvena radnika koji svojim radom sudjeluju u zdravstvenom prosvjećivanju
+b) dva istaknuta stručnjaka u borbi protiv pušenja
+c) jednog predstavnika javnih medija
+d) jednog predstavnika iz područja odgoja i obrazovanja
+e) dva predstavnika ministarstva
+f) jednog predstavnika ministarstva nadležnog za obrazovanje.
+(3) Predsjednika i članove Povjerenstva iz stavka 2. ovoga članka imenuje ministar na razdoblje od četiri godine.
+(4) Povjerenstvo donosi poslovnik o radu.
+(5) Povjerenstvo obavlja sljedeće poslove:
+a) prati pojavnost pušenja, proučava i predlaže mjere za smanjenje utjecaja duhanskih i srodnih proizvoda za zdravlje pučanstva
+b) predlaže provedbene aktivnosti čiji je cilj smanjenje uporabe duhanskih i srodnih proizvoda
+c) predlaže programe odvikavanja od pušenja
+d) predlaže i organizira izdavanje prigodnih publikacija čiji je cilj promicanje nepušenja kao zdravog načina života i odvikavanje od pušenja
+e) surađuje s međunarodnim tijelima koja prate problematiku smanjenja pušenja
+f) priprema izvješća o učestalosti navike pušenja i rezultatima trajnih preventivnih akcija
+g) surađuje s vladinim i nevladinim organizacijama i udrugama
+h) obavlja i druge poslove iz područja ograničavanja pušenja duhana, duhanskih i srodnih proizvoda te
+i) podnosi ministru, najkasnije do 31. ožujka tekuće godine za prethodnu godinu, godišnje izvješće o aktivnostima Povjerenstva.
+ 
+Članak 37.
+Za provedbu sustavnih odgojnih, informativnih i promidžbenih aktivnosti u cilju smanjenja i ograničavanja uporabe duhanskih i srodnih proizvoda osiguravaju se sredstva u državnom proračunu.
+ 
+V. NADZOR
+ 
+Članak 38. (NN 114/18)
+Inspekcijski nadzor nad provedbom ovoga Zakona obavljaju, svaki u okviru svojega djelokruga propisanog zakonom, sanitarni inspektori, inspektori rada, tržišni inspektori, turistički inspektori, inspektori za područje elektroenergetike i toplinarstva Državnog inspektorata te zdravstveni inspektori, prosvjetni inspektori i ovlašteni carinski službenici.
+ 
+Članak 39. (NN 98/25)
+(1) U obavljanju inspekcijskog nadzora sanitarni inspektor ima pravo i dužnost:
+1. narediti uklanjanje nedostataka utvrđenih inspekcijskim nadzorom u vezi s proizvodnjom i stavljanjem na tržište duhanskih i srodnih proizvoda i ostalih proizvoda obuhvaćenih ovim Zakonom te odrediti rok za njihovo uklanjanje
+2. narediti otklanjanje nedostataka u prostorima za pušenje iz članaka 26., 27. i 28. ovoga Zakona i pušačkim prostorima iz članka 32. ovoga Zakona
+3. zabraniti proizvodnju i stavljanje na tržište duhanskih i srodnih proizvoda i ostalih proizvoda obuhvaćenih ovim Zakonom, ako nisu ispunjeni propisani uvjeti
+4. zabraniti izravnu i neizravnu promidžbu i oglašavanje duhanskih i srodnih proizvoda i ostalih proizvoda protivno odredbama ovoga Zakona
+5. zabraniti pušenje duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje, kao i uporabu elektroničkih cigareta s nikotinskim punjenjem ili bez nikotinskog punjenja, vodenih lula i grijanih duhanskih proizvoda u zatvorenim javnim prostorima i ostalim prostorima određenim ovim Zakonom
+6. zabraniti obavljanje djelatnosti u kojima nije osigurana zabrana pušenja duhanskih i srodnih proizvoda
+7. privremeno zabraniti pušenje u prostorima za pušenje i pušačkim prostorima koji ne udovoljavaju propisanim uvjetima ovoga Zakona do ispunjenja uvjeta.
+(2) Mjere iz stavka 1. ovoga članka naređuju se pisanim rješenjem.
+(3) Iznimno od stavka 2. ovoga članka, sanitarni inspektor može donijeti usmeno rješenje o naređenju mjera iz stavka 1. točaka 4., 5. i 7. ovoga članka te narediti izvršenje usmenog rješenja odmah, bez donošenja rješenja o izvršenju.
+(4) Rješenje iz stavka 3. ovoga članka unosi se u zapisnik o izvršenom inspekcijskom nadzoru.
+(5) Nadležni inspektor naredit će mjeru iz stavka 1. točke 6. ovoga članka samo u krajnjem slučaju kad druge mjere nisu osigurale provedbu zabrane pušenja.
+(6) Iznimno od stavka 2. ovoga članka, kad nadležni tržišni inspektor utvrdi da se duhanski, nikotinski i srodni proizvodi, uključujući bezdimne duhanske proizvode, te biljni proizvodi za pušenje, elektroničke cigarete, spremnici za ponovno punjenje, ulošci za jednokratnu uporabu i grijani duhanski proizvodi prodaju osobama mlađim od 18 godina, usmenim će rješenjem, sukladno propisima o trgovini, zabraniti pravnoj ili fizičkoj osobi obavljanje djelatnosti trgovine onim proizvodima za koje je utvrđena povreda propisa na rok od 30 dana do šest mjeseci.
+(7) Usmeno rješenje iz stavka 6. ovoga članka dostavit će se pravnoj ili fizičkoj osobi u pisanom obliku.
+(8) Protiv rješenja inspektora donesenih na temelju ovoga članka može se izjaviti žalba sukladno zakonu kojim se uređuje Državni inspektorat.
+(9) Žalba izjavljena protiv rješenja iz stavaka 2., 3. i 6. ovoga članka ne odgađa izvršenje rješenja.
+ 
+VI. PREKRŠAJNE ODREDBE
+ 
+Članak 40. (NN 98/25)
+(1) Novčanom kaznom u iznosu od 9290,00 do 19.900,00 eura kaznit će se za prekršaj pravna osoba ako:
+1. prodaje cigarete koje sadrže više od 10 mg katrana po cigareti (članak 5. stavak 1. podstavak 1.)
+2. prodaje cigarete koje sadrže više od 1 mg nikotina po cigareti (članak 5. stavak 1. podstavak 2.)
+3. prodaje cigarete koje sadrže više od 10 mg ugljikova monoksida po cigareti (članak 5. stavak 1. podstavak 3.)
+4. ne dostavi ministarstvu propisane podatke o sastojcima i emisijama duhanskih proizvoda prije stavljanja tih proizvoda na tržište (članak 6. stavak 1.)
+5. ne dostavi ministarstvu propisane podatke o sastojcima i emisijama duhanskih proizvoda koji su stavljeni na tržište do dana stupanja na snagu ovoga Zakona, u roku određenom odlukom ministra (članak 6. stavak 2.)
+6. prije stavljanja na tržište proizvoda čiji je sastav izmijenjen na način koji nije u skladu s podacima dostavljenim sukladno članku 6. ovoga Zakona o tome ne obavijesti ministarstvo (članak 6. stavak 3.)
+7. ne provede studije o ispitivanju aditiva i ne dostavi ih nadležnim tijelima ili o tome ne dostavi dodatne informacije u propisanom roku (članak 7. stavci 2. i 4. i članak 50. stavak 1.)
+8. stavlja na tržište duhanske proizvode sa svojstvenim aromama ili s aditivima u bilo kojem od sastavnih dijelova duhanskih proizvoda (članak 8. stavci 1., 3. i 4.)
+9. stavlja na tržište duhanske proizvode koji sadrže aditive u količinama koje povećavaju toksični učinak ili stvaranje ovisnosti o duhanskom proizvodu ili CMR svojstva duhanskog proizvoda u znatnoj ili mjerljivoj količini (članak 8. stavak 5.)
+10. stavlja na tržište duhanske proizvode označene protivno članku 9. stavcima 1., 2., 5. i 6. ovoga Zakona ili pakirane protivno članku 9. stavcima 3. i 4. ovoga Zakona
+11. stavlja na tržište duhanske proizvode za pušenje označene protivno članku 10. stavcima 1. do 8. ovoga Zakona
+12. stavlja na tržište duhanske proizvode za pušenje označene protivno članku 11. stavcima 1., 2. i 3. ovoga Zakona
+13. stavlja na tržište duhanske proizvode za pušenje, osim cigareta, duhana za samostalno motanje, duhana za vodenu lulu i grijanih duhanskih proizvoda koji su po karakteristikama duhanski proizvodi za pušenje, označene protivno članku 12. ovoga Zakona
+14. stavlja na tržište bezdimne duhanske proizvode označene protivno članku 13. ovoga Zakona
+15. prodaje duhanske proizvode s uporabom elemenata i obilježja protivno članku 14. ovoga Zakona
+16. prodaje jedinična pakiranja cigareta koja nisu u obliku kvadra (članak 15. stavak 1.)
+17. prodaje jedinična pakiranja duhana za samostalno motanje koja nisu u obliku kvadra ili cilindričnom obliku ili u obliku vrećice (članak 15. stavak 2.)
+18. prodaje jedinična pakiranja cigareta koja ne sadrže najmanje 20 cigareta (članak 15. stavak 3.)
+19. prodaje jedinično pakiranje duhana za samostalno motanje koje ne sadrži najmanje 30 g duhana (članak 15. stavak 4.)
+20. prodaje jedinično pakiranje cigareta izgleda i sadržaja protivnog članku 15. stavku 5. ovoga Zakona
+21. prodaje jedinična pakiranja duhanskih proizvoda koja ne sadrže oznaku s jedinstvenom identifikacijom u skladu s člankom 16. stavcima 1. i 2. ovoga Zakona
+22. ne vodi evidencije o unosu jediničnih pakiranja i kretanja sukladno članku 16. stavku 5. ovoga Zakona
+23. ne vodi evidenciju svih transakcija sukladno članku 16. stavku 6. ovoga Zakona
+24. ne osigura opremu koja je potrebna za evidentiranje duhanskih proizvoda sukladno članku 16. stavku 7. ovoga Zakona
+25. ne sklopi ugovor s neovisnom trećom stranom sukladno članku 16. stavku 8. ovoga Zakona
+26. izmijeni ili obriše zabilježene podatke protivno članku 16. stavku 11. ovoga Zakona
+27. prodaje jedinična pakiranja duhanskih proizvoda koja ne nose sigurnosni element sukladno članku 17. ovoga Zakona
+28. u propisanom roku ne obavijesti ministarstvo o novom duhanskom proizvodu koji namjerava staviti na tržište (članak 18. stavak 1.)
+29. prije stavljanja elektroničkih cigareta i spremnika za ponovno punjenje na tržište ministarstvu u propisanom roku ne dostavi obavijesti sukladno članku 19. stavku 2. ovoga Zakona
+30. ne osigura da se tekućina koja sadrži nikotin stavlja na tržište isključivo u za to namijenjenim spremnicima za ponovno punjenje koji nemaju obujam veći od 10 ml, u potrošnim elektroničkim cigaretama ili u ulošcima za jednokratnu uporabu i da ulošci ili spremnici ne premašuju obujam od 2 ml (članak 19. stavak 5. točka a))
+31. ne osigura da tekućina koja sadrži nikotin ne sadrži više od 20 mg/ml nikotina (članak 19. stavak 5. točka b))
+32. ne osigura da tekućina koja sadrži nikotin ne sadrži aditive iz članka 8. stavka 3. ovoga Zakona (članak 19. stavak 5. točka c))
+33. ne osigura da se za proizvodnju tekućine koja sadrži nikotin koriste samo sastojci visoke čistoće (članak 19. stavak 5. točka d))
+34. ne osigura da, osim nikotina, jedini sastojci koji se koriste u tekućini koja sadrži nikotin ne predstavljaju opasnost za ljudsko zdravlje u zagrijanom ili nezagrijanom obliku (članak 19. stavak 5. točka e))
+35. ne osigura da elektroničke cigarete oslobađaju doze nikotina u ujednačenim razinama (članak 19. stavak 5. točka f))
+36. ne osigura da su elektroničke cigarete i spremnici za ponovno punjenje takvi da djeca njima ne mogu rukovati i da na njima nisu moguće neovlaštene izmjene te da su zaštićeni od lomljenja i curenja i da imaju mehanizam koji osigurava ponovno punjenje bez curenja (članak 19. stavak 5. točka g))
+37. prodaje elektroničke cigarete i spremnike za ponovno punjenje bez letka s podacima iz članka 19. stavka 6. ovoga Zakona
+38. prodaje elektroničke cigarete i spremnike za ponovno punjenje bez popisa, podataka ili upozorenja iz članka 19. stavka 7. ovoga Zakona
+39. objavljuje komercijalne objave protivno odredbama članka 19. stavka 9. ovoga Zakona
+40. ne podnese ministarstvu i ministarstvu nadležnom za financije u propisanom roku podatke, informacije ili sažetke (članak 19. stavak 10.)
+41. sudjeluje u prekograničnoj prodaji na daljinu elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu protivno odredbi članka 19. stavka 16. ovoga Zakona
+42. sudjeluje u prekograničnoj prodaji na daljinu elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu, a ne raspolaže sustavom za provjeru starosti kupca, ili detaljan opis i način rada ne dostavi ministarstvu (članak 19. stavak 18.)
+43. prodaje biljne proizvode za pušenje označene odnosno pakirane protivno odredbama članka 20. ovoga Zakona
+44. prije stavljanja na tržište biljnog proizvoda za pušenje ili izmijenjenog biljnog proizvoda za pušenje ne dostavi popis svih sastojaka i njihovih količina u skladu s člankom 21. stavkom 1. ovoga Zakona
+45. sponzorira događaje, aktivnosti ili pojedince s ciljem, učinkom ili mogućim učinkom izravne ili neizravne promidžbe ili uporabe duhanskih i srodnih proizvoda (članak 22. stavak 1.)
+46. izravno ili neizravno promiče duhanske i srodne proizvode i elektroničke cigarete (članak 22. stavak 2.)
+47. ističe naziv i logotip duhanskih i srodnih proizvoda, uključujući bezdimnih duhanskih proizvoda, te biljnih proizvoda za pušenje, elektroničkih cigareta, spremnika za ponovno punjenje i uložaka za jednokratnu uporabu kroz svjetleće reklame, plitice, stalke za prodaju, letke, kataloge i ostale promidžbene materijale (članak 22. stavak 4.)
+48. oglašava i promovira proizvod koji se ne smatra duhanskim i srodnim proizvodom, bezdimnim duhanskim proizvodom, biljnim proizvodom za pušenje, elektroničkom cigaretom, spremnikom za ponovno punjenje i uloškom za jednokratnu uporabu, a koji svojim oblikom, nazivom ili namjenom neposredno potiču potrošnju tih proizvoda te svako drugo oglašavanje koje oblikom, nazivom ili namjenom potiče potrošnju tih proizvoda (članak 22. stavak 5.)
+49. prodaje duhanske, nikotinske i srodne proizvode, uključujući bezdimne duhanske proizvode, te biljne proizvode za pušenje, elektroničke cigarete, spremnike za ponovno punjenje, uloške za jednokratnu uporabu i grijane duhanske proizvode osobama mlađim od 18 godina (članak 23. stavak 1.)
+50. na prodajnom mjestu na kojem se prodaju proizvodi iz članka 23. stavka 1. ovoga Zakona ne istakne oznaku o zabrani prodaje iz članka 23. stavaka 3. i 4. ovoga Zakona osobama mlađim od 18 godina ili je ne istakne na vidljivom mjestu tako da se može pročitati s udaljenosti od deset metara (članak 23. stavci 3. i 4.)
+51. prodaje maloljetnicima proizvode iz članka 23. stavka 6. ovoga Zakona koji mogu maloljetnike poticati na pušenje
+52. prodaje duhanske i srodne proizvode, uključujući bezdimne duhanske proizvode, te biljne proizvode za pušenje preko interneta ili prekogranične prodaje na daljinu (članak 23. stavak 7.)
+53. prodaje duhanske i srodne proizvode iz automatskih naprava, uključujući bezdimne duhanske proizvode, biljne proizvode za pušenje, elektroničke cigarete, spremnike za ponovno punjenje i uloške za jednokratnu uporabu (članak 23. stavak 8.)
+54. prodaje pojedinačne cigarete ili duhanske i srodne proizvode i elektroničke cigarete izvan originalnog pakiranja proizvođača (članak 23. stavak 9.)
+55. prodaje duhan za oralnu uporabu (članak 23. stavak 10.)
+56. dopusti pušenje duhanskih i srodnih proizvoda i elektroničkih cigareta prilikom javnih nastupa na televiziji uživo ili objavi u tisku fotografije ili crteže osoba koje puše u promidžbene svrhe (članak 24. stavci 1. i 3.)
+57. ne osigura poštivanje zabrane pušenja u zatvorenom javnom prostoru (članak 25. stavci 1. i 2.)
+58. ne osigura poštivanje zabrane pušenja na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu zdravstvene ustanove (članak 25. stavak 3.)
+59. ne osigura poštivanje zabrane pušenja na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu obrazovne ustanove (članak 25. stavak 4.)
+60. ima prostore za pušenje u prostorima u kojima se obavlja zdravstvena djelatnost i djelatnost odgoja i obrazovanja (članak 25. stavak 5.)
+61. prostor za pušenje ne ispunjava sve uvjete iz članka 26. ovoga Zakona
+62. prostor za pušenje nije zatvorena prostorija s cijelom površinom svih pripadajućih zidova i stropa, s vratima koja se moraju samostalno zatvarati i koja ne smiju biti otvorena (članak 27. stavak 1.)
+63. se iznad ili uz vrata prostora za pušenje ne nalazi oznaka: »Prostor za pušenje« s navedenim brojem osoba koje prostor za pušenje istodobno može primiti (članak 27. stavak 2.)
+64. ispred ulaza u prostor za pušenje i u prostoru za pušenje ne osigura da se u slučaju kvara ventilacijskog sustava automatski pojavi oznaka: »Zabranjeno pušenje zbog kvara na ventilacijskom sustavu« (članak 27. stavak 3.)
+65. ima prostor za pušenje koji nije opremljen ventilacijskim sustavom i sustavom za filtriranje koji je sastavni dio prostora za pušenje i koji je fizički odvojen od drugoga ventilacijskog sustava zatvorenoga javnog prostora ili ako zrak onečišćen duhanskim dimom iz prostora za pušenje prelazi u druge zatvorene prostorije zatvorenoga javnog prostora ili ako ventilacijski sustav ne radi automatski i ne sprječava istjecanje dima u druge zatvorene prostorije zatvorenoga javnog prostora (članak 28.)
+66. u prostoru za pušenje nema ventilacijski sustav koji u odnosu na zatvoren prostor iz kojeg se ulazi u prostor za pušenje u samom prostoru za pušenje osigurava podtlak od najmanje 5 Pa uz zatvorena vrata prostora za pušenje ili prostor za pušenje nije opremljen uređajem za mjerenje i prikazivanje podataka o podtlaku (članak 29.)
+67. u prostoru za pušenje nema ventilacijski sustav kojim se osigurava dovod zraka iz otvorenog prostora ili iz zatvorenog prostora u kojemu je pušenje zabranjeno ili ako se sustav izmjene zraka ne pročišćava tako da je najmanja osigurana količina dodatnog zraka 30 litara u sekundi po osobi na temelju indeksa popunjenosti prostora od 0,7 osoba/m² (članak 30.)
+68. projektiranje, instaliranje i održavanje ventilacijskih sustava prostora za pušenje nije provedeno sukladno posebnim tehničkim propisima kojima se utvrđuju bitni zahtjevi za sustave ventilacije (članak 31.)
+69. odredi pušačkim prostorom prostor koji ne ispunjava propisane uvjete (članak 32. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba, fizička osoba obrtnik, osoba koja obavlja drugu samostalnu djelatnost te odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 660,00 do 2000,00 eura.
+ 
+Članak 41. (NN 98/25)
+(1) Novčanom kaznom u iznosu od 260,00 do 2560,00 eura kaznit će se za prekršaj pravna osoba u čijem se ugostiteljskom objektu poslužuje hrana i/ili piće, u kojem je zatečena osoba koja puši izvan prostora koji ispunjava uvjete iz članaka 26. – 32. ovoga Zakona (članak 25. stavci 1. i 2.).
+(2) Novčanom kaznom u iznosu od 260,00 do 660,00 eura kaznit će se za prekršaj fizička osoba – obrtnik u čijem se ugostiteljskom objektu poslužuje hrana i/ili piće, u kojem je zatečena osoba koja puši izvan prostora koji ispunjava uvjete iz članaka 26. – 32. ovoga Zakona (članak 25. stavci 1. i 2.).
+ 
+Članak 42. (NN 98/25)
+Novčanom kaznom u iznosu od 130,00 eura kaznit će nadležan inspektor iz članka 38. ovoga Zakona na mjestu izvršenja za prekršaj fizičku osobu koja besplatno nudi duhanske proizvode na javnom mjestu i u javnim prostorima (članak 22. stavak 3.).
+ 
+Članak 43. (NN 98/25)
+Novčanom kaznom u iznosu od 130,00 eura kaznit će nadležan inspektor iz članka 38. ovoga Zakona na mjestu počinjenja za prekršaj fizičku osobu ako:
+1. puši duhanski ili srodni proizvod, biljni proizvod za pušenje ili rabi elektroničku cigaretu s nikotinskim punjenjem ili bez nikotinskog punjenja, vodenu lulu i grijane duhanske proizvode u zatvorenom javnom prostoru (članak 25. stavak 1.)
+2. puši na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu zdravstvene ustanove (članak 25. stavak 3.)
+3. puši na prostoru koji je udaljen manje od 20 metara od ulaza u zgradu obrazovne ustanove (članak 25. stavak 4.).
+ 
+VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
+Članak 44.
+(1) Pravilnike iz članka 5. stavka 12., članka 6. stavka 13., članka 19. stavka 21. i članka 19. stavka 22. ovoga Zakona ministar će donijeti u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnik iz članka 10. stavka 9. ovoga Zakona ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) Pravilnik iz članka 16. stavka 13. točke a) i članka 16. stavka 13. točke b) ovoga Zakona ministar nadležan za financije donijet će u roku od 12 mjeseci od dana stupanja na snagu odgovarajućih provedbenih akata kojima se od strane Komisije propisuju tehnički standardi za sljedivost duhanskih proizvoda.
+ 
+Članak 45.
+Odluku o roku dostave podataka iz članka 6. stavka 2. ovoga Zakona ministar će donijeti u roku od mjesec dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 46.
+Odluku o visini razmjerne naknade iz članka 5. stavka 11., iz članka 6. stavka 12., iz članka 7. stavka 8., iz članka 8. stavka 10. i iz članka 19. stavka 20. ovoga Zakona ministar će donijeti u roku od mjesec dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 47.
+Program promicanja spoznaje o štetnosti uporabe duhanskih i srodnih proizvoda za zdravlje među djecom i mladeži svih dobi iz članka 35. stavka 2. ovoga Zakona ministar nadležan za obrazovanje donijet će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 48.
+Do stupanja na snagu pravilnika iz članka 6. stavka 13. ovoga Zakona na temelju ovoga Zakona ostaje na snazi Pravilnik o sadržaju podataka o svim sastojcima i njihovim količinama po vrsti i tipu koji se koriste u proizvodnji duhanskih proizvoda te o načinu informiranja javnosti (»Narodne novine«, br. 39/09.) u dijelu koji nije u suprotnosti s odredbama ovoga Zakona.
+ 
+Članak 49.
+(1) Nacionalno povjerenstvo za borbu protiv pušenja ministar će imenovati u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+(2) Nacionalno povjerenstvo za borbu protiv pušenja osnovano sukladno Zakonu o ograničavanju uporabe duhanskih proizvoda (»Narodne novine«, br. 125/08., 55/09. – ispravak, 119/09. i 94/13.) nastavlja s radom do imenovanja Nacionalnog povjerenstva za borbu protiv pušenja sukladno ovom Zakonu.
+ 
+Članak 50.
+Proizvođači i uvoznici obvezni su ministarstvu dostaviti studije, radne sažetke, odnosno izvješća iz članka 6. stavka 9. ovoga Zakona za svaku godinu počevši od 1. siječnja 2015.
+ 
+Članak 51.
+(1) Proizvođači i uvoznici obvezni su podnijeti izvješća iz članka 7. ovoga Zakona Komisiji i ministarstvu najkasnije u roku od 18 mjeseci od uvrštavanja aditiva na prioritetni popis iz članka 7. stavka 1. ovoga Zakona.
+(2) Na duhanske proizvode sa svojstvenom aromom, čiji opseg prodaje na području cijele Europske unije predstavlja 3% ili više u pojedinoj proizvodnoj kategoriji, odredbe članka 8. ovoga Zakona primjenjuju se od 20. svibnja 2020.
+(3) Članak 16. stavci 1. – 12. ovoga Zakona primjenjuju se na cigarete i duhan za samostalno motanje od 20. svibnja 2019., a na duhanske proizvode, osim cigareta i duhana za samostalno motanje, od 20. svibnja 2024.
+(4) Članak 17. ovoga Zakona primjenjuje se na cigarete i duhan za samostalno motanje od 20. svibnja 2019., a na duhanske proizvode, osim cigareta i duhana za samostalno motanje, od 20. svibnja 2024.
+(5) Odredbe članka 40. stavka 1. točaka 21., 22., 23., 24. i 25. ovoga Zakona primjenjuju se na cigarete i duhan za samostalno motanje od 20. svibnja 2019., a na duhanske proizvode, osim cigareta i duhana za samostalno motanje, od 20. svibnja 2024.
+ 
+Članak 52.
+Do 20. svibnja 2017. dozvoljena je prodaja sljedećih proizvoda koji nisu usklađeni s ovim Zakonom:
+a) duhanskih proizvoda proizvedenih ili stavljenih u slobodan promet i označenih u skladu sa Zakonom o ograničavanju uporabe duhanskih proizvoda (»Narodne novine«, br. 125/08., 55/09. – ispravak, 119/09. i 94/13.) do dana stupanja na snagu ovoga Zakona
+b) elektroničkih cigareta ili spremnika za ponovno punjenje proizvedenih ili puštenih u slobodan promet do dana stupanja na snagu ovoga Zakona
+c) biljnih proizvoda za pušenje proizvedenih ili puštenih u slobodan promet do dana stupanja na snagu ovoga Zakona.
+ 
+Članak 53.
+Proizvođači i uvoznici duhanskih i srodnih proizvoda obvezni su svoj rad i poslovanje uskladiti s odredbama ovoga Zakona do 20. svibnja 2017., osim ako ovim Zakonom nije drukčije određeno.
+ 
+Članak 54.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o ograničavanju uporabe duhanskih proizvoda (»Narodne novine«, br. 125/08., 55/09. – ispravak, 119/09. i 94/13.).
+ 
+Članak 55.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+ 
+Prijelazne i završne odredbe iz NN 114/18 od 19.12.2018.
+ 
+Članak 3.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+ 
+Prijelazne i završne odredbe iz NN 98/25 od 04.07.2025.
+ 
+Članak 14.
+Grijani duhanski proizvodi koji su stavljeni na tržište Republike Hrvatske do dana stupanja na snagu ovoga Zakona mogu ostati u maloprodaji do isteka zaliha, a najkasnije do 90 dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 15.
+Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o ograničavanju uporabe duhanskih i srodnih proizvoda (»Narodne novine«, br. 45/17. i 114/18.) te propisa i općih akata donesenih na temelju toga Zakona.
+ 
+Članak 16.
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+
+
+ 
+ 
+PRILOG I.
+POPIS TEKSTUALNIH UPOZORENJA
+1. Pušenje uzrokuje 9 od 10 slučajeva raka pluća
+2. Pušenje uzrokuje rak usta i grla
+3. Pušenje šteti vašim plućima
+4. Pušenje uzrokuje srčane udare
+5. Pušenje uzrokuje moždane udare i invaliditet
+6. Pušenje začepljuje vaše arterije
+7. Pušenje povećava rizik od sljepoće
+8. Pušenje oštećuje vaše zube i desni
+9. Pušenje može ubiti vaše nerođeno dijete
+10. Vaš dim šteti vašoj djeci, obitelji i prijateljima
+11. Djeca pušača imaju veće izglede da će i sama početi pušiti
+12. Prestanite pušiti – ostanite živi radi onih koji su vam bliski
+13. Pušenje smanjuje plodnost
+14. Pušenje povećava rizik od impotencije
+ 
+PRILOG II.
+ 
+POLOŽAJ I OBLIK KOMBINIRANOG ZDRAVSTVENOG UPOZORENJA
+I.
+(a) Ako je visina kombiniranog zdravstvenog upozorenja veća od 70% njegove širine, proizvođači su obvezni prikazati kombinirana zdravstvena upozorenja u okomitom formatu, kako je prikazano u točki IV. podtočki 1. ovoga Priloga.
+Ako je visina kombiniranog zdravstvenog upozorenja veća od 20%, ali manja od 65% njegove širine, proizvođači su obvezni prikazati kombinirana zdravstvena upozorenja u usporednom formatu, kako je prikazano u točki IV. podtočki 2. ovoga Priloga.
+Ako je visina kombiniranog zdravstvenog upozorenja veća od ili jednaka 65%, ali manja od ili jednaka 70% njegove širine, proizvođači mogu odabrati hoće li upotrijebiti okomiti ili usporedni format, pod uvjetom da svi elementi kombiniranog zdravstvenog upozorenja ostanu potpuno vidljivi i neiskrivljeni.
+(b) Ako je upotrijebljen okomiti format, fotografija je na vrhu kombiniranog zdravstvenog upozorenja, s tekstualnim upozorenjem i informacijama o prestanku pušenja tiskanima ispod njega, kako je prikazano u točki IV. podtočki 1. ovoga Priloga. Fotografija zauzima 50%, tekstualno upozorenje 38%, a informacije o prestanku pušenja 12% površine kombiniranog zdravstvenog upozorenja unutar vanjskog crnog ruba.
+Ako je upotrijebljen usporedni format, fotografija je na lijevoj polovini kombiniranog zdravstvenog upozorenja, s tekstualnim upozorenjem u gornjem desnom kutu i informacijama o prestanku pušenja u donjem desnom kutu upozorenja, kako je prikazano u točki IV. podtočki 2. ovoga Priloga. Fotografija zauzima 50%, tekstualno upozorenje 40%, a informacije o prestanku pušenja 10% površine kombiniranog zdravstvenog upozorenja unutar vanjskog crnog ruba.
+(c) Ako je zbog oblika jediničnog pakiranja ili vanjskog pakiranja visina kombiniranog zdravstvenog upozorenja manja od ili jednaka 20% njegove širine, kombinirano zdravstveno upozorenje prikazuje se u usporednom posebno širokom formatu, kako je prikazano u točki IV. podtočki 3. ovoga Priloga. Fotografija zauzima 35%, tekstualno upozorenje 50%, a informacije o prestanku pušenja 15% površine kombiniranog zdravstvenog upozorenja unutar vanjskog crnog ruba.
+ 
+DIZAJN KOMBINIRANOG ZDRAVSTVENOG UPOZORENJA
+II.
+(a) Kombinirano zdravstveno upozorenje tiska se u četiri boje CMYK. Svi elementi u crnoj boji su C0, M0, Y0 i K100, a oni u toplo žutoj boji su C0, M10, Y100 i K0.
+Kombinirano zdravstveno upozorenje prikazuje se u najmanjoj rezoluciji od 300 dpi kada je otisnuto u stvarnoj veličini.
+(b) Tekstualno upozorenje tiska se u bijeloj boji na crnoj pozadini.
+Informacije o prestanku pušenja tiskaju se u crnoj boji na toplo žutoj pozadini, kao što je prikazano u točki IV. ovoga Priloga.
+(c) Ako je upotrijebljen usporedni format, okomiti format s obrnutim rasporedom ili usporedni posebno široki format, u okviru površine za prikaz informacija o prestanku pušenja tiska se crni rub širine 1 mm smješten između informacija o prestanku pušenja i fotografije.
+(d) U vezi s fotografijom proizvođači ili uvoznici obvezni su osigurati sljedeće:
+1. da je prikazana bez primjene posebnih efekata, prilagodbe boja, retuširanja ili proširivanja pozadine i
+2. da nije odrezana preblizu ili predaleko od središnje točke slike i
+3. da je proporcionalnih dimenzija bez širenja ili sažimanja fotografije.
+(e) Proizvođači su obvezni osigurati sljedeće:
+1. da su tekstualno upozorenje i informacije o prestanku pušenja poravnani lijevo i centrirani okomito
+2. da su tekstualno upozorenje i informacije o prestanku pušenja otisnuti u fontu NeueFrutigerCondensedBold
+3. da je tekstualno upozorenje otisnuto jednakom veličinom slova
+4. da je veličina slova tekstualnog upozorenja i informacija o prestanku pušenja najveća moguća kako bi se osigurala najveća moguća vidljivost teksta
+5. da najmanja veličina slova tekstualnog upozorenja iznosi 6 pt, a najmanja veličina slova informacija o prestanku pušenja iznosi 5 pt
+6. da je razmak između redaka za 2 pt veći od veličine slova tekstualnog upozorenja te za 1 do 2 pt veći od veličine slova informacija o prestanku pušenja
+7. da je tekstualno upozorenje prikazano kako je utvrđeno u Prilogu I. ovoga Zakona, uključujući uporabu velikih slova, ali bez brojčanog označavanja.
+Iznimno od stavka (e) podstavaka 5. i 6. ove točke, proizvođači ili uvoznici duhanskih proizvoda za pušenje, osim cigareta, duhana za samostalno motanje i duhana za vodene lule, mogu smanjiti veličinu slova ili razmak između redaka u tekstualnom upozorenju i informacijama o prestanku pušenja kada je to neizbježno, pod uvjetom da svi elementi kombiniranog zdravstvenog upozorenja ostanu potpuno vidljivi.
+ 
+POSEBNA PRAVILA ZA ODREĐENA JEDINIČNA PAKIRANJA S PREKLOPNIM POKLOPCEM
+III.
+(a) Iznimno od točke I. stavka (b) podstavka 1. ovoga Priloga, sljedeća pravila primjenjuju se kod kombiniranih zdravstvenih upozorenja koja će se stavljati na prednji dio jediničnih pakiranja s preklopnim poklopcem:
+– u slučajevima kada je poklopac manji od površine predviđene za fotografiju iz točke I. stavka (a) ovoga Priloga te kada bi zbog usklađenosti s tom odredbom došlo do razdjeljivanja fotografije prilikom otvaranja:
+1. tekstualno upozorenje nalazi se na vrhu kombiniranog zdravstvenog upozorenja, s informacijama o prestanku pušenja i fotografijom ispod njega, kao što je prikazano u točki IV. podtočki 4. ovoga Priloga i
+2. fotografija zauzima najmanje 50% površine kombiniranog zdravstvenog upozorenja, tekstualno upozorenje najmanje 30%, a informacije o prestanku pušenja najmanje 10% i najviše 12% površine kombiniranog zdravstvenog upozorenja unutar vanjskog crnog ruba
+– u slučajevima kada je poklopac veći od površine predviđene za fotografiju iz točke I. stavka (a) ovoga Priloga te kada bi zbog usklađenosti s tom odredbom došlo do razdjeljivanja tekstualnog upozorenja ili informacija o prestanku pušenja prilikom otvaranja:
+1. fotografija se nalazi na vrhu kombiniranog zdravstvenog upozorenja, s tekstualnim upozorenjem i informacijama o prestanku pušenja ispod nje, kao što je prikazano u točki IV. podtočki 1. ovoga Priloga i
+2. fotografija zauzima najmanje 50% površine kombiniranog zdravstvenog upozorenja, tekstualno upozorenje najmanje 30%, a informacije o prestanku pušenja najmanje 10% i najviše 12% površine kombiniranog zdravstvenog upozorenja unutar vanjskog crnog ruba.
+Proizvođači su obvezni osigurati da se nijedan od tih triju elemenata kombiniranog zdravstvenog upozorenja ne može razdijeliti otvaranjem jediničnog pakiranja.
+(b) Iznimno od točke II. stavka (e) podstavaka 5. i 6. ovoga Priloga, proizvođači ili uvoznici cigareta, duhana za samostalno motanje i duhana za vodene lule u jediničnim pakiranjima s preklopnim poklopcem, mogu smanjiti veličinu slova ili razmak između redaka u tekstualnom upozorenju i informacijama o prestanku pušenja na prednjem dijelu pakiranja u slučajevima kada je kombinirano zdravstveno upozorenje ispisano na više od jednog jezika, pod uvjetom da svi elementi kombiniranog zdravstvenog upozorenja ostanu potpuno vidljivi.

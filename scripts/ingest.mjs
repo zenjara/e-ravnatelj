@@ -137,9 +137,16 @@ async function embedBatch(ai, texts) {
       return res.embeddings.map((e) => normalize(e.values));
     } catch (e) {
       const msg = String(e?.message ?? e);
-      if (!/429|RESOURCE_EXHAUSTED|quota/i.test(msg)) throw e;
-      console.log("  rate limited, waiting 60s…");
-      await sleep(60000);
+      if (/429|RESOURCE_EXHAUSTED|quota/i.test(msg)) {
+        console.log("  rate limited, waiting 60s…");
+        await sleep(60000);
+      } else if (/50[03]|UNAVAILABLE|INTERNAL|fetch failed|ECONNRESET|ETIMEDOUT/i.test(msg)) {
+        // Transient server-side / network hiccup — back off briefly and retry.
+        console.log("  transient error (503/500/network), retrying in 8s…");
+        await sleep(8000);
+      } else {
+        throw e;
+      }
     }
   }
 }

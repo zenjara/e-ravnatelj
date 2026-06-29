@@ -1,0 +1,457 @@
+﻿I. OPĆE ODREDBE
+ 
+Članak 1.
+(1) Obrazovanje odraslih dio je obrazovnog sustava Republike Hrvatske.
+(2) Obrazovanje odraslih odvija se kao formalno, neformalno i informalno učenje.
+(3) Formalno obrazovanje odraslih u Republici Hrvatskoj obuhvaća programe obrazovanja koji se provode sukladno ovom Zakonu te drugim propisima iz nadležnosti drugih tijela državne uprave koji reguliraju obvezno obrazovanje za pristup tržištu rada za određenu profesiju.
+(4) Neformalno obrazovanje odraslih za stjecanje kompetencija potrebnih za rad u smislu ovoga Zakona obuhvaća provedbu neformalnih programa obrazovanja koji se financiraju putem vaučera iz europskih strukturnih i investicijskih fondova te mehanizama za oporavak i otpornost usklađenih sa standardom zanimanja ili skupom kompetencija i standardom kvalifikacije ili skupom ishoda učenja iz Registra Hrvatskog kvalifikacijskog okvira (u daljnjem tekstu: Registar HKO-a).
+(5) Neformalno obrazovanje odraslih za stjecanje kompetencija potrebnih za rad u smislu ovoga Zakona obuhvaća i provedbu neformalnih programa obrazovanja na koje se primjenjuju odredbe zakona kojim se uređuje tržište rada.
+(6) Ovim Zakonom uređuje se formalno obrazovanje odraslih koje se provodi u ustanovama koje imaju registriranu djelatnost obrazovanja odraslih sukladno odredbama zakona kojim se uređuje osnivanje i ustrojstvo ustanova.
+(7) Obrazovanje odraslih u smislu ovoga Zakona obuhvaća:
+− provedbu formalnih programa za stjecanje i vrednovanje skupova ishoda učenja/kurikuluma za stjecanje kvalifikacija na razinama 1, 2, 3, 4, 4.1 i 4.2. te na razini 5 Hrvatskoga kvalifikacijskog okvira u dijelu koji se odnosi na strukovno specijalističko usavršavanje
+− provedbu formalnih programa za vrednovanje skupova ishoda učenja i dodjele kvalifikacija (u daljnjem tekstu: programi vrednovanja) na razinama 1, 2, 3, 4, 4.1 i 4.2. te na razini 5 Hrvatskoga kvalifikacijskog okvira u dijelu koji se odnosi na strukovno specijalističko usavršavanje koji su stečeni formalnim i neformalnim obrazovanjem te informalnim učenjem.
+(8) Na obrazovanje odraslih primjenjuju se odredbe ovoga Zakona te odredbe zakona kojim se uređuje osnivanje i ustrojstvo ustanova, zakona kojim se uređuje djelatnost odgoja i obrazovanja u osnovnim i srednjim školama, zakona kojim se uređuje djelatnost strukovnog obrazovanja, zakona kojim se uređuje tržište rada i drugih propisa ako ovim Zakonom nije drukčije određeno.
+(9) Neformalno obrazovanje za stjecanje kompetencija potrebnih za rad uz ustanove iz stavka 6. ovoga članka mogu provoditi i pravne i fizičke osobe sukladno zakonu kojim se uređuje tržište rada.
+(10) Formalno obrazovanje odraslih koje se provodi sukladno propisima iz nadležnosti drugih tijela državne uprave kojima se regulira obvezno obrazovanje za pristup tržištu rada za određenu profesiju može se provoditi u ustanovama iz stavka 6. ovoga članka, kao i kod drugih pravnih i fizičkih osoba sukladno posebnim propisima.
+ 
+Članak 2.
+(1) U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+1) andragoški voditelj obavlja stručno-razvojne poslove u skladu sa zahtjevima struke i pozitivnim propisima te obavlja druge poslove na unaprjeđivanju i razvoju obrazovne djelatnosti ustanove, a prema potrebi i neposredan obrazovni rad s polaznicima i pristupnicima
+2) cjelovita kvalifikacija je kvalifikacija koja samostalno udovoljava uvjetima za pristupanje tržištu rada i/ili nastavku obrazovanja
+3) cjeloživotno učenje su svi oblici učenja tijekom života čija je svrha stjecanje i unaprjeđivanje kompetencija za osobne, društvene i profesionalne potrebe te potrebe tržišta rada
+4) djelomična kvalifikacija je kvalifikacija koja samostalno ne udovoljava uvjetima za pristupanje tržištu rada i/ili nastavku obrazovanja, nego isključivo uz odgovarajuću cjelovitu kvalifikaciju odnosno uz jednu ili više drugih odgovarajućih djelomičnih kvalifikacija, u skladu sa standardom cjelovite kvalifikacije
+5) Hrvatski kvalifikacijski okvir (u daljnjem tekstu: HKO) instrument je uređenja sustava kvalifikacija u Republici Hrvatskoj koji osigurava jasnoću, pristupanje stjecanju, utemeljeno stjecanje, prohodnost i kvalitetu kvalifikacija, kao i povezivanje razina kvalifikacija u Republici Hrvatskoj s razinama kvalifikacija EQF-a (Europski kvalifikacijski okvir za cjeloživotno učenje) i QF-EHEA (Kvalifikacijski okvir Europskog prostora visokog obrazovanja) te posredno s razinama kvalifikacija kvalifikacijskih okvira u drugim zemljama
+6) informalno učenje je neorganizirana aktivnost stjecanja kompetencija iz svakodnevnih iskustava te drugih utjecaja i izvora iz okoline za osobne, društvene i profesionalne potrebe
+7) ishodi učenja su kompetencije koje je osoba stekla učenjem i dokazala nakon postupka učenja
+8) ključne kompetencije za cjeloživotno učenje su kompetencije odgovarajuće razine koje su nužne pojedincu za uključenost u život zajednice. Osnova su za stjecanje kompetencija tijekom života za sve osobne, društvene i profesionalne potrebe, a obuhvaćaju komunikaciju na materinskom jeziku, komunikaciju na stranim jezicima, matematičku kompetenciju i osnovne kompetencije u prirodoslovlju i tehnologiji, digitalnu kompetenciju, kompetenciju učiti kako učiti, socijalnu i građansku kompetenciju, inicijativnost i poduzetnost te kulturnu svijest i izražavanje
+9) kompetencije su znanja i vještine te pripadajuća samostalnost i odgovornost
+10) kvalifikacija je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete. Dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba
+11) Nacionalni informacijski sustav obrazovanja odraslih (u daljnjem tekstu: NISOO) je informacijski sustav koji objedinjuje evidencije o ustanovama, programima obrazovanja i programima vrednovanja, polaznicima, pristupnicima, andragoškim voditeljima i nastavnicima u obrazovanju odraslih te evidencije o drugim podacima važnim za praćenje stanja i razvoj sustava obrazovanja odraslih, a koji vodi ministarstvo nadležno za obrazovanje (u daljnjem tekstu: Ministarstvo)
+12) nastavnik u obrazovanju odraslih je osoba koja provodi program u obrazovanju odraslih
+13) neformalno obrazovanje odraslih za stjecanje kompetencija potrebnih za rad označava aktivnosti obrazovanja zaposlenih i nezaposlenih odraslih koje se odnose na organizirane neformalne oblike učenja usmjerene na stjecanje kompetencija potrebnih za rad, a koji se provode i financiraju u okviru djelokruga ministarstva nadležnog za rad
+14) neformalno učenje je organizirana aktivnost učenja čija je svrha stjecanje i unaprjeđivanje kompetencija za osobne, društvene i profesionalne potrebe, a ne dokazuje se javnom ispravom
+15) obrazovanje odraslih označava djelatnost formalnog obrazovanja odraslih koju izvodi ovlaštena pravna osoba prema odobrenim programima, radi stjecanja i unaprjeđivanja kompetencija za osobne, društvene i profesionalne potrebe te potrebe tržišta rada, a koje se dokazuju javnom ispravom koju izdaje pravna osoba ovlaštena za provedbu formalnog obrazovanja odraslih
+16) obrazovni sektor je skupina kvalifikacija jednog obrazovnog područja i zanimanja koja koriste ishode učenja tih kvalifikacija na radnom mjestu, a na temelju kojih se grupiraju obrazovni programi i definiraju sektorska vijeća
+17) ocjena kvalitete je opisni prikaz dostignute razine kvalitete rada ustanove ostvaren u procesu vrednovanja kvalitete koju rješenjem donosi Agencija za strukovno obrazovanje i obrazovanje odraslih (u daljnjem tekstu: Agencija)
+18) osiguravanja kvalitete u obrazovanju odraslih je niz međusobno povezanih procesa koji obuhvaćaju kontinuirano samovrednovanje ustanove, kontinuirano vanjsko vrednovanje skupova ishoda učenja, vanjsko vrednovanje ustanova, programa obrazovanja, programa vrednovanja i obrazovnih procesa
+19) osposobljavanje je obrazovanje za stjecanje skupova ishoda učenja (mikrokvalifikacije) i/ili kvalifikacije koje se stječu na razinama 2, 3 i 4 HKO-a, a pristupa im se najmanje s razine 1 HKO-a
+20) polaznik je osoba koja je uključena u program obrazovanja odraslih
+21) pristupnik je osoba koja pristupa procesu vrednovanja skupova ishoda učenja
+22) program obrazovanja odraslih / kurikulum (u daljnjem tekstu: program obrazovanja) je formalni program obrazovanja odraslih za stjecanje kvalifikacije
+23) program osnovnog obrazovanja odraslih je formalni program kojim odrasle osobe stječu obvezno osnovnoškolsko obrazovanje
+24) program vrednovanja skupova ishoda učenja (u daljnjem tekstu: program vrednovanja) je formalni program u obrazovanju odraslih prema kojem se vrednuju skupovi ishoda učenja neformalno i informalno stečenih znanja i vještina (u daljnjem tekstu: vrednovanje prethodnog učenja), a čiji se završetak potvrđuje javnom ispravom
+25) registar HKO-a je sustav vođenja podataka o skupovima ishoda učenja, standardima zanimanja, standardima kvalifikacija, programima za stjecanje i vrednovanje skupova ishoda učenja, programima za vrednovanje skupova ishoda učenja, programima za stjecanje kvalifikacija te drugih važnih podataka radi njihova povezivanja i usklađivanja
+26) sektor je skupina kvalifikacija jednog obrazovnog područja i zanimanja koja koriste ishode učenja tih kvalifikacija na radnim mjestima
+27) skup ishoda učenja najmanji je cjelovit skup povezanih ishoda učenja određene razine, obujma i profila
+28) strukovno specijalističko usavršavanje je obrazovanje za stjecanje skupova ishoda učenja (mikrokvalifikacije) i/ili kvalifikacije na razini 5 HKO-a u dijelu koji se odnosi na strukovno specijalističko usavršavanje, a pristupa im se najmanje s razine 4 HKO-a
+29) stručno mišljenje je dokument kojim Agencija utvrđuje ispunjava li program obrazovanja i/ili program vrednovanja uvjete zadane odgovarajućim standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a
+30) standard kvalifikacije je sadržaj i struktura određene kvalifikacije. Uključuje sve podatke koji su potrebni za određivanje razine, obujma i profila kvalifikacije te podatke koji su potrebni za osiguravanje i unapređenje kvalitete standarda kvalifikacije
+31) standard zanimanja je popis svih poslova koje pojedinac obavlja u određenom zanimanju i popis kompetencija potrebnih za njihovo uspješno obavljanje
+32) usavršavanje u obrazovanju odraslih je obrazovanje za stjecanje skupova ishoda učenja (mikrokvalifikacije) i/ili kvalifikacija koje se stječu na razini 4 HKO-a, a pristupa im se najmanje s iste razine
+33) ustanova za obrazovanje odraslih je ustanova koja provodi programe obrazovanja odraslih
+34) vanjsko vrednovanje skupova ishoda učenja je postupak neovisnog vrednovanja koji provode neovisni ispitivači ili grupe ispitivača kojima se provjerava usvojenost skupova ishoda učenja polaznika i/ili pristupnika. Vanjsko vrednovanje skupova ishoda učenja instrument je osiguravanja kvalitete u sustavu obrazovanja odraslih
+35) vaučer je financijski instrument dodjele javnih sredstava polaznicima obrazovanja odraslih koji se dodjeljuje na temelju ugovora o obrazovanju odraslih
+36) vrednovanje skupova ishoda učenja je ocjenjivanje stečenih kompetencija, uključujući izdavanje potvrde ovlaštene pravne ili fizičke osobe, u skladu s unaprijed utvrđenim i prihvaćenim kriterijima i standardima
+37) vrednovanje kvalitete je proces procjene kvalitete rada ustanova koja se temelji na vanjskom vrednovanju rada ustanove i nalazima stručnih, upravnih te inspekcijskih nadzora nad radom ustanove.
+(2) Izrazi koji se koriste u ovom Zakonu, a koji imaju rodno značenje, obuhvaćaju na jednak način muški i ženski rod.
+ 
+II. CILJEVI I NAČELA OBRAZOVANJA ODRASLIH I FORMALNOG OBRAZOVANJA ODRASLIH ZA STJECANJE KOMPETENCIJA POTREBNIH ZA RAD
+ 
+Članak 3.
+(1) Ciljevi obrazovanja odraslih su:
+− osigurati pristup kvalitetnim programima obrazovanja koji omogućavaju stjecanje znanja i vještina važnih za osobni rast pojedinca te pristup tržištu rada
+− osigurati pravo na osnovno obrazovanje odraslih osoba
+− osigurati kvalitetu primjenom HKO-a
+− omogućiti stjecanje javne isprave za pristup tržištu rada ili nastavak obrazovanja
+− omogućiti vrednovanje prethodnog učenja
+− povećati uključenost osoba u obrazovanju odraslih.
+(2) Obrazovanje odraslih temelji se na načelima:
+− cjeloživotnog učenja
+− prava na obrazovanje
+− slobodnog izbora vrste i načina obrazovanja
+− uključivosti i dostupnosti.
+(3) Obrazovanje odraslih usmjereno je:
+− stjecanju i razvoju ključnih kompetencija u sklopu cjeloživotnog učenja pojedinca
+− usvajanju znanja i vještina potrebnih za stjecanje skupova ishoda učenja ili kvalifikacije.
+(4) Vanjsko vrednovanje obrazovanja odraslih temelji se na načelima:
+− neovisnosti vanjskog vrednovanja
+− pouzdanosti i vjerodostojnosti postupaka vrednovanja
+− vjerodostojnosti stečene kvalifikacije
+− kompetentnosti provoditelja vanjskog vrednovanja.
+(5) Cilj formalnog obrazovanja odraslih za stjecanje kompetencija potrebnih za rad je uskladiti ponudu i potražnju na tržištu rada i pridonijeti razvoju gospodarstva.
+ 
+III. USTANOVE ZA OBRAZOVANJE ODRASLIH
+ 
+Članak 4.
+(1) Obrazovanje odraslih provode ustanove koje imaju registriranu djelatnost obrazovanja odraslih i ispunjavaju uvjete propisane ovim Zakonom.
+(2) Obrazovanje odraslih može obavljati ustanova osnovana isključivo radi obavljanja obrazovanja odraslih, školska ustanova, visoko učilište, kao i ustanova koja uz obrazovanje odraslih obavlja i druge djelatnosti (u daljnjem tekstu: ustanova).
+(3) Ustanova ima upravno vijeće, a sastav, način imenovanja odnosno izbor članova i trajanje mandata članova upravnog vijeća te način donošenja odluka utvrđuju se aktom o osnivanju i statutom ustanove.
+(4) Radi učinkovitog održavanja procesa obrazovanja odraslih ustanova može imati stručna tijela čiji se sastav, osnivanje i poslovi utvrđuju statutom ustanove sukladno aktu o osnivanju ustanove.
+(5) Državljani Europske unije odnosno Europskoga gospodarskog prostora imaju pravo registracije poslovnog nastana, kao i slobodu pružanja usluga na privremenoj i povremenoj osnovi, bez obvezne registracije poslovnog nastana, ako u tom slučaju, uz pisanu izjavu elektroničkim putem, dostave potvrdu o registraciji u drugoj državi Europske unije odnosno Europskoga gospodarskog prostora.
+ 
+Članak 5.
+(1) Djelatnost formalnog obrazovanja odraslih obavlja se kao javna služba.
+(2) Ustanove na temelju javne ovlasti izdaju javne isprave.
+ 
+Članak 6.
+(1) Ustanova ima ravnatelja.
+(2) Za ravnatelja ustanove može biti imenovana osoba koja je završila diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij.
+(3) U ustanovi koja provodi najviše deset programa obrazovanja, od kojih najviše dva mogu biti za stjecanje cjelovite kvalifikacije na razinama 4.1 i 4.2 HKO-a, ravnatelj može obavljati i poslove andragoškog voditelja ako zadovoljava uvjete iz članka 7. stavka 5. ovoga Zakona.
+ 
+Članak 7.
+(1) Ustanova ima andragoškog voditelja zaposlenog na puno radno vrijeme, osim u slučaju iz članka 6. stavka 3. ovoga Zakona.
+(2) Andragoški voditelj može izvoditi nastavu u ustanovi koja provodi najviše deset programa obrazovanja, od kojih najviše dva mogu biti za stjecanje cjelovite kvalifikacije na razinama 4.1 i 4.2 HKO-a i ako ne obavlja poslove ravnatelja.
+(3) Ustanova koja izvodi programe obrazovanja izvan sjedišta za svakih pet lokacija izvođenja nastave izvan sjedišta ima andragoškog voditelja zaposlenog na puno radno vrijeme.
+(4) Andragoški voditelj odgovoran je za stručni rad ustanove.
+(5) Poslove andragoškog voditelja može obavljati osoba koja ispunjava sljedeće uvjete:
+− ima završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij
+− ima najmanje četiri godine radnog iskustva na odgojno-obrazovnim poslovima u ustanovama u sustavu odgoja i obrazovanja.
+(6) Na poslovima andragoškog voditelja može se zaposliti i osoba koja ima cjelovitu kvalifikaciju završenog studijskog programa s područja andragogije.
+(7) Andragoški voditelj brine se o poslovima vezanim uz:
+− organizaciju cjelokupnog procesa obrazovanja i vrednovanja
+− procjenu i usmjeravanje polaznika u odabiru programa obrazovanja i programa vrednovanja
+− upis polaznika u program obrazovanja i pristupnika u program vrednovanja
+− način izvođenja nastave, kvalitetu poučavanja i vrednovanja
+− ostvarivanje prava i obveza polaznika, kao i praćenje rezultata vrednovanja polaznika programa obrazovanja odraslih
+− izradu programa obrazovanja ili programa vrednovanja koje predlaže ustanova
+− provođenje programa vrednovanja sukladno načelima iz članka 3. stavka 2. ovoga Zakona
+− poslove vezane uz profesionalno usmjeravanje i razvoj karijere polaznika koji uključuju savjetodavnu pomoć i podršku u prolaženju programa obrazovanja i programa vrednovanja
+− vođenje propisane andragoške dokumentacije, kao i propisanih evidencija
+− izdavanje javnih isprava te
+− druge poslove važne za obrazovanje odraslih u ustanovi.
+ 
+Članak 8.
+(1) Ustanova može početi s izvođenjem programa obrazovanja ili programa vrednovanja nakon izvršnosti rješenja kojim se odobrava početak rada odnosno provedba programa.
+(2) Za izvođenje programa obrazovanja ili programa vrednovanja ustanova mora ispunjavati sljedeće uvjete:
+− uvjete propisane standardima i normativima za izvođenje programa obrazovanja / programa vrednovanja
+− materijalne i kadrovske uvjete za izvođenje programa obrazovanja ili programa vrednovanja koji se utvrđuju programom obrazovanja ili programom vrednovanja koji donosi ustanova
+− tehničke, zdravstvene i ekološke uvjete.
+(3) Ustanova je obvezna u sjedištu osigurati uvjete za izvođenje najmanje jednog programa obrazovanja.
+(4) Prije podnošenja zahtjeva Ministarstvu radi dobivanja rješenja iz stavka 1. ovoga članka ustanova je obvezna pribaviti stručno mišljenje Agencije o usklađenosti programa obrazovanja ili programa vrednovanja s odgovarajućim standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a.
+(5) Agencija je obvezna donijeti stručno mišljenje iz stavka 4. ovoga članka, na temelju stručne i andragoške procjene, u roku od 45 dana od dana zaprimanja zahtjeva ustanove.
+(6) Ustanova podnosi Ministarstvu zahtjev za početak rada i provedbu programa obrazovanja ili programa vrednovanja, uz koji obvezno prilaže:
+− program obrazovanja ili program vrednovanja koji predlaže ustanova
+− pozitivno stručno mišljenje Agencije
+− rješenje o sukladnosti osnivačkog akta sa zakonom
+− izvadak iz sudskoga registra
+− podatke o prostoru i opremi
+− dokaz o ispunjenosti materijalnih i kadrovskih uvjeta za provedbu programa obrazovanja ili programa vrednovanja
+− rješenje o ispunjenosti minimalnih tehničkih, zdravstvenih i ekoloških uvjeta koje na zahtjev ustanove donosi upravno tijelo županije u čijem su djelokrugu poslovi obrazovanja.
+(7) Dostupnu dokumentaciju iz stavka 6. ovoga članka Ministarstvo će pribaviti po službenoj dužnosti, sukladno zakonu kojim se regulira sustav državne uprave i zakonu kojim se uređuje opći upravni postupak.
+(8) Ako se tijekom obavljanja djelatnosti promijeni sjedište ustanove odnosno prostor u kojemu ustanova obavlja djelatnost ili dio djelatnosti, ili ako se djelatnost proširuje izvođenjem novih programa obrazovanja ili programa vrednovanja, ustanova je dužna podnijeti zahtjev Ministarstvu za izdavanje rješenja za nastavak rada u promijenjenim uvjetima.
+(9) Uz zahtjev za nastavak rada u promijenjenim uvjetima iz stavka 8. ovoga članka ustanova je dužna dostaviti samo one dokaze o ispunjenosti materijalnih i kadrovskih uvjeta za provedbu programa obrazovanja ili programa vrednovanja koji se odnose na rad u promijenjenim uvjetima.
+(10) Ispunjenost uvjeta za početak rada i izvođenje programa obrazovanja ili programa vrednovanja ili nastavak rada u promijenjenim uvjetima na temelju dokumentacije očevidom utvrđuje povjerenstvo koje imenuje ministar nadležan za obrazovanje (u daljnjem tekstu: ministar).
+(11) O zahtjevima iz stavaka 6. i 8. ovoga članka Ministarstvo odlučuje rješenjem protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor.
+(12) Ustanova može započeti s radom i izvođenjem programa obrazovanja odnosno nastaviti s radom u promijenjenim uvjetima nakon izvršnosti rješenja iz stavka 11. ovoga članka.
+(13) Standarde i normative za izvođenje programa obrazovanja odraslih propisuje ministar pravilnikom.
+2. Pravilnik o standardima i normativima za izvođenje programa obrazovanja odraslih
+ 
+Članak 9.
+(1) Ustanova obavlja djelatnost obrazovanja odraslih na temelju okvirnog godišnjeg plana i programa rada ustanove koji donosi tijelo određeno statutom ustanove na prijedlog ravnatelja do 1. veljače za tekuću kalendarsku godinu.
+(2) Okvirnim godišnjim planom i programom rada ustanove utvrđuju se poslovi, aktivnosti, mjesto, vrijeme, način i izvršitelji poslova, a sadrži:
+− popis planiranih poslova i aktivnosti
+− podatke o organizaciji rada
+− plan rada andragoškog voditelja.
+(3) Okvirni godišnji plan i program rada ustanove ustanova je obvezna objaviti u NISOO-u.
+(4) O programima obrazovanja ili programima vrednovanja koje izvodi, ustanova smije javno iznositi samo vjerodostojne podatke.
+ 
+IV. PROGRAMI U SUSTAVU OBRAZOVANJA ODRASLIH
+ 
+Članak 10.
+U sustavu obrazovanja odraslih provode se programi obrazovanja i programi vrednovanja.
+ 
+Članak 11.
+(1) Program osnovnog obrazovanja odraslih donosi ministar odlukom.
+(2) Ministar može odlukom donijeti i druge programe obrazovanja od posebne važnosti za Republiku Hrvatsku usmjerene na potrebe društva i gospodarstva.
+(3) Programi obrazovanja za stjecanje cjelovite kvalifikacije koji se provode i u redovitom obrazovanju provode se na temelju programa propisanih za redovito obrazovanje i uz odgovarajuću primjenu propisa kojima se regulira djelatnost odgoja i obrazovanja, obrazovanja odraslih i visokog obrazovanja.
+(4) Programe obrazovanja na razinama 2, 3, 4 te na razini 5 HKO-a u dijelu koji se odnosi na strukovno specijalističko usavršavanje donosi ustanova, uz prethodno pozitivno stručno mišljenje Agencije iz članka 8. stavka 4. ovoga Zakona, ako posebnim propisom nije drukčije određeno.
+(5) Programi obrazovanja iz stavaka 1., 2., 3. i 4. ovoga članka mogu se izvoditi redovitom nastavom, konzultativno-instruktivnom nastavom i dopisno-konzultativnom nastavom.
+(6) Nastava iz stavka 5. ovoga članka može se izvoditi i u obliku nastave na daljinu, uz prethodno pozitivno stručno mišljenje Agencije.
+ 
+Članak 12.
+(1) Programi obrazovanja obuhvaćaju programe na razinama 1, 2, 3, 4, 4.1 i 4.2 te na razini 5 HKO-a u dijelu koji se odnosi na strukovno specijalističko usavršavanje, i to:
+a) program obrazovanja za stjecanje i vrednovanje skupova ishoda učenja, uključujući skupove ishoda učenja temeljnih vještina
+b) program obrazovanja za stjecanje djelomične kvalifikacije i
+c) program obrazovanja za stjecanje cjelovite kvalifikacije.
+(2) Programi obrazovanja za stjecanje djelomične kvalifikacije obuhvaćaju:
+a) osposobljavanje − djelomične kvalifikacije koje se stječu na razini 2, 3 i 4 HKO-a, a pristupa im se najmanje s razine 1
+b) usavršavanje − djelomične kvalifikacije koje se stječu na razini 4 HKO-a, a pristupa im se najmanje s iste razine
+c) strukovno specijalističko usavršavanje djelomične kvalifikacije koje se stječu na razini 5 HKO-a u dijelu koji se odnosi na strukovno specijalističko usavršavanje, a pristupa im se najmanje s razine 4.1.
+(3) Iznimno, programi iz stavka 2. ovoga članka mogu biti i programi za stjecanje cjelovitih kvalifikacija.
+(4) Program obrazovanja mora omogućiti višesmjernu vertikalnu i horizontalnu prohodnost na svim razinama te se kontinuirano usklađivati s novim tehnikama i tehnologijama rada, andragoškim spoznajama ili promjenama propisa.
+(5) Program obrazovanja kojim se stječe kvalifikacija mora biti usklađen sa standardom kvalifikacija iz Registra HKO-a.
+(6) Program obrazovanja kojim se stječe skup ishoda učenja mora biti usklađen sa skupom ishoda učenja iz Registra HKO-a.
+(7) Ustanova je obvezna u roku od šest mjeseci od dana upisa ili izmjene skupova ishoda učenja ili standarda kvalifikacije u Registru HKO-a uskladiti programe obrazovanja sa standardom kvalifikacija ili skupova ishoda učenja u Registru HKO-a.
+(8) Iznimno od stavka 7. ovoga članka, programe obrazovanja iz članka 11. stavka 4. ovoga Zakona ustanove su dužne uskladiti sa standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a u roku od tri mjeseca od njihova donošenja.
+(9) Program obrazovanja iz stavaka 7. i 8. ovoga članka ustanova je obvezna unijeti u NISOO, a Agencija nakon izvršene stručne i andragoške procjene usklađenosti programa sa standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a u NISOO-u potvrđuje valjanost unesenih izmjena.
+(10) Metodologiju izrade programa obrazovanja donosi Agencija te je objavljuje na svojim mrežnim stranicama.
+ 
+Članak 13.
+(1) Program obrazovanja izvodi se na hrvatskom jeziku i latiničnom pismu, a može se izvoditi i na nekom od stranih jezika, uz prethodnu suglasnost Ministarstva.
+(2) Za ishođenje suglasnosti iz stavka 1. ovoga članka ustanova je obvezna dostaviti Ministarstvu dokaz o znanju stranog jezika najmanje na razini B2 Zajedničkog europskog referentnog okvira za jezike za osobe koje sudjeluju u izvođenju programa ili dokaz o znanju jezika za prevoditelja koji će sudjelovati u programu obrazovanja.
+(3) Iznimno od stavka 2. ovoga članka, za izvođenje programa obrazovanja na stranom jeziku kojim se stječe cjelovita kvalifikacija na razinama 4.1 i 4.2 HKO-a primjenjuju se propisi kojima se regulira izvođenje nastave na stranom jeziku u redovitom sustavu obrazovanja.
+ 
+Članak 14.
+(1) Programi obrazovanja koji podliježu pravnim aktima Europske unije i međunarodnim propisima moraju biti usklađeni s njihovim odredbama.
+(2) Programi učenja stranih jezika kojima se stječe znanje i vještine potrebne za postizanje stupnjeva A1, A2, B1, B2, C1, C2 provode se sukladno Zajedničkom europskom referentnom okviru za jezike.
+ 
+Članak 15.
+(1) Za izvođenje odobrenog programa osposobljavanja, usavršavanja ili učenja stranog jezika u prostoru druge pravne osobe za njezine radnike, štićenike ili korisnike projekta ustanova podnosi Ministarstvu zahtjev za izdavanje suglasnosti za izvođenje programa u prostoru druge pravne osobe.
+(2) Uz zahtjev iz stavka 1. ovoga članka ustanova prilaže: ugovor sklopljen s pravnom osobom, dokaz da su polaznici radnici, štićenici ili korisnici projekta te pravne osobe i dokaze o ispunjavanju kadrovskih i materijalnih uvjeta za provedbu programa iz stavka 1. ovoga članka.
+(3) Suglasnost iz stavka 1. ovoga članka izdaje se na određeni rok.
+ 
+Članak 16.
+(1) Programi vrednovanja omogućavaju vrednovanje prethodnog učenja u skladu s odgovarajućim standardom skupa ishoda učenja iz Registra HKO-a.
+(2) Sukladno odredbama zakona kojim se uređuje HKO, pristupnici mogu dokazati skupove ishoda učenja koje su prethodno stekli neformalnim ili informalnim načinom, prema odobrenim programima vrednovanja.
+(3) Programe vrednovanja na razinama 2, 3, 4, 4.1 i 4.2 te na razini 5 HKO-a u dijelu koji se odnosi na strukovno specijalističko usavršavanje donosi ustanova, uz prethodno pozitivno stručno mišljenje Agencije iz članka 8. stavka 4. ovoga Zakona, ako posebnim propisom nije drukčije određeno.
+(4) Program vrednovanja iz stavka 1. ovoga članka može provoditi ustanova koja ima rješenje o izvođenju programa obrazovanja koji obuhvaća sve skupove ishoda učenja koje želi vrednovati i koji je ustanova provela s najmanje dvije obrazovne skupine te rješenje Agencije o vrlo visokoj ili visokoj razini kvalitete iz članka 25. stavka 10. ovoga Zakona.
+(5) Ustanova je obvezna u roku od šest mjeseci od dana upisa ili izmjene skupova ishoda učenja ili standarda kvalifikacije u Registru HKO-a uskladiti programe vrednovanja sa standardom kvalifikacija ili skupom ishoda učenja u Registru HKO-a.
+(6) Program vrednovanja iz stavka 4. ovoga članka ustanova je obvezna unijeti u NISOO, a Agencija nakon izvršene stručne i andragoške procjene usklađenosti programa sa standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a u NISOO-u potvrđuje valjanost unesenih izmjena.
+(7) Metodologiju izrade programa vrednovanja donosi Agencija te je objavljuje na mrežnim stranicama Agencije.
+(8) Način prijave i provođenje vrednovanja prethodnog učenja propisuje ministar pravilnikom.
+4. Pravilnik o načinu prijave i provođenju vrednovanja prethodnog učenja
+ 
+V. FORMALNI I NEFORMALNI PROGRAMI OBRAZOVANJA ZA STJECANJE KOMPETENCIJA POTREBNIH ZA RAD FINANCIRANI PUTEM VAUČERA
+ 
+Članak 17.
+(1) Formalni i neformalni programi obrazovanja odraslih za stjecanje kompetencija potrebnih za rad koji se provode u smislu ovoga Zakona i drugih posebnih propisa iz nadležnosti drugih tijela državne uprave kojima se regulira obvezno obrazovanje za pristup tržištu rada za određenu profesiju mogu se financirati putem vaučera.
+(2) Kriteriji za odabir kompetencija potrebnih za rad iz stavka 1. ovoga članka utvrđuju se na temelju ocjene stanja tržišta rada i ispitivanja potreba za kompetencijama.
+(3) Vaučer iz stavka 1. ovoga članka dodjeljuje Hrvatski zavod za zapošljavanje odnosno nadležno tijelo sukladno posebnom propisu kojim se regulira obvezno obrazovanje za pristup tržištu rada za određenu profesiju.
+(4) Kriterij za dodjelu vaučera iz stavka 1. ovoga članka utvrđuje se na temelju provedenih postupaka procjene postojećih kompetencija polaznika te potrebe za razvojem novih kompetencija.
+(5) Formalni i neformalni programi obrazovanja odraslih za stjecanje kompetencija potrebnih za rad koji se financiraju putem vaučera iz europskih strukturnih i investicijskih fondova te mehanizma za oporavak i otpornost moraju se temeljiti na poveznici sa standardom zanimanja ili skupom kompetencija i standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a.
+(6) Programi formalnog obrazovanja odraslih za stjecanje kompetencija potrebnih za rad koji se financiraju putem vaučera iz europskih strukturnih i investicijskih fondova te mehanizma za oporavak i otpornost, a koji su regulirani posebnim propisima iz nadležnosti drugih tijela državne uprave, kao dokaz da se temelje na poveznici sa standardom zanimanja ili skupom kompetencija i standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a, moraju imati suglasnost nadležnog tijela državne uprave.
+(7) Programi formalnog obrazovanja odraslih za stjecanje kompetencija potrebnih za rad, osim onih iz stavka 6. ovoga članka, temelje se na članku 8. ovoga Zakona.
+(8) Programi neformalnog obrazovanja za stjecanje kompetencija potrebnih za rad koji se financiraju putem vaučera iz europskih strukturnih i investicijskih fondova te mehanizma za oporavak i otpornost, kao dokaz da se temelje na poveznici sa standardom zanimanja ili skupom kompetencija i standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a, moraju imati suglasnost ministarstva nadležnog za rad.
+(9) Ministarstvo nadležno za rad izdat će suglasnost iz stavka 8. ovoga članka na temelju mišljenja o relevantnosti pružatelja usluga koje će ishoditi od nadležnog ministarstva za djelatnost u okviru koje se stječu kompetencije potrebne za rad kroz program neformalnog obrazovanja.
+(10) Dodjeljivanje vaučera za financiranje formalnih i neformalnih programa obrazovanja za stjecanje kompetencija potrebnih za rad nije upravna stvar.
+(11) Posebni uvjeti i način korištenja sredstava za dodjelu vaučera za formalne i neformalne programe obrazovanja za stjecanje kompetencija potrebnih za rad utvrđuju se ugovorom.
+(12) Ako je polaznik formalnog ili neformalnog programa obrazovanja za stjecanje kompetencija potrebnih za rad financiranih putem vaučera zaposlena osoba, međusobna prava i obveze radnika i poslodavca uredit će se sukladno općem propisu o radu.
+(13) Kriterije za odabir kompetencija potrebnih za rad, za odabir pružatelja usluga i za dodjelu vaučera polaznicima formalnog ili neformalnog obrazovanja odraslih propisuju pravilnicima čelnici nadležnih tijela državne uprave koja dodjeljuju vaučere.
+1. Pravilnik o kriterijima za odabir kompetencija potrebnih za rad, za odabir pružatelja usluga i za dodjelu vaučera polaznicima formalnog ili neformalnog obrazovanja odraslih
+ 
+VI. NASTAVNICI U OBRAZOVANJU ODRASLIH
+ 
+Članak 18.
+(1) Nastavnici u obrazovanju odraslih (u daljnjem tekstu: nastavnici) zasnivaju radni odnos u ustanovi sukladno odredbama zakona kojim su uređeni radni odnosi ili ostvaruju suradnju sukladno odredbama zakona kojima su uređeni obvezni odnosi.
+(2) Iznimno od stavka 1. ovoga članka, u provedbu programa obrazovanja iz članka 12. stavka 2. ovoga Zakona mogu biti uključene osobe sukladno odredbama zakona kojim su uređena trgovačka društva.
+(3) Ustanova je obvezna zaposliti na puno radno vrijeme najmanje jednog nastavnika na svaka dva obrazovna sektora ako provodi programe obrazovanja ili programe vrednovanja za stjecanje cjelovite kvalifikacije na razinama 4.1 i 4.2 HKO-a.
+(4) Ustanova je obvezna zaposliti na puno radno vrijeme najmanje jednog nastavnika na svaka tri obrazovna sektora ako provodi programe obrazovanja ili programe vrednovanja za stjecanje skupova ishoda učenja ili kvalifikacije.
+(5) Iznimno od stavka 4. ovoga članka, ako je broj polaznika na godišnjoj razini veći od 500, ustanova je obvezna zaposliti na puno radno vrijeme najmanje jednog nastavnika na svaka dva obrazovna sektora.
+(6) Nastavnici iz stavka 1. ovoga članka koji sudjeluju u provedbi programa obrazovanja ili programa vrednovanja moraju ispunjavati uvjete zadane programom obrazovanja ili programom vrednovanja.
+ 
+Članak 19.
+(1) Poslove u ustanovi ne može obavljati osoba koja je pravomoćno osuđena za neko od kaznenih djela protiv života i tijela, protiv slobode i prava čovjeka i građanina, protiv Republike Hrvatske, protiv vrijednosti zaštićenih međunarodnim pravom, protiv spolne slobode i spolnog ćudoređa, protiv braka, obitelji i mladeži, protiv imovine, protiv sigurnosti pravnog prometa i poslovanja, protiv pravosuđa, protiv vjerodostojnosti isprava, protiv javnog reda i protiv službene dužnosti, a koje je propisano Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98. − ispravak, 50/00. − Odluka Ustavnog suda Republike Hrvatske, 129/00., 51/01., 111/03., 190/03. − Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05. − ispravak, 71/06., 110/07., 152/08. i 57/11.).
+(2) Poslove u ustanovi ne može obavljati osoba koja je pravomoćno osuđena za neko od kaznenih djela protiv života i tijela, protiv Republike Hrvatske, protiv pravosuđa, protiv javnog reda, protiv imovine, protiv službene dužnosti, protiv čovječnosti i ljudskog dostojanstva, protiv osobne slobode, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv braka, obitelji i djece, protiv zdravlja ljudi, protiv opće sigurnosti, protiv krivotvorenja, a koje je propisano Kaznenim zakonom (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. − ispravak, 101/17., 118/18., 126/19. i 84/21.).
+(3) Poslove u ustanovi ne može obavljati ni osoba protiv koje se vodi kazneni postupak za neko od kaznenih djela navedenih u stavcima 1. i 2. ovoga članka.
+(4) Ako osoba koja obavlja poslove u ustanovi bude pravomoćno osuđena za neko od kaznenih djela iz stavaka 1. i 2. ovoga članka, ustanova kao poslodavac otkazat će ugovor bez obveze pridržavanja propisanog ili ugovorenog otkaznog roka izvanrednim otkazom ugovora o radu, u roku od 15 dana od dana saznanja za pravomoćnu osudu, a nakon isteka tog roka redovitim otkazom ugovora o radu uvjetovanim skrivljenim ponašanjem radnika te će u tom slučaju poslodavac istodobno uz otkazivanje ugovora od radnika zahtijevati da odmah prestane raditi tijekom otkaznog roka.
+(5) Ako ustanova kao poslodavac sazna da je protiv osobe koja obavlja poslove u ustanovi pokrenut i vodi se kazneni postupak za neko od kaznenih djela iz stavaka 1. i 2. ovoga članka, udaljit će osobu od obavljanja poslova do obustave kaznenog postupka odnosno najduže do pravomoćnosti sudske presude, uz pravo na naknadu plaće u visini dvije trećine prosječne mjesečne plaće koju je osoba ostvarila u tri mjeseca prije udaljenja od obavljanja poslova.
+(6) Ako je pravomoćnim rješenjem obustavljen kazneni postupak pokrenut protiv radnika ili je pravomoćnom presudom radnik oslobođen od odgovornosti, radniku će se vratiti obustavljeni dio plaće od prvog dana udaljenja.
+ 
+VII. STRUČNO USAVRŠAVANJE I OSPOSOBLJAVANJE
+ 
+Članak 20.
+(1) Nastavnici, andragoški voditelji i ravnatelji imaju pravo i obvezu trajno se stručno usavršavati i osposobljavati u sektorskom području i u području andragoških kompetencija, o čemu se u ustanovi vodi evidencija.
+(2) Pod trajnim stručnim usavršavanjem i osposobljavanjem iz stavka 1. ovoga članka podrazumijeva se pojedinačno i organizirano usavršavanje u području struke, andragogije, pedagogije, didaktike, obrazovne psihologije, edukacijsko-rehabilitacijskih znanosti, metodike, informacijsko-komunikacijskih tehnologija, savjetodavnog rada, upravljanja, obrazovnih politika i drugih područja relevantnih za učinkovito i visokokvalitetno obavljanje djelatnosti u ustanovi za obrazovanje odraslih.
+(3) Stručno usavršavanje i osposobljavanje iz stavaka 1. i 2. ovoga članka provodi Agencija, kao i druge pravne osobe.
+(4) Programe za stručno usavršavanje i osposobljavanje može donijeti Ministarstvo, Agencija i druge pravne osobe koje za navedeni program mogu zatražiti suglasnost Agencije.
+(5) Program stručnog usavršavanja i osposobljavanja treba sadržavati predviđene ishode učenja na razini programa, metode učenja, poučavanja i vrednovanja, organizaciju, oblik certificiranja, obujam odnosno prosječno ukupno utrošeno vrijeme iskazano u ECTS/CSVET bodovima.
+ 
+VIII. POLAZNICI I PRISTUPNICI OBRAZOVANJA ODRASLIH
+ 
+Članak 21.
+(1) Status polaznika stječe se upisom u program obrazovanja.
+(2) Status pristupnika stječe se prijavom za program vrednovanja.
+(3) Polaznik ili pristupnik može biti osoba s navršenih najmanje 14 godina života koja ispunjava ostale uvjete propisane programom.
+(4) Status polaznika prestaje završetkom programa obrazovanja koji je polaznik pohađao, ispisom iz programa obrazovanja ili na drugi način predviđen ugovorom o obrazovanju kojim polaznik i ustanova uređuju međusobna prava i obveze.
+(5) Status pristupnika prestaje završetkom postupka vrednovanja prethodnog učenja na koji se pristupnik prijavio.
+(6) Polaznik ima obvezu pohađanja nastave sukladno programu obrazovanja koji je upisao.
+(7) Prilikom upisa u program obrazovanja ili program vrednovanja ustanova je dužna s polaznikom ili pristupnikom sklopiti ugovor kojim se utvrđuju prava i obveze ustanove te prava i obveze polaznika ili pristupnika.
+(8) Prava i obveze zaposlenika i poslodavca za vrijeme sudjelovanja zaposlenika u obrazovanju odraslih u koje ga je uputio poslodavac reguliraju se sukladno propisu kojim su uređeni radni odnosi.
+ 
+Članak 22.
+(1) Ustanova je obvezna voditi brigu o pravima polaznika i pristupnika, postupati etično i na dobrobit polaznika i pristupnika.
+(2) Provedba programa obrazovanja prilagođena je prethodnom obrazovanju, znanju, vještinama i sposobnostima polaznika.
+(3) Za osobe s invaliditetom uključene u program obrazovanja ili program vrednovanja ustanove su obvezne osigurati razumnu prilagodbu metoda, načina i oblika rada.
+(4) Osim obvezne razumne prilagodbe iz stavka 3. ovoga članka, ustanove mogu osigurati i druge oblike potpore za osobe s invaliditetom.
+(5) Ustanova će priznati prethodno stečene skupove ishoda učenja za koje polaznik posjeduje javnu ispravu ako su dio kvalifikacije koju polaznik želi dodatno steći, a koja je upisana u Registar HKO-a.
+(6) Iznimno od stavka 5. ovoga članka, polaznicima koji su stekli kvalifikaciju prije upisa standarda kvalifikacije ili skupa ishoda učenja u Registar HKO-a kao dokaz o stečenim ishodima učenja može se priznati javna isprava, a ako to nije moguće, provodi se postupak vrednovanja prethodnog učenja.
+(7) Iznimno od stavka 5. ovoga članka, ako polaznik ne posjeduje javnu ispravu za provjeru stečenih znanja i vještina, provodi se postupak vrednovanja prethodnog učenja.
+(8) Polazniku koji je u procesu vrednovanja prethodnog učenja dokazao posjedovanje znanja i vještina, u dijelu programa ili u cjelini, proporcionalno se skraćuje trajanje obrazovanja.
+(9) Polaznici koji posjeduju cjelovitu kvalifikaciju mogu u ustanovi upisati program obrazovanja za stjecanje druge kvalifikacije, uz priznavanje prethodnog obrazovanja.
+(10) Polaznicima obrazovanja odraslih koji nisu stekli cjelovitu kvalifikaciju na razinama 1 ili 3 ili 4.1 i 4.2 HKO-a omogućava se nastavak obrazovanja, uz priznavanje stečenih ishoda učenja, što se dokazuje javnom ispravom.
+(11) Stručno tijelo određeno statutom ustanove utvrđuje, na temelju javnih isprava o prethodno završenom obrazovanju u skladu sa standardom kvalifikacije ili skupom ishoda učenja iz Registra HKO-a, programske razlike za svakog polaznika iz stavaka 9. i 10. ovoga članka pojedinačno te o tome donosi odluku.
+(12) Upis u program obrazovanja obavlja se na temelju odluke koja se donosi u skladu sa statutom ustanove.
+(13) Odlukom iz stavka 12. ovoga članka utvrđuju se uvjeti i način upisa polaznika, rokovi upisa i početka nastave.
+(14) Ustanova je dužna oglasiti uvjete i način upisa polaznika, rokove upisa i početka nastave.
+(15) Iznimno od stavka 14. ovoga članka, upis u programe obrazovanja odraslih može se obaviti bez oglašavanja ako se izvođenje programa organizira na zahtjev i za potrebe druge pravne osobe.
+ 
+IX. OSIGURAVANJE KVALITETE U OBRAZOVANJU ODRASLIH
+ 
+Članak 23.
+(1) Sustav osiguravanja kvalitete u obrazovanju odraslih obuhvaća i unutarnji i vanjski sustav osiguravanja kvalitete.
+(2) Unutarnji sustav osiguravanja kvalitete uspostavlja sama ustanova i kao dio toga sustava redovito provodi proces samovrednovanja.
+(3) Učinkovitost unutarnjeg sustava osiguravanja kvalitete i redovitost provedbe procesa samovrednovanja provjeravaju se u postupku vanjskog vrednovanja.
+(4) Kvaliteta obrazovanja odraslih temelji se na načelima osiguravanja:
+− uvjeta za kvalitetno obrazovanje i učenje, u skladu s potrebama osobnog, društvenog i gospodarskog razvoja, socijalne uključivosti, potreba tržišta rada te ukidanjem svih oblika diskriminacije polaznika i pristupnika
+− stjecanja ključnih kompetencija za cjeloživotno učenje
+− obrazovanja temeljenog na ishodima učenja
+− preuzimanja odgovornosti svih dionika sustava obrazovanja odraslih.
+(5) Sustav osiguravanja kvalitete u obrazovanju odraslih čine:
+− tijela u sustavu osiguravanja kvalitete
+− postupci i alati za ostvarenje ciljeva.
+(6) Sustav osiguravanja kvalitete ustanova uspostavlja se kontinuiranim vrednovanjem polaznika i pristupnika, ustanova, obrazovnih programa i njihove provedbe sljedećim postupcima:
+− samovrednovanja ustanova
+− vanjskog vrednovanja
+− vrednovanja provedbe programa obrazovanja i programa vrednovanja
+− vanjskog vrednovanja ishoda učenja polaznika i pristupnika
+− inspekcijskog, stručnog i upravnog nadzora nad radom ustanove
+− praćenja rada ustanova preko NISOO-a.
+ 
+Članak 24.
+(1) Ustanova provodi samovrednovanje na temelju smjernica i alata za samovrednovanje.
+(2) Ustanova sastavlja izvješće o samovrednovanju.
+(3) Samovrednovanje ustanove je podloga za vanjsko vrednovanje.
+(4) Smjernice, područja i alate za samovrednovanje donosi Agencija.
+(5) Agencija vodi i održava informacijski sustav koji pruža potporu ustanovama u provedbi samovrednovanja te se njime koristi pri vanjskom vrednovanju ustanova.
+ 
+Članak 25.
+(1) U procesu osiguravanja kvalitete provodi se i vanjsko vrednovanje ustanova.
+(2) Vanjsko vrednovanje ustanova provodi Agencija.
+(3) Vanjsko vrednovanje pokreće Agencija na temelju godišnjeg plana provedbe vanjskog vrednovanja ustanova ili na zahtjev ustanove.
+(4) Na temelju obavljenog postupka vanjskog vrednovanja Agencija u roku od 30 dana od dana završetka postupka donosi izvješće čiji je sastavni dio prijedlog ocjene razine kvalitete te ga elektroničkim putem dostavlja ustanovi koja je odmah nakon zaprimanja dužna potvrditi njegov primitak.
+(5) Na dostavljeno izvješće iz stavka 4. ovoga članka ustanova može Agenciji izjaviti prigovor u roku od osam dana od dana zaprimanja izvješća.
+(6) Ako ustanova u roku od osam dana od dana zaprimanja izvješća ne izjavi prigovor na izvješće, smatra se da je suglasna s njim.
+(7) O osnovanosti prigovora iz stavka 5. ovoga članka mišljenje daje povjerenstvo koje imenuje ministar odlukom.
+(8) Povjerenstvo iz stavka 7. ovoga članka ima pet članova, od kojih je jedan predstavnik Ministarstva, a četiri člana su neovisni stručnjaci.
+(9) Povjerenstvo iz stavka 7. ovoga članka dužno je u roku od 15 dana od dana imenovanja dostaviti mišljenje o osnovanosti prigovora Agenciji i ustanovi.
+(10) Agencija u roku od 15 dana od dana zaprimanja mišljenja iz stavka 9. ovoga članka donosi rješenje o ocjeni razine kvalitete ustanove, protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor tužbom kod nadležnog upravnog suda.
+(11) Prilikom ocjenjivanja kvalitete ustanove u obzir se uzimaju rezultati vanjskog vrednovanja ustanove te nalazi inspekcijskog nadzora i nadzora nad stručnim radom ustanove.
+(12) Ocjena kvalitete ustanove nakon provedenog postupka vanjskog vrednovanja ustanove može biti:
+− vrlo visoka razina kvalitete
+− visoka razina kvalitete
+− zadovoljavajuća razina kvalitete
+− nezadovoljavajuća razina kvalitete.
+(13) Rješenje o ocjeni razine kvalitete ustanove donosi se na razdoblje od pet do sedam godina, o čemu se u NISOO-u vodi javno dostupna evidencija.
+(14) U slučaju kršenja odredbi ovoga Zakona te drugih propisa kojima se uređuje rad ustanove Agencija može ukinuti rješenje o ocjeni razine kvalitete i prije isteka razdoblja od pet do sedam godina, i to za ocjene iz stavka 12. podstavaka 1., 2. i 3. ovoga članka.
+(15) Rješenje o ocjeni razine kvalitete ustanove može se ukinuti i nakon rješenja inspekcije kojim su utvrđene nepravilnosti u radu ustanove za:
+− izdavanje javne isprave suprotno odredbama članka 27. stavka 5. ovoga Zakona
+− izdavanje javne isprave bez rješenja za provedbu programa obrazovanja ili programa vrednovanja
+− izvođenje programa obrazovanja ili programa vrednovanja suprotno odredbama članka 8. stavcima 1. i 12. ovoga Zakona
+− kršenja odredbi članka 22. stavka 1. ovoga Zakona.
+(16) Rješenje o ukidanju rješenja o ocjeni razine kvalitete ustanove iz stavaka 14. i 15. ovoga članka donosi Agencija, a protiv rješenja ne može se izjaviti žalba, već se može pokrenuti upravni spor.
+(17) Ustanova može zatražiti ponovno vanjsko vrednovanje prije isteka roka iz stavka 13. ovoga članka ako ima ocjenu kvalitete iz stavka 12. podstavaka 2. i 3. ovoga članka.
+(18) Troškove vanjskog vrednovanja ustanove iz stavka 17. ovoga članka snosi ustanova.
+ 
+Članak 26.
+(1) Ustanovi koja je rješenjem o ocjeni razine kvalitete ocijenjena nezadovoljavajućom razinom kvalitete Agencija će u roku od 30 dana od dana donošenja rješenja uputiti mjere za unaprjeđenje rada ustanove te odrediti rok za izvršenje mjera, a najdulje 12 mjeseci.
+(2) Dok teče rok iz stavka 1. ovoga članka, ustanova ne može ishoditi nova stručna mišljenja Agencije iz članka 8. stavka 4. ovoga Zakona niti rješenja Ministarstva za provedbu programa obrazovanja ili programa vrednovanja iz članka 8. stavka 11. ovoga Zakona.
+(3) Nakon isteka roka iz stavka 1. ovoga članka Agencija stručnim nadzorom utvrđuje izvršenost mjera, nakon čega Agencija donosi rješenje o ocjeni razine kvalitete.
+(4) Ako je ustanova dva puta uzastopno ocijenjena ocjenom nezadovoljavajuće razine kvalitete, Ministarstvo donosi rješenje kojim se ustanovi trajno zabranjuje izvođenje svih odobrenih programa obrazovanja ili programa vrednovanja, a protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor.
+ 
+Članak 27.
+(1) Vanjsko vrednovanje skupova ishoda učenja polaznika u nadležnosti je Agencije.
+(2) Vanjsko vrednovanje skupova ishoda učenja polaznika može se provoditi tijekom obrane završnog rada i završne provjere u sklopu programa obrazovanja ili provjere ishoda učenja u sklopu programa vrednovanja, osim programa koji na temelju drugih propisa završavaju posebnim postupkom vanjskog vrednovanja.
+(3) Agencija donosi plan provedbe vanjskog vrednovanja skupova ishoda učenja.
+(4) Ustanova je obvezna prijaviti Agenciji popis kandidata i termine završne provjere ili obrane završnog rada najkasnije 15 dana prije njihova održavanja.
+(5) Ustanova koja ne postupi sukladno stavku 4. ovoga članka ne smije izdati javnu ispravu.
+(6) Način vanjskog vrednovanja ustanova iz članaka 25. i 26. ovoga Zakona i vanjskog vrednovanja skupova ishoda učenja iz ovoga članka, kao i djelokrug te način rada i imenovanja povjerenstava iz članka 25. stavka 7. ovoga Zakona propisuje ministar pravilnikom.
+3. Pravilnik o načinu vanjskog vrednovanja ustanova za obrazovanje odraslih i skupova ishoda učenja te načinu rada i imenovanja povjerenstva za prigovore na izvješće o vanjskom vrednovanju
+ 
+Članak 28.
+(1) Na zahtjev Ministarstva ustanova je obvezna dostaviti dokaze o ispunjenosti uvjeta za izvođenje odobrenih programa obrazovanja ili programa vrednovanja.
+(2) Ako Ministarstvo uvidom u evidenciju, očevidom ili na temelju nalaza druge nadležne institucije utvrdi da ustanova ne ispunjava neki od uvjeta za izvođenje odobrenog programa obrazovanja ili programa vrednovanja, odredit će rok u kojem je ustanova obvezna ukloniti nedostatke odnosno ispuniti uvjete potrebne za izvođenje prethodno odobrenog programa.
+(3) Ako ustanova u roku iz stavka 2. ovoga članka ne otkloni nedostatke, Ministarstvo će donijeti rješenje o ukidanju rješenja za izvođenje odobrenog programa obrazovanja ili programa vrednovanja, protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor tužbom kod nadležnog upravnog suda.
+(4) Ustanova kojoj je izdano rješenje iz stavka 3. ovoga članka ne može tri godine od donošenja rješenja Ministarstvu podnijeti zahtjev za izvođenje programa obrazovanja ili programa vrednovanja koji su rješenjem ukinuti.
+ 
+X. ANDRAGOŠKA DOKUMENTACIJA, EVIDENCIJE I JAVNE ISPRAVE U OBRAZOVANJU ODRASLIH
+ 
+Članak 29.
+(1) Ustanova vodi andragošku dokumentaciju.
+(2) Znanja, vještine i sposobnosti stečene obrazovanjem odraslih sukladno ovom Zakonu dokazuju se javnom ispravom koju ustanova može izdati samo ako ima rješenje Ministarstva o izvođenju programa obrazovanja ili programa vrednovanja iz članka 8. stavka 11. ovoga Zakona.
+(3) Ustanova je obvezna evidenciju o svakom provedenom vrednovanju skupova ishoda učenja voditi i u NISOO-u.
+(4) U obrazovanju odraslih vode se evidencije o ustanovama, programima obrazovanja i programima vrednovanja, polaznicima, pristupnicima, vanjskom vrednovanju ustanova, andragoškim voditeljima, nastavnicima u obrazovanju odraslih, evidencije o drugim podacima važnim za praćenje stanja i razvoj djelatnosti te se u te svrhe uspostavlja NISOO koji je u nadležnosti Ministarstva.
+(5) Ovlaštenje Agenciji i drugim dionicima za pristup razinama i vrstama podataka iz NISOO-a izdaje Ministarstvo.
+(6) U skladu s dodijeljenim ovlastima, Agencija i drugi dionici obvezni su pravodobno i vjerodostojno izvršavati obvezu unosa podataka u NISOO.
+(7) Podaci iz NISOO-a moraju biti zaštićeni od zloporabe, uništenja, gubitka, neovlaštenih promjena ili pristupa. Podaci o polaznicima i radnicima vode se i koriste u skladu s odredbama propisa kojima je uređena zaštita osobnih podataka.
+(8) Naziv, sadržaj, oblik i način vođenja andragoške dokumentacije iz stavka 1. ovoga članka, javnih isprava iz stavka 2. ovoga članka te evidencija iz stavka 4. ovoga članka propisuje ministar pravilnikom.
+ 
+XI. FINANCIRANJE OBRAZOVANJA ODRASLIH
+ 
+Članak 30.
+(1) U državnom proračunu Republike Hrvatske (u daljnjem tekstu: državni proračun) osiguravaju se sredstva za provedbu programa osnovnog obrazovanja odraslih i osposobljavanja za jednostavnije poslove u zanimanjima, o čijoj raspodjeli svake godine odluku donosi ministar.
+(2) Financijska sredstva za provedbu ostalih programa obrazovanja i programa vrednovanja mogu se osigurati u državnom proračunu, proračunima jedinica lokalne i područne (regionalne) samouprave, od poslodavaca ili neposredno od polaznika i pristupnika te iz drugih izvora.
+(3) Za provedbu programa obrazovanja iz stavka 1. ovoga članka mogu se osigurati sredstva sufinanciranja i iz drugih izvora.
+(4) Financijska sredstva iz stavka 2. ovoga članka dodjeljuju se javnim pozivom ili u obliku vaučera.
+(5) Sukladno raspoloživim sredstvima, mogu se financirati ili sufinancirati i troškovi prijevoza i opreme potrebne za sudjelovanje u programu obrazovanja polaznika uključenih u programe iz stavaka 1. i 2. ovoga članka.
+(6) Financijska sredstva iz stavaka 1. i 2. ovoga članka odnose se na troškove obrazovanja:
+− hrvatskih državljana
+− državljana država članica Europskoga gospodarskog prostora s prebivalištem u Republici Hrvatskoj
+− državljana trećih zemalja koji imaju odobren status stranca na stalnom boravku u Republici Hrvatskoj
+− državljana trećih zemalja koji imaju odobren privremeni boravak u svrhu rada u Republici Hrvatskoj
+− osoba sukladno zakonu kojim se uređuje međunarodna i privremena zaštita.
+(7) Javna sredstva iz stavaka 1. i 2. ovoga članka moraju se trošiti namjenski i svrhovito te u skladu s odredbama ovoga Zakona, s odredbama zakona kojim je uređen proračun i sustav fiskalne odgovornosti te sukladno posebnim propisima kojima se uređuje djelokrug i rad tijela koja su dodijelila takva sredstva.
+ 
+Članak 31.
+(1) Ustanova ne smije zahtijevati od polaznika i pristupnika pokrivanje troškova obrazovanja koje je financirano javnim sredstvima iz članka 30. stavaka 1. i 2. ovoga Zakona.
+(2) Kada je obrazovanje odraslih sufinancirano javnim sredstvima iz članka 30. stavka 2. ovoga Zakona, udio sredstava koji plaća polaznik i pristupnik umanjuje se u razmjernom dijelu, to jest umanjuje se za sufinancirani dio.
+ 
+XII. PRAĆENJE I RAZVOJ SUSTAVA OBRAZOVANJA ODRASLIH
+ 
+Članak 32.
+(1) Praćenje i razvoj sustava obrazovanja odraslih provode Ministarstvo i Agencija.
+(2) Radi osiguravanja horizontalne koordinacije između ključnih dionika sustava obrazovanja odraslih, ministar odlukom imenuje savjetodavno tijelo čije stalne članove čine predstavnici Ministarstva, Agencije, ministarstva nadležnog za rad, ministarstva nadležnog za gospodarstvo, poduzetništvo i obrt, Hrvatskog zavoda za zapošljavanje, Hrvatske gospodarske komore, Hrvatske obrtničke komore, reprezentativne udruge poslodavaca i sindikata više razine te predstavnici ustanova i strukovnih udruga koje djeluju s ciljem promocije obrazovanja odraslih.
+(3) Prema potrebi, u radu tijela iz stavka 2. ovoga članka sudjeluju i predstavnici drugih dionika, ovisno o predmetnoj temi.
+ 
+XIII. NADZOR
+ 
+Članak 33.
+(1) Upravni nadzor nad radom ustanove provodi Ministarstvo, sukladno zakonu kojim se regulira sustav državne uprave.
+(2) Inspekcijski nadzor nad ustanovama za obrazovanje odraslih provodi prosvjetna inspekcija u skladu s posebnim zakonom.
+(3) Nadzor nad stručnim radom ustanove provodi Agencija.
+(4) Nalazi nadzora Agencije nad stručnim radom ustanove dostavljaju se Ministarstvu.
+ 
+XIV. PREKRŠAJNE ODREDBE
+ 
+Članak 34.
+(1) Novčanom kaznom od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba:
+− ako izvodi program obrazovanja ili program vrednovanja bez rješenja Ministarstva (članak 8. stavak 1.)
+− ako javno iznosi netočne informacije o programima obrazovanja ili programima vrednovanja koje provodi (članak 9. stavak 4.)
+− ako ne zaposli na puno radno vrijeme najmanje jednog nastavnika na svaka dva obrazovna sektora ako provodi programe obrazovanja ili programe vrednovanja za stjecanje cjelovite kvalifikacije na razinama 4.1 i 4.2 HKO-a (članak 18. stavak 3.)
+− ako ne zaposli na puno radno vrijeme najmanje jednog nastavnika na svaka tri obrazovna sektora ako provodi programe obrazovanja ili programe vrednovanja za stjecanje skupova ishoda učenja ili kvalifikacije (članak 18. stavak 4.)
+− ako ne zaposli na puno radno vrijeme najmanje jednog nastavnika na svaka dva obrazovna sektora, a broj polaznika na godišnjoj razini veći je od 500 (članak 18. stavak 5.)
+− ako upisuje polaznike programa obrazovanja i pristupnike programa vrednovanja mlađe od 14 godina (članak 21. stavak 3.)
+− ako izdaje javne isprave bez rješenja Ministarstva (članak 29. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i ravnatelj pravne osobe novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna.
+(3) Novčanom kaznom u iznosu od 5000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna osoba:
+− ako ne donese okvirni godišnji plan i program do 1. veljače za tekuću kalendarsku godinu (članak 9. stavak 1.)
+− ako ne vodi propisanu andragošku dokumentaciju (članak 29. stavak 1.)
+− ako ne unosi podatke pravodobno i vjerodostojno u NISOO (članak 29. stavak 3.).
+(4) Za prekršaj iz stavka 3. ovoga članka kaznit će se i ravnatelj pravne osobe novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna.
+ 
+XV. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
+Članak 35.
+(1) Pravilnike iz članka 8. stavka 13., članka 27. stavka 6. i članka 29. stavka 8. ovoga Zakona ministar će donijeti u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnike iz članka 17. stavka 13. ovoga Zakona čelnici nadležnih tijela državne uprave koja dodjeljuju vaučere donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+(3) Pravilnik iz članka 16. stavka 8. ovoga Zakona ministar će donijeti u roku od osamnaest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Pravilnik o sadržaju, obliku te načinu vođenja i čuvanja andragoške dokumentacije (»Narodne novine«, br. 129/08.), Pravilnik o javnim ispravama u obrazovanju odraslih (»Narodne novine«, br. 129/08., 50/10. i 61/14.), Pravilnik o evidencijama u obrazovanju odraslih (»Narodne novine«, br. 129/08.) i Pravilnik o standardima i normativima te načinu i postupku utvrđivanja ispunjenosti uvjeta u ustanovama za obrazovanje odraslih (»Narodne novine«, br. 129/08. i 52/10.) ostaju na snazi do stupanja na snagu pravilnika iz stavka 1. ovoga članka.
+(5) U razdoblju od tri godine od dana stupanja na snagu ovoga Zakona ustanove mogu izvoditi programe obrazovanja na temelju rješenja o odobrenju izvođenja programa donesenih prije stupanja na snagu ovoga Zakona.
+(6) Iznimno od stavka 5. ovoga članka, ako se odgovarajući standard kvalifikacije ili skup ishoda učenja upiše u Registar HKO-a prije isteka roka iz stavka 4. ovoga članka, ustanova je obvezna u roku od šest mjeseci od dana upisa standarda kvalifikacije ili skupa ishoda učenja u Registar HKO-a uskladiti programe obrazovanja sa standardom kvalifikacija ili skupom ishoda učenja.
+(7) Ako ustanova izmijeni program obrazovanja sukladno stavku 6. ovoga članka, polaznicima upisanim prije donošenja rješenja mora omogućiti pohađanje i završavanje programa sukladno uvjetima koji su vrijedili na dan upisa.
+(8) Do uspostave NISOO-a koristit će se informacijski sustav obrazovanja odraslih koji se vodi pri Agenciji.
+(9) Osobe koje su u trenutku stupanja na snagu ovoga Zakona zatečene na poslovima ravnatelja, a ne ispunjavaju uvjete iz članka 6. stavka 2. ovoga Zakona nastavljaju s obavljanjem poslova do isteka mandata.
+(10) Osobe koje su u trenutku stupanja na snagu ovoga Zakona zatečene u radnom odnosu na neodređeno vrijeme na poslovima andragoškog voditelja, a ne ispunjavaju uvjete iz članka 7. stavka 5. podstavka 2. ovoga Zakona nastavljaju s obavljanjem poslova svog radnog mjesta.
+(11) Ustanove su dužne zaposliti andragoškog voditelja u punom radnom vremenu u skladu s člankom 7. stavkom 1. ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 36.
+(1) Metodologiju izrade programa obrazovanja iz članka 12. stavka 10. ovoga Zakona i programa vrednovanja iz članka 16. stavka 7. ovoga Zakona Agencija će donijeti u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+(2) Smjernice, područja i alate za samovrednovanje iz članka 24. stavka 4. ovoga Zakona Agencija će donijeti u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 37.
+Ustanove su dužne uskladiti odredbe statuta i drugih općih akata s odredbama ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+ 
+Članak 38.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o obrazovanju odraslih (»Narodne novine«, br. 17/07., 107/07. i 24/10.).
+ 
+Članak 39.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
