@@ -1,38 +1,47 @@
-ZAKON
-O STRUČNO-PEDAGOŠKOM NADZORU
-I. OPĆE ODREDBE
+﻿I. OPĆE ODREDBE
+ 
 Članak 1.
 Ovim Zakonom uređuje se stručno-pedagoški nadzor, uvjeti i način njegova obavljanja, te ovlasti stručno-pedagoškog nadzornika, odnosno druge osobe koja obavlja poslove stručno-pedagoškog nadzora (u daljnjem tekstu: školski nadzornik).
+ 
 Članak 2.
 Stručno-pedagoški nadzor sustavno je i organizirano stručno praćenje ostvarivanja propisanih nastavnih planova i programa, organizacije i izvođenja nastave i drugih oblika odgojno-obrazovnog rada u školskim ustanovama te stručnog i pedagoškog rada odgojitelja, učitelja, nastavnika i stručnih suradnika (u daljnjem tekstu: nastavnici).
+ 
 Članak 3.
 Stručno-pedagoški nadzor obavlja se u školskim ustanovama i drugim pravnim osobama koje obavljaju djelatnost odgoja i naobrazbe, u granicama djelokruga Ministarstva prosvjete i športa (u daljnjem tekstu: Ministarstvo prosvjete).
+ 
 II. ŠKOLSKI NADZORNIK
+ 
 Članak 4.
 Stručno-pedagoški nadzor provode državni službenici u zvanju školskog nadzornika i višeg školskog nadzornika.
 Zvanje školskog nadzornika, odnosno višeg školskog nadzornika izjednačuje se sa zvanjem savjetnika, odnosno višeg savjetnika.
 Stručno-pedagoški nadzor može provoditi i osoba koja nije državni službenik ako ispunjava uvjete za školskog nadzornika prema odredbama ovoga Zakona.
 Osobu iz stavka 3. ovoga članka ovlašćuje ministar prosvjete i športa (u daljnjem tekstu: ministar prosvjete).
 Aktom iz stavka 4. ovoga članka i odgovarajućim ugovorom pobliže se uređuju ovlaštenja i položaj osobe iz stavka 3. ovoga članka.
+ 
 Članak 5.
 Školski nadzornik iz članka 4. ovoga Zakona može biti osoba koja, pored općih uvjeta za prijem u državnu službu, ima:
 - odgovarajuću visoku stručnu spremu i pedagoško-psihološku naobrazbu,
 - najmanje deset godina radnog iskustva na poslovima odgoja i naobrazbe.
 Viši školski nadzornik može biti osoba koja osim uvjeta iz podstavka 1. stavka 1. ovoga članka ima najmanje 15 godina radnog iskustva na poslovima odgoja i naobrazbe.
 Što se smatra odgovarajućom vrstom stručne spreme školskog nadzornika utvrđuje ministar prosvjete.
+ 
 Članak 6.
 Školski nadzornik samostalan je u obavljanju poslova stručno-pedagoškog nadzora.
 Školski nadzornik odgovoran je ako propusti obaviti nadzor ili ako prekorači ovlasti utvrđene ovim Zakonom.
+ 
 Članak 7.
 Školski nadzornik ima iskaznicu kojom dokazuje službeno svojstvo i ovlasti.
 Obrazac iskaznice iz stavka 1. ovoga članka i način njezina izdavanja propisuje ministar prosvjete.
-III. OBAVLJANJE STRUČNO- -PEDAGOŠKOG NADZORA
+ 
+III. OBAVLJANJE STRUČNO-PEDAGOŠKOG NADZORA
+ 
 Članak 8.
 Stručno-pedagoški nadzor obavlja se:
 - uvidom u izvođenje godišnjeg plana i programa rada školske ustanove,
 - neposrednim praćenjem izvođenja nastave i drugih oblika odgojno-obrazovnog rada,
 - uvidom u pedagošku evidenciju i dokumentaciju,
 - razgovorom s učenicima, roditeljima, nastavnicima i članovima stručnih tijela školske ustanove.
+ 
 Članak 9.
 U obavljanju stručno-pedagoškog nadzora školski nadzornik nadzire osobito:
 - izvođenje i ostvarivanje godišnjeg plana i programa školske ustanove,
@@ -40,6 +49,7 @@ U obavljanju stručno-pedagoškog nadzora školski nadzornik nadzire osobito:
 - stručnu uporabu udžbenika, nastavnih pomagala i opreme,
 - ispunjenost pedagoških i metodičko-didaktičkih zahtjeva i mjerila u izvođenju nastave,
 - provođenje ispita i ocjenjivanja učenika.
+ 
 Članak 10.
 Osim poslova iz članka 9. ovoga Zakona, školski nadzornik:
 - predlaže mjere za unapređivanje odgojno-obrazovnog sustava,
@@ -49,10 +59,12 @@ Osim poslova iz članka 9. ovoga Zakona, školski nadzornik:
 - potiče učenička natjecanja i prati ostvarivanje eksperimentalnih programa,
 - ocjenjuje funkcionalnost školskog prostora i opreme te predlaže mjere za njihovo osuvremenjavanje,
 - prati rad stručnih tijela školske ustanove.
+ 
 Članak 11.
 Školski nadzornik dužan je pravodobno obavijestiti ravnatelja školske ustanove o vremenu obavljanja nadzora.
 Iznimno, stručno-pedagoški nadzor može se obaviti bez obavijesti iz stavka 1. ovoga članka, ako to zahtijeva svrha nadzora.
 Ravnatelj školske ustanove i nastavnik, čiji rad se nadzire, dužni su školskom nadzorniku dati na uvid zatraženu dokumentaciju i evidenciju, druge podatke i obavijesti potrebne radi nadzora, te osigurati druge uvjete za nesmetano obavljanje nadzora.
+ 
 Članak 12.
 O obavljenom stručno-pedagoškom nadzoru školski nadzornik sastavlja nalaz.
 Nalaz iz stavka 1. ovoga članka sadrži osobito:
@@ -63,15 +75,15 @@ Nalaz iz stavka 1. ovoga članka sadrži osobito:
 Nalaz mora biti jasan. Prije utvrđivanja nalaza školski nadzornik obavezno razmatra utvrđeno stanje s ravnateljem, nastavnikom ili stručnim tijelom školske ustanove.
 Nalaz se uvijek dostavlja županijskom uredu nadležnom za poslove školstva, ravnatelju školske ustanove i nastavniku na čiji se rad odnosi.
 Osobe i stručno tijelo iz stavka 3. ovoga članka mogu izjaviti primjedbe na nalaz školskog nadzornika Ministarstvu prosvjete.
+ 
 IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
 Članak 13.
 Akte iz članka 5. stavka 3. ovoga Zakona ministar prosvjete donijet će u roku 3 mjeseca od dana stupanja na snagu ovoga Zakona.
 Obrazac iz članka 7. stavka 2. ovoga Zakona ministar prosvjete propisat će u roku mjesec dana od dana stupanja na snagu ovoga Zakona.
+ 
 Članak 14.
 Osoba zatečena u zvanju stručno-pedagoškog nadzornika stupanjem na snagu ovoga Zakona može i dalje obavljati poslove školskog nadzornika pod uvjetom da u roku godine dana od dana stupanja na snagu ovoga Zakona položi državni stručni ispit.
+ 
 Članak 15.
 Ovaj Zakon stupa na snagu osmog dana od dana objave u "Narodnim novinama".
-Klasa: 600-04/96-01/01 Zagreb, 27. lipnja 1997.
-ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
-Predsjednik Zastupničkog doma Sabora akademik Vlatko Pavletić, v. r.
-

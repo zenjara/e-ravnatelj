@@ -1,53 +1,29 @@
-
-ZAKON O USTANOVAMA
-
- I. OPĆE ODREDBE
- II. OSNIVANJE USTANOVE
- III. NAZIV I SJEDIŠTE USTANOVE
- IV. DJELATNOST USTANOVE
- V. USTROJSTVO I TIJELA USTANOVE
- 1. Ustrojstvo ustanove
- 2. Upravno vijeće
- 3. Ravnatelj
- 4. Stručni voditelj
- 5. Stručno vijeće
- 6. Ostali tijela ustanove
- 7. Tijela podružnice
- VI. OPĆI AKTI USTANOVE
- VII. IMOVINA USTANOVE I ODGOVORNOST ZA NJENE OBVEZE
- VIII. JAVNOST RADA USTANOVE
- IX. NADZOR NAD RADOM USTANOVE
- X. STATUSNE PROMJENE
- XI. UDRUŽIVANJE USTANOVA
- XII. PRESTANAK USTANOVE
- XIII. UPIS U SUDSKI REGISTAR
- XIV. PREKRŠAJNE ODREDBE
- XV. PRIJELAZNE I ZAVRŠNE ODREDBE
- Prijelazne i završne odredbe iz NN 127/19
-
-
-
-ZAKON O USTANOVAMA
-
-I. OPĆE ODREDBE
-Članak 1. (NN 127/19)
+﻿I. OPĆE ODREDBE
+ 
+Članak 1.  (NN 127/19)
 Ustanova je pravna osoba čije je osnivanje i ustrojstvo uređeno ovim Zakonom.
 Ustanova se osniva za trajno obavljanje djelatnosti od javnog interesa sukladno posebnom zakonu.
+ 
 Članak 2. (NN 127/19)
 Ustanova stječe svojstvo pravne osobe upisom u sudski registar.
 Ustanova gubi svojstvo pravne osobe brisanjem iz sudskog registra.
+ 
 Članak 3.
 Ustanova je samostalna u obavljanju svoje djelatnosti i u poslovanju sukladno zakonu, na zakonu utemeljenom propisu i aktu o osnivanju.
 Ustanova obavlja djelatnost radi koje je osnovana pod uvjetima i na način određen zakonom, na zakonu utemeljenom propisu, aktom o osnivanju, statutom i drugim općim aktom ustanove te sukladno suvremenim znanstvenim postignućima i pravilima struke.
+ 
 Članak 4. (NN 127/19)
 Ustanova može u pravnom prometu stjecati prava i preuzimati obveze, može biti vlasnikom pokretnih i nepokretnih stvari, te može biti strankom u postupcima pred sudovima i ovlaštenim javnopravnim tijelima.
+ 
 Članak 5.
 Ustanovu može osnovati domaća i strana fizička i pravna osoba.
+ 
 Članak 6. (NN 127/19)
 Ustanova se osniva kao javna ustanova ako je djelatnost ili dio djelatnosti koju obavlja zakonom određena kao javna služba.
 Javna ustanova može se osnovati i za:
 1. obavljanje djelatnosti ili dijela djelatnosti koje nisu određene kao javna služba, ako se one obavljaju na način i pod uvjetima koji su propisani za javnu službu,
 2. obavljanje povjerenih poslova državne uprave sukladno zakonu kojim se uređuje sustav državne uprave i posebnom zakonu.
+ 
 Članak 7. (NN 127/19)
 Javnu ustanovu može osnovati:
 1. Republika Hrvatska,
@@ -55,24 +31,29 @@ Javnu ustanovu može osnovati:
 3. druga pravna ili fizička osoba, ako je to posebnim zakonom izrijekom dopušteno.
 Javnu ustanovu može osnovati više osnivača iz stavka 1. ovoga članka ako to nije u suprotnosti sa zakonom.
 Javnu ustanovu iz članka 6. stavka 2. točke 2. ovoga Zakona osniva Republika Hrvatska.
+ 
 Članak 8. (NN 127/19)
 Osnivač javne ustanove iz članka 7. stavka 1. točke 2. i 3. ovoga Zakona dužan je zatražiti prethodnu ocjenu sukladnosti akta o osnivanju sa zakonom od tijela državne uprave u čijem je djelokrugu djelatnost javne ustanove u osnivanju.
 Ako tijelo državne uprave iz stavka 1. ovoga članka ne donese rješenje o sukladnosti akta o osnivanju javne ustanove sa zakonom u roku od 30 dana od dana predaje urednog zahtjeva, smatrat će se da je akt o osnivanju sukladan zakonu.
 Protiv rješenja kojim se utvrđuje da akt o osnivanju nije sukladan zakonu može se pokrenuti upravni spor.
-
+ 
 Članak 9. (NN 127/19)
 Ustanova može imati jednu ili više podružnica (odjel, zavod, centar, i sl.).
 Podružnica je ustrojbena jedinica ustanove za koju je aktom o osnivanju ustanove ili statutom ustanove određeno da obavlja dio djelatnosti ustanove i da sudjeluje upravnom prometu.
 Podružnica nije pravna osoba, te njenom djelatnošću i poslovanjem prava i obaveze stječe ustanova.
 Podružnica obavlja djelatnost i posluje pod nazivom ustanove i svojim nazivom, i mora pri tome navesti svoje sjedište i sjedište ustanove.
 Prijavu za upis podružnice u sudski registar podnosi ustanova.
+ 
 Članak 10. (NN 127/19)
 Javnoj ustanovi iz članka 7. stavka 1. točke 1. ovoga Zakona mogu se zakonom povjeriti poslovi državne uprave u jednom ili više upravnih područja sukladno zakonu kojim se uređuje sustav državne uprave, čime javna ustanova stječe svojstvo pravne osobe s javnim ovlastima u smislu toga zakona.
 Javnu ustanovu iz članka 7. stavka 1. točke 2. ovoga Zakona može se aktom o osnivanju ovlastiti za obavljanje određenih poslova iz samoupravnog djelokruga jedinice lokalne i područne (regionalne) samouprave sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava.
+ 
 Članak 11. (NN 127/19)
 Na radnopravni status zaposlenih u ustanovama primjenjuju se opći propisi o radu ako zakonom nije drukčije određeno.
-
+ 
+ 
 II. OSNIVANJE USTANOVE
+ 
 Članak 12. (NN 127/19)
 Akt o osnivanju ustanove donosi osnivač.
 Republika Hrvatska ustanovu osniva zakonom ili uredbom te rješenjem ministarstva ako je to zakonom izrijekom propisano.
@@ -81,6 +62,7 @@ Druge pravne i fizičke osobe ustanovu osnivaju odlukom o osnivanju.
 Ako ustanovu osniva više osnivača iz članka 7. stavka 1. ovoga Zakona, akt o osnivanju ustanove donosi se u obliku ugovora o osnivanju ustanove kojim se uređuju međusobna prava i obveze osnivača.
 Ako je jedan od osnivača ustanove iz stavka 5. ovoga članka jedinica lokalne i područne (regionalne) samouprave, ugovor o osnivanju ustanove sklapa se nakon donošenja odluke iz stavka 3. ovog članka.
 Ugovorom o osnivanju ustanove ne može se isključiti ili ograničiti odgovornost jednog od osnivača za obveze ustanove.
+ 
 Članak 13. (NN 127/19)
 Akt o osnivanju ustanove sadrži naročito odredbe o:
 1. tvrtki, nazivu, odnosno imenu, te sjedištu, odnosno prebivalištu osnivača,
@@ -94,39 +76,48 @@ Akt o osnivanju ustanove sadrži naročito odredbe o:
 9.o međusobnim pravima i obvezama osnivača i ustanove.
 Ako se ustanova osniva zakonom, pojedina pitanja iz stavka 1. ovoga članka mogu se urediti uredbom Vlade Republike Hrvatske ili aktom drugog državnog tijela sukladno zakonu.
 Ako se ustanova osniva radi obavljanja poslova državne uprave, akt o osnivanju obvezno sadrži naznaku djelatnosti koje se obavljaju kao javna ovlast.
-
+ 
 Članak 14.
 U aktu iz članka 9 stavka 2. ovoga Zakona glede osnivanja podružnice ustanove navodi se:
 1.naziv i sjedište osnivača,
 2. predmet djelatnosti ustanove,
 3. naziv i sjedište podružnice,
 4. predmet djelatnosti podružnice.
+ 
 Članak 15. (NN 127/19)
 Osnivač ustanove imenuje privremenog ravnatelja ustanove, koji je ovlašten pod nadzorom osnivača obaviti pripreme za početak rada ustanove, a posebno pribaviti potrebne dozvole za početak rada, te podnijeti prijavu za upis u sudski registar.
 Osnivač može i sam obaviti pripreme za početak rada ustanove i podnijeti prijavu za upis u sudski registar.
-
+ 
+ 
 III. NAZIV I SJEDIŠTE USTANOVE
+ 
 Članak 16.
 Ustanova ima naziv pod kojim obavlja svoju djelatnost, posluje i sudjeluje u pravnom prometu.
+ 
 Članak 17.
 Naziv ustanove mora upućivati na njezinu djelatnost.
 Naziv ustanove se mora jasno razlikovati od naziva već registrirane ustanove, a svojim sadržajem ne smije stvarati zabunu glede djelatnosti, identifikacije s drugom ustanovom, pravnom ili fizičkom osobom, a niti vrijeđati prava drugih osoba.
 Izuzetno od odredbe stavka 2. ovoga članka, ustanova koja je u zajednici ustanova iz članka 70. ovoga Zakona, može u svojem nazivu upotrebljavati ime te zajednice
+ 
 Članak 18. (NN 127/19)
 Riječi »Hrvatska«, »Republika«, »država« i njihove izvedenice, te druga državna znamenja, uključujući njihovo oponašanje, mogu se unijeti u naziv ustanove samo zakonom, uredbom ili na temelju rješenja ministarstva nadležnog za poslove opće uprave ako se time ne vrijeđa ugled i dostojanstvo Republike Hrvatske.
 Naziv jedinice lokalne i područne (regionalne) samouprave i njezine izvedenice, te njezin grb i zastava, uključujući njihovo oponašanje, mogu se unijeti u naziv ustanove samo zakonom ili uz prethodno odobrenje nadležnog tijela jedinice lokalne i područne (regionalne) samouprave, sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava.
 Naziv druge države ili međunarodne (međudržavne) organizacije, njezin grb, zastava te drugo službeno znakovlje, mogu se unijeti u naziv ustanove samo na temelju rješenja ministarstva nadležnog za poslove opće uprave i uz prethodni pristanak druge države ili međunarodne (međudržavne) organizacije.
 Naziv etničke i nacionalne zajednice ili manjine, njezin grb, zastava ili znak, mogu se unijeti u naziv ustanove samo na temelju rješenja tijela državne uprave u čiji djelokrug ulazi djelatnost ustanove.
 Protiv rješenja iz stavka 1., 3. i 4. ovoga članka može se pokrenuti upravni spor.
+ 
 Članak 19. (NN 127/19)
 U naziv ustanove može se unijeti ime ili dio imena neke fizičke osobe samo na način kojim se ne vrijeđa čast i ugled te osobe i uz njezin pisani pristanak, a ako je ta osoba umrla, uz pisani pristanak njezinih nasljednika.
 U naziv ustanove može se unijeti ime ili dio imena neke povijesne osobe samo na način kojim se ne vrijeđa dostojanstvo te osobe i uz pisani pristanak nasljednika ako ih ima.
+ 
 Članak 20. (NN 127/19)
 Nazivu ustanove koja je u stečaju ili u likvidaciji dodaje se oznaka "u stečaju" ili "u likvidaciji", te se tako upisuje u sudski registar.
+ 
 Članak 21. (NN 127/19)
 Ustanova može upotrebljavati i skraćeni naziv.
 Skraćeni naziv mora sadržavati prepoznatljivi dio naziva ustanove.
 Skraćeni naziv upisuje se u sudski registar.
+ 
 Članak 22. (NN 127/19, 151/22)
 Naziv ustanove mora biti na hrvatskom jeziku ispisan latiničnim pismom.
 Naziv ustanove može sadržavati pojedine strane riječi ako su uobičajene u hrvatskom jeziku, ili ako za njih nema odgovarajuće riječi u hrvatskom jeziku, ili ako se radi o riječima na mrtvom jeziku.
@@ -136,43 +127,59 @@ Ustanova može imati dvojezični naziv i to na hrvatskom jeziku ispisan latinič
 U dopisivanju s fizičkim i pravnim osobama u inozemstvu ustanova može uz naziv, koji je upisan u sudski registar, upotrebljavati i prijevod naziva na stranom živom ili mrtvom jeziku.
 Protiv rješenja iz stavka 5. ovoga članka može se pokrenuti upravni spor.
 Odredbe stavka 1. do 7. ovoga članka primjenjuju se i na skraćeni naziv ustanove.
+ 
 Članak 23. (NN 127/19)
 Ustanova je dužna upotrebljavati naziv i skraćeni naziv u obliku i sadržaju u kojemu je upisan u sudski registar.
+ 
 Članak 24.
 Naziv ustanove mora se istaknuti na zgradi u kojoj je njeno sjedište, odnosno u kojoj ustanova obavlja djelatnost radi koje je osnovana.
+ 
 Članak 25.
 Na zaštitu naziva ustanove primjenjuju se na odgovarajući način odredbe zakona kojim se uređuje zaštita tvrtke trgovačkog društva.
+ 
 Članak 26. (NN 127/19)
 Sjedište ustanove je mjesto u kojem ustanova obavlja svoju djelatnost.
 Ako ustanova obavlja djelatnost u više mjesta, sjedište ustanove je mjesto u kojem je sjedište tijela koje vodi poslovanje ustanove.
 Sjedište ustanove ne može biti izvan područja Republike Hrvatske.
+ 
 Članak 27. (NN 127/19)
 Ustanova može promijeniti naziv i sjedište samo odlukom osnivača ustanove.
 Promjena sjedišta ustanove upisuje se u sudski registar.
+ 
 Članak 28.
 Na naziv i sjedište podružnice ustanove primjenjuju se na odgovarajući način odredbe ovoga Zakona o nazivu i sjedištu ustanove.
-
+ 
+ 
 IV. DJELATNOST USTANOVE
+ 
 Članak 29. (NN 127/19)
 Djelatnost ustanove određuje se aktom o osnivanju.
 Odluku o promjeni djelatnosti donosi upravno vijeće ustanove uz prethodnu suglasnost osnivača, ako zakonom ili aktom o osnivanju nije drugačije određeno.
+ 
 Članak 30. (NN 127/19)
 Djelatnost ustanove upisuje se u sudski registar.
 Pored upisane djelatnosti ustanova može obavljati i druge djelatnosti koje služe obavljanju upisane djelatnosti, ako se one u manjem opsegu ili uobičajeno obavljaju uz upisanu djelatnost.
-
+ 
 Članak 31. (NN 127/19)
 Ustanova može početi obavljati određenu djelatnost tek nakon što je upisana u sudski registar i nakon što ispuni sve propisane uvjete za obavljanje odnosne djelatnosti.
+ 
 Članak 32.
 Ako ovim i drugim zakonom nije što drugo određeno, na djelatnost ustanove na odgovarajući se način primjenjuju propisi o djelatnosti trgovačkih društava.
+ 
 Članak 33. (NN 127/19)
 Djelatnost podružnice ustanove određuje se u okviru djelatnosti ustanove aktom o osnivanju ustanove i statutom ustanove. Djelatnost podružnice ustanove upisuje se u sudski registar.
 Na djelatnost podružnice ustanove primjenjuju se na odgovarajući način odredbe ovoga Zakona o djelatnosti ustanove.
-
+ 
+ 
 V. USTROJSTVO I TIJELA USTANOVE
+ 
 1. Ustrojstvo ustanove
+ 
 Članak 34.
 Unutarnje ustrojstvo ustanove uređuje se statutom ustanove sukladno zakonu i aktu o osnivanju.
+ 
 2. Upravno vijeće
+ 
 Članak 35. (NN 127/19)
 Ustanovom upravlja upravno vijeće ili drugo kolegijalno tijelo (u daljnjem tekstu: upravno vijeće) ako posebnim zakonom nije drugačije određeno.
 Sastav, način imenovanja odnosno izbora članova i trajanje mandata upravnog vijeća i način donošenja odluka, utvrđuju se zakonom, odnosno aktom o osnivanju i statutom ustanove.
@@ -181,10 +188,13 @@ Ako zakonom nije drukčije određeno, predstavnike osnivača u upravno vijeće i
 2. izvršno tijelo jedinice lokalne i područne (regionalne) samouprave, za ustanove kojima je osnivač jedinica lokalne i područne (regionalne) samouprave,
 3. tijelo pravne osobe određeno aktom o osnivanju ustanove, za ustanove kojima je osnivač druga pravna osoba,
 4. fizička osoba ili druga osoba određena aktom o osnivanju, za ustanove kojima je osnivač fizička osoba.
+ 
 Članak 36. (NN 127/19)
 Upravno vijeće donosi programe rada i razvoja ustanove, nadzire njihovo izvršavanje, odlučuje o financijskom planu i godišnjem obračunu, predlaže osnivaču promjenu djelatnosti, daje osnivaču i ravnatelju ustanove prijedloge i mišljenja o pojedinim pitanjima te donosi odluke i obavlja druge poslove određene zakonom, aktom o osnivanju i statutom ustanove.
 Pored poslova iz stavka 1. ovoga članka te pod uvjetima i na način propisan zakonom kojim se uređuje sustav državne uprave, upravno vijeće ili drugo kolegijalno tijelo javne ustanove iz članka 6. stavka 2. točke 2. ovoga Zakona može biti ovlašteno i za donošenje provedbenih propisa.
+ 
 3. Ravnatelj
+ 
 Članak 37. (NN 127/19)
 Voditelj ustanove je ravnatelj, ako zakonom nije drugačije određeno.
 Ravnatelj organizira i vodi rad i poslovanje ustanove, predstavlja i zastupa ustanovu, poduzima sve pravne radnje u ime i za račun ustanove, zastupa ustanovu u svim postupcima pred sudovima i ovlaštenim javnopravnim tijelima. Ravnatelj je odgovoran za zakonitost rada ustanove.
@@ -192,29 +202,35 @@ Ravnatelj ne može bez posebne ovlasti upravnog vijeća ili osnivača ustanove, 
 Ravnatelj ustanove može dati punomoć drugoj osobi da zastupa ustanovu u pravnom prometu. Punomoć može dati samo u granicama svojih ovlasti a daje se sukladno odredbama zakona kojim se uređuju obvezni odnosi.
 Ako se u ustanovi ne osniva upravno vijeće ili drugo kolegijalno tijelo utvrđeno zakonom, ravnatelj ima sva prava iz članka 36. ovoga Zakona, osim ako zakonom nije drugačije određeno.
 Ravnatelj vodi stručni rad ustanove i odgovoran je za stručni rad ustanove, ako s obzirom na djelatnost i opseg rada nije određeno zakonom ili aktom o osnivanju da su poslovodna funkcija i funkcija vođenja stručnog rada ustanove razdvojeni.
+ 
 Članak 38. (NN 127/19)
 Ravnatelja imenuje i razrješava upravno vijeće, ako posebnim zakonom u smislu članka 35. stavka 1. ovoga Zakona nije drugačije određeno.
 Zakonom ili aktom o osnivanju može se odrediti da ravnatelja javne ustanove imenuje Vlada Republike Hrvatske, čelnik nadležnog tijela državne uprave ili predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave.
+ 
 Članak 39. (NN 151/22)
 Za ravnatelja ustanove može se imenovati osobu koja ispunjava uvjete određene zakonom, aktom o osnivanju i statutom ustanove.
 Ravnatelj ne može biti osoba koja prema zakonu kojim se uređuju trgovačka društva ne može biti članom uprave trgovačkog društva.
 Mandat ravnatelja je četiri godine ako zakonom, aktom o osnivanju ili statutom ustanove nije drugačije određeno. Ista osoba može se ponovno imenovati za ravnatelja.
+ 
 Članak 40. (NN 127/19)
 Ako zakonom nije drukčije određeno, ravnatelj ustanove imenuje se:
 1. na temelju javnog natječaja, ako je osnivač ustanove Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave ili pravna osoba kojoj je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave,
 2. sukladno aktu o osnivanju, ako je osnivač ustanove druga pravna ili fizička osoba, odnosno ako su druge pravne i/ili fizičke osobe jedini osnivači ustanove.
+ 
 Članak 41. (NN 127/19)
 Natječaj za imenovanje ravnatelja ustanove objavljuje se u na mrežnim stranicama ustanove. Natječaj za imenovanje ravnatelja javne ustanove koju osniva Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave objavljuje se i u " Narodnim novinama".
 U natječaju se objavljuju uvjeti koje mora ispunjavati kandidat, vrijeme za koje se imenuje, rok do kojeg s primaju prijave kandidata i rok u kojemu će prijavljeni kandidati biti obaviješteni o izboru.
 Rok do kojeg se primaju prijave kandidata ne može biti kraći od osam dana od dana objave natječaja, a rok u kojem se kandidati obavještavaju o izboru ne može biti dulji od četrdeset i pet dana od dana isteka roka za podnošenje prijava.
+ 
 Članak 42. (NN 127/19)
 Upravno vijeće, odnosno tijelo iz članka 38. stavka 2. ovoga Zakona dužno je u roku određenom u natječaju obavijestiti svakog prijavljenog kandidata o izboru i dati mu pouku o njegovu pravu da pregleda natječajni materijal i da u roku od petnaest dana od dana primitka obavijesti može zahtijevati sudsku zaštitu kod nadležnog suda.
 Osoba koja je podnijela prijavu na natječaj može pobijati tužbom odluku o imenovanju zbog bitne povrede postupka ili zbog toga što izabrani kandidat ne ispunjava uvjete koji su objavljeni u natječaju.
 Ako ravnatelja ustanove imenuje tijelo iz članka 38. stavka 2. ovoga Zakona tužbom se pokreće upravni spor. U drugim slučajevima o tužbi odlučuje sud nadležan za radne sporove.
+ 
 Članak 43.
 Ako se na raspisani natječaj nitko ne prijavi ili nitko od prijavljenih kandidata ne bude izabran, natječaj će se ponoviti, ako posebnim zakonom nije drugačije određeno.
 Do imenovanja ravnatelja ustanove na temelju ponovljenog natječaja imenovat će se vršitelj dužnosti ravnatelja ustanove ali najduže do godinu dana.
-
+ 
 Članak 44. (NN 127/19, 151/22)
 Ravnatelj ustanove može biti razriješen prije isteka vremena na koje je imenovan.
 Upravno vijeće odnosno tijelo iz članka 38. stavka 2. ovoga zakona dužno je razriješiti ravnatelja:
@@ -224,101 +240,138 @@ Upravno vijeće odnosno tijelo iz članka 38. stavka 2. ovoga zakona dužno je r
 4. ako ravnatelj svojim nesavjesnim ili nepravilnim radom prouzroči ustanovi veću štetu ili ako zanemaruje ili nesavjesno obavlja svoje dužnosti tako da su nastale ili mogu nastati veće smetnje u obavljanju djelatnosti ustanove,
 5. ako nastanu okolnosti iz članka 39. stavka 2. ovoga Zakona.
 U slučaju razrješenja ravnatelja imenovat će se vršitelj dužnosti ravnatelja, a ustanova je dužna raspisati natječaj za imenovanje ravnatelja u roku od 30 dana od dana imenovanja vršitelja dužnosti.
+ 
 Članak 45. (NN 127/19)
 Razriješena osoba može odluku o razrješenju pobijati tužbom pred nadležnim sudom u roku od trideset dana od dana zaprimanja odluke o razrješenju ako smatra da nisu postojali razlozi za razrješenje iz članka 44. stavka 2. ovoga Zakona ili da je u postupku donošenja odluke o razrješenju došlo do povrede koja je značajno utjecala na ishod postupka.
+ 
 4. Stručni voditelj
+ 
 Članak 46.
 Stručni rad ustanove vodi stručni voditelj ako je tako propisano zakonom, aktom o osnivanju ili statutom ustanove.
 Uvjeti koje mora ispunjavati stručni voditelj te njegova prava, dužnosti i odgovornosti utvrđuju se zakonom, aktom o osnivanju i statutom ustanove.
+ 
 Članak 47.
 Stručnog voditelja imenuje i razrješava upravno vijeće ustanove po prethodno pribavljenom mišljenju stručnog vijeća ako zakonom, aktom o osnivanju ili statutom nije drugačije određeno.
+ 
 Članak 48. (NN 127/19)
 Ako statutom sukladno zakonu i aktu o osnivanju nije drugačije određeno, na imenovanje i razrješenje stručnog voditelja primjenjuju se odredbe ovoga Zakona o imenovanju i razrješenju ravnatelja.
+ 
 5. Stručno vijeće
+ 
 Članak 49. (NN 127/19)
 Ustanova može imati stručno vijeće ili drugo kolegijalno stručno tijelo ustanove (u daljnjem tekstu: stručno vijeće).
 Sastav, osnivanje i poslovi stručnog vijeća ustanove utvrđuju se statutom ustanove sukladno zakonu i aktu o osnivanju ustanove.
+ 
 Članak 50.
 Stručno vijeće raspravlja i odlučuje o stručnim pitanjima rada ustanove u sklopu nadležnosti utvrđenih zakonom, aktom o osnivanju i statutom ustanove, daje upravnom vijeću, ravnatelju i stručnom voditelju mišljenja i prijedloge glede organizacije rada i uvjeta za razvitak djelatnosti, te drugih poslova određenih zakonom, aktom o osnivanju i statutom ustanove.
+ 
 6. Ostali tijela ustanove
+ 
 Članak 51. (NN 127/19)
 Ustanova može imati i druga nadzorna, stručna i savjetodavna tijela.
 Sastav, način osnivanja, djelokrug i nadležnost tijela iz stavka 1. ovoga članka utvrđuju se statutom ustanove sukladno zakonu i aktu o osnivanju ustanove.
-
+ 
 7. Tijela podružnice
+ 
 Članak 52. (NN 127/19)
 U podružnici ustanove djelatnost i poslovanje organizira i vodi voditelj podružnice u sklopu prava i dužnosti podružnice određenih aktom o osnivanju ili statutom ustanove.
 U podružnici ustanove može se osnovati stručno vijeće i drugo tijelo sukladno aktu o osnivanju i statutu ustanove.
-
+ 
+ 
 VI. OPĆI AKTI USTANOVE
+ 
 Članak 53. (NN 127/19)
 Ustanova ima statut kojim se, sukladno zakonu i aktu o osnivanju ustanove, uređuje ustrojstvo, ovlasti i način odlučivanja tijela ustanove, te uređuju druga pitanja od značenja za obavljanje djelatnosti i poslovanje ustanove.
 Ustanova ima i druge opće akte sukladno zakonu, aktu o osnivanju i statutu ustanove.
+ 
 Članak 54. (NN 127/19)
 Statut ustanove donosi upravno vijeće uz prethodnu suglasnost osnivača ustanove ako zakonom ili aktom o osnivanju nije drugačije određeno.
 Druge opće akte ustanove donosi upravno vijeće ako zakonom ili statutom ustanove nije propisano da ih donosi ravnatelj ili stručno vijeće.
+ 
 Članak 55. (NN 127/19)
 Statut i drugi opći akt ustanove stupa na snagu najranije dan nakon dana objave na oglasnoj ploči ustanove, odnosno u službenom ili drugom glasilu ako je takav način objavljivanja općih akata ustanove određen zakonom, aktom o osnivanju ili statutom ustanove.
 Statut i opći akti ustanove ne mogu imati povratno djelovanje.
+ 
 Članak 56. (NN 127/19)
 Javna ustanova dužna je akt o osnivanju, statut te druge opće akte koji uređuju obavljanje njezine djelatnosti ili dijela djelatnosti koja se smatra javnom službom objaviti na svojim mrežnim stranicama na lako pretraživ način i u strojno čitljivom obliku.
-
+ 
+ 
 VII. IMOVINA USTANOVE I ODGOVORNOST ZA NJENE OBVEZE
+ 
 Članak 57. (NN 127/19)
 Sredstva za rad koja su pribavljena od osnivača, stečena pružanjem usluga i prodajom proizvoda ili su pribavljena iz drugih izvora čine imovinu ustanove.
 Ako u obavljanju svoje djelatnosti ustanova ostvari dobit, ostvarena se dobit upotrebljava za obavljanje i razvoj djelatnosti ustanove u skladu s aktom o osnivanju i statutom.
 Iznimno od odredbe stavka 2. ovoga članka, ostvarena dobit ustanove čiji je osnivač druga pravna ili fizička osoba, odnosno čiji su jedini osnivači druge pravne i/ili fizičke osobe može se upotrijebiti i na druge načine, uz odgovarajuću primjenu propisa o trgovačkim društvima, temeljem odluke osnivača u skladu s aktom o osnivanju i statutom.
 Javna ustanova iz članka 6. stavka 2. točke 2. ovoga Zakona ostvarenu dobit upotrebljava sukladno posebnom zakonu.
 Ako to nije u suprotnosti sa zakonom, osnivač može dobit ustanove upotrijebiti za razvoj i obavljanje djelatnosti druge ustanove kojoj je osnivač.
+ 
 Članak 58. (NN 127/19)
 Ustanova ne može bez suglasnosti osnivača ustanove, odnosno tijela kojeg je on odredio, steći, opteretiti ili otuđiti nekretninu i drugu imovinu čija je vrijednost veća od vrijednosti utvrđene aktom o osnivanju ili statutom ustanove.
+ 
 Članak 59.
 Ustanova odgovara za obveze cijelom svojom imovinom.
 Osnivač ustanove solidarno i neograničeno odgovara za njene obaveze.
-
+ 
+ 
 VIII. JAVNOST RADA USTANOVE
+ 
 Članak 60.
 Rad ustanova je javan.
 Ustanova je dužna pravodobno i istinito obavještavati javnosti o obavljanju djelatnosti ili dijela djelatnosti za koju je osnovana na način određen statutom ustanove sukladno zakonu i aktu o osnivanju.
-
+ 
 Članak 61. (NN 127/19)
+ 
 Ustanova je, s obzirom na karakter svoje djelatnosti, dužna građane, pravne osobe i druge korisnike pravodobno i na pogodan način obavještavati o uvjetima i načinu davanja svojih usluga i obavljanju poslova iz djelatnosti za koju je ustanova osnovana.
 Ustanova je dužna na svojim mrežnim stranicama objaviti podatke o uvjetima i načinu pružanja usluga i obavljanju poslova iz svoje djelatnosti.
+ 
 Članak 62. (NN 127/19)
 Ustanova je dužna u razumnom roku davati sredstvima javnog priopćavanja na njihov zahtjev informacije o obavljanju svoje djelatnosti i omogućiti im uvid u odgovarajuću dokumentaciju.
 Ustanova će uskratiti davanje informacija, odnosno uvid u dokumentaciju samo u skladu s propisima o zaštiti tajnosti podataka i zaštiti osobnih podataka.
+ 
 Članak 63.
 Kad javna ustanova održava znanstvena, stručna i druga savjetovanja i skupove o pitanjima za koje je javnost zainteresirana, dužna je sredstva javnog priopćavanja obavijestiti o tome i omogućiti im nazočnost.
-
+ 
+ 
 IX. NADZOR NAD RADOM USTANOVE
+ 
 Članak 64. (NN 127/19)
 Ako zakonom kojim se uređuje obavljanje određene djelatnosti nije drukčije propisano, nadzor nad zakonitošću rada i općih akata ustanove obavlja tijelo državne uprave u čijem je djelokrugu djelatnost ustanove.
 Obavljanje povjerenih poslova državne uprave podliježe upravnom nadzoru sukladno zakonu kojim se uređuje sustav državne uprave.
+ 
 Članak 65. (NN 127/19)
 Ako zakonom, kojim se uređuje obavljanje određene djelatnosti, nije drugačije određeno, ravnatelj ustanove dužan je u roku od osam dana od dana donošenja dostaviti statut tijelu iz članka 64. ovoga Zakona. Ravnatelj javne ustanove dužan je u istom roku dostaviti i opći akt kojim se uređuju uvjeti i način obavljanja javne službe.
 Ako utvrdi nezakonitosti u sadržaju ili postupku donošenja statuta ili općih akata iz stavka 1. ovoga članka, tijelo koje provodi nadzor ovlašteno je sporni akt obustaviti od izvršenja te uputiti zahtjev za ocjenu njegove zakonitosti Visokom upravnom sudu Republike Hrvatske.
+ 
 Članak 66. (NN 127/19)
 Ako ustanova, čiji je osnivač druga pravna ili fizička osoba, odnosno čiji su jedini osnivači druge pravne i/ili fizičke osobe, protuzakonitim obavljanjem svoje djelatnosti ili drugim postupanjem ugrožava pravni poredak Republike Hrvatske, imovinu veće vrijednosti ili živote, sigurnost ili zdravlje stanovništva, tijelo iz članka 64. ovoga Zakona obavijestit će o tome osnivača ustanove i istodobno podnijeti tužbu radi ukidanja ustanove.
 Nadležni trgovački sud u slučaju iz stavka 1. ovoga članka postupa sukladno propisima o ukidanju trgovačkog društva.
+ 
 Članak 67. (NN 127/19)
 Nad financijskim poslovanjem ustanove nadzor obavlja nadležno tijelo državne uprave, odnosno pravna osoba koja ima za to javnu ovlast.
+ 
 Članak 68.
 Nadzor nad stručnim radom ustanove obavlja stručno tijelo određeno zakonom ili drugim propisom utemeljenim na zakonu.
 Tijelo iz stavka 1. ovoga članka dužno je ustanovama pružati stručnu pomoć i, sukladno zakonu i drugom propisu, davati im stručne upute o obavljanju djelatnosti ustanove i poduzimati mjere da se spriječe ili otklone pogreške u stručnom radu.
-
+ 
+ 
 X. STATUSNE PROMJENE
+ 
 Članak 69.
 Ustanova se može pripojiti drugoj ustanovi ili se dvije ili više ustanova mogu spojiti u jednu ustanovu ili se jedna ustanova može podijeliti na dvije ili više ustanova.
 Ustanova se može pretvoriti u trgovačko društvo ili pripojiti trgovačkom društvu.
 Odluku o statusnim promjenama iz stavka 1. i 2. ovoga članka donosi osnivač ustanove.
 Na statusne promjene iz stavka 1. i 2. ovoga članka primjenjuju se na odgovarajući način propisi o statusnim promjenama javnog trgovačkog društva.
-
+ 
+ 
 XI. UDRUŽIVANJE USTANOVA
+ 
 Članak 70. (NN 127/19)
 Ustanove se mogu, uz suglasnost osnivača, udruživati u zajednice ustanova.
 Zajednica ustanova je pravna osoba i upisuje se u sudski registar. Na naziv, sjedište, djelatnost i ustrojstvo zajednice ustanova primjenjuju se na odgovarajući način odredbe ovoga Zakona o nazivu, sjedištu, djelatnosti i ustrojstvu ustanova.
-
+ 
+ 
 XII. PRESTANAK USTANOVE
+ 
 Članak 71.
 Ustanova prestaje:
 1. pravomoćnošću sudske odluke kojom je utvrđena ništavost upisa ustanove u sudski registar;
@@ -329,25 +382,33 @@ Ustanova prestaje:
 6. pravomoćnošću sudske presude o ukidanju ustanove i
 7. u drugim slučajevima određenim zakonom ili aktom o osnivanju.
 U slučajevima iz stavka 1. točke 1., 2., 3., 4., 6. i 7. ovoga članka provodi se postupak likvidacije ustanove uz odgovarajuću primjenu propisa o likvidaciji javnog trgovačkog društva.
+ 
 Članak 72.
 Nad ustanovom se može provesti stečaj u skladu s propisima o stečaju.
+ 
 Članak 73.
 Ostatak likvidacijske, odnosno stečajne mase predat će se osnivaču ustanove.
+ 
 Članak 74.
 Podružnica ustanove prestaje :
 1.ako ustanova donese odluku o prestanku podružnice,
 2. ako ustanova prestane postojati.
-
+ 
+ 
 XIII. UPIS U SUDSKI REGISTAR
+ 
 Članak 75. (NN 127/19)
 Ustanove, podružnice ustanova i zajednice ustanova upisuju se u sudski registar.
+ 
 Članak 76. (NN 127/19)
 Zakonom se može propisati obveza upisa ustanove i u registar, očevidnik ili drugu službenu evidenciju pri tijelu državne uprave u čijem je djelokrugu djelatnost ustanove.
 Upis iz stavka 1. ovoga članka može se provesti tek po upisu ustanove u sudski registar.
 U slučaju nesuglasja među upisanim podacima, mjerodavnim se smatraju podaci upisani u sudski registar.
 Sadržaj registra, očevidnika ili druge službene evidencije iz stavka 1. ovoga članka te postupak upisa uređuje se zakonom ili drugim propisom utemeljenim na zakonu.
-
+ 
+ 
 XIV. PREKRŠAJNE ODREDBE
+ 
 Članak 77. (NN 127/19, 151/22)
 Ako zakonom kojim se uređuje obavljanje djelatnosti iz članka 1. stavka 2. ovoga Zakona nije drugačije propisano, novčanom kaznom od 1000,00 do 5000,00 eura kaznit će se za prekršaj ustanova:
 1. ako ne prijavi upis podružnice u sudski registar (članak 9. stavak 5.),
@@ -360,37 +421,40 @@ Ako zakonom kojim se uređuje obavljanje djelatnosti iz članka 1. stavka 2. ovo
 8. ako dobit ne upotrijebi na način propisan odredbom članka 57. stavka 2. ovoga Zakona,
 9. ako statut ili opći akt kojim se uređuju uvjeti i način obavljanja javne službe ne dostavi nadležnom tijelu sukladno odredbi članka 65. stavka 1. ovoga Zakona.
 Za prekršaj iz stavka 1. točaka 1. do 4. i 6. do 9. ovoga članka kaznit će se novčanom kaznom od 500,00 do 1000,00 eura i odgovorna osoba ustanove.
-
+ 
+ 
 XV. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
 Članak 78.
 Danom stupanja na snagu ovoga Zakona društvene pravne osobe koje nisu organizirane kao društvena poduzeća, zadruge ili društvene organizacije, ako ispunjavaju uvjete iz članka 1. stavka 2. ovog Zakona, te ako posebnim zakonom nije što drugo određeno, postaju javnim ustanovama.
 Osnivačem ustanova iz stavka 1. ovoga članka smatra se Republika Hrvatska.
 Vlada Republike Hrvatske može u roku šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti odluku o prijenosu osnivačkih prava nad određenim ustanovama ili vrstama ustanova na jedinice lokalne i područne (regionalne) samouprave ili koju drugu pravnu osobu ili ovlastiti nadležno ministarstvo da ono prenese osnivačka prava na jedinicu lokalne i područne (regionalne) samouprave.
 Osnivačka prava iz stavka 3. ovoga članka Vlada Republike Hrvatske ili od nje ovlašteno ministarstvo može prenijeti na drugu pravnu osobu samo uz suglasnost te pravne osobe. O prijenosu osnivačkih prava sklapa se poseban ugovor.
-
+ 
 Članak 79.
+ 
 Danom stupanja na snagu ovoga Zakona prestaje nadležnost radničkih savjeta ili po ovlastima njima odgovarajućih organa upravljanja pravnih osoba iz članka 78. stavka 1. ovoga Zakona.
 Do konstituiranja upravnog vijeća ili drugog kolegijalnog tijela ustanove sukladno odredbama ovoga Zakona, poslove ravnatelja i tijela upravljanja ustanovom nastavit će obavljati osoba koja obnaša poslovodnu dužnost u pravnoj osobi na dan stupanja na snagu ovoga Zakona.
 Vlada Republike Hrvatske i od nje ovlašteno ministarstvo mogu osobu iz stavka 2. ovoga članka razriješiti i na njenu dužnost imenovati drugu osobu sve dok se ne izaberu odnosno imenuju novi organi ustanove u skladu s ovim Zakonom. To pravo imaju i predstavnička tijela jedinica lokalne i područne (regionalne) samouprave, odnosno nadležni organi drugih pravnih osoba na koje su prenesena osnivačka prava.
+ 
 Članak 80.
 Ako Vlada Republike Hrvatske ili ovlašteno ministarstvo ne prenesu osnivačka prava na jedinicu lokalne i područne (regionalne) samouprave ili drugu pravnu osobu, Vlada Republike Hrvatske, odnosno ovlašteno ministarstvo imenovat će upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenih u ustanovi.
 Predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave, odnosno nadležni organ druge pravne osobe na koju su, u skladu s odredbama ovoga Zakona, prenijeta osnivačka prava dužan je u roku mjesec dana od primitka rješenja o prijenosu, odnosno od sklapanja ugovora o tome, imenovati upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenika ustanove.
 Upravni odbor iz stavka 1. i 2. ovoga članka dužan je u roku tri mjeseca od imenovanja donijeti statut i opće akte ustanove i započeti postupak za izbor, odnosno imenovanje članova organa ustanove u skladu sa zakonom i s tim aktima.
 Upravni odbor imenovan po odredbama ovoga članka ima prava i dužnosti upravnog vijeća, odnosno drugog kolegijalnog organa ustanove iz članka 35. ovoga Zakona.
+ 
 Članak 81.
 Na ustanove koje su osnovane zakonom, odnosno na temelju zakona aktom predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave, i kod kojih je određen vlasnik odnosno osnivač, te u svezi utvrđen postupak imenovanja i razrješenja poslovodnog organa i uređen način upravljanja ustanovom, ne primjenjuju se odredbe članka 78., 79. i 80. ovoga Zakona.
+ 
 Članak 82.
 Ovaj zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
+ 
 Prijelazne i završne odredbe iz NN 127/19
+ 
 Članak 56.
 Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+ 
 Prijelazne i završne odredbe iz NN 151/22
+ 
 Članak 5.
 Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023.
-
- Ispisano: PRINTDATE \@ "d. MMMM yyyy." 0. XXX 0000.
-
- PAGE 1
-Zakon o ustanovama
-NN 76/93, 29/97, 47/99, 35/08, 127/19, 151/22 - na snazi od 01.01.2023.
-

@@ -1,42 +1,49 @@
-ZAKON
-O PRIZNAVANJU I VREDNOVANJU INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
-GLAVA I. OPĆE ODREDBE
+﻿GLAVA I.   OPĆE ODREDBE
+ 
 Članak 1.
 (1) Ovim Zakonom uređuju se način i postupci vrednovanja inozemnih obrazovnih kvalifikacija u svrhu pristupa tržištu rada u profesijama koje nisu uključene u Popis reguliranih profesija u Republici Hrvatskoj, a koji se provode sukladno posebnim propisima.
-(2) Zakonom se uređuju način i postupci priznavanja inozemnih obrazovnih kvalifikacija i razdoblja obrazovanja sa svrhom nastavka obrazovanja te se utvrđuju nadležna tijela koja provode postupke vrednovanja i priznavanja inozemnih obrazovnih kvalifikacija.
+(2) Zakonom se uređuju način i postupci priznavanja inozem­nih obrazovnih kvalifikacija i razdoblja obrazovanja sa svrhom nastavka obrazovanja te se utvrđuju nadležna tijela koja provode postupke vrednovanja i priznavanja inozemnih obrazovnih kvalifikacija.
 (3) Priznavanje razdoblja obrazovanja u inozemstvu, koje se provodi na temelju sporazuma između studenta odnosno učenika, matične obrazovne ustanove i obrazovne institucije u inozemstvu, ili između visokih učilišta, provodi se sukladno općim aktima visokog učilišta odnosno općim aktima odgojno-obrazovne ustanove, te se na isto ne primjenjuju odredbe ovoga Zakona.
+ 
 Članak 2.
 (1) Pojedini pojmovi u smislu ovoga Zakona imaju sljedeća značenja:
-1) Inozemna obrazovna kvalifikacija je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete. Dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba osim u slučajevima iz članka 20. ovoga Zakona.
-2) Priznavanje inozemne obrazovne kvalifikacije je potvrđivanje vrijednosti inozemne obrazovne kvalifikacije koju je izdalo nadležno tijelo u svrhu pristupa ili nastavka obrazovanja.
-3) Priznavanje razdoblja obrazovanja je potvrđivanje stečenih skupova ishoda učenja ostvarenih u inozemstvu prije stjecanja inozemne obrazovne kvalifikacije s ciljem nastavka obrazovanja u Republici Hrvatskoj.
-4) Vrednovanje inozemne obrazovne kvalifikacije je utvrđivanje razine, obujma, profila i kvalitete inozemne obrazovne kvalifikacije, kao i prava koja ta kvalifikacija daje u zemlji u kojoj je stečena.
-5) Automatsko priznavanje inozemne obrazovne kvalifikacije je omogućavanje nositelju kvalifikacije pristupa nastavku obrazovanja na visokom učilištu u Republici Hrvatskoj bez provođenja postupka priznavanja.
-6) Automatsko priznavanje razdoblja obrazovanja je priznavanje ishoda učenja stečenih za vrijeme razdoblja obrazovanja u inozemstvu radi pristupa nastavku obrazovanja na visokom učilištu u Republici Hrvatskoj bez provođenja postupka priznavanja.
-7) Odgojno-obrazovna ustanova je osnovna i srednja škola te ustanova za obrazovanje odraslih koja ima odobrenje za izvođenje programa osnovnog i srednjeg obrazovanja u Republici Hrvatskoj.
-8) Tijela nadležna za priznavanje su agencija nadležna za znanost i visoko obrazovanje, agencija nadležna za strukovno obrazovanje i obrazovanje odraslih, agencija nadležna za odgoj i obrazovanje i visoka učilišta.
-9) Tijela nadležna za vrednovanje su agencija nadležna za znanost i visoko obrazovanje, agencija nadležna za strukovno obrazovanje i obrazovanje odraslih te agencija nadležna za odgoj i obrazovanje (u daljnjem tekstu: nadležne agencije).
-10) Mišljenje o inozemnoj obrazovnoj kvalifikaciji je neupravni akt koji donosi nadležna agencija na temelju provedenog postupka vrednovanja inozemne obrazovne kvalifikacije.
-11) Informativni dokument o inozemnoj obrazovnoj kvalifikaciji je neupravni akt koji donosi nadležna agencija na temelju zahtjeva azilanta, stranca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom koji nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju.
-12) Središnji prijavni postupak je centralizirani postupak prijave za upise na studijske programe visokih učilišta i srednjoškolskog obrazovanja koje vodi agencija nadležna za znanost i visoko obrazovanje.
-13) Isprave kojima se dokazuje inozemna obrazovna kvalifikacija uključuju svjedodžbe, diplome i potvrde o završenom programu.
+1) Inozemna obrazovna kvalifikacija je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete. Dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba osim u slučajevima iz članka 20. ovoga Zakona.
+2) Priznavanje inozemne obrazovne kvalifikacije je potvrđivanje vrijednosti inozemne obrazovne kvalifikacije koju je izdalo nadležno tijelo u svrhu pristupa ili nastavka obrazovanja.
+3) Priznavanje razdoblja obrazovanja je potvrđivanje stečenih skupova ishoda učenja ostvarenih u inozemstvu prije stjecanja inozemne obrazovne kvalifikacije s ciljem nastavka obrazovanja u Republici Hrvatskoj.
+4) Vrednovanje inozemne obrazovne kvalifikacije je utvrđivanje razine, obujma, profila i kvalitete inozemne obrazovne kvalifikacije, kao i prava koja ta kvalifikacija daje u zemlji u kojoj je stečena.
+5) Automatsko priznavanje inozemne obrazovne kvalifikacije je omogućavanje nositelju kvalifikacije pristupa nastavku obrazovanja na visokom učilištu u Republici Hrvatskoj bez provođenja postupka priznavanja.
+6) Automatsko priznavanje razdoblja obrazovanja je priznavanje ishoda učenja stečenih za vrijeme razdoblja obrazovanja u inozemstvu radi pristupa nastavku obrazovanja na visokom učilištu u Republici Hrvatskoj bez provođenja postupka priznavanja.
+7) Odgojno-obrazovna ustanova je osnovna i srednja škola te ustanova za obrazovanje odraslih koja ima odobrenje za izvođenje programa osnovnog i srednjeg obrazovanja u Republici Hrvatskoj.
+8) Tijela nadležna za priznavanje su agencija nadležna za znanost i visoko obrazovanje, agencija nadležna za strukovno obrazovanje i obrazovanje odraslih, agencija nadležna za odgoj i obrazovanje i visoka učilišta.
+9) Tijela nadležna za vrednovanje su agencija nadležna za znanost i visoko obrazovanje, agencija nadležna za strukovno obrazovanje i obrazovanje odraslih te agencija nadležna za odgoj i obrazovanje (u daljnjem tekstu: nadležne agencije).
+10) Mišljenje o inozemnoj obrazovnoj kvalifikaciji je neupravni akt koji donosi nadležna agencija na temelju provedenog postupka vrednovanja inozemne obrazovne kvalifikacije.
+11) Informativni dokument o inozemnoj obrazovnoj kvalifikaciji je neupravni akt koji donosi nadležna agencija na temelju zahtjeva azilanta, stranca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom koji nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju.
+12) Središnji prijavni postupak je centralizirani postupak prijave za upise na studijske programe visokih učilišta i srednjoškolskog obrazovanja koje vodi agencija nadležna za znanost i visoko obrazovanje.
+13) Isprave kojima se dokazuje inozemna obrazovna kvalifikacija uključuju svjedodžbe, diplome i potvrde o završenom programu.
 (2) Izrazi koji se koriste u ovome Zakonu, a imaju rodno značenje, odnose se jednako na muški i ženski rod.
+ 
 Članak 3.
 Priznavanje i vrednovanje inozemne obrazovne kvalifikacije temelji se na sljedećim načelima:
 – svaki nositelj inozemne obrazovne kvalifikacije ima pravo zatražiti priznavanje odnosno vrednovanje stečene inozemne obrazovne kvalifikacije
 – u postupku priznavanja odnosno vrednovanja nije dopuštena diskriminacija na osnovi rase ili etničke pripadnosti ili boje kože, spola, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog ili socijalnog podrijetla, imovnog stanja, članstva u sindikatu, obrazovanja, društvenog položaja, bračnog ili obiteljskog statusa, dobi, zdravstvenog stanja, invaliditeta, genetskog nasljeđa, rodnog identiteta, izražavanja ili spolne orijentacije odnosno bilo koje druge okolnosti koja nije povezana s vrijednošću inozemne obrazovne kvalifikacije
 – postupak priznavanja i vrednovanja inozemne obrazovne kvalifikacije provodi se transparentno i uz dosljednu primjenu kriterija za priznavanje i vrednovanje inozemnih obrazovnih kvalifikacija
 – istovjetne inozemne obrazovne kvalifikacije različitih nositelja priznavat će se i vrednovati na isti način.
+ 
 Članak 4.
 Pravo na priznavanje i vrednovanje inozemne obrazovne kvalifikacije imaju hrvatski državljani, strani državljani, osobe bez državljanstva, azilanti, stranci pod supsidijarnom zaštitom i stranci pod privremenom zaštitom te članovi obitelji azilanta odnosno stranca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom koji zakonito borave u Republici Hrvatskoj sukladno odredbama ovoga Zakona.
+ 
 Članak 5.
 Postupak priznavanja i vrednovanja inozemne obrazovne kvalifikacije pokreće se na zahtjev nositelja inozemne obrazovne kvalifikacije.
-GLAVA II. VREDNOVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA U SVRHU PRISTUPA TRŽIŠTU RADA
+ 
+ 
+GLAVA II.   VREDNOVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA U SVRHU PRISTUPA TRŽIŠTU RADA
+ 
 Članak 6.
 Postupak vrednovanja inozemnih obrazovnih kvalifikacija u svrhu pristupa tržištu rada u profesijama koje nisu uključene u Popis reguliranih profesija u Republici Hrvatskoj provodi:
 – agencija nadležna za odgoj i obrazovanje za inozemne obrazovne kvalifikacije o završenom osnovnom i srednjem obrazovanju u općim, gimnazijskim i umjetničkim programima
 – agencija nadležna za strukovno obrazovanje i obrazovanje odraslih za inozemne obrazovne kvalifikacije o završenom srednjem obrazovanju u strukovnim programima te o završenom programu na razini poslijesrednjoškolskog obrazovanja koje nije visoko obrazovanje
 – agencija nadležna za znanost i visoko obrazovanje za inozemne obrazovne kvalifikacije o završenom visokom obrazovanju.
+ 
 Članak 7.
 (1) Zahtjev za vrednovanje inozemne obrazovne kvalifikacije podnosi se nadležnom tijelu iz članka 6. ovoga Zakona.
 (2) Nositelj inozemne obrazovne kvalifikacije uz zahtjev za vrednovanje inozemne obrazovne kvalifikacije prilaže sljedeću dokumentaciju:
@@ -45,6 +52,7 @@ Postupak vrednovanja inozemnih obrazovnih kvalifikacija u svrhu pristupa tržiš
 – presliku osobne iskaznice, putne isprave ili drugog odgovarajućeg dokumenta kojim se može utvrditi identitet nositelja inozemne obrazovne kvalifikacije
 – ispravu o državljanstvu, osim u slučaju osobe bez državljanstva, azilanta, stranca pod supsidijarnom zaštitom i stranca pod privremenom zaštitom te članova njihovih obitelji.
 (3) Tijelo nadležno za postupak vrednovanja može od podnositelja zahtjeva zatražiti i druge isprave ako ocijeni da su bitne za donošenje mišljenja.
+ 
 Članak 8.
 (1) U postupku vrednovanja inozemne obrazovne kvalifikacije procjenjuje se sljedeće:
 – izvorni naziv stečene inozemne obrazovne kvalifikacije uz detaljan opis stečene inozemne obrazovne kvalifikacije na hrvatskom jeziku koji u najboljoj mogućoj mjeri opisuje kvalifikaciju
@@ -56,6 +64,7 @@ Postupak vrednovanja inozemnih obrazovnih kvalifikacija u svrhu pristupa tržiš
 – kvaliteta studijskog/obrazovnog programa i visokog učilišta ili odgojno-obrazovne ustanove, uključujući podatke o akreditaciji visokog učilišta ili odobrenju za rad obrazovne ustanove i programa potvrđenih i/ili izdanih od strane nadležnog tijela, te ostali podaci o osiguravanju kvalitete u zemlji u kojoj je inozemna obrazovna kvalifikacija stečena i pripadnosti obrazovnom sustavu države u kojoj je stečena
 – naziv i obujam (trajanje) obrazovnog programa koji je nositelj pohađao, godina upisa u program i godina stjecanja kvalifikacije.
 (2) Ako postoji sumnja u vjerodostojnost priložene isprave, nadležna agencija će po službenoj dužnosti tražiti provjeru vjerodostojnosti javne isprave o stečenoj inozemnoj obrazovnoj kvalifikaciji kod obrazovne institucije koja je izdala predmetnu javnu ispravu i/ili drugog nadležnog tijela u matičnoj državi.
+ 
 Članak 9.
 (1) Nakon provedenog postupka vrednovanja iz članka 8. ovoga Zakona nadležna agencija izdaje mišljenje o inozemnoj obrazovnoj kvalifikaciji koje mora biti obrazloženo.
 (2) Mišljenje nadležne agencije iz stavka 1. ovoga članka sadrži mišljenje o razini, obujmu, profilu i kvaliteti inozemne obrazovne kvalifikacije u odnosu na odgovarajuću kvalifikaciju koja se stječe u Republici Hrvatskoj.
@@ -63,13 +72,19 @@ Postupak vrednovanja inozemnih obrazovnih kvalifikacija u svrhu pristupa tržiš
 (4) Protiv mišljenja agencije iz stavka 1. ovoga članka o vrednovanju inozemne obrazovne kvalifikacije može se izjaviti prigovor čelniku tijela u roku od 15 dana od dana dostave mišljenja.
 (5) Čelnik tijela o prigovoru odlučuje rješenjem u roku od osam dana od dana izjavljivanja prigovora.
 (6) Protiv rješenja iz stavka 5. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+ 
 Članak 10.
 Nositelj inozemne obrazovne kvalifikacije stečeni naziv koristi u Republici Hrvatskoj u njegovu izvornom obliku.
-GLAVA III.
-POGLAVLJE I. PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA U SVRHU NASTAVKA OBRAZOVANJA
+ 
+ 
+GLAVA III.  
+ 
+POGLAVLJE I.   PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA U SVRHU NASTAVKA OBRAZOVANJA
+ 
 Članak 11.
 (1) Postupak priznavanja inozemnih obrazovnih kvalifikacija u svrhu nastavka obrazovanja provodi se kao postupak priznavanja u okviru upisnog postupka ili kao samostalni postupak priznavanja.
 (2) Postupak priznavanja inozemnih obrazovnih kvalifikacija u svrhu nastavka obrazovanja provode tijela nadležna za priznavanje iz članka 2. stavka 1. točke 8. ovoga Zakona.
+ 
 Članak 12.
 (1) Zahtjev za priznavanje inozemnih obrazovnih kvalifikacija u svrhu nastavka obrazovanja na višoj razini podnosi se agenciji nadležnoj za znanost i visoko obrazovanje ili visokom učilištu, sukladno članku 13. ovoga Zakona.
 (2) Nositelj inozemne obrazovne kvalifikacije uz zahtjev za priznavanje inozemne obrazovne kvalifikacije prilaže sljedeću dokumentaciju:
@@ -77,18 +92,23 @@ POGLAVLJE I. PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA U SVRHU NASTAVKA O
 – izvornik ili ovjerenu presliku dopunske isprave o studiju ili dopunske isprave uz svjedodžbu na engleskom jeziku ako postoji s ovjerenim prijevodom na hrvatski ili engleski jezik
 – presliku osobne iskaznice, putne isprave, dokaza o državljanstvu ili drugog odgovarajućeg dokumenta kojim se može utvrditi identitet nositelja inozemne obrazovne kvalifikacije.
 (3) Tijelo nadležno za postupak priznavanja može od podnositelja zahtjeva zatražiti i druge isprave ako ocijeni da su bitne za donošenje rješenja.
-POGLAVLJE II. POSTUPAK PRIZNAVANJA U OKVIRU UPISNOG POSTUPKA
+ 
+POGLAVLJE II.   POSTUPAK PRIZNAVANJA U OKVIRU UPISNOG POSTUPKA
+ 
 Članak 13.
 (1) Postupak priznavanja inozemnih obrazovnih kvalifikacija u okviru upisnog postupka za nastavak obrazovanja na višoj razini započinje podnošenjem urednog zahtjeva agenciji nadležnoj za znanost i visoko obrazovanje koja ga, ovisno o razini obrazovanja za koje se priznavanje traži, dostavlja nadležnoj agenciji bez odgode, a najkasnije u roku od osam dana od primitka zahtjeva odnosno pokreće postupak priznavanja ako je riječ o priznavanju:
 – inozemnih obrazovnih kvalifikacija o završenom srednjem obrazovanju u svrhu upisa na preddiplomski studij
 – inozemnih obrazovnih kvalifikacija o završenoj preddiplomskoj razini visokog obrazovanja u svrhu upisa na diplomski studij.
 (2) Postupak priznavanja inozemnih obrazovnih kvalifikacija iz stavka 1. ovoga članka agencija nadležna za znanost i visoko obrazovanje provodi u okviru središnjeg prijavnog postupka, u skladu s odredbama ovoga Zakona.
 (3) Postupak priznavanja inozemnih obrazovnih kvalifikacija o završenom osnovnom obrazovanju u svrhu nastavka obrazovanja na srednjoškolskoj razini provodi agencija nadležna za odgoj i obrazovanje, u okviru središnjeg prijavnog postupka, u skladu s odredbama ovoga Zakona.
-POGLAVLJE III. POSTUPAK SAMOSTALNOG PRIZNAVANJA INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+ 
+POGLAVLJE III.   POSTUPAK SAMOSTALNOG PRIZNAVANJA INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+ 
 Članak 14.
 (1) U svrhu upisa na diplomske, poslijediplomske te studije na stranim jezicima visoko učilište može i samostalno provoditi postupak priznavanja inozemne obrazovne kvalifikacije.
 (2) U slučajevima iz stavka 1. ovoga članka visoka učilišta postupke priznavanja mogu provoditi u okviru upisnog postupka uz odgovarajuću primjenu odredbe članka 13. ovoga Zakona.
 (3) Visoka učilišta su odluku o samostalnom provođenju postupka priznavanja inozemnih obrazovnih kvalifikacija sa svrhom nastavka obrazovanja dužna bez odgode dostaviti agenciji nadležnoj za znanost i visoko obrazovanje.
+ 
 Članak 15.
 (1) U postupku priznavanja iz članaka 13. i 14. ovoga Zakona primjenjuju se najmanje sljedeći kriteriji priznavanja i vrednovanja:
 – razina kvalifikacije koja se stječe završetkom inozemnog obrazovnog programa odgovara razini kvalifikacije koja omogućava nastavak obrazovanja u Republici Hrvatskoj
@@ -96,17 +116,22 @@ POGLAVLJE III. POSTUPAK SAMOSTALNOG PRIZNAVANJA INOZEMNIH OBRAZOVNIH KVALIFIKA
 – inozemna obrazovna ustanova koja je dodijelila kvalifikaciju dio je obrazovnog sustava države u kojoj se program provodi.
 (2) Ministar nadležan za poslove obrazovanja, uz prethodno mišljenje Rektorskog zbora Republike Hrvatske, donosi pravilnik kojim se uređuju kriteriji priznavanja i vrednovanja iz stavka 1. ovoga članka u svrhu nastavka obrazovanja na razini visokog obrazovanja iz članaka 13. i 14. ovoga Zakona.
 (3) Mišljenje iz stavka 2. ovoga članka Rektorski zbor dužan je dostaviti u roku od 30 dana od dana zaprimanja nacrta pravilnika, a ako mišljenje ne dostavi u propisanom roku, smatrat će se da je dano pozitivno mišljenje.
-POGLAVLJE IV. POSTUPAK PRIZNAVANJA U SVRHU NASTAVKA OBRAZOVANJA NA SREDNJOŠKOLSKOJ RAZINI
+ 
+POGLAVLJE IV.   POSTUPAK PRIZNAVANJA U SVRHU NASTAVKA OBRAZOVANJA NA SREDNJOŠKOLSKOJ RAZINI
+ 
 Članak 16.
 (1) Postupak priznavanja inozemnih obrazovnih kvalifikacija u svrhu nastavka obrazovanja na srednjoškolskoj razini provodi agencija nadležna za strukovno obrazovanje i obrazovanje odraslih.
 (2) Postupak priznavanja u smislu stavka 1. ovoga članka obuhvaća:
 – priznavanje srednjoškolske kvalifikacije o završenom trogodišnjem obrazovanju u svrhu upisa na četverogodišnji program
 – priznavanje srednjoškolske kvalifikacije u svrhu upisa na osposobljavanje/usavršavanje.
 (3) Zahtjev za priznavanje podnosi se agenciji iz stavka 1. ovoga članka uz odgovarajuću primjenu odredbi članka 12. stavaka 2. i 3. ovoga Zakona.
+ 
 Članak 17.
 (1) Rješenje o zahtjevu iz članka 13. stavka 1., članka 14. stavka 2. i članka 16. stavka 3. ovoga Zakona nadležno tijelo donosi i dostavlja stranki najkasnije u roku od 30 dana od dana podnošenja urednog zahtjeva odnosno u roku od 60 dana od dana podnošenja urednog zahtjeva u slučajevima provođenja ispitnog postupka (provođenja utvrđivanja vjerodostojnosti javne isprave o obrazovnoj kvalifikaciji).
 (2) Protiv rješenja iz stavka 1. ovoga članka može se izjaviti žalba ministarstvu nadležnom za poslove obrazovanja.
-POGLAVLJE V. AUTOMATSKO PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+ 
+POGLAVLJE V.        AUTOMATSKO PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+ 
 Članak 18.
 (1) Agencija nadležna za znanost i visoko obrazovanje dužna je u sklopu središnjeg prijavnog postupka u svrhu upisa u preddiplomski studij automatski priznati razinu kvalifikacije o srednjoškolskom obrazovanju bez provođenja postupka ako je kvalifikacija stečena u državi u kojoj je nacionalni kvalifikacijski okvir povezan s Europskim kvalifikacijskom okvirom ili u slučaju međunarodnog ugovora o uzajamnom automatskom priznavanju inozemnih obrazovnih kvalifikacija.
 (2) Visoko učilište odnosno agencija nadležna za znanost i visoko obrazovanje dužni su u sklopu prijavnih odnosno upisnih postupaka na diplomski i poslijediplomski studij automatski priznati razinu inozemne obrazovne kvalifikacije u visokom obrazovanju bez provođenja postupka priznavanja ako su kumulativno ispunjeni sljedeći uvjeti:
@@ -116,7 +141,9 @@ POGLAVLJE V. AUTOMATSKO PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
 (4) U slučaju sumnje u vjerodostojnost isprave o inozemnoj obrazovnoj kvalifikaciji provjerava se njezina vjerodostojnost.
 (5) Automatsko priznavanje inozemne obrazovne kvalifikacije iz stavaka 1. i 2. ovoga članka proizvodi učinke isključivo u okviru tog upisnog postupka.
 (6) Ako agencija nadležna za znanost i visoko obrazovanje ili visoko učilište utvrdi da nisu zadovoljeni uvjeti za automatsko priznavanje iz stavaka 1., 2. i 3. ovoga članka, provest će postupak priznavanja sukladno člancima 13. i 14. ovoga Zakona.
-POGLAVLJE VI. PRIZNAVANJE RAZDOBLJA OBRAZOVANJA
+ 
+POGLAVLJE VI.   PRIZNAVANJE RAZDOBLJA OBRAZOVANJA
+ 
 Članak 19.
 (1) Osobe koje su započele obrazovanje u inozemstvu, a nisu stekle inozemnu obrazovnu kvalifikaciju mogu zatražiti priznavanje razdoblja obrazovanja na visokom učilištu ili odgojno-obrazovnoj ustanovi u kojoj žele nastaviti obrazovanje u Republici Hrvatskoj.
 (2) Priznavanje razdoblja osnovnoškolskog ili srednjoškolskog odgoja i obrazovanja provedenog u inozemstvu u svrhu nastavka obrazovanja provodi odgojno-obrazovna ustanova u kojoj podnositelj zahtjeva namjerava nastaviti obrazovanje, sukladno načelima propisanima ovim Zakonom i zakonima iz područja odgoja i obrazovanja te obrazovanja odraslih.
@@ -124,19 +151,27 @@ POGLAVLJE VI. PRIZNAVANJE RAZDOBLJA OBRAZOVANJA
 (4) O zahtjevu iz stavaka 2. i 3. ovoga članka tijela nadležna za priznavanje razdoblja obrazovanja donose i dostavljaju stranki rješenje u roku od 30 dana od dana zaprimanja urednog zahtjeva.
 (5) Protiv rješenja iz stavka 4. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
 (6) Nadležne agencije u okviru svog djelokruga pružaju pomoć i savjetuju odgojno-obrazovne ustanove i visoka učilišta u provođenju postupaka priznavanja iz stavka 1. ovoga članka.
-POGLAVLJE VII. VREDNOVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA ZA AZILANTE, STRANCE POD SUPSIDIJARNOM ZAŠTITOM I STRANCE POD PRIVREMENOM ZAŠTITOM TE ČLANOVE NJIHOVIH OBITELJI KOJI ZAKONITO BORAVE U REPUBLICI HRVATSKOJ
+ 
+POGLAVLJE VII.   VREDNOVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA ZA AZILANTE, STRANCE POD SUPSIDIJARNOM ZAŠTITOM I STRANCE POD PRIVREMENOM ZAŠTITOM TE ČLANOVE NJIHOVIH OBITELJI KOJI ZAKONITO BORAVE U REPUBLICI HRVATSKOJ
+ 
 Članak 20.
 (1) Vrednovanje inozemnih obrazovnih kvalifikacija u svrhu pristupa tržištu rada te u svrhu nastavka obrazovanja na istoj ili višoj razini obrazovanja mogu tražiti azilant, stranac pod supsidijarnom zaštitom i stranac pod privremenom zaštitom te članovi obitelji azilanta, stranca pod supsidijarnom zaštitom odnosno stranca pod privremenom zaštitom koji zakonito borave u Republici Hrvatskoj, a koji su pravima i dužnostima izjednačeni s hrvatskim državljanima.
 (2) Nadležno tijelo ne može odbiti zahtjev za vrednovanje inozemne obrazovne kvalifikacije osobi iz stavka 1. ovoga članka isključivo zbog činjenice da podnositelj ne posjeduje službene dokumente kojima se dokazuje inozemna obrazovna kvalifikacija ili službene dokumente države podrijetla kojima dokazuje državljanstvo.
+ 
 Članak 21.
 (1) Za osobe iz članka 20. stavka 1. ovoga Zakona koje zbog opravdanih razloga nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju, agencija nadležna za vrednovanje u svrhu pristupa tržištu rada provest će vrednovanje sukladno raspoloživim podacima i izraditi informativni dokument o inozemnoj obrazovnoj kvalifikaciji.
 (2) Obvezni dijelovi informativnog dokumenta o inozemnoj obrazovnoj kvalifikaciji su podaci o odgojno-obrazovnoj ustanovi ili visokom učilištu koje je izdalo kvalifikaciju, podaci o profilu, razini i procjeni obujma kvalifikacije.
+ 
 Članak 22.
 Za osobe iz članka 20. stavka 1. ovoga Zakona koje zbog opravdanih razloga nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju potrebnu za nastavak obrazovanja ili razdoblje obrazovanja, odgojno-obrazovna ustanova ili visoko učilište provest će vrednovanje prethodnog učenja, u skladu s odredbama zakona kojim se propisuje Hrvatski kvalifikacijski okvir, propisima kojima se uređuju priznavanje i vrednovanje informalnog i neformalnog učenja u sustavu odgoja i obrazovanja te pravilnikom iz članka 15. ovoga Zakona.
-GLAVA IV. INFORMIRANJE, EVIDENCIJE I POSLOVI
+ 
+ 
+GLAVA IV.   INFORMIRANJE, EVIDENCIJE I POSLOVI
+ 
 Članak 23.
 (1) Informacije o postupku i kriterijima priznavanja i vrednovanja inozemnih obrazovnih kvalifikacija te upute o pravnom lijeku i mogućnosti prigovora moraju biti javno dostupne.
 (2) Priznavanje inozemnih obrazovnih kvalifikacija i razdoblja obrazovanja dio su unutarnjeg sustava osiguravanja kvalitete te, kao i ostale djelatnosti visokih učilišta i odgojno-obrazovnih ustanova, podliježu vanjskom vrednovanju, sukladno propisima kojima se uređuje osiguravanje kvalitete u odgoju i obrazovanju i visokom obrazovanju.
+ 
 Članak 24.
 (1) Nadležna agencija, visoka učilišta i odgojno-obrazovne ustanove koje provode priznavanje i vrednovanje inozemnih obrazovnih kvalifikacija dužne su u elektroničkom obliku voditi evidencije o svim ishodima vrednovanja odnosno priznavanja.
 (2) Evidencije iz stavka 1. ovoga članka moraju sadržavati:
@@ -145,25 +180,30 @@ GLAVA IV. INFORMIRANJE, EVIDENCIJE I POSLOVI
 – podatke o akreditaciji visokog učilišta ili obrazovne ustanove
 – podatke o obrazovnom odnosno studijskom programu, godinama obrazovanja, semestrima/razredima.
 (3) Podaci iz stavka 2. ovoga članka prikupljaju se, obrađuju i pohranjuju u svrhu osiguravanja jednakog postupanja prema nositeljima inozemnih obrazovnih kvalifikacija u postupku priznavanja.
+ 
 Članak 25.
 Pravilnik o visini naknade za troškove postupka priznavanja i vrednovanja, načinu raspodjele naknade, oslobođenja od plaćanja naknade te drugim pitanjima troškova postupka donosi ministar nadležan za poslove obrazovanja.
+Pravilnik o visini naknade za troškove postupaka priznavanja i vrednovanja, načinu raspodjele naknade, oslobođenja od plaćanja naknade te drugim pitanjima troškova postupka
+ 
 Članak 26.
 Nadzor nad primjenom odredbi ovoga Zakona obavlja ministarstvo nadležno za poslove obrazovanja.
-GLAVA V. PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
+ 
+GLAVA V.   PRIJELAZNE I ZAVRŠNE ODREDBE
+ 
 Članak 27.
 Školske svjedodžbe, diplome i druge javne isprave o stečenoj naobrazbi izdane do 8. listopada 1991. godine na visokim učilištima i odgojno-obrazovnim ustanovama na području bivše SFRJ izjednačene su po pravnoj snazi sa školskim svjedodžbama, diplomama i drugim javnim ispravama obrazovnih ustanova Republike Hrvatske i ne podliježu postupku priznavanja niti vrednovanja.
+ 
 Članak 28.
 (1) Pravilnike iz članaka 15. i 25. ovoga Zakona donijet će ministar nadležan za poslove obrazovanja u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
 (2) Nadležne agencije i visoka učilišta uskladit će svoje statute i opće akte sukladno odredbama ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+ 
 Članak 29.
 (1) Postupci priznavanja inozemnih obrazovnih kvalifikacija započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03., 198/03., 138/06., 124/09. i 45/11.) i propisima donesenim na temelju toga Zakona.
 (2) Propisi doneseni na temelju Zakona iz stavka 1. ovoga članka primjenjivat će se nakon prestanka njegova važenja, sve do donošenja odgovarajućih propisa prema ovome Zakonu.
+ 
 Članak 30.
 Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03., 198/03., 138/06., 124/09. i 45/11.).
+ 
 Članak 31.
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
-Klasa: 022-02/22-01/04
-Zagreb, 10. lipnja 2022.
-HRVATSKI SABOR
-Predsjednik Hrvatskoga sabora Gordan Jandroković, v. r.
-
