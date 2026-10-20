@@ -1,19 +1,16 @@
-import { AskForm } from "./ask-form";
+import { requireSession } from "@/lib/session";
+import { todayZagreb } from "@/lib/school-calendar";
+import { getSchoolDates } from "./calendar-actions";
+import { Calendar } from "./calendar";
 
-export default function Home() {
-  return (
-    <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-6 p-6">
-      <p className="text-sm text-black/70 dark:text-white/70">
-        Postavite pitanje o propisima; odgovor se temelji na dostupnom tekstu
-        zakona i navodi članak na koji se poziva. Cijele tekstove možete pročitati
-        i sami — odaberite propis u izborniku lijevo.
-      </p>
-
-      <AskForm />
-
-      <p className="mt-auto pt-2 text-xs text-black/50 dark:text-white/50">
-        Informativno, nije pravni savjet. Provjeri citirani izvor.
-      </p>
-    </main>
-  );
+/**
+ * Principal's landing screen: the school-year calendar. The fixed framework
+ * (nastavni dani, odmori, blagdani) is in code; the school's own dates come from
+ * the DB. `today` is computed server-side in Europe/Zagreb so it matches on the
+ * client (no hydration drift) and is TZ-correct on Vercel's UTC runtime.
+ */
+export default async function Home() {
+  await requireSession();
+  const schoolDates = await getSchoolDates();
+  return <Calendar schoolDates={schoolDates} today={todayZagreb()} />;
 }

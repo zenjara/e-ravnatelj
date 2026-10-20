@@ -23,6 +23,10 @@ export function LawNav({
   return (
     <nav className="flex flex-col gap-0.5">
       <Link href="/" className={cls(pathname === "/")}>
+        📅 Kalendar
+      </Link>
+
+      <Link href="/pitanja" className={cls(pathname === "/pitanja")}>
         Postavi pitanje
       </Link>
 
