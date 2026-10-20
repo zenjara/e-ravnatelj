@@ -30,6 +30,13 @@ export function LawNav({
         Postavi pitanje
       </Link>
 
+      <Link
+        href="/zaduzenja"
+        className={cls(pathname.startsWith("/zaduzenja"))}
+      >
+        📄 Odluke o zaduženjima
+      </Link>
+
       {isAdmin ? (
         <Link
           href="/admin/promjene"
