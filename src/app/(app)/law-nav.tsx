@@ -37,6 +37,13 @@ export function LawNav({
         📄 Odluke o zaduženjima
       </Link>
 
+      <Link
+        href="/ucitelji"
+        className={cls(pathname.startsWith("/ucitelji"))}
+      >
+        👥 Učitelji
+      </Link>
+
       {isAdmin ? (
         <Link
           href="/admin/promjene"

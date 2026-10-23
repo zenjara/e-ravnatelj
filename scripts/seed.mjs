@@ -15,17 +15,22 @@ const SALT_ROUNDS = 12;
 // --- Test credentials (DEV ONLY) -------------------------------------------
 // Plaintext passwords live only here, for local login during development.
 // They are bcrypt-hashed before insert; only the hash is stored.
+// `sifra` (e-Matica code) binds a test principal to a real school in `schools`
+// (populated by `npm run import:schools`). The account's school is set
+// SERVER-SIDE via users.school_id — never chosen by the user.
 const PRINCIPALS = [
   {
     username: "ravnatelj1",
     password: "lozinka123",
-    school_name: "OŠ Ivana Gundulića, Zagreb",
+    school_name: "OŠ don Lovre Katića, Solin",
+    sifra: "17-125-001",
     role: "principal",
   },
   {
     username: "ravnatelj2",
     password: "lozinka456",
-    school_name: "OŠ Petra Preradovića, Đakovo",
+    school_name: "OŠ Bogumila Tonija, Samobor",
+    sifra: "01-073-001",
     role: "principal",
   },
   {
@@ -78,6 +83,21 @@ async function main() {
       );
     }
     process.exit(1);
+  }
+
+  // Bind principals to their real school (users.school_id) by e-Matica šifra.
+  const byUser = new Map(data.map((r) => [r.username, r.id]));
+  for (const p of PRINCIPALS) {
+    if (!p.sifra) continue;
+    const { data: school } = await supabase
+      .from("schools").select("id, naziv").eq("sifra", p.sifra).maybeSingle();
+    if (!school) {
+      console.warn(`  ! škola ${p.sifra} nije nađena (pokreni "npm run import:schools")`);
+      continue;
+    }
+    const { error: bindErr } = await supabase
+      .from("users").update({ school_id: school.id }).eq("id", byUser.get(p.username));
+    if (bindErr) console.warn(`  ! vezivanje ${p.username} nije uspjelo: ${bindErr.message}`);
   }
 
   console.log("\n✓ Seeded principals:");
