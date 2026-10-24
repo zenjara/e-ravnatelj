@@ -1,26 +1,138 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* ───────────────────────────────────────────────────────────────────
+   e-ravnatelj design system — "institucionalno-elegantno"
+   Editorial serif (Fraunces) + Inter, ivory ground, ink text, deep-blue
+   accent with a restrained gold detail.
+   ─────────────────────────────────────────────────────────────────── */
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+:root {
+  --bg: #faf8f4;          /* ivory ground */
+  --bg-tint: #f3efe7;     /* slightly deeper panel */
+  --surface: #fffdfa;     /* cards */
+  --ink: #1c1a17;         /* primary text */
+  --muted: #6b6459;       /* secondary text */
+  --faint: #9a9488;       /* tertiary / meta */
+  --line: #e7e1d6;        /* hairline borders */
+  --line-strong: #d8d0c2;
+
+  --accent: #1e3a5f;      /* deep blue */
+  --accent-hover: #24466f;
+  --accent-ink: #ffffff;
+  --accent-weak: #eef2f7; /* blue tint surface */
+  --accent-soft: #c9d6e6; /* blue swatch */
+
+  --gold: #a9872f;        /* gold detail (text-safe) */
+  --gold-bright: #c2a14d;
+  --gold-weak: #f4edd9;
+
+  --good: #2f6f4f;
+  --good-weak: #e9f2ec;
+  --bad: #9e3b32;
+  --bad-weak: #f7e9e7;
+  --warn-weak: #f6edd8;
+  --warn-ink: #8a6d1f;
+
+  --shadow: 0 1px 2px rgba(28, 26, 23, 0.04), 0 8px 24px -12px rgba(28, 26, 23, 0.14);
+  --shadow-lg: 0 2px 4px rgba(28, 26, 23, 0.05), 0 24px 48px -16px rgba(28, 26, 23, 0.22);
+  --radius: 0.875rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --bg: #15120d;
+    --bg-tint: #1b1711;
+    --surface: #1e1a14;
+    --ink: #ece7dd;
+    --muted: #a89f90;
+    --faint: #7c7465;
+    --line: #2d2820;
+    --line-strong: #3a3328;
+
+    --accent: #7ba0d0;
+    --accent-hover: #93b2db;
+    --accent-ink: #15120d;
+    --accent-weak: #1f2a38;
+    --accent-soft: #33465d;
+
+    --gold: #d4b869;
+    --gold-bright: #e0c87e;
+    --gold-weak: #2a2414;
+
+    --good: #6fae8b;
+    --good-weak: #18271f;
+    --bad: #d98a80;
+    --bad-weak: #2a1a18;
+    --warn-weak: #2a2414;
+    --warn-ink: #d9bd74;
+
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 10px 30px -14px rgba(0, 0, 0, 0.6);
+    --shadow-lg: 0 2px 6px rgba(0, 0, 0, 0.4), 0 30px 60px -20px rgba(0, 0, 0, 0.7);
   }
 }
 
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-tint: var(--bg-tint);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-weak: var(--accent-weak);
+  --color-accent-soft: var(--accent-soft);
+  --color-gold: var(--gold);
+  --color-gold-bright: var(--gold-bright);
+  --color-gold-weak: var(--gold-weak);
+  --color-good: var(--good);
+  --color-good-weak: var(--good-weak);
+  --color-bad: var(--bad);
+  --color-bad-weak: var(--bad-weak);
+  --color-warn-weak: var(--warn-weak);
+  --color-warn-ink: var(--warn-ink);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
+
+  --radius-xl: var(--radius);
+}
+
+* {
+  border-color: var(--line);
+}
+
+/* Older users (principals, 40-50+): scale all rem-based type & spacing +20%
+   for comfortable reading. Respects the viewer's own browser font setting. */
+html {
+  font-size: 120%;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Editorial serif for display headings; opt-in via .font-serif in components. */
+.font-serif {
+  font-family: var(--font-fraunces), ui-serif, Georgia, serif;
+  font-optical-sizing: auto;
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: var(--gold-weak);
+  color: var(--ink);
+}
+
+/* Refined, unobtrusive scrollbars. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
 }
