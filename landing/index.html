@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>e-ravnatelj — digitalni asistent ravnateljima osnovnih škola</title>
+<meta name="description" content="e-ravnatelj — digitalni asistent ravnateljima osnovnih škola: pravni asistent nad propisima, generiranje Odluka o zaduženjima, školski kalendar i profil škole. Prijavite se za beta testiranje.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#faf8f4; --bg-tint:#f3efe7; --surface:#fffdfa;
+    --ink:#1c1a17; --muted:#6b6459; --faint:#9a9488;
+    --line:#e7e1d6; --line-strong:#d8d0c2;
+    --accent:#1e3a5f; --accent-hover:#24466f; --accent-weak:#eef2f7;
+    --gold:#a9872f; --gold-bright:#c2a14d; --gold-weak:#f4edd9;
+    --shadow:0 1px 2px rgba(28,26,23,.04), 0 10px 30px -14px rgba(28,26,23,.18);
+    --shadow-lg:0 2px 6px rgba(28,26,23,.05), 0 30px 60px -20px rgba(28,26,23,.25);
+  }
+  *{box-sizing:border-box}
+  html{font-size:112.5%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:"Inter",ui-sans-serif,system-ui,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+  }
+  .serif{font-family:"Fraunces",ui-serif,Georgia,serif; letter-spacing:-.01em}
+  a{color:inherit}
+  ::selection{background:var(--gold-weak)}
+  .wrap{max-width:68rem; margin:0 auto; padding:0 1.5rem}
+
+  /* top bar */
+  .top{display:flex; align-items:center; justify-content:space-between; padding:1.4rem 0}
+  .brand{font-size:1.25rem; font-weight:600}
+  .top .cta{font-size:.82rem}
+
+  /* hero */
+  .hero{text-align:center; padding:3rem 0 3.5rem}
+  .badge{
+    display:inline-flex; align-items:center; gap:.5rem; margin-bottom:1.6rem;
+    padding:.35rem .8rem; border-radius:999px;
+    background:var(--gold-weak); color:var(--gold); border:1px solid #e9dcb4;
+    font-size:.72rem; font-weight:600; letter-spacing:.14em; text-transform:uppercase;
+  }
+  .badge .dot{width:.45rem; height:.45rem; border-radius:50%; background:var(--gold-bright)}
+  .hero h1{
+    font-size:clamp(3rem, 11vw, 6.5rem); font-weight:600; line-height:.98;
+    margin:0; letter-spacing:-.03em;
+  }
+  .rule{width:4rem; height:2px; background:var(--gold); margin:1.6rem auto 0; border:0}
+  .hero p.lead{
+    max-width:34rem; margin:1.5rem auto 0; font-size:1.12rem; color:var(--muted);
+  }
+  .actions{margin-top:2rem; display:flex; gap:.8rem; justify-content:center; flex-wrap:wrap}
+  .btn{
+    display:inline-flex; align-items:center; gap:.5rem; cursor:pointer;
+    padding:.8rem 1.5rem; border-radius:.7rem; font-size:.95rem; font-weight:600;
+    text-decoration:none; border:1px solid transparent; transition:all .15s ease;
+  }
+  .btn-primary{background:var(--accent); color:#fff; box-shadow:var(--shadow)}
+  .btn-primary:hover{background:var(--accent-hover)}
+  .btn-ghost{background:transparent; color:var(--accent); border-color:var(--line-strong)}
+  .btn-ghost:hover{background:var(--accent-weak); border-color:var(--accent)}
+
+  /* section heading */
+  .eyebrow{font-size:.72rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); text-align:center}
+  .sec-title{font-size:clamp(1.7rem,4vw,2.3rem); font-weight:600; text-align:center; margin:.4rem 0 0}
+  .sec{padding:3.5rem 0}
+  .sec-sub{max-width:34rem; margin:.9rem auto 0; text-align:center; color:var(--muted)}
+
+  /* features */
+  .grid{display:grid; grid-template-columns:repeat(2,1fr); gap:1.1rem; margin-top:2.5rem}
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:1rem;
+    padding:1.6rem; box-shadow:var(--shadow);
+  }
+  .card .ic{
+    display:inline-flex; align-items:center; justify-content:center;
+    width:2.9rem; height:2.9rem; border-radius:.8rem; margin-bottom:1rem;
+    background:var(--accent-weak); font-size:1.4rem;
+  }
+  .card h3{margin:0 0 .4rem; font-size:1.2rem; font-weight:600}
+  .card p{margin:0; color:var(--muted); font-size:.96rem}
+  .card .tag{display:inline-block; margin-top:.9rem; font-size:.72rem; font-weight:600;
+    letter-spacing:.08em; text-transform:uppercase; color:var(--gold)}
+
+  /* signup */
+  .signup{
+    background:var(--accent); color:#fff; border-radius:1.4rem; padding:3rem 2rem;
+    text-align:center; box-shadow:var(--shadow-lg);
+  }
+  .signup .eyebrow{color:var(--gold-bright)}
+  .signup h2{font-size:clamp(1.8rem,4vw,2.4rem); font-weight:600; margin:.4rem 0 0; color:#fff}
+  .signup p{max-width:34rem; margin:1rem auto 0; color:#d7dde6}
+  .form{display:flex; gap:.7rem; justify-content:center; flex-wrap:wrap; margin-top:1.8rem}
+  .form input{
+    flex:1 1 18rem; max-width:22rem; padding:.85rem 1rem; border-radius:.7rem;
+    border:1px solid #3a516d; background:#16314f; color:#fff; font-size:1rem; outline:none;
+  }
+  .form input::placeholder{color:#9fb0c4}
+  .form input:focus{border-color:var(--gold-bright); box-shadow:0 0 0 4px rgba(194,161,77,.2)}
+  .form button{
+    padding:.85rem 1.6rem; border-radius:.7rem; border:0; cursor:pointer;
+    background:var(--gold-bright); color:#1c1a17; font-weight:700; font-size:1rem;
+    transition:filter .15s ease;
+  }
+  .form button:hover{filter:brightness(1.06)}
+  .note{margin-top:1rem; font-size:.82rem; color:#aebbcc}
+  .ok{margin-top:1.4rem; font-weight:600; color:#fff; display:none}
+
+  /* footer */
+  footer{padding:2.5rem 0 3rem; text-align:center; color:var(--faint); font-size:.85rem}
+  footer .sep{margin:0 .5rem; color:var(--line-strong)}
+
+  @media (max-width:640px){
+    .grid{grid-template-columns:1fr}
+    .top .cta{display:none}
+    .signup{padding:2.2rem 1.2rem}
+  }
+</style>
+</head>
+<body>
+
+  <div class="wrap">
+    <div class="top">
+      <span class="brand serif">e&#8209;ravnatelj</span>
+      <a class="btn btn-ghost cta" href="#beta">Prijava za betu</a>
+    </div>
+  </div>
+
+  <header class="hero wrap">
+    <span class="badge"><span class="dot"></span>Beta · u izradi</span>
+    <h1 class="serif">e&#8209;ravnatelj</h1>
+    <hr class="rule">
+    <p class="lead">Digitalni asistent ravnateljima osnovnih škola. Manje papirologije i traženja po propisima — više vremena za školu.</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="#beta">Prijavi se za beta testiranje</a>
+      <a class="btn btn-ghost" href="#sto">Pogledaj mogućnosti</a>
+    </div>
+  </header>
+
+  <section class="sec wrap" id="sto">
+    <p class="eyebrow">Što već možete</p>
+    <h2 class="sec-title serif">Mogućnosti u ovoj verziji</h2>
+    <p class="sec-sub">Sve je osmišljeno uz prave ravnatelje — jednostavno i pregledno, bez suvišnih koraka.</p>
+
+    <div class="grid">
+      <div class="card">
+        <span class="ic">⚖️</span>
+        <h3 class="serif">Pravni asistent</h3>
+        <p>Postavite pitanje o propisima i dobijete odgovor utemeljen na aktualnim zakonima, uz navođenje članka na koji se poziva.</p>
+      </div>
+      <div class="card">
+        <span class="ic">📄</span>
+        <h3 class="serif">Odluke o zaduženjima</h3>
+        <p>Učitate ispunjenu tablicu, a aplikacija izradi gotovu Odluku za svakog učitelja — spremnu za ispis i potpis, u jednom PDF-u ili zasebno.</p>
+      </div>
+      <div class="card">
+        <span class="ic">📅</span>
+        <h3 class="serif">Školski kalendar</h3>
+        <p>Pregledan kalendar školske godine s blagdanima i odmorima, a vlastite dane (Dan škole, Dan grada) škola upisuje sama.</p>
+      </div>
+      <div class="card">
+        <span class="ic">👥</span>
+        <h3 class="serif">Profil škole i učitelji</h3>
+        <p>Podaci škole su već popunjeni iz javnog registra, a popis učitelja uvezete iz e-Matice u nekoliko klikova.</p>
+      </div>
+      <div class="card" style="grid-column:1/-1">
+        <h3 class="serif" style="margin-bottom:.4rem">📚 Pročišćeni zakoni i pravilnici
+          <span class="tag" style="margin-left:.4rem">30+ propisa</span></h3>
+        <p>Svi ključni propisi za osnovnu školu na jednom mjestu, uredno posloženi po člancima — bez traženja po Narodnim novinama. Uvijek aktualni, uz jasno naznačen izvor.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec wrap" id="beta">
+    <div class="signup">
+      <p class="eyebrow">Beta testiranje</p>
+      <h2 class="serif">Pridružite se ranoj beti</h2>
+      <p>Tražimo nekoliko ravnatelja osnovnih škola za ranu betu. Besplatno, uz vašu povratnu informaciju. Ostavite email i javimo se s pristupom.</p>
+      <form class="form" id="betaForm">
+        <input type="email" id="email" name="email" placeholder="vas.email@skola.hr" required aria-label="Email adresa">
+        <button type="submit">Prijavi se</button>
+      </form>
+      <p class="note">Koristimo email isključivo za kontakt oko bete. Bez obveza.</p>
+      <p class="ok" id="okMsg">Hvala! Vaša prijava je zabilježena — javit ćemo se uskoro. ✦</p>
+    </div>
+  </section>
+
+  <footer class="wrap">
+    <span class="serif" style="font-weight:600; color:var(--muted)">e&#8209;ravnatelj</span>
+    <span class="sep">·</span> Informativno, nije pravni savjet
+    <span class="sep">·</span> Bez OIB-a i podataka o učenicima
+    <span class="sep">·</span> © 2026
+  </footer>
+
+<script>
+  // No backend yet: open the visitor's mail client with their address prefilled.
+  // Swap this for a form service (Tally/Formspree) or a Supabase insert later.
+  var BETA_EMAIL = "beta@e-ravnatelj.hr";
+  document.getElementById("betaForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var email = document.getElementById("email").value.trim();
+    if (!email) return;
+    document.getElementById("okMsg").style.display = "block";
+    var subject = encodeURIComponent("Prijava za beta e-ravnatelj");
+    var body = encodeURIComponent("Želim se prijaviti za beta testiranje.\n\nMoj email: " + email + "\nŠkola: \n");
+    window.location.href = "mailto:" + BETA_EMAIL + "?subject=" + subject + "&body=" + body;
+  });
+</script>
+</body>
+</html>

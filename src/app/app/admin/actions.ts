@@ -49,8 +49,8 @@ export async function approveProposal(id: number): Promise<void> {
     .update({ status: "approved", reviewed_at: new Date().toISOString(), reviewed_by: admin.usr })
     .eq("id", id);
 
-  revalidatePath("/admin/promjene");
-  revalidatePath(`/zakoni/${p.law_slug}`);
+  revalidatePath("/app/admin/promjene");
+  revalidatePath(`/app/zakoni/${p.law_slug}`);
 }
 
 /** Reject a proposed change. Admin-only. */
@@ -60,5 +60,5 @@ export async function rejectProposal(id: number): Promise<void> {
     .from("law_proposals")
     .update({ status: "rejected", reviewed_at: new Date().toISOString(), reviewed_by: admin.usr })
     .eq("id", id);
-  revalidatePath("/admin/promjene");
+  revalidatePath("/app/admin/promjene");
 }

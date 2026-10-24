@@ -14,12 +14,9 @@ import {
  * statuses instead of being redirected to the login HTML page.
  */
 
-const PUBLIC_PATHS = ["/login"];
-
-function isPublic(pathname: string): boolean {
-  return PUBLIC_PATHS.some(
-    (p) => pathname === p || pathname.startsWith(p + "/"),
-  );
+/** The application lives under /app; everything else here is public marketing/login. */
+function isProtected(pathname: string): boolean {
+  return pathname === "/app" || pathname.startsWith("/app/");
 }
 
 export function proxy(req: NextRequest) {
@@ -28,20 +25,21 @@ export function proxy(req: NextRequest) {
   const token = req.cookies.get(SESSION_COOKIE_NAME)?.value;
   const session = secret ? verifySessionToken(token, secret) : null;
 
-  // Unauthenticated user trying to reach a protected route → /login
-  if (!session && !isPublic(pathname)) {
+  // Unauthenticated user trying to reach the app → /login
+  if (!session && isProtected(pathname)) {
     const url = req.nextUrl.clone();
     url.pathname = "/login";
     return NextResponse.redirect(url);
   }
 
-  // Authenticated user on /login → home
-  if (session && isPublic(pathname)) {
+  // Authenticated user on /login → straight into the app
+  if (session && (pathname === "/login" || pathname.startsWith("/login/"))) {
     const url = req.nextUrl.clone();
-    url.pathname = "/";
+    url.pathname = "/app";
     return NextResponse.redirect(url);
   }
 
+  // The landing ("/") stays visible to everyone, signed in or not.
   return NextResponse.next();
 }
 

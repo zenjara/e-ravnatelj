@@ -56,7 +56,7 @@ export async function saveTeachers(rows: TeacherRow[]): Promise<{ saved: number 
     if (insErr) throw new Error(`Spremanje nije uspjelo: ${insErr.message}`);
   }
 
-  revalidatePath("/ucitelji");
+  revalidatePath("/app/ucitelji");
   return { saved: clean.length };
 }
 
@@ -65,5 +65,5 @@ export async function clearTeachers(): Promise<void> {
   const school = await getCurrentSchool();
   if (!school) return;
   await getSupabaseAdmin().from("teachers").delete().eq("school_id", school.id);
-  revalidatePath("/ucitelji");
+  revalidatePath("/app/ucitelji");
 }

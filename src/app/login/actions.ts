@@ -59,5 +59,5 @@ export async function login(
   }
 
   // Must be outside the try/catch: redirect() works by throwing internally.
-  redirect("/");
+  redirect("/app");
 }

@@ -92,7 +92,7 @@ export function AskForm() {
   return (
     <div className="flex flex-col gap-4">
       <form onSubmit={handleSubmit} className="flex flex-col gap-3">
-        <label htmlFor="question" className="text-sm font-medium">
+        <label htmlFor="question" className="text-sm font-medium text-ink">
           Vaše pitanje
         </label>
         <textarea
@@ -105,12 +105,12 @@ export function AskForm() {
           }}
           rows={3}
           placeholder="npr. Koliko dana godišnjeg odmora pripada učitelju?"
-          className="resize-y rounded-md border border-black/15 bg-white px-3 py-2 text-sm outline-none focus:border-black/40 dark:border-white/20 dark:bg-white/5 dark:focus:border-white/50"
+          className="resize-y rounded-lg border border-line bg-surface px-3.5 py-2.5 text-sm text-ink outline-none transition-colors placeholder:text-faint focus:border-accent focus:ring-4 focus:ring-accent/10"
         />
         <button
           type="submit"
           disabled={loading || !question.trim()}
-          className="self-start rounded-md bg-black px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90 disabled:opacity-50 dark:bg-white dark:text-black"
+          className="self-start rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-accent-ink transition-colors hover:bg-accent-hover disabled:opacity-50"
         >
           {loading ? "Tražim odgovor…" : "Pitaj"}
         </button>
@@ -119,30 +119,28 @@ export function AskForm() {
       {error ? (
         <p
           role="alert"
-          className="rounded-md bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950/40 dark:text-red-300"
+          className="rounded-lg bg-bad-weak px-3 py-2 text-sm text-bad"
         >
           {error}
         </p>
       ) : null}
 
       {answer ? (
-        <div className="flex flex-col gap-3 rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-white/5">
-          <p className="whitespace-pre-wrap text-sm leading-relaxed">{answer}</p>
+        <div className="flex flex-col gap-3 rounded-xl border border-line bg-surface p-5 shadow-[var(--shadow)]">
+          <p className="whitespace-pre-wrap text-[0.95rem] leading-relaxed text-ink">{answer}</p>
 
           {articleNumbers.length > 0 ? (
-            <div className="flex flex-wrap items-center gap-2 border-t border-black/10 pt-3 dark:border-white/10">
-              <span className="text-xs text-black/50 dark:text-white/50">
-                Citirano:
-              </span>
+            <div className="flex flex-wrap items-center gap-2 border-t border-line pt-3">
+              <span className="text-xs text-faint">Citirano:</span>
               {articleNumbers.map((n) => {
                 const src = sources.find((s) => s.article === n);
                 const label = `Članak ${n}.`;
                 const chip =
-                  "rounded-full bg-black/5 px-2.5 py-0.5 text-xs font-medium dark:bg-white/10";
+                  "rounded-full bg-accent-weak px-2.5 py-0.5 text-xs font-medium text-accent";
                 return src ? (
                   <Link
                     key={n}
-                    href={`/zakoni/${src.slug}#clanak-${n}`}
+                    href={`/app/zakoni/${src.slug}#clanak-${n}`}
                     title={`Otvori: ${src.title}`}
                     className={`${chip} underline-offset-2 hover:underline`}
                   >

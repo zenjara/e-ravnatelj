@@ -14,22 +14,22 @@ import {
   type DayType,
 } from "@/lib/school-calendar";
 
-/** Background + text classes per day type (pastel chips readable on light & dark). */
+/** Background + text classes per day type, tuned to the editorial palette. */
 const CELL: Record<DayType, string> = {
-  nastava: "text-black/80 dark:text-white/80",
-  nenastava: "text-black/50 dark:text-white/50",
-  vikend: "bg-slate-100 text-slate-400 dark:bg-white/[0.04] dark:text-white/30",
-  odmor: "bg-amber-200/80 text-amber-900",
-  blagdan: "bg-red-200/80 text-red-900 font-semibold",
-  skola: "bg-blue-200/90 text-blue-900 font-semibold",
+  nastava: "text-ink",
+  nenastava: "text-muted",
+  vikend: "bg-bg-tint text-faint",
+  odmor: "bg-gold-weak text-[color:var(--gold)]",
+  blagdan: "bg-bad-weak text-bad font-medium",
+  skola: "bg-accent-soft text-accent font-semibold",
 };
 
 const SW: Record<Exclude<DayType, "nenastava">, string> = {
-  nastava: "bg-white border border-black/15 dark:bg-white/10 dark:border-white/20",
-  vikend: "bg-slate-200 dark:bg-white/10",
-  odmor: "bg-amber-200",
-  blagdan: "bg-red-200",
-  skola: "bg-blue-300",
+  nastava: "bg-surface border border-line-strong",
+  vikend: "bg-bg-tint",
+  odmor: "bg-gold-weak",
+  blagdan: "bg-bad-weak",
+  skola: "bg-accent-soft",
 };
 
 function Legend() {
@@ -41,7 +41,7 @@ function Legend() {
     ["Vikend", "vikend"],
   ];
   return (
-    <div className="flex flex-wrap gap-x-4 gap-y-2 text-xs text-black/60 dark:text-white/60">
+    <div className="flex flex-wrap gap-x-5 gap-y-2 text-xs text-muted">
       {items.map(([label, key]) => (
         <span key={label} className="inline-flex items-center gap-1.5">
           <i className={`h-3.5 w-3.5 rounded ${SW[key]}`} />
@@ -58,12 +58,15 @@ function AddButton() {
     <button
       type="submit"
       disabled={pending}
-      className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90 disabled:opacity-50"
+      className="rounded-lg bg-accent px-4 py-2 text-sm font-semibold text-accent-ink transition-colors hover:bg-accent-hover disabled:opacity-50"
     >
       {pending ? "Spremam…" : "Dodaj u kalendar"}
     </button>
   );
 }
+
+const inputCls =
+  "rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink outline-none transition-colors focus:border-accent focus:ring-4 focus:ring-accent/10";
 
 export function Calendar({
   schoolDates,
@@ -79,9 +82,6 @@ export function Calendar({
   const upcoming = upcomingEvents(schoolDates, today, 6, cfg);
   const sorted = [...schoolDates].sort((a, b) => a.d.localeCompare(b.d));
 
-  // Toast: next upcoming event. Shown by default; hidden once its key is
-  // dismissed (manually or by the auto-timeout). A new soonest event → new key
-  // → shows again. Visibility is derived (no setState-in-effect).
   const next = upcoming[0];
   const nextKey = next ? `${next.d}|${next.label}` : null;
   const [hiddenKey, setHiddenKey] = useState<string | null>(null);
@@ -93,14 +93,17 @@ export function Calendar({
   }, [nextKey]);
 
   return (
-    <main className="mx-auto flex w-full max-w-6xl flex-1 flex-col gap-5 p-4 sm:p-6">
+    <main className="mx-auto flex w-full max-w-6xl flex-1 flex-col gap-6 p-5 sm:p-8">
       {/* Header */}
-      <div className="flex flex-wrap items-end justify-between gap-3">
+      <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
-          <h1 className="text-xl font-semibold tracking-tight">
-            Kalendar — školska godina {cfg.label}
+          <p className="text-[0.72rem] font-semibold uppercase tracking-[0.16em] text-gold">
+            Školska godina {cfg.label}
+          </p>
+          <h1 className="font-serif text-[1.9rem] font-semibold leading-tight tracking-tight text-ink">
+            Kalendar
           </h1>
-          <p className="mt-0.5 text-sm text-black/55 dark:text-white/55">
+          <p className="mt-1 max-w-xl text-sm leading-relaxed text-muted">
             Temeljem Odluke MZOM ({cfg.nnRef}). Dan škole, Dan grada/općine i
             nenastavne dane škola upisuje sama.
           </p>
@@ -110,8 +113,8 @@ export function Calendar({
           onClick={() => setFormOpen((v) => !v)}
           className={`rounded-lg border px-4 py-2 text-sm font-semibold transition-colors ${
             formOpen
-              ? "border-blue-600 text-blue-700 dark:text-blue-300"
-              : "border-blue-600 bg-blue-600 text-white hover:opacity-90"
+              ? "border-accent text-accent hover:bg-accent-weak"
+              : "border-transparent bg-accent text-accent-ink hover:bg-accent-hover"
           }`}
         >
           ＋ Dodaj važan datum
@@ -126,9 +129,9 @@ export function Calendar({
             await addSchoolDate(fd);
             formRef.current?.reset();
           }}
-          className="flex flex-wrap items-end gap-3 rounded-xl border border-black/10 bg-black/[0.02] p-4 dark:border-white/10 dark:bg-white/[0.03]"
+          className="flex flex-wrap items-end gap-3 rounded-xl border border-line bg-bg-tint p-4"
         >
-          <label className="flex flex-col gap-1 text-xs text-black/60 dark:text-white/60">
+          <label className="flex flex-col gap-1 text-xs text-muted">
             Datum
             <input
               type="date"
@@ -136,10 +139,10 @@ export function Calendar({
               required
               min={`${cfg.nastavaStart.slice(0, 4)}-09-01`}
               max={`${Number(cfg.nastavaStart.slice(0, 4)) + 1}-08-31`}
-              className="rounded-lg border border-black/15 bg-white px-3 py-2 text-sm dark:border-white/20 dark:bg-white/5"
+              className={inputCls}
             />
           </label>
-          <label className="flex flex-col gap-1 text-xs text-black/60 dark:text-white/60">
+          <label className="flex flex-col gap-1 text-xs text-muted">
             Naziv (npr. Dan škole, Dan grada)
             <input
               type="text"
@@ -147,11 +150,11 @@ export function Calendar({
               required
               maxLength={120}
               placeholder="Dan škole"
-              className="min-w-[240px] rounded-lg border border-black/15 bg-white px-3 py-2 text-sm dark:border-white/20 dark:bg-white/5"
+              className={`${inputCls} min-w-[240px] placeholder:text-faint`}
             />
           </label>
           <AddButton />
-          <p className="basis-full text-xs text-black/45 dark:text-white/45">
+          <p className="basis-full text-xs text-faint">
             Ovdje škola upisuje svoje dane (Dan škole, Dan grada/općine,
             nenastavni radni dani…). Sprema se u profil škole.
           </p>
@@ -161,7 +164,7 @@ export function Calendar({
       <Legend />
 
       {/* 12-month grid */}
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {months.map((mo) => {
           const isCur = today.startsWith(
             `${mo.year}-${String(mo.monthIndex + 1).padStart(2, "0")}`,
@@ -169,25 +172,21 @@ export function Calendar({
           return (
             <div
               key={`${mo.year}-${mo.monthIndex}`}
-              className={`rounded-xl border bg-white p-2.5 shadow-sm dark:bg-white/[0.03] ${
-                isCur
-                  ? "border-blue-300 ring-1 ring-blue-200 dark:border-blue-500/50 dark:ring-blue-500/20"
-                  : "border-black/10 dark:border-white/10"
+              className={`rounded-xl border bg-surface p-3 shadow-[var(--shadow)] ${
+                isCur ? "border-accent/35 ring-1 ring-accent/15" : "border-line"
               }`}
             >
-              <div className="mb-1.5 flex items-baseline justify-between px-0.5">
-                <b className="text-[13px] tracking-tight">
-                  {mo.name} {mo.year}
+              <div className="mb-2 flex items-baseline justify-between px-0.5">
+                <b className="font-serif text-[0.95rem] font-semibold tracking-tight text-ink">
+                  {mo.name[0] + mo.name.slice(1).toLowerCase()} {mo.year}
                 </b>
-                <span className="text-[11px] text-black/40 dark:text-white/40">
-                  {mo.nast} nast.
-                </span>
+                <span className="text-[0.6875rem] text-faint">{mo.nast} nast.</span>
               </div>
               <div className="grid grid-cols-7 gap-0.5 text-center">
                 {DANI.map((h, i) => (
                   <div
                     key={i}
-                    className="pb-0.5 text-[10px] font-semibold text-black/40 dark:text-white/40"
+                    className="pb-1 text-[0.625rem] font-semibold uppercase text-faint"
                   >
                     {h}
                   </div>
@@ -197,9 +196,9 @@ export function Calendar({
                     <div
                       key={i}
                       title={`${cell.day}. ${mo.name.toLowerCase()} — ${cell.label}`}
-                      className={`flex h-7 items-center justify-center rounded-md text-[12px] ${CELL[cell.type]} ${
+                      className={`flex h-7 items-center justify-center rounded-md text-[0.75rem] ${CELL[cell.type]} ${
                         cell.iso === today
-                          ? "font-bold text-blue-700 ring-2 ring-inset ring-blue-600 dark:text-blue-300"
+                          ? "font-bold text-accent ring-2 ring-inset ring-accent"
                           : ""
                       }`}
                     >
@@ -217,81 +216,69 @@ export function Calendar({
 
       {/* Summary cards */}
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
-        <div className="rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-white/[0.03]">
-          <h3 className="mb-2 text-xs font-semibold uppercase tracking-wide text-black/50 dark:text-white/50">
-            Nastavna godina
-          </h3>
+        <Card title="Nastavna godina">
           <Row label="I. polugodište">
-            <span className="tabular-nums">
+            <span className="tabular-nums text-muted">
               {fmtHr(cfg.firstHalf[0])} – {fmtHr(cfg.firstHalf[1])}
             </span>
           </Row>
           <Row label="II. polugodište">
-            <span className="tabular-nums">
+            <span className="tabular-nums text-muted">
               {fmtHr(cfg.secondHalf[0])} – {fmtHr(cfg.secondHalf[1])}
             </span>
           </Row>
           <Row label="Nastavni dani">
-            <b>{totals.nast}</b>
+            <b className="text-ink">{totals.nast}</b>
           </Row>
           <Row label="Odmor / blagdani">
-            <b>
+            <b className="text-ink">
               {totals.odmor} / {totals.blagdan}
             </b>
           </Row>
-          <p className="mt-1.5 text-[11px] text-black/40 dark:text-white/40">
+          <p className="mt-2 text-[0.6875rem] text-faint">
             Propisani minimum: 175 nastavnih dana.
           </p>
-        </div>
+        </Card>
 
-        <div className="rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-white/[0.03]">
-          <h3 className="mb-2 text-xs font-semibold uppercase tracking-wide text-black/50 dark:text-white/50">
-            Nadolazeći događaji
-          </h3>
+        <Card title="Nadolazeći događaji">
           {upcoming.length ? (
             upcoming.map((e) => (
-              <Row key={`${e.d}-${e.label}`} label={
-                <span className="inline-flex items-center gap-2">
-                  <i className={`h-2.5 w-2.5 rounded ${e.kind === "skola" ? "bg-blue-300" : "bg-red-200"}`} />
-                  {e.label}
-                </span>
-              }>
-                <span className="tabular-nums text-black/60 dark:text-white/60">
-                  {fmtHr(e.d)}
-                </span>
+              <Row
+                key={`${e.d}-${e.label}`}
+                label={
+                  <span className="inline-flex items-center gap-2 text-ink">
+                    <i className={`h-2.5 w-2.5 rounded ${e.kind === "skola" ? "bg-accent-soft" : "bg-bad-weak"}`} />
+                    {e.label}
+                  </span>
+                }
+              >
+                <span className="tabular-nums text-muted">{fmtHr(e.d)}</span>
               </Row>
             ))
           ) : (
-            <p className="py-1 text-[13px] text-black/40 dark:text-white/40">
-              Nema nadolazećih događaja.
-            </p>
+            <p className="py-1 text-[0.8125rem] text-faint">Nema nadolazećih događaja.</p>
           )}
-        </div>
+        </Card>
 
-        <div className="rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-white/[0.03]">
-          <h3 className="mb-2 text-xs font-semibold uppercase tracking-wide text-black/50 dark:text-white/50">
-            Važni datumi škole
-          </h3>
+        <Card title="Važni datumi škole">
           {sorted.length ? (
             sorted.map((s) => (
               <div
                 key={s.id ?? s.d}
-                className="flex items-center justify-between gap-2 border-b border-dashed border-black/5 py-1 text-[13px] last:border-0 dark:border-white/10"
+                className="flex items-center justify-between gap-2 border-b border-line/70 py-1.5 text-[0.8125rem] last:border-0"
               >
-                <span className="inline-flex items-center gap-2">
-                  <i className="h-2.5 w-2.5 rounded bg-blue-300" />
+                <span className="inline-flex items-center gap-2 text-ink">
+                  <i className="h-2.5 w-2.5 rounded bg-accent-soft" />
                   {s.label}
                 </span>
                 <span className="flex items-center gap-1.5">
-                  <span className="tabular-nums text-black/60 dark:text-white/60">
-                    {fmtHr(s.d)}
-                  </span>
+                  <span className="tabular-nums text-muted">{fmtHr(s.d)}</span>
                   {s.id ? (
                     <form action={removeSchoolDate.bind(null, s.id)}>
                       <button
                         type="submit"
                         title="Ukloni"
-                        className="px-1 text-base leading-none text-black/25 transition-colors hover:text-red-500 dark:text-white/25"
+                        className="px-1 text-base leading-none text-faint transition-colors hover:text-bad"
                       >
                         ×
                       </button>
@@ -301,29 +288,27 @@ export function Calendar({
               </div>
             ))
           ) : (
-            <p className="py-1 text-[13px] text-black/40 dark:text-white/40">
+            <p className="py-1 text-[0.8125rem] text-faint">
               Još nema unesenih datuma. Dodajte Dan škole, Dan grada…
             </p>
           )}
-          <p className="mt-1.5 text-[11px] text-black/40 dark:text-white/40">
-            Škola unosi sama (čl. 7. Odluke).
-          </p>
-        </div>
+          <p className="mt-2 text-[0.6875rem] text-faint">Škola unosi sama (čl. 7. Odluke).</p>
+        </Card>
       </div>
 
       {/* Toast: next upcoming event */}
       {toast && next ? (
         <div
           role="status"
-          className="fixed bottom-4 right-4 z-50 flex max-w-sm items-start gap-3 rounded-xl border border-black/10 bg-white px-4 py-3 shadow-lg dark:border-white/15 dark:bg-neutral-900"
+          className="fixed bottom-5 right-5 z-50 flex max-w-sm items-start gap-3 rounded-xl border border-line bg-surface px-4 py-3 shadow-[var(--shadow-lg)]"
         >
           <span className="mt-0.5 text-lg leading-none">🔔</span>
           <div className="min-w-0 text-sm">
-            <p className="text-black/50 dark:text-white/50">Sljedeći događaj</p>
-            <p className="font-medium">
-              {next.label}
+            <p className="text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-gold">
+              Sljedeći događaj
             </p>
-            <p className="text-black/60 dark:text-white/60">
+            <p className="mt-0.5 font-medium text-ink">{next.label}</p>
+            <p className="text-muted">
               {fmtHr(next.d)} · {relativeHr(today, next.d)}
             </p>
           </div>
@@ -331,13 +316,24 @@ export function Calendar({
             type="button"
             onClick={() => setHiddenKey(nextKey)}
             aria-label="Zatvori"
-            className="ml-1 text-black/30 transition-colors hover:text-black/60 dark:text-white/30 dark:hover:text-white/70"
+            className="ml-1 text-faint transition-colors hover:text-ink"
           >
             ×
           </button>
         </div>
       ) : null}
     </main>
+  );
+}
+
+function Card({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <div className="rounded-xl border border-line bg-surface p-5 shadow-[var(--shadow)]">
+      <h3 className="mb-3 text-[0.7rem] font-semibold uppercase tracking-[0.14em] text-gold">
+        {title}
+      </h3>
+      {children}
+    </div>
   );
 }
 
@@ -349,8 +345,8 @@ function Row({
   children: React.ReactNode;
 }) {
   return (
-    <div className="flex items-center justify-between gap-2 border-b border-dashed border-black/5 py-1 text-[13px] last:border-0 dark:border-white/10">
-      <span>{label}</span>
+    <div className="flex items-center justify-between gap-2 border-b border-line/70 py-1.5 text-[0.8125rem] last:border-0">
+      <span className="text-ink">{label}</span>
       {children}
     </div>
   );

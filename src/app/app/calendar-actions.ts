@@ -39,7 +39,7 @@ export async function addSchoolDate(formData: FormData): Promise<void> {
     console.error("addSchoolDate:", error.message);
     throw new Error("Spremanje datuma nije uspjelo.");
   }
-  revalidatePath("/");
+  revalidatePath("/app");
 }
 
 /** Remove one school-entered date — only if it belongs to the current principal. */
@@ -54,5 +54,5 @@ export async function removeSchoolDate(id: string): Promise<void> {
     console.error("removeSchoolDate:", error.message);
     throw new Error("Brisanje datuma nije uspjelo.");
   }
-  revalidatePath("/");
+  revalidatePath("/app");
 }

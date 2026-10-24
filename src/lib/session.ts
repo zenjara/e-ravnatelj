@@ -61,7 +61,7 @@ export async function requireSession(): Promise<SessionPayload> {
 export async function requireAdmin(): Promise<SessionPayload> {
   const session = await getSession();
   if (!session) redirect("/login");
-  if (session.role !== "admin") redirect("/");
+  if (session.role !== "admin") redirect("/app");
   return session;
 }
 

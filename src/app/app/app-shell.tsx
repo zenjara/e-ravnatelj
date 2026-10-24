@@ -24,50 +24,55 @@ export function AppShell({
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="flex min-h-screen flex-1">
+    <div className="flex min-h-screen flex-1 bg-bg">
       <aside
-        className={`fixed inset-y-0 left-0 z-40 flex w-72 flex-col border-r border-black/10 bg-white transition-transform dark:border-white/10 dark:bg-black md:sticky md:top-0 md:h-screen md:translate-x-0 ${
+        className={`fixed inset-y-0 left-0 z-40 flex w-72 flex-col border-r border-line bg-surface transition-transform md:sticky md:top-0 md:h-screen md:translate-x-0 ${
           open ? "translate-x-0" : "-translate-x-full"
         }`}
       >
-        <div className="border-b border-black/10 px-4 py-4 dark:border-white/10">
-          <p className="text-base font-semibold tracking-tight">e-ravnatelj</p>
+        <div className="px-5 pt-6 pb-4">
+          <p className="font-serif text-[1.35rem] font-semibold leading-none tracking-tight text-ink">
+            e&#8209;ravnatelj
+          </p>
+          <div className="mt-3 h-px w-10 bg-gold" />
           {school ? (
-            <p className="mt-0.5 truncate text-xs text-black/60 dark:text-white/60">
+            <p className="mt-3 line-clamp-2 text-xs leading-snug text-muted">
               {school}
             </p>
           ) : null}
         </div>
 
         <div
-          className="flex-1 overflow-y-auto p-3"
+          className="flex-1 overflow-y-auto px-3 pb-3"
           onClick={() => setOpen(false)}
         >
           <LawNav laws={laws} isAdmin={isAdmin} />
         </div>
 
-        {logout}
+        <div className="border-t border-line p-3">{logout}</div>
       </aside>
 
       {open ? (
         <div
-          className="fixed inset-0 z-30 bg-black/30 md:hidden"
+          className="fixed inset-0 z-30 bg-ink/25 backdrop-blur-[1px] md:hidden"
           aria-hidden
           onClick={() => setOpen(false)}
         />
       ) : null}
 
       <div className="flex min-w-0 flex-1 flex-col">
-        <div className="flex items-center gap-3 border-b border-black/10 p-3 md:hidden dark:border-white/10">
+        <div className="flex items-center gap-3 border-b border-line bg-surface/80 p-3 backdrop-blur md:hidden">
           <button
             type="button"
             onClick={() => setOpen(true)}
             aria-label="Otvori izbornik"
-            className="rounded-md border border-black/15 px-2.5 py-1 text-sm dark:border-white/20"
+            className="rounded-lg border border-line px-2.5 py-1 text-ink transition-colors hover:bg-bg-tint"
           >
             ☰
           </button>
-          <span className="font-semibold tracking-tight">e-ravnatelj</span>
+          <span className="font-serif text-lg font-semibold tracking-tight text-ink">
+            e&#8209;ravnatelj
+          </span>
         </div>
 
         {children}

@@ -25,22 +25,20 @@ function DiffPair({ change }: { change: ArticleChange }) {
   };
 
   const pane =
-    "max-h-[60vh] overflow-auto whitespace-pre-wrap rounded-md border p-3 text-xs leading-relaxed";
+    "max-h-[60vh] overflow-auto whitespace-pre-wrap rounded-lg border border-line bg-bg-tint p-3 text-xs leading-relaxed text-ink";
 
   return (
     <div className="mt-4">
-      <h4 className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-black/45 dark:text-white/45">
+      <h4 className="mb-1.5 text-xs font-semibold uppercase tracking-[0.12em] text-gold">
         Članak {change.article}
       </h4>
       <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
         <div>
-          <p className="mb-1 text-[11px] font-medium text-black/40 dark:text-white/40">
-            Trenutno
-          </p>
+          <p className="mb-1 text-[0.6875rem] font-medium text-faint">Trenutno</p>
           <div
             ref={leftRef}
             onScroll={() => sync(leftRef.current, rightRef.current)}
-            className={`${pane} border-black/10 bg-black/[0.015] dark:border-white/10 dark:bg-white/[0.02]`}
+            className={pane}
           >
             {parts
               .filter((p) => !p.added)
@@ -48,7 +46,7 @@ function DiffPair({ change }: { change: ArticleChange }) {
                 p.removed ? (
                   <span
                     key={i}
-                    className="rounded bg-red-200/60 text-red-900 line-through decoration-red-400/60 dark:bg-red-900/40 dark:text-red-200"
+                    className="rounded bg-bad-weak text-bad line-through decoration-bad/50"
                   >
                     {p.value}
                   </span>
@@ -60,22 +58,17 @@ function DiffPair({ change }: { change: ArticleChange }) {
         </div>
 
         <div>
-          <p className="mb-1 text-[11px] font-medium text-black/40 dark:text-white/40">
-            Predloženo
-          </p>
+          <p className="mb-1 text-[0.6875rem] font-medium text-faint">Predloženo</p>
           <div
             ref={rightRef}
             onScroll={() => sync(rightRef.current, leftRef.current)}
-            className={`${pane} border-black/10 bg-black/[0.015] dark:border-white/10 dark:bg-white/[0.02]`}
+            className={pane}
           >
             {parts
               .filter((p) => !p.removed)
               .map((p, i) =>
                 p.added ? (
-                  <span
-                    key={i}
-                    className="rounded bg-green-200/60 text-green-900 dark:bg-green-900/40 dark:text-green-200"
-                  >
+                  <span key={i} className="rounded bg-good-weak text-good">
                     {p.value}
                   </span>
                 ) : (

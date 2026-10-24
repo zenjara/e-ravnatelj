@@ -4,24 +4,27 @@ import { LoginForm } from "./login-form";
 
 export default async function LoginPage() {
   // Already signed in → go home. (Proxy also covers this; this is defense-in-depth.)
-  if (await getSession()) redirect("/");
+  if (await getSession()) redirect("/app");
 
   return (
-    <main className="flex min-h-full flex-1 items-center justify-center p-6">
-      <div className="w-full max-w-sm">
-        <div className="mb-6 text-center">
-          <h1 className="text-2xl font-semibold tracking-tight">e-ravnatelj</h1>
-          <p className="mt-1 text-sm text-black/60 dark:text-white/60">
+    <main className="flex min-h-full flex-1 items-center justify-center bg-bg p-6">
+      <div className="w-full max-w-[26rem]">
+        <div className="mb-8 text-center">
+          <p className="font-serif text-[2rem] font-semibold leading-none tracking-tight text-ink">
+            e&#8209;ravnatelj
+          </p>
+          <div className="mx-auto mt-4 h-px w-12 bg-gold" />
+          <p className="mt-4 text-sm text-muted">
             Prijava za ravnatelje osnovnih škola
           </p>
         </div>
 
-        <div className="rounded-xl border border-black/10 bg-white p-6 shadow-sm dark:border-white/10 dark:bg-white/5">
+        <div className="rounded-2xl border border-line bg-surface p-7 shadow-[var(--shadow)]">
           <LoginForm />
         </div>
 
-        <p className="mt-6 text-center text-xs text-black/50 dark:text-white/50">
-          Informativno, nije pravni savjet. Provjeri citirani izvor.
+        <p className="mt-6 text-center text-xs leading-relaxed text-faint">
+          Informativno, nije pravni savjet. Provjerite citirani izvor.
         </p>
       </div>
     </main>

@@ -53,15 +53,20 @@ export default async function PromjenePage() {
   const history = proposals.filter((p) => p.status !== "pending");
 
   return (
-    <main className="mx-auto w-full max-w-3xl flex-1 p-6">
-      <h1 className="text-xl font-semibold tracking-tight">Promjene zakona</h1>
-      <p className="mt-1 mb-6 text-sm text-black/60 dark:text-white/60">
+    <main className="mx-auto w-full max-w-3xl flex-1 p-5 sm:p-8">
+      <p className="text-[0.72rem] font-semibold uppercase tracking-[0.16em] text-gold">
+        Administracija
+      </p>
+      <h1 className="font-serif text-[1.9rem] font-semibold leading-tight tracking-tight text-ink">
+        Promjene zakona
+      </h1>
+      <p className="mt-1.5 mb-7 text-sm leading-relaxed text-muted">
         Prijedlozi konsolidacije na temelju novih izmjena iz Narodnih novina.
         Pregledaj diff, pa odobri ili odbij.
       </p>
 
       {pending.length === 0 ? (
-        <p className="rounded-md border border-black/10 bg-black/[0.02] px-4 py-6 text-sm text-black/60 dark:border-white/10 dark:bg-white/[0.03] dark:text-white/60">
+        <p className="rounded-xl border border-line bg-bg-tint px-4 py-6 text-sm text-muted">
           Nema novih prijedloga za pregled. ✅
         </p>
       ) : (
@@ -69,32 +74,32 @@ export default async function PromjenePage() {
           {pending.map((p) => (
             <article
               key={p.id}
-              className="rounded-xl border border-black/10 dark:border-white/10"
+              className="overflow-hidden rounded-xl border border-line bg-surface shadow-[var(--shadow)]"
             >
-              <header className="flex flex-wrap items-center justify-between gap-2 border-b border-black/10 px-4 py-3 dark:border-white/10">
+              <header className="flex flex-wrap items-center justify-between gap-2 border-b border-line px-4 py-3">
                 <div>
                   <Link
-                    href={`/zakoni/${p.law_slug}`}
-                    className="text-sm font-semibold underline-offset-2 hover:underline"
+                    href={`/app/zakoni/${p.law_slug}`}
+                    className="text-sm font-semibold text-accent underline-offset-2 hover:underline"
                   >
                     {p.law_slug}
                   </Link>
-                  <span className="ml-2 rounded-full bg-black/5 px-2 py-0.5 text-xs font-medium dark:bg-white/10">
+                  <span className="ml-2 rounded-full bg-accent-weak px-2 py-0.5 text-xs font-medium text-accent">
                     NN {p.nn_number}
                   </span>
                 </div>
-                <span className="text-xs text-black/45 dark:text-white/45">
+                <span className="text-xs text-faint">
                   {new Date(p.created_at).toLocaleDateString("hr")}
                 </span>
               </header>
 
               <div className="px-4 py-3">
                 {p.amendment_title ? (
-                  <p className="text-sm font-medium">{p.amendment_title}</p>
+                  <p className="text-sm font-medium text-ink">{p.amendment_title}</p>
                 ) : null}
 
                 {p.summary ? (
-                  <div className="mt-2 rounded-md border-l-2 border-black/25 bg-black/[0.025] px-3 py-2 text-sm text-black/75 dark:border-white/25 dark:bg-white/[0.03] dark:text-white/75">
+                  <div className="mt-2 rounded-lg border-l-2 border-gold bg-gold-weak px-3 py-2 text-sm text-ink/80">
                     <span className="mr-1 font-medium">Sažetak:</span>
                     {p.summary}
                   </div>
@@ -103,11 +108,11 @@ export default async function PromjenePage() {
                 <ProposalDiff changes={parseDiff(p.diff)} />
               </div>
 
-              <footer className="flex items-center gap-2 border-t border-black/10 px-4 py-3 dark:border-white/10">
+              <footer className="flex items-center gap-2 border-t border-line bg-bg-tint px-4 py-3">
                 <form action={approveProposal.bind(null, p.id)}>
                   <button
                     type="submit"
-                    className="rounded-md bg-black px-4 py-1.5 text-sm font-medium text-white hover:opacity-90 dark:bg-white dark:text-black"
+                    className="rounded-lg bg-accent px-4 py-2 text-sm font-semibold text-accent-ink transition-colors hover:bg-accent-hover"
                   >
                     Odobri i primijeni
                   </button>
@@ -115,7 +120,7 @@ export default async function PromjenePage() {
                 <form action={rejectProposal.bind(null, p.id)}>
                   <button
                     type="submit"
-                    className="rounded-md border border-black/15 px-4 py-1.5 text-sm transition-colors hover:bg-black/5 dark:border-white/20 dark:hover:bg-white/10"
+                    className="rounded-lg border border-line px-4 py-2 text-sm text-ink transition-colors hover:bg-surface"
                   >
                     Odbij
                   </button>
@@ -128,20 +133,20 @@ export default async function PromjenePage() {
 
       {history.length > 0 ? (
         <section className="mt-10">
-          <h2 className="mb-2 text-xs font-semibold uppercase tracking-widest text-black/40 dark:text-white/40">
+          <h2 className="mb-2 text-xs font-semibold uppercase tracking-[0.14em] text-gold">
             Povijest
           </h2>
           <ul className="flex flex-col gap-1 text-sm">
             {history.map((p) => (
-              <li key={p.id} className="flex items-center justify-between rounded-md px-2 py-1">
+              <li key={p.id} className="flex items-center justify-between rounded-lg px-2 py-1 text-ink">
                 <span>
                   {p.law_slug} — NN {p.nn_number}
                 </span>
                 <span
                   className={
                     p.status === "approved"
-                      ? "text-xs font-medium text-green-700 dark:text-green-400"
-                      : "text-xs font-medium text-black/45 dark:text-white/45"
+                      ? "text-xs font-medium text-good"
+                      : "text-xs font-medium text-faint"
                   }
                 >
                   {p.status === "approved" ? "primijenjeno" : "odbijeno"}

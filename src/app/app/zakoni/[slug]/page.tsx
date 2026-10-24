@@ -11,9 +11,14 @@ export default async function LawPage({
   if (!law) notFound();
 
   return (
-    <main className="mx-auto w-full max-w-3xl flex-1 p-6">
-      <h1 className="text-xl font-semibold tracking-tight">{law.title}</h1>
-      <p className="mt-1 mb-6 text-xs text-black/50 dark:text-white/50">
+    <main className="mx-auto w-full max-w-3xl flex-1 p-5 sm:p-8">
+      <p className="text-[0.72rem] font-semibold uppercase tracking-[0.16em] text-gold">
+        Propis
+      </p>
+      <h1 className="font-serif text-[1.6rem] font-semibold leading-tight tracking-tight text-ink">
+        {law.title}
+      </h1>
+      <p className="mt-1.5 mb-7 text-xs text-faint">
         Informativno, nije pravni savjet. Provjeri službeni izvor.
       </p>
       <LawText text={law.text} />
@@ -53,11 +58,11 @@ function LawText({ text }: { text: string }) {
       out.push(
         <div key={i} id={`clanak-${art[1]}`} className="mt-7 scroll-mt-20">
           {subtitle ? (
-            <p className="text-sm font-medium text-black/55 dark:text-white/55">
-              {subtitle}
-            </p>
+            <p className="text-sm font-medium text-muted">{subtitle}</p>
           ) : null}
-          <h3 className="text-[15px] font-bold tracking-tight">{line}</h3>
+          <h3 className="font-serif text-[1.05rem] font-semibold tracking-tight text-ink">
+            {line}
+          </h3>
         </div>,
       );
       subtitle = null;
@@ -68,7 +73,7 @@ function LawText({ text }: { text: string }) {
       out.push(
         <h2
           key={i}
-          className="mt-9 mb-1 border-t border-black/10 pt-5 text-xs font-semibold uppercase tracking-widest text-black/45 dark:border-white/10 dark:text-white/45"
+          className="mt-9 mb-1 border-t border-line pt-5 text-xs font-semibold uppercase tracking-[0.14em] text-gold"
         >
           {line}
         </h2>,
@@ -85,11 +90,11 @@ function LawText({ text }: { text: string }) {
     }
 
     out.push(
-      <p key={i} className="mt-2 text-black/80 dark:text-white/80">
+      <p key={i} className="mt-2 text-ink/85">
         {line}
       </p>,
     );
   });
 
-  return <article className="text-sm leading-relaxed">{out}</article>;
+  return <article className="text-[0.92rem] leading-relaxed text-ink">{out}</article>;
 }
