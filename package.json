@@ -11,6 +11,7 @@
     "seed:laws": "node --env-file=.env.local scripts/seed-laws.mjs",
     "sync:laws": "node --env-file=.env.local scripts/sync-laws.mjs",
     "import:schools": "node --env-file=.env.local scripts/import-schools.mjs",
+    "seed:rokovi": "node --env-file=.env.local scripts/seed-rokovi.mjs",
     "ingest": "node --env-file=.env.local scripts/ingest.mjs",
     "dump:chunks": "node --env-file=.env.local scripts/dump-chunks.mjs"
   },

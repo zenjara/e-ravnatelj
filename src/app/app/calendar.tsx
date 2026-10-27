@@ -13,6 +13,7 @@ import {
   type SchoolDate,
   type DayType,
 } from "@/lib/school-calendar";
+import { rokRelative, type UpcomingRok } from "@/lib/rokovnik";
 
 /** Background + text classes per day type, tuned to the editorial palette. */
 const CELL: Record<DayType, string> = {
@@ -71,11 +72,14 @@ const inputCls =
 export function Calendar({
   schoolDates,
   today,
+  rokovnik = [],
 }: {
   schoolDates: SchoolDate[];
   today: string;
+  rokovnik?: UpcomingRok[];
 }) {
   const [formOpen, setFormOpen] = useState(false);
+  const [openRok, setOpenRok] = useState<string | null>(null);
   const formRef = useRef<HTMLFormElement>(null);
   const cfg = SCHOOL_YEAR;
   const { months, totals } = buildCalendar(schoolDates, cfg);
@@ -120,6 +124,70 @@ export function Calendar({
           ＋ Dodaj važan datum
         </button>
       </div>
+
+      {/* Nadolazeći rokovi (globalni zakonski rokovi) */}
+      {rokovnik.length ? (
+        <section className="rounded-xl border border-line bg-surface p-5 shadow-[var(--shadow)]">
+          <div className="mb-3 flex items-center justify-between gap-2">
+            <h2 className="font-serif text-lg font-semibold text-ink">Nadolazeći rokovi</h2>
+            <span className="text-xs text-faint">zakonski rokovi · informativno</span>
+          </div>
+          <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+            {rokovnik.map((r) => {
+              const open = openRok === r.slug;
+              return (
+                <div
+                  key={r.slug}
+                  className={`rounded-lg border p-3 ${
+                    r.soon ? "border-gold/45 bg-gold-weak/50" : "border-line bg-bg-tint/40"
+                  }`}
+                >
+                  <div className="flex items-start justify-between gap-2">
+                    <div className="min-w-0">
+                      <p className="text-[0.66rem] font-semibold uppercase tracking-[0.12em] text-gold">
+                        {r.kategorija}
+                      </p>
+                      <p className="font-medium text-ink">{r.naziv}</p>
+                    </div>
+                    <span
+                      className={`shrink-0 rounded-full px-2.5 py-0.5 text-xs font-semibold ${
+                        r.soon ? "bg-gold text-white" : "bg-accent-weak text-accent"
+                      }`}
+                    >
+                      {rokRelative(r.daysUntil)}
+                    </span>
+                  </div>
+                  <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
+                    <span className="tabular-nums">{r.dateHr}</span>
+                    {r.provjeriti ? (
+                      <span className="text-faint" title="Datum treba potvrditi">⚠ provjeriti</span>
+                    ) : null}
+                    {r.checklist.length ? (
+                      <button
+                        type="button"
+                        onClick={() => setOpenRok(open ? null : r.slug)}
+                        className="ml-auto text-accent underline-offset-2 hover:underline"
+                      >
+                        {open ? "Sakrij korake" : "Koraci"}
+                      </button>
+                    ) : null}
+                  </div>
+                  {open && r.checklist.length ? (
+                    <ul className="mt-2 ml-4 list-disc space-y-0.5 text-xs text-muted">
+                      {r.checklist.map((c, i) => (
+                        <li key={i}>{c}</li>
+                      ))}
+                    </ul>
+                  ) : null}
+                  {r.osnova ? (
+                    <p className="mt-1.5 text-[0.68rem] text-faint">Osnova: {r.osnova}</p>
+                  ) : null}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      ) : null}
 
       {/* Add form */}
       {formOpen ? (
