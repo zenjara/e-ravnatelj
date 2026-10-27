@@ -64,9 +64,9 @@ export function FeedbackWidget() {
         <div
           role="dialog"
           aria-label="Prijedlozi i opaske"
-          className="fixed bottom-20 right-5 z-50 w-[min(92vw,22rem)] rounded-xl border border-line bg-surface p-4 shadow-[var(--shadow-lg)]"
+          className="fixed bottom-20 right-5 z-50 w-[min(92vw,22rem)] rounded-xl border border-line bg-surface p-5 shadow-[var(--shadow-lg)]"
         >
-          <div className="mb-2 flex items-start justify-between gap-2">
+          <div className="mb-4 flex items-start justify-between gap-2">
             <div>
               <p className="text-[0.66rem] font-semibold uppercase tracking-[0.14em] text-gold">
                 Beta · povratne informacije
@@ -86,17 +86,31 @@ export function FeedbackWidget() {
           </div>
 
           {sent ? (
-            <p className="rounded-lg bg-good-weak px-3 py-4 text-center text-sm font-medium text-good">
-              Hvala! Vaša poruka je zaprimljena.
-            </p>
+            <div className="flex flex-col items-center gap-2.5 rounded-lg bg-good-weak px-5 py-9 text-center">
+              <span className="flex h-11 w-11 items-center justify-center rounded-full bg-good/15 text-xl font-bold text-good">
+                ✓
+              </span>
+              <p className="text-sm font-semibold text-good">
+                Hvala! Vaša poruka je zaprimljena.
+              </p>
+              <p className="text-xs leading-relaxed text-muted">
+                Javit ćemo se ako nam zatreba više detalja.
+              </p>
+            </div>
           ) : (
-            <form action={onSubmit} className="flex flex-col gap-3">
+            <form action={onSubmit} className="flex flex-col gap-3.5">
               <label className="flex flex-col gap-1 text-xs text-muted">
                 Vrsta
                 <select
                   name="kategorija"
                   defaultValue="prijedlog"
-                  className="rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink outline-none transition-colors focus:border-accent focus:ring-4 focus:ring-accent/10"
+                  style={{
+                    backgroundImage:
+                      "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%239a9488' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E\")",
+                    backgroundRepeat: "no-repeat",
+                    backgroundPosition: "right 0.85rem center",
+                  }}
+                  className="w-full appearance-none rounded-lg border border-line bg-surface px-3 py-2.5 pr-10 text-sm text-ink outline-none transition-colors focus:border-accent focus:ring-4 focus:ring-accent/10"
                 >
                   {KATEGORIJE.map(([v, label]) => (
                     <option key={v} value={v}>
@@ -113,7 +127,7 @@ export function FeedbackWidget() {
                   rows={4}
                   maxLength={4000}
                   placeholder="Što bismo mogli poboljšati, što ne radi, što vam nedostaje…"
-                  className="resize-y rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink outline-none transition-colors placeholder:text-faint focus:border-accent focus:ring-4 focus:ring-accent/10"
+                  className="w-full resize-y rounded-lg border border-line bg-surface px-3 py-2.5 text-sm leading-relaxed text-ink outline-none transition-colors placeholder:text-faint focus:border-accent focus:ring-4 focus:ring-accent/10"
                 />
               </label>
               {failed ? (
