@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { LawNav } from "./law-nav";
+import { FeedbackWidget } from "./feedback-widget";
 
 /**
  * App chrome with a responsive sidebar: static on md+, an off-canvas drawer on
@@ -77,6 +78,8 @@ export function AppShell({
 
         {children}
       </div>
+
+      <FeedbackWidget />
     </div>
   );
 }

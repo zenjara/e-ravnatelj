@@ -402,7 +402,7 @@ export function Calendar({
       {toast && next ? (
         <div
           role="status"
-          className="fixed bottom-5 right-5 z-50 flex max-w-sm items-start gap-3 rounded-xl border border-line bg-surface px-4 py-3 shadow-[var(--shadow-lg)]"
+          className="fixed bottom-24 right-5 z-40 flex max-w-sm items-start gap-3 rounded-xl border border-line bg-surface px-4 py-3 shadow-[var(--shadow-lg)]"
         >
           <span className="mt-0.5 text-lg leading-none">🔔</span>
           <div className="min-w-0 text-sm">
