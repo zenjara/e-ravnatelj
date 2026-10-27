@@ -62,3 +62,21 @@ export async function rejectProposal(id: number): Promise<void> {
     .eq("id", id);
   revalidatePath("/app/admin/promjene");
 }
+
+/** Toggle a beta-feedback item between "novo" and "riješeno". Admin-only. */
+export async function setFeedbackStatus(
+  id: string,
+  status: "novo" | "riješeno",
+): Promise<void> {
+  await requireAdmin();
+  const next = status === "riješeno" ? "riješeno" : "novo";
+  const { error } = await getSupabaseAdmin()
+    .from("feedback")
+    .update({ status: next })
+    .eq("id", id);
+  if (error) {
+    console.error("setFeedbackStatus:", error.message);
+    throw new Error("Promjena statusa nije uspjela.");
+  }
+  revalidatePath("/app/admin/prijedlozi");
+}

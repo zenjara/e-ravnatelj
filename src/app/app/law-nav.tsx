@@ -47,10 +47,22 @@ export function LawNav({
       </Link>
 
       {isAdmin ? (
-        <Link href="/app/admin/promjene" className={cls(pathname.startsWith("/app/admin"))}>
-          <span aria-hidden className="text-base leading-none">⚙️</span>
-          Promjene zakona
-        </Link>
+        <>
+          <Link
+            href="/app/admin/promjene"
+            className={cls(pathname.startsWith("/app/admin/promjene"))}
+          >
+            <span aria-hidden className="text-base leading-none">⚙️</span>
+            Promjene zakona
+          </Link>
+          <Link
+            href="/app/admin/prijedlozi"
+            className={cls(pathname.startsWith("/app/admin/prijedlozi"))}
+          >
+            <span aria-hidden className="text-base leading-none">📨</span>
+            Prijedlozi (beta)
+          </Link>
+        </>
       ) : null}
 
       <button
