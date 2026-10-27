@@ -28,6 +28,13 @@ export interface SchoolDate {
   label: string;
 }
 
+/** One national-exam sitting (NCVVO). Exam days are regular teaching days. */
+export interface ExamDay {
+  razred: 4 | 8;
+  predmet: string;
+  vrijeme: string; // "9:00"
+}
+
 export interface YearConfig {
   label: string; // "2026./2027."
   nnRef: string; // reference to the Ministry decision (placeholder)
@@ -37,6 +44,8 @@ export interface YearConfig {
   secondHalf: [string, string]; // II. polugodište [od, do]
   odmori: { ime: string; from: string; to: string }[];
   blagdani: Record<string, string>;
+  /** National exams (NCVVO) by date. These days stay regular teaching days. */
+  ispiti: Record<string, ExamDay[]>;
 }
 
 export const SCHOOL_YEAR: YearConfig = {
@@ -67,6 +76,28 @@ export const SCHOOL_YEAR: YearConfig = {
     "2027-06-22": "Dan antifašističke borbe",
     "2027-08-05": "Dan pobjede i domovinske zahvalnosti",
     "2027-08-15": "Velika Gospa",
+  },
+  // NCVVO — Kalendar provedbe nacionalnih ispita 2026./2027. (svi ispiti u 9:00
+  // osim gdje je naznačeno; dani provedbe su redoviti nastavni dani).
+  ispiti: {
+    // 4. razred (1.–5. ožujka 2027.)
+    "2027-03-01": [{ razred: 4, predmet: "Hrvatski jezik", vrijeme: "9:00" }],
+    "2027-03-02": [{ razred: 4, predmet: "Jezik nacionalne manjine", vrijeme: "9:00" }],
+    "2027-03-03": [{ razred: 4, predmet: "Matematika", vrijeme: "9:00" }],
+    "2027-03-05": [
+      { razred: 4, predmet: "Priroda i društvo / Prirodoslovlje", vrijeme: "9:00" },
+      { razred: 4, predmet: "Društvo i zajednica", vrijeme: "10:30" },
+    ],
+    // 8. razred (8.–24. ožujka 2027.)
+    "2027-03-08": [{ razred: 8, predmet: "Hrvatski jezik", vrijeme: "9:00" }],
+    "2027-03-09": [{ razred: 8, predmet: "Jezik nacionalne manjine", vrijeme: "9:00" }],
+    "2027-03-10": [{ razred: 8, predmet: "Matematika", vrijeme: "9:00" }],
+    "2027-03-12": [{ razred: 8, predmet: "Prvi strani jezik", vrijeme: "9:00" }],
+    "2027-03-15": [{ razred: 8, predmet: "Geografija", vrijeme: "9:00" }],
+    "2027-03-17": [{ razred: 8, predmet: "Fizika", vrijeme: "9:00" }],
+    "2027-03-19": [{ razred: 8, predmet: "Biologija", vrijeme: "9:00" }],
+    "2027-03-22": [{ razred: 8, predmet: "Kemija", vrijeme: "9:00" }],
+    "2027-03-24": [{ razred: 8, predmet: "Povijest", vrijeme: "9:00" }],
   },
 };
 
@@ -130,6 +161,7 @@ export interface DayCell {
   iso: string;
   type: DayType;
   label: string; // tooltip / aria text
+  exam?: ExamDay[]; // national-exam sittings on this day (overlay; type stays "nastava")
 }
 
 export interface MonthView {
@@ -178,15 +210,17 @@ export function buildCalendar(
       else if (type === "odmor") totO++;
       else if (type === "blagdan") totB++;
 
+      const exam = cfg.ispiti[iso];
       const label =
         school.get(iso) ??
         cfg.blagdani[iso] ??
-        (type === "odmor" ? "odmor učenika"
+        (exam ? `Nacionalni ispit: ${exam.map((e) => e.predmet).join(", ")}`
+          : type === "odmor" ? "odmor učenika"
           : type === "nastava" ? "nastavni dan"
           : type === "vikend" ? "vikend"
           : "");
 
-      week.push({ day, iso, type, label });
+      week.push({ day, iso, type, label, exam });
       if (week.length === 7) { weeks.push(week); week = []; }
     }
     if (week.length) { while (week.length < 7) week.push(null); weeks.push(week); }
@@ -218,6 +252,18 @@ export function upcomingEvents(
     .filter((e) => e.d >= fromIso)
     .sort((a, b) => a.d.localeCompare(b.d))
     .slice(0, limit);
+}
+
+export interface ExamEntry extends ExamDay {
+  d: string; // ISO yyyy-mm-dd
+}
+
+/** All national-exam sittings, soonest first (optionally for one grade). */
+export function examSchedule(cfg: YearConfig = SCHOOL_YEAR, razred?: 4 | 8): ExamEntry[] {
+  return Object.entries(cfg.ispiti)
+    .flatMap(([d, days]) => days.map((e) => ({ d, ...e })))
+    .filter((e) => razred === undefined || e.razred === razred)
+    .sort((a, b) => a.d.localeCompare(b.d));
 }
 
 /** Humanized "za koliko" label for an upcoming date relative to today. */

@@ -26,7 +26,8 @@ const ROKOVI = [
     checklist: ["Donijeti nakon proračuna", "Objaviti/ažurirati u EOJN", "Voditi registar ugovora"] },
   { slug: "izvjesce-realizacija-gpp", naziv: "Izvješće o realizaciji GPP-a (godišnje izvješće o radu)", kategorija: "Izvještavanje", md: "06-30", rule: "fixed", osnova: "ZOOOSŠ", reminder_days: 14, provjeriti: true, checklist: [] },
   { slug: "upisi-prvi-razred", naziv: "Upisi u 1. razred (testiranja / razdoblje)", kategorija: "Upisi", md: "06-15", rule: "yearly", osnova: "Pravilnik o upisu + godišnja odluka MZO", reminder_days: 21, provjeriti: true, checklist: [] },
-  { slug: "nacionalni-ispiti", naziv: "Nacionalni ispiti (NCVVO)", kategorija: "Vrednovanje", md: "05-15", rule: "yearly", osnova: "NCVVO raspored", reminder_days: 14, provjeriti: true, checklist: [] },
+  { slug: "nacionalni-ispiti", naziv: "Nacionalni ispiti (NCVVO) — 4. i 8. razred", kategorija: "Vrednovanje", md: "03-01", rule: "yearly", osnova: "NCVVO — Kalendar provedbe nacionalnih ispita 2026./2027.", reminder_days: 21, provjeriti: false,
+    checklist: ["4. razred: 1.–5.3.2027.", "8. razred: 8.–24.3.2027.", "Svi ispiti u 9:00 (redoviti nastavni dani)", "Organizirati dežurstva i prostor", "Raspored po predmetima u kalendaru"] },
   { slug: "dzs-izvjesca", naziv: "Statistička izvješća DZS (početak/kraj nastavne godine)", kategorija: "Izvještavanje", md: "10-01", rule: "yearly", osnova: "Državni zavod za statistiku", reminder_days: 10, provjeriti: true, checklist: [] },
 ];
 

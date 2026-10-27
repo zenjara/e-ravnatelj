@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { BetaForm } from "./beta-form";
 
 export const metadata: Metadata = {
-  title: "e-ravnatelj — digitalni asistent ravnateljima osnovnih škola",
+  title: "e-Ravnatelj — digitalni asistent ravnateljima osnovnih škola",
   description:
     "Pravni asistent nad propisima, generiranje Odluka o zaduženjima, školski kalendar, pročišćeni zakoni i profil škole. Prijavite se za beta testiranje.",
 };
@@ -37,7 +37,7 @@ export default function LandingPage() {
       {/* Top bar */}
       <div className="mx-auto max-w-5xl px-6">
         <div className="flex items-center justify-between py-6">
-          <span className="font-serif text-xl font-semibold">e&#8209;ravnatelj</span>
+          <span className="font-serif text-xl font-semibold">e&#8209;Ravnatelj</span>
           <Link
             href="/login"
             className="text-sm font-medium text-accent underline-offset-4 hover:underline"
@@ -54,7 +54,7 @@ export default function LandingPage() {
           Beta · u izradi
         </span>
         <h1 className="font-serif text-[clamp(3rem,11vw,6.5rem)] font-semibold leading-[0.98] tracking-[-0.03em]">
-          e&#8209;ravnatelj
+          e&#8209;Ravnatelj
         </h1>
         <div className="mx-auto mt-6 h-0.5 w-16 bg-gold" />
         <p className="mx-auto mt-6 max-w-[34rem] text-lg text-muted">
@@ -152,7 +152,7 @@ export default function LandingPage() {
 
       {/* Footer */}
       <footer className="mx-auto max-w-5xl px-6 pb-12 pt-6 text-center text-sm text-faint">
-        <span className="font-serif font-semibold text-muted">e&#8209;ravnatelj</span>
+        <span className="font-serif font-semibold text-muted">e&#8209;Ravnatelj</span>
         <span className="mx-2 text-line-strong">·</span>
         Informativno, nije pravni savjet
         <span className="mx-2 text-line-strong">·</span>

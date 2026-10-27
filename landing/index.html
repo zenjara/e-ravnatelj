@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>e-ravnatelj — digitalni asistent ravnateljima osnovnih škola</title>
-<meta name="description" content="e-ravnatelj — digitalni asistent ravnateljima osnovnih škola: pravni asistent nad propisima, generiranje Odluka o zaduženjima, školski kalendar i profil škole. Prijavite se za beta testiranje.">
+<title>e-Ravnatelj — digitalni asistent ravnateljima osnovnih škola</title>
+<meta name="description" content="e-Ravnatelj — digitalni asistent ravnateljima osnovnih škola: pravni asistent nad propisima, generiranje Odluka o zaduženjima, školski kalendar i profil škole. Prijavite se za beta testiranje.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -124,14 +124,14 @@
 
   <div class="wrap">
     <div class="top">
-      <span class="brand serif">e&#8209;ravnatelj</span>
+      <span class="brand serif">e&#8209;Ravnatelj</span>
       <a class="btn btn-ghost cta" href="#beta">Prijava za betu</a>
     </div>
   </div>
 
   <header class="hero wrap">
     <span class="badge"><span class="dot"></span>Beta · u izradi</span>
-    <h1 class="serif">e&#8209;ravnatelj</h1>
+    <h1 class="serif">e&#8209;Ravnatelj</h1>
     <hr class="rule">
     <p class="lead">Digitalni asistent ravnateljima osnovnih škola. Manje papirologije i traženja po propisima — više vremena za školu.</p>
     <div class="actions">
@@ -189,7 +189,7 @@
   </section>
 
   <footer class="wrap">
-    <span class="serif" style="font-weight:600; color:var(--muted)">e&#8209;ravnatelj</span>
+    <span class="serif" style="font-weight:600; color:var(--muted)">e&#8209;Ravnatelj</span>
     <span class="sep">·</span> Informativno, nije pravni savjet
     <span class="sep">·</span> Bez OIB-a i podataka o učenicima
     <span class="sep">·</span> © 2026
@@ -204,7 +204,7 @@
     var email = document.getElementById("email").value.trim();
     if (!email) return;
     document.getElementById("okMsg").style.display = "block";
-    var subject = encodeURIComponent("Prijava za beta e-ravnatelj");
+    var subject = encodeURIComponent("Prijava za beta e-Ravnatelj");
     var body = encodeURIComponent("Želim se prijaviti za beta testiranje.\n\nMoj email: " + email + "\nŠkola: \n");
     window.location.href = "mailto:" + BETA_EMAIL + "?subject=" + subject + "&body=" + body;
   });

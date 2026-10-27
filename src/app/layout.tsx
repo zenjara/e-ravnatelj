@@ -18,7 +18,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "e-ravnatelj",
+  title: "e-Ravnatelj",
   description:
     "Asistent ravnateljima osnovnih škola — odgovori na temelju propisa, uz navođenje članka.",
 };

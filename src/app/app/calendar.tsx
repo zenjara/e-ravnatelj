@@ -6,12 +6,14 @@ import { addSchoolDate, removeSchoolDate } from "./calendar-actions";
 import {
   buildCalendar,
   upcomingEvents,
+  examSchedule,
   fmtHr,
   relativeHr,
   SCHOOL_YEAR,
   DANI,
   type SchoolDate,
   type DayType,
+  type ExamEntry,
 } from "@/lib/school-calendar";
 import { rokRelative, type UpcomingRok } from "@/lib/rokovnik";
 
@@ -21,7 +23,7 @@ const CELL: Record<DayType, string> = {
   nenastava: "text-muted",
   vikend: "bg-bg-tint text-faint",
   odmor: "bg-gold-weak text-[color:var(--gold)]",
-  blagdan: "bg-bad-weak text-bad font-medium",
+  blagdan: "bg-good-weak text-good font-medium",
   skola: "bg-accent-soft text-accent font-semibold",
 };
 
@@ -29,7 +31,7 @@ const SW: Record<Exclude<DayType, "nenastava">, string> = {
   nastava: "bg-surface border border-line-strong",
   vikend: "bg-bg-tint",
   odmor: "bg-gold-weak",
-  blagdan: "bg-bad-weak",
+  blagdan: "bg-good-weak",
   skola: "bg-accent-soft",
 };
 
@@ -49,6 +51,10 @@ function Legend() {
           {label}
         </span>
       ))}
+      <span className="inline-flex items-center gap-1.5">
+        <i className="h-1 w-1 rounded-full bg-gold" />
+        Nacionalni ispit (NCVVO)
+      </span>
     </div>
   );
 }
@@ -85,6 +91,8 @@ export function Calendar({
   const { months, totals } = buildCalendar(schoolDates, cfg);
   const upcoming = upcomingEvents(schoolDates, today, 6, cfg);
   const sorted = [...schoolDates].sort((a, b) => a.d.localeCompare(b.d));
+  const ispiti4 = examSchedule(cfg, 4);
+  const ispiti8 = examSchedule(cfg, 8);
 
   const next = upcoming[0];
   const nextKey = next ? `${next.d}|${next.label}` : null;
@@ -264,13 +272,16 @@ export function Calendar({
                     <div
                       key={i}
                       title={`${cell.day}. ${mo.name.toLowerCase()} — ${cell.label}`}
-                      className={`flex h-7 items-center justify-center rounded-md text-[0.75rem] ${CELL[cell.type]} ${
+                      className={`relative flex h-7 items-center justify-center rounded-md text-[0.75rem] ${CELL[cell.type]} ${
                         cell.iso === today
                           ? "font-bold text-accent ring-2 ring-inset ring-accent"
                           : ""
                       }`}
                     >
                       {cell.day}
+                      {cell.exam ? (
+                        <i className="absolute bottom-0.5 left-1/2 h-1 w-1 -translate-x-1/2 rounded-full bg-gold" />
+                      ) : null}
                     </div>
                   ) : (
                     <div key={i} className="h-7" />
@@ -281,6 +292,29 @@ export function Calendar({
           );
         })}
       </div>
+
+      {/* Nacionalni ispiti (NCVVO) */}
+      {ispiti4.length || ispiti8.length ? (
+        <section className="rounded-xl border border-line bg-surface p-5 shadow-[var(--shadow)]">
+          <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
+            <h2 className="font-serif text-lg font-semibold text-ink">
+              Nacionalni ispiti (NCVVO)
+            </h2>
+            <span className="text-xs text-faint">
+              ožujak 2027. · dani provedbe su redoviti nastavni dani
+            </span>
+          </div>
+          <div className="grid grid-cols-1 gap-x-8 gap-y-5 sm:grid-cols-2">
+            <ExamList title="4. razred" entries={ispiti4} />
+            <ExamList title="8. razred" entries={ispiti8} />
+          </div>
+          <p className="mt-4 text-[0.68rem] text-faint">
+            Svi ispiti počinju u 9:00 (osim gdje je naznačeno). Jezik nacionalne
+            manjine pišu samo učenici koji se školuju na jeziku i pismu nacionalnih
+            manjina. Izvor: NCVVO — Kalendar provedbe nacionalnih ispita 2026./2027.
+          </p>
+        </section>
+      ) : null}
 
       {/* Summary cards */}
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
@@ -315,7 +349,7 @@ export function Calendar({
                 key={`${e.d}-${e.label}`}
                 label={
                   <span className="inline-flex items-center gap-2 text-ink">
-                    <i className={`h-2.5 w-2.5 rounded ${e.kind === "skola" ? "bg-accent-soft" : "bg-bad-weak"}`} />
+                    <i className={`h-2.5 w-2.5 rounded ${e.kind === "skola" ? "bg-accent-soft" : "bg-good-weak"}`} />
                     {e.label}
                   </span>
                 }
@@ -401,6 +435,43 @@ function Card({ title, children }: { title: string; children: React.ReactNode })
         {title}
       </h3>
       {children}
+    </div>
+  );
+}
+
+function ExamList({ title, entries }: { title: string; entries: ExamEntry[] }) {
+  const byDate = new Map<string, ExamEntry[]>();
+  for (const e of entries) {
+    const arr = byDate.get(e.d) ?? [];
+    arr.push(e);
+    byDate.set(e.d, arr);
+  }
+  return (
+    <div>
+      <p className="mb-2 text-[0.7rem] font-semibold uppercase tracking-[0.14em] text-gold">
+        {title}
+      </p>
+      <ul className="space-y-1">
+        {[...byDate.entries()].map(([d, es]) => (
+          <li
+            key={d}
+            className="flex items-baseline justify-between gap-3 border-b border-line/60 py-1 text-[0.8125rem] last:border-0"
+          >
+            <span className="text-ink">
+              {es.map((e, i) => (
+                <span key={i}>
+                  {i > 0 ? ", " : ""}
+                  {e.predmet}
+                  {e.vrijeme !== "9:00" ? (
+                    <span className="text-faint"> ({e.vrijeme})</span>
+                  ) : null}
+                </span>
+              ))}
+            </span>
+            <span className="shrink-0 tabular-nums text-muted">{fmtHr(d)}</span>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }

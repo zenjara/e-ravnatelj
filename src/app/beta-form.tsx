@@ -14,7 +14,7 @@ export function BetaForm() {
     const email = String(new FormData(e.currentTarget).get("email") ?? "").trim();
     if (!email) return;
     setDone(true);
-    const subject = encodeURIComponent("Prijava za beta e-ravnatelj");
+    const subject = encodeURIComponent("Prijava za beta e-Ravnatelj");
     const body = encodeURIComponent(
       `Želim se prijaviti za beta testiranje.\n\nMoj email: ${email}\nŠkola: \n`,
     );

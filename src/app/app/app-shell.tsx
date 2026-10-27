@@ -32,7 +32,7 @@ export function AppShell({
       >
         <div className="px-5 pt-6 pb-4">
           <p className="font-serif text-[1.35rem] font-semibold leading-none tracking-tight text-ink">
-            e&#8209;ravnatelj
+            e&#8209;Ravnatelj
           </p>
           <div className="mt-3 h-px w-10 bg-gold" />
           {school ? (
@@ -71,7 +71,7 @@ export function AppShell({
             ☰
           </button>
           <span className="font-serif text-lg font-semibold tracking-tight text-ink">
-            e&#8209;ravnatelj
+            e&#8209;Ravnatelj
           </span>
         </div>
 
