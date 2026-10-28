@@ -14,6 +14,10 @@ export interface StaffRow {
   prezime: string;
   ime: string;
   radno_mjesto: string;
+  /** Raw e-Matica "Radno iskustvo (ukupno)" code — parsed for display by staz.ts. */
+  staz_ukupno: number | null;
+  /** Raw e-Matica "Radno iskustvo (obrazovno)" code. */
+  staz_obrazovni: number | null;
 }
 
 export interface ParsedStaff {
@@ -34,7 +38,15 @@ const RE = {
   combined: /ime i prezime|prezime i ime|ime_prezime|^djelatnik|^zaposlenik|^naziv|ime\s*,?\s*prezime/i,
   radno: /radno mjesto|radno_mjesto|zvanje|predmet|poslovi|struka|funkcij|vrsta rada|naziv radnog/i,
   oib: /\boib\b/i,
+  stazUkupno: /radno iskustvo.*ukupno|ukupn.*(radno iskustvo|sta[žz])|sta[žz].*ukupno/i,
+  stazObraz: /radno iskustvo.*obrazov|obrazov.*(radno iskustvo|sta[žz])|sta[žz].*obrazov/i,
 };
+
+/** Parse a staž cell to its raw integer code (digits only), or null when empty. */
+function toStazCode(v: unknown): number | null {
+  const d = String(v ?? "").replace(/\D/g, "");
+  return d === "" ? null : Number(d);
+}
 
 /** Find the header row: the first of the first ~15 rows with ≥2 recognizable labels. */
 function findHeader(matrix: unknown[][]): number {
@@ -65,18 +77,23 @@ export function parseStaff(buf: Buffer | Uint8Array): ParsedStaff {
   const headerIdx = findHeader(matrix);
   const detected: string[] = [];
   let colPrezime = -1, colIme = -1, colCombined = -1, colRadno = -1, hasOib = false;
+  let colStazU = -1, colStazO = -1;
 
   if (headerIdx >= 0) {
     const headers = matrix[headerIdx].map(low);
     colPrezime = firstMatch(headers, RE.prezime);
     colIme = headers.findIndex((h) => RE.ime.test(h) && !RE.prezime.test(h));
     colRadno = firstMatch(headers, RE.radno);
+    colStazU = firstMatch(headers, RE.stazUkupno);
+    colStazO = firstMatch(headers, RE.stazObraz);
     hasOib = headers.some((h) => RE.oib.test(h));
     if (colPrezime < 0 && colIme < 0) colCombined = firstMatch(headers, RE.combined);
     if (colPrezime >= 0) detected.push("prezime");
     if (colIme >= 0) detected.push("ime");
     if (colCombined >= 0) detected.push("ime i prezime");
     if (colRadno >= 0) detected.push("radno mjesto");
+    if (colStazU >= 0) detected.push("staž (ukupno)");
+    if (colStazO >= 0) detected.push("staž (obrazovno)");
   }
 
   // Fallback when no header recognized: assume col0=prezime, col1=ime, col2=radno.
@@ -96,7 +113,13 @@ export function parseStaff(buf: Buffer | Uint8Array): ParsedStaff {
     }
     const radno_mjesto = colRadno >= 0 ? norm(r[colRadno]) : "";
     if (!prezime && !ime) continue; // skip rows without a name
-    rows.push({ prezime, ime, radno_mjesto });
+    rows.push({
+      prezime,
+      ime,
+      radno_mjesto,
+      staz_ukupno: colStazU >= 0 ? toStazCode(r[colStazU]) : null,
+      staz_obrazovni: colStazO >= 0 ? toStazCode(r[colStazO]) : null,
+    });
   }
 
   return { rows, detected, droppedOib: hasOib };

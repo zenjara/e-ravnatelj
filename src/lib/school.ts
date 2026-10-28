@@ -8,6 +8,7 @@ export interface CurrentSchool {
   naziv: string;
   mjesto: string | null;
   zupanija: string | null;
+  ravnatelj: string | null;
 }
 
 /**
@@ -20,7 +21,7 @@ export const getCurrentSchool = cache(async (): Promise<CurrentSchool | null> =>
   const session = await requireSession();
   const { data, error } = await getSupabaseAdmin()
     .from("users")
-    .select("school:school_id (id, naziv, mjesto, zupanija)")
+    .select("school:school_id (id, naziv, mjesto, zupanija, ravnatelj)")
     .eq("id", session.uid)
     .maybeSingle();
   if (error || !data?.school) return null;
