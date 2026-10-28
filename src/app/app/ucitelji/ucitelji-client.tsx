@@ -133,13 +133,8 @@ export function UciteljiClient({
     setError(null);
     startTransition(async () => {
       try {
-        const { saved } = await saveTeachers(draft);
-        setTeachers(
-          [...draft]
-            .filter((r) => r.prezime || r.ime)
-            .map((r) => ({ ...r, kategorija: r.kategorija ?? procijeniKategoriju(r.radno_mjesto) }))
-            .sort((a, b) => a.prezime.localeCompare(b.prezime, "hr")),
-        );
+        const { saved, teachers: savedRows } = await saveTeachers(draft);
+        setTeachers(savedRows); // rows from DB, with ids — GO/zvanje editable at once
         setView("roster");
         setSavedNote(`Spremljeno ${saved} djelatnika.`);
       } catch (e) {

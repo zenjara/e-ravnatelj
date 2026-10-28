@@ -82,7 +82,9 @@ export async function getTeachers(): Promise<TeacherRow[]> {
  * Note: re-importing resets per-employee GO tweaks (kategorija/uvjeti), since
  * it rebuilds the roster from the file. Složenost is re-guessed from zvanje.
  */
-export async function saveTeachers(rows: TeacherRow[]): Promise<{ saved: number }> {
+export async function saveTeachers(
+  rows: TeacherRow[],
+): Promise<{ saved: number; teachers: TeacherRow[] }> {
   const school = await getCurrentSchool();
   if (!school) throw new Error("Vašem računu nije dodijeljena škola.");
 
@@ -104,15 +106,22 @@ export async function saveTeachers(rows: TeacherRow[]): Promise<{ saved: number 
   const { error: delErr } = await supabase.from("teachers").delete().eq("school_id", school.id);
   if (delErr) throw new Error(`Spremanje nije uspjelo: ${delErr.message}`);
 
+  let saved: TeacherRow[] = [];
   if (clean.length > 0) {
-    const { error: insErr } = await supabase
+    // Return the inserted rows WITH their generated ids so the client can edit
+    // GO criteria / zvanje immediately, without a page reload.
+    const { data, error: insErr } = await supabase
       .from("teachers")
-      .insert(clean.map((r) => ({ ...r, school_id: school.id })));
+      .insert(clean.map((r) => ({ ...r, school_id: school.id })))
+      .select("id, prezime, ime, radno_mjesto, staz_ukupno, staz_obrazovni, kategorija, go_uvjeti, go_socijalni, go_rezultati");
     if (insErr) throw new Error(`Spremanje nije uspjelo: ${insErr.message}`);
+    saved = ((data ?? []) as TeacherRow[]).sort((a, b) =>
+      a.prezime.localeCompare(b.prezime, "hr"),
+    );
   }
 
   revalidatePath("/app/ucitelji");
-  return { saved: clean.length };
+  return { saved: saved.length, teachers: saved };
 }
 
 /**
