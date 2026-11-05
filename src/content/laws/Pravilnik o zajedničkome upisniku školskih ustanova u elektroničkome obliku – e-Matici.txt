@@ -1,0 +1,148 @@
+Pravilnik o zajedničkome upisniku školskih ustanova u elektroničkome obliku – e-Matici
+(neslužbeni pročišćeni tekst — obuhvaća NN 86/15, NN 76/19 i NN 38/20)
+
+Na temelju članka 140. stavka 4. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, ministar nadležan za obrazovanje donosi
+
+PRAVILNIK
+O ZAJEDNIČKOME UPISNIKU ŠKOLSKIH USTANOVA U ELEKTRONIČKOME OBLIKU – e-MATICI
+
+OPĆE ODREDBE
+
+Članak 1.
+
+Ovim pravilnikom uređuju se obveze i načini te rokovi unošenja podatka u zajednički upisnik školskih ustanova u elektroničkome obliku – e-Maticu (u daljnjem tekstu: e-Matica), ovlaštenja za pristup i korištenje podataka te sigurnost i način razmjene podataka.
+
+E-Matica ministarstva nadležnog za obrazovanje (u daljnjem tekstu: Ministarstvo) sadrži sljedeće evidencije:
+
+– Upisnik ustanova,
+
+– Evidenciju odgojno-obrazovnoga rada u ustanovama za svaku školsku godinu,
+
+– Upisnik učenika u ustanovama,
+
+– Upisnik radnika ustanova.
+
+UPISNIK USTANOVA
+
+Članak 2.
+
+Ministarstvo upisuje školsku ustanovu u Upisnik ustanova. Upisom školske ustanove u Upisnik ustanova dodjeljuje joj se jedinstvena šifra ustanove.
+
+Svaku promjenu podataka ustanove u Upisniku ustanova ustanove su dužne dostaviti Ministarstvu bez odgode, a najkasnije u roku od sedam dana od dana nastanka promjene podataka.
+
+Ministarstvo u e-Matici vodi i evidenciju o nastavnim planovima i programima te kurikulumima koje ustanova provodi i za koje ima odobrenje Ministarstva.
+
+EVIDENCIJA ODGOJNO-OBRAZOVNOGA RADA
+
+Članak 3.
+
+Školske ustanove u Republici Hrvatskoj dužne su za svaku školsku godinu u e-Matici evidentirati sve podatke o odgojno-obrazovnome radu za to odgojno-obrazovno razdoblje.
+
+Evidencija odgojno-obrazovnoga rada ustanove obuhvaća podatke o učenicima, razrednim odjelima i organizaciji odgojno-obrazovnoga rada u jednoj školskoj godini, a njezin sastavni dio predstavljaju evidencije pedagoške dokumentacije propisane Pravilnikom o pedagoškoj dokumentaciji i evidenciji te javnim ispravama u školskim ustanovama.
+
+Radi vođenja evidencije o učenicima iz stavka 2. ovog članka, unutar sustava e-Matica evidentiraju se rezultati o položenim ispitima državne mature.
+
+UPISNIK UČENIKA
+
+Članak 4.
+
+Školske ustanove u Republici Hrvatskoj dužne su voditi upisnik učenika u e-Matici.
+
+Upisnik učenika je poimenična evidencija učenika u ustanovama na temelju školske evidencije iz Matične knjige učenika.
+
+Upisnik učenika treba omogućiti uvid u pedagoške i druge podatke značajne za praćenje učenika tijekom cijeloga njegova školovanja.
+
+UPISNIK RADNIKA
+
+Članak 5.
+
+Školske ustanove u Republici Hrvatskoj dužne su voditi upisnik radnika u e-Matici.
+
+Upisnik radnika poimenična je evidencija svih osoba koje u ustanovama imaju zasnovan radni odnos na neodređeno ili određeno vrijeme, s punim, nepunim te skraćenim radnim vremenom, koje rade u dopunskome radu ili su vanjski suradnici te ostale podatke značajne za rad ustanove.
+
+OBVEZE MINISTARSTVA
+
+Članak 6.
+
+Podatke iz članka 2. stavka 1. ovog pravilnika Ministarstvo unosi danom izdavanja rješenja o ispunjenju uvjeta za početak rada ustanove koje izdaje Ministarstvo.
+
+Podatke iz članka 2. stavka 3. ovog pravilnika Ministarstvo unosi danom izdavanja rješenja o izvođenju programa obrazovanja/strukovnog kurikuluma školskoj ustanovi.
+
+Članak 7.
+
+Ministarstvo je odgovorno za osiguranje redovitoga rada e-Matice uključujući poslove računalne i komunikacijske infrastrukture te tehničku potporu sustavu, sigurnost sustava te pohranu podataka i korisničku potporu, a sve u skladu s važećim zakonskim propisima i pravilima struke.
+
+Ministarstvo može, na temelju posebne odluke za obavljanje poslova redovitoga funkcioniranja koji uključuju tehničku potporu sustavu, sigurnost sustava, raspoloživost sustava te pohranu podataka, a sve u skladu s važećim zakonskim propisima i pravilima struke, ovlastiti drugu ustanovu iz sustava obrazovanja i znanosti.
+
+OBVEZE USTANOVA
+
+Članak 8.
+
+Podatke u upisnike iz članaka 3., 4. i 5. ovoga pravilnika ustanove unose:
+
+– za početak školske godine najkasnije do 30. rujna za tekuću školsku godinu,
+
+– tijekom školske godine u roku od sedam dana od nastale promjene podataka,
+
+– za kraj školske godine najkasnije do 7. rujna za prethodnu školsku godinu.
+
+CARNET unosi podatke o položenim ispitima državne mature najkasnije 30 dana od konačne objave rezultata jesenskog ispitnog roka.
+
+Članak 9.
+
+Ustanove imenuju osobe iz reda zaposlenika koji imaju dužnost, pravo i odgovornost za unos podataka u evidencije iz članka 3., 4. i 5. ovog pravilnika iz nadležnosti te ustanove.
+
+Za točnost podataka odgovoran je ravnatelj ustanove.
+
+ZAŠTITA I TAJNOST PODATAKA
+
+Članak 10.
+
+Podaci iz e-Matice moraju biti zaštićeni od zloupotrebe, uništenja, gubitka, neovlaštenih promjena ili pristupa, u skladu s odredbama propisa kojim se uređuje zaštita osobnih podataka.
+
+Članak 11.
+
+Pristup podacima, unos podataka i razine uvida u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika i Upisniku djelatnika dopušten je samo ovlaštenim djelatnicima ustanove, ovlaštenim djelatnicima Ministarstva te ovlaštenim osobama zaduženima za održavanje i razvoj sustava te korisničku potporu.
+
+Ovlaštene osobe koje pristupaju ili izmjenjuju podatke pohranjene u e-Matici obvezuju se rukovati tim podacima sukladno zakonskim propisima te ih ne zloupotrebljavati. Podaci se mogu davati trećim stranama samo na način opisan u članku 12.
+
+Uz osobe iz stavka 1. ovog članka Ministarstvo može za uvid u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika te Upisniku radnika ovlastiti i druge stručne osobe Ministarstva kada je to potrebno radi nesmetanog rješavanja određenih pitanja i zadataka iz njihova djelokruga.
+
+RAZMJENA PODATAKA
+
+Članak 12.
+
+Ministarstvo može drugim javnim i državnim institucijama omogućiti pristup podacima za njihove potrebe na temelju pisanoga zahtjeva uz dokazivanje svrhe i pravnoga temelja za korištenje podataka koji se traže, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+
+Ministarstvo može za potrebe obavljanja poslova iz svoje nadležnosti preuzimati podatke u e-Maticu iz baza podataka koje su u vlasništvu drugih institucija.
+
+Ministarstvo s institucijama iz stavka 1. i 2. ovoga članka može sklopiti sporazum kojim se detaljno utvrđuje sadržaj i način dostave podataka te obveza osiguranja cjelovitosti, povjerljivosti i dostupnosti podataka.
+
+Ministarstvo može za potrebe znanstvenih istraživanja pojedincima i znanstvenim institucijama, na njihov pisani zahtjev, omogućiti ograničen pristup podatcima iz e-Matice, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+
+Ministarstvo može prije omogućavanja pristupa podacima na temelju zahtjeva iz stavka 1. i 4. ovog članka zatražiti i stručno mišljenje agencije u čijoj je nadležnosti zaštita osobnih podataka.
+
+Školska ustanova može davati podatke iz e-Matice trećim osobama samo na temelju pisanoga zahtjeva uz dokazivanje svrhe i pravnoga temelja za korištenje podataka te koji se traže, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+
+Školska ustanova može prije davanja podataka na temelju zahtjeva iz stavka 6. ovog članka zatražiti i stručno mišljenje agencije u čijoj je nadležnosti zaštita osobnih podataka.
+
+Ministarstvo, školske ustanove, pojedinci i institucije iz ovoga članka dužni su poduzeti potrebne tehničke, kadrovske i organizacijske mjere zaštite osobnih podataka kako bi se osobni podaci zaštitili od gubitka ili uništenja i od nedopuštenoga pristupa, promjene, objavljivanja i svake druge zlouporabe te utvrditi obvezu osoba ovlaštenih za unos i obradu podataka na potpisivanje izjave o povjerljivosti.
+
+PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Članak 13.
+
+Stupanjem na snagu ovog pravilnika prestaje vrijediti Odluka o zajedničkom elektroničkom upisniku ustanova osnovnog školstva (ZEUS), (klasa: 602-02/08-09/00007, urbroj: 533-04-08-0001) i Pravilnik o evidencijama u srednjim školama, učeničkim domovima i drugim srednjoškolskim ustanovama (»Narodne novine« br. 16/08. i 29/08.).
+
+Članak 14.
+
+Ovaj pravilnik stupa na snagu osmog dana nakon objave u »Narodnim novinama«.
+
+---
+
+Napomena uz pročišćeni tekst:
+
+Ovo je neslužbeni pročišćeni tekst Pravilnika o zajedničkome upisniku školskih ustanova u elektroničkome obliku – e-Matici koji obuhvaća:
+- Pravilnik o zajedničkome upisniku školskih ustanova u elektroničkome obliku – e-Matici (»Narodne novine«, broj 86/15),
+- Pravilnik o dopuni Pravilnika o zajedničkome upisniku školskih ustanova u elektroničkome obliku – e-Matici (»Narodne novine«, broj 76/19),
+- Pravilnik o izmjenama Pravilnika o zajedničkom upisniku školskih ustanova u elektroničkom obliku – e-Matici (»Narodne novine«, broj 38/20).

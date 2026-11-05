@@ -19,7 +19,7 @@ const LAWS_DIR = path.join(
 );
 
 const titleOf = (f) =>
-  f.replace(/\.(md|txt)$/i, "").replace(/[_-]+/g, " ").replace(/\s+/g, " ").trim();
+  f.replace(/\.(md|txt)$/i, "").replace(/_+/g, " ").replace(/\s+/g, " ").trim();
 
 const slugify = (s) =>
   s

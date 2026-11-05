@@ -31,7 +31,7 @@ function env(n) {
   if (!v) { console.error(`Missing ${n} (run via npm run sync:laws).`); process.exit(1); }
   return v;
 }
-const titleOf = (f) => f.replace(/\.(md|txt)$/i, "").replace(/[_-]+/g, " ").replace(/\s+/g, " ").trim();
+const titleOf = (f) => f.replace(/\.(md|txt)$/i, "").replace(/_+/g, " ").replace(/\s+/g, " ").trim();
 const slugify = (s) =>
   s.normalize("NFD").replace(/\p{Diacritic}/gu, "").replace(/đ/g, "d").replace(/Đ/g, "D")
     .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
