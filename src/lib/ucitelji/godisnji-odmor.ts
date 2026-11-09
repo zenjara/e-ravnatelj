@@ -178,3 +178,26 @@ export function izracunajGodisnji(unos: GoUnos, cfg: GoConfig = KU_OS): GoRezult
 
   return { stavke, zbroj, ukupno, odrezanoMax, podignutoMin };
 }
+
+/**
+ * Je li ravnatelj već unio GO kriterije za djelatnika (uvjeti rada, socijalni
+ * kriteriji ili radni rezultati)? Sama kategorija se auto-procjenjuje iz zvanja
+ * pa se ne broji kao "ručno postavljeno". Koristi se za status-badge u bazi.
+ */
+export function imaGoKriterije(t: {
+  go_uvjeti?: Partial<Record<UvjetKey, boolean>> | null;
+  go_socijalni?: {
+    brojDjece?: number;
+    djecaSTeskocama?: number;
+    invaliditet?: boolean;
+    samohrani?: boolean;
+    domovinskiRat?: boolean;
+  } | null;
+  go_rezultati?: Rezultati;
+}): boolean {
+  const uvjeti = t.go_uvjeti ? Object.values(t.go_uvjeti).some(Boolean) : false;
+  const socijalni = t.go_socijalni
+    ? Object.values(t.go_socijalni).some((v) => (typeof v === "number" ? v > 0 : !!v))
+    : false;
+  return uvjeti || socijalni || !!t.go_rezultati;
+}

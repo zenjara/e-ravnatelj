@@ -1,17 +1,11 @@
 "use client";
 
 import { useRef, useState, useTransition } from "react";
-import { saveTeachers, updateTeacherGo, updateTeacherZvanje, type TeacherRow, type GoUvjeti, type GoSocijalni } from "./actions";
+import Link from "next/link";
+import { saveTeachers, updateTeacherZvanje, type TeacherRow } from "./actions";
+import type { GoSnapshot } from "../godisnji-odmori/actions";
+import { PdfPreview, fetchGoPdf, downloadBlob } from "../godisnji-odmori/pdf-preview";
 import { parseStaz, formatStaz } from "@/lib/ucitelji/staz";
-import {
-  izracunajGodisnji,
-  procijeniKategoriju,
-  KATEGORIJA_LABEL,
-  UVJET_LABEL,
-  type Kategorija,
-  type Rezultati,
-  type UvjetKey,
-} from "@/lib/ucitelji/godisnji-odmor";
 
 interface ParsedStaff {
   rows: TeacherRow[];
@@ -21,20 +15,17 @@ interface ParsedStaff {
 
 type View = "roster" | "preview";
 
-const KATEGORIJE: Kategorija[] = ["I", "II", "III", "ostali"];
-const UVJET_KEYS: UvjetKey[] = [
-  "posebni_uvjeti", "smjenski", "rad_s_teskocama", "razrednik", "vise_predmeta", "dvije_skole",
-];
-
 const stazLabel = (raw: number | null | undefined) =>
   raw == null ? "—" : formatStaz(parseStaz(String(raw)));
 
 export function UciteljiClient({
   schoolName,
   initialTeachers,
+  latestGo,
 }: {
   schoolName: string | null;
   initialTeachers: TeacherRow[];
+  latestGo: Record<string, GoSnapshot>;
 }) {
   const [teachers, setTeachers] = useState<TeacherRow[]>(initialTeachers);
   const [view, setView] = useState<View>("roster");
@@ -44,12 +35,53 @@ export function UciteljiClient({
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [savedNote, setSavedNote] = useState<string | null>(null);
-  const [openGo, setOpenGo] = useState<string | null>(null);
-  // Zaglavlje rješenja (dijeli se za sve, pamti se u sesiji stranice).
-  const [cfg, setCfg] = useState({ klasa: "", urbroj: "", godina: String(new Date().getFullYear()) });
   const [pending, startTransition] = useTransition();
   const fileInput = useRef<HTMLInputElement>(null);
   const zvanjeFocus = useRef<string>("");
+  // Inline GO PDF preview (jedan modal; generira se iz zadnjeg spremljenog snapshota).
+  const [goPreview, setGoPreview] = useState<{ url: string; title: string; filename: string } | null>(null);
+  const [previewingId, setPreviewingId] = useState<string | null>(null);
+
+  async function previewGo(t: TeacherRow, snap: GoSnapshot) {
+    if (!t.id) return;
+    setError(null);
+    setPreviewingId(t.id);
+    try {
+      const godina = String(snap.godina);
+      const blob = await fetchGoPdf({
+        ime: t.ime,
+        prezime: t.prezime,
+        zvanje: t.radno_mjesto,
+        staz_ukupno: t.staz_ukupno,
+        kategorija: snap.kategorija ?? "ostali",
+        uvjeti: snap.go_uvjeti ?? {},
+        socijalni: snap.go_socijalni ?? {},
+        rezultati: snap.go_rezultati ?? null,
+        klasa: snap.klasa,
+        urbroj: snap.urbroj,
+        godina,
+      });
+      setGoPreview((old) => {
+        if (old) URL.revokeObjectURL(old.url);
+        return {
+          url: URL.createObjectURL(blob),
+          title: `Rješenje — ${t.prezime} ${t.ime} · ${godina}`,
+          filename: `Rjesenje-GO-${t.prezime}-${t.ime}-${godina}.pdf`,
+        };
+      });
+    } catch (e) {
+      setError((e as Error).message || "Pregled nije uspio.");
+    } finally {
+      setPreviewingId(null);
+    }
+  }
+
+  function closeGoPreview() {
+    setGoPreview((old) => {
+      if (old) URL.revokeObjectURL(old.url);
+      return null;
+    });
+  }
 
   function editZvanjeLocal(i: number, value: string) {
     setTeachers((ts) => ts.map((x, j) => (j === i ? { ...x, radno_mjesto: value } : x)));
@@ -194,92 +226,97 @@ export function UciteljiClient({
 
           {teachers.length ? (
             <>
-              {/* Zaglavlje rješenja */}
-              <div className="rounded-xl border border-line bg-surface p-4 shadow-[var(--shadow)]">
-                <p className="mb-2 text-xs font-semibold uppercase tracking-[0.12em] text-faint">
-                  Zaglavlje rješenja
-                </p>
-                <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
-                  <label className="text-sm">
-                    <span className="mb-1 block text-xs text-muted">KLASA</span>
-                    <input
-                      value={cfg.klasa}
-                      onChange={(e) => setCfg((c) => ({ ...c, klasa: e.target.value }))}
-                      placeholder="npr. 100-01/26-01/01"
-                      className="w-full rounded-md border border-line bg-bg px-2.5 py-1.5 text-ink focus:border-accent focus:outline-none focus:ring-4 focus:ring-accent/10"
-                    />
-                  </label>
-                  <label className="text-sm">
-                    <span className="mb-1 block text-xs text-muted">URBROJ</span>
-                    <input
-                      value={cfg.urbroj}
-                      onChange={(e) => setCfg((c) => ({ ...c, urbroj: e.target.value }))}
-                      placeholder="npr. 2181-xxx-01-26-01"
-                      className="w-full rounded-md border border-line bg-bg px-2.5 py-1.5 text-ink focus:border-accent focus:outline-none focus:ring-4 focus:ring-accent/10"
-                    />
-                  </label>
-                  <label className="text-sm">
-                    <span className="mb-1 block text-xs text-muted">Godina</span>
-                    <input
-                      value={cfg.godina}
-                      onChange={(e) => setCfg((c) => ({ ...c, godina: e.target.value }))}
-                      className="w-full rounded-md border border-line bg-bg px-2.5 py-1.5 text-ink focus:border-accent focus:outline-none focus:ring-4 focus:ring-accent/10"
-                    />
-                  </label>
-                </div>
-              </div>
+              <p className="text-xs text-faint">
+                Baza djelatnika škole. Uz svakog vidite i brzo otvarate njegov godišnji odmor i
+                zaduženja.
+              </p>
 
-              <div className="overflow-hidden rounded-xl border border-line bg-surface shadow-[var(--shadow)]">
-                <ul className="divide-y divide-line">
-                  {teachers.map((t, i) => {
-                    const id = t.id ?? String(i);
-                    const isOpen = openGo === id;
-                    return (
-                      <li key={id}>
-                        <div className="flex items-start gap-3 px-4 py-2.5 text-sm">
-                          <span className="pt-1 text-faint tabular-nums">{i + 1}.</span>
-                          <div className="min-w-0 flex-1">
-                            <div className="font-medium text-ink">{t.prezime} {t.ime}</div>
-                            <div className="mt-0.5 flex flex-wrap items-center gap-2">
-                              <input
-                                value={t.radno_mjesto}
-                                placeholder="＋ dodaj zvanje…"
-                                disabled={!t.id}
-                                onFocus={(e) => { zvanjeFocus.current = e.target.value; }}
-                                onChange={(e) => editZvanjeLocal(i, e.target.value)}
-                                onBlur={(e) => saveZvanje(i, t.id, e.target.value)}
-                                onKeyDown={(e) => { if (e.key === "Enter") e.currentTarget.blur(); }}
-                                title="Zvanje — klikni za uređivanje"
-                                className="min-w-[8rem] max-w-full flex-1 rounded-md border border-transparent bg-transparent px-2 py-0.5 text-xs text-muted transition-colors placeholder:text-faint hover:border-line focus:border-accent focus:bg-bg focus:text-ink focus:outline-none focus:ring-4 focus:ring-accent/10"
-                              />
-                              <span className="shrink-0 rounded bg-bg-tint px-1.5 py-0.5 text-[0.68rem] tabular-nums text-muted">
-                                staž {stazLabel(t.staz_ukupno)}
+              <div className="flex flex-col gap-3">
+                {teachers.map((t, i) => {
+                  const id = t.id ?? String(i);
+                  const snap = t.id ? latestGo[t.id] : undefined;
+                  return (
+                    <div
+                      key={id}
+                      className="rounded-xl border border-line bg-surface p-4 shadow-[var(--shadow)]"
+                    >
+                      <div className="flex items-baseline gap-2">
+                        <span className="text-xs text-faint tabular-nums">{i + 1}.</span>
+                        <h3 className="font-medium text-ink">{t.prezime} {t.ime}</h3>
+                      </div>
+
+                      <div className="mt-2 flex flex-wrap items-center gap-2">
+                        <label className="text-[0.68rem] uppercase tracking-wide text-faint">Zvanje</label>
+                        <input
+                          value={t.radno_mjesto}
+                          placeholder="＋ dodaj…"
+                          disabled={!t.id}
+                          onFocus={(e) => { zvanjeFocus.current = e.target.value; }}
+                          onChange={(e) => editZvanjeLocal(i, e.target.value)}
+                          onBlur={(e) => saveZvanje(i, t.id, e.target.value)}
+                          onKeyDown={(e) => { if (e.key === "Enter") e.currentTarget.blur(); }}
+                          title="Zvanje — klikni za uređivanje"
+                          className="w-56 max-w-full rounded-md border border-line bg-bg px-2 py-1 text-xs text-ink transition-colors placeholder:text-faint hover:border-line-strong focus:border-accent focus:outline-none focus:ring-4 focus:ring-accent/10"
+                        />
+                        <span className="shrink-0 rounded bg-bg-tint px-1.5 py-0.5 text-[0.68rem] tabular-nums text-muted">
+                          staž {stazLabel(t.staz_ukupno)}
+                        </span>
+                      </div>
+
+                      {/* Footer: brzi pristup rješenjima za ovog djelatnika. */}
+                      <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-3">
+                        {snap && t.id ? (
+                          <>
+                            <button
+                              type="button"
+                              onClick={() => previewGo(t, snap)}
+                              disabled={previewingId === t.id}
+                              title={`Pregledaj rješenje o godišnjem odmoru (${snap.godina})`}
+                              className="inline-flex items-center gap-1.5 rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-ink transition-colors hover:border-accent hover:bg-accent-weak disabled:opacity-50"
+                            >
+                              <span aria-hidden>🏖️</span>
+                              {previewingId === t.id ? "Pripremam…" : "Pregledaj GO"}
+                              <span className="rounded bg-good-weak px-1 text-[0.62rem] font-semibold text-good tabular-nums">
+                                {snap.godina}
+                                {snap.ukupno_dana != null ? ` · ${snap.ukupno_dana} d` : ""}
                               </span>
-                            </div>
-                          </div>
-                          <button
-                            type="button"
-                            onClick={() => setOpenGo(isOpen ? null : id)}
-                            className={`mt-0.5 shrink-0 rounded-lg px-2.5 py-1 text-xs font-medium transition-colors ${
-                              isOpen ? "bg-accent text-accent-ink" : "border border-line text-ink hover:bg-bg-tint"
-                            }`}
+                            </button>
+                            <Link
+                              href={`/app/godisnji-odmori#${t.id}`}
+                              title="Uredi godišnji odmor"
+                              className="text-xs text-muted underline-offset-2 hover:text-accent hover:underline"
+                            >
+                              uredi
+                            </Link>
+                          </>
+                        ) : t.id ? (
+                          <Link
+                            href={`/app/godisnji-odmori#${t.id}`}
+                            title="Godišnji odmor — izradi rješenje"
+                            className="inline-flex items-center gap-1.5 rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-ink transition-colors hover:border-accent hover:bg-accent-weak"
                           >
-                            {isOpen ? "Zatvori" : "Odmor"}
-                          </button>
-                        </div>
-                        {isOpen ? (
-                          <GoPanel
-                            teacher={t}
-                            cfg={cfg}
-                            onSaved={(patch) =>
-                              setTeachers((ts) => ts.map((x) => (x.id === t.id ? { ...x, ...patch } : x)))
-                            }
-                          />
-                        ) : null}
-                      </li>
-                    );
-                  })}
-                </ul>
+                            <span aria-hidden>🏖️</span>
+                            Godišnji odmor
+                            <span className="rounded bg-bg-tint px-1 text-[0.62rem] font-semibold text-faint">—</span>
+                          </Link>
+                        ) : (
+                          <span className="inline-flex items-center gap-1.5 rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-faint">
+                            <span aria-hidden>🏖️</span>
+                            Godišnji odmor
+                          </span>
+                        )}
+                        <Link
+                          href="/app/zaduzenja"
+                          title="Zaduženja — izrada Odluke"
+                          className="inline-flex items-center gap-1.5 rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-ink transition-colors hover:border-accent hover:bg-accent-weak"
+                        >
+                          <span aria-hidden>📄</span>
+                          Zaduženje
+                        </Link>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
             </>
           ) : (
@@ -392,234 +429,18 @@ export function UciteljiClient({
           <p className="text-xs text-faint">Spremanje zamjenjuje postojeći popis ove škole.</p>
         </div>
       ) : null}
+
+      {goPreview ? (
+        <PdfPreview
+          url={goPreview.url}
+          title={goPreview.title}
+          onDownload={async () => {
+            const res = await fetch(goPreview.url);
+            downloadBlob(await res.blob(), goPreview.filename);
+          }}
+          onClose={closeGoPreview}
+        />
+      ) : null}
     </main>
-  );
-}
-
-/** Per-employee annual-leave panel: criteria → live total → save / download PDF. */
-function GoPanel({
-  teacher,
-  cfg,
-  onSaved,
-}: {
-  teacher: TeacherRow;
-  cfg: { klasa: string; urbroj: string; godina: string };
-  onSaved: (patch: Partial<TeacherRow>) => void;
-}) {
-  const soc = teacher.go_socijalni ?? {};
-  const [kategorija, setKategorija] = useState<Kategorija>(
-    teacher.kategorija ?? procijeniKategoriju(teacher.radno_mjesto),
-  );
-  const [uvjeti, setUvjeti] = useState<GoUvjeti>(teacher.go_uvjeti ?? {});
-  const [brojDjece, setBrojDjece] = useState(soc.brojDjece ?? 0);
-  const [djecaSTeskocama, setDjecaSTeskocama] = useState(soc.djecaSTeskocama ?? 0);
-  const [invaliditet, setInvaliditet] = useState(!!soc.invaliditet);
-  const [samohrani, setSamohrani] = useState(!!soc.samohrani);
-  const [domovinskiRat, setDomovinskiRat] = useState(!!soc.domovinskiRat);
-  const [rezultati, setRezultati] = useState<Rezultati>(teacher.go_rezultati ?? null);
-  const [savingGo, setSavingGo] = useState(false);
-  const [downloading, setDownloading] = useState(false);
-  const [note, setNote] = useState<string | null>(null);
-  const [err, setErr] = useState<string | null>(null);
-
-  const rezultat = izracunajGodisnji({
-    staz: parseStaz(teacher.staz_ukupno == null ? "" : String(teacher.staz_ukupno)),
-    kategorija,
-    uvjeti,
-    brojDjece,
-    djecaSTeskocama,
-    invaliditet,
-    samohrani,
-    domovinskiRat,
-    rezultati,
-  });
-
-  async function spremiKriterije() {
-    if (!teacher.id) return;
-    setErr(null);
-    setSavingGo(true);
-    const socijalni: GoSocijalni = { brojDjece, djecaSTeskocama, invaliditet, samohrani, domovinskiRat };
-    try {
-      await updateTeacherGo(teacher.id, kategorija, uvjeti, socijalni, rezultati);
-      onSaved({ kategorija, go_uvjeti: uvjeti, go_socijalni: socijalni, go_rezultati: rezultati });
-      setNote("Kriteriji spremljeni.");
-    } catch (e) {
-      setErr((e as Error).message || "Spremanje nije uspjelo.");
-    } finally {
-      setSavingGo(false);
-    }
-  }
-
-  async function preuzmiRjesenje() {
-    setErr(null);
-    setDownloading(true);
-    try {
-      const res = await fetch("/api/ucitelji/go", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          ime: teacher.ime,
-          prezime: teacher.prezime,
-          zvanje: teacher.radno_mjesto,
-          staz_ukupno: teacher.staz_ukupno,
-          kategorija,
-          uvjeti,
-          socijalni: { brojDjece, djecaSTeskocama, invaliditet, samohrani, domovinskiRat },
-          rezultati,
-          klasa: cfg.klasa,
-          urbroj: cfg.urbroj,
-          godina: cfg.godina,
-        }),
-      });
-      if (!res.ok) {
-        const e = await res.json().catch(() => null);
-        setErr(e?.error ?? "Generiranje nije uspjelo.");
-        return;
-      }
-      const blob = await res.blob();
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = `Rjesenje-GO-${teacher.prezime}-${teacher.ime}-${cfg.godina}.pdf`;
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
-      URL.revokeObjectURL(url);
-    } catch {
-      setErr("Došlo je do greške. Pokušajte ponovno.");
-    } finally {
-      setDownloading(false);
-    }
-  }
-
-  const fieldCls =
-    "rounded-md border border-line bg-bg px-2 py-1 text-sm text-ink focus:border-accent focus:outline-none focus:ring-4 focus:ring-accent/10";
-
-  return (
-    <div className="border-t border-line bg-bg-tint/40 px-4 py-4">
-      <div className="grid gap-5 md:grid-cols-[1fr_15rem]">
-        {/* Kriteriji */}
-        <div className="flex flex-col gap-3.5 text-sm">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs font-semibold uppercase tracking-wide text-faint">Složenost</span>
-            <select value={kategorija} onChange={(e) => setKategorija(e.target.value as Kategorija)} className={fieldCls}>
-              {KATEGORIJE.map((k) => (
-                <option key={k} value={k}>{KATEGORIJA_LABEL[k]}</option>
-              ))}
-            </select>
-            <span className="text-xs text-faint">
-              staž: {stazLabel(teacher.staz_ukupno)}
-            </span>
-          </div>
-
-          <div>
-            <p className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-faint">Uvjeti rada</p>
-            <div className="flex flex-wrap gap-x-4 gap-y-1.5">
-              {UVJET_KEYS.map((k) => (
-                <label key={k} className="flex items-center gap-1.5">
-                  <input
-                    type="checkbox"
-                    checked={!!uvjeti[k]}
-                    onChange={(e) => setUvjeti((u) => ({ ...u, [k]: e.target.checked }))}
-                    className="accent-[color:var(--accent)]"
-                  />
-                  {UVJET_LABEL[k]}
-                </label>
-              ))}
-            </div>
-          </div>
-
-          <div>
-            <p className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-faint">
-              Socijalni uvjeti <span className="font-normal normal-case text-faint">(osjetljivo — čuva se samo na serveru)</span>
-            </p>
-            <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
-              <label className="flex items-center gap-1.5">
-                Malodobne djece
-                <input type="number" min={0} max={20} value={brojDjece}
-                  onChange={(e) => setBrojDjece(Math.max(0, Number(e.target.value) || 0))}
-                  className={`${fieldCls} w-16`} />
-              </label>
-              <label className="flex items-center gap-1.5">
-                Djece s teškoćama
-                <input type="number" min={0} max={20} value={djecaSTeskocama}
-                  onChange={(e) => setDjecaSTeskocama(Math.max(0, Number(e.target.value) || 0))}
-                  className={`${fieldCls} w-16`} />
-              </label>
-              <label className="flex items-center gap-1.5">
-                <input type="checkbox" checked={invaliditet} onChange={(e) => setInvaliditet(e.target.checked)} className="accent-[color:var(--accent)]" />
-                Invaliditet
-              </label>
-              <label className="flex items-center gap-1.5">
-                <input type="checkbox" checked={samohrani} onChange={(e) => setSamohrani(e.target.checked)} className="accent-[color:var(--accent)]" />
-                Samohrani roditelj
-              </label>
-              <label className="flex items-center gap-1.5">
-                <input type="checkbox" checked={domovinskiRat} onChange={(e) => setDomovinskiRat(e.target.checked)} className="accent-[color:var(--accent)]" />
-                Domovinski rat
-              </label>
-            </div>
-          </div>
-
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs font-semibold uppercase tracking-wide text-faint">Radni rezultati</span>
-            <select
-              value={rezultati ?? ""}
-              onChange={(e) => setRezultati((e.target.value || null) as Rezultati)}
-              className={fieldCls}
-            >
-              <option value="">— nije ocijenjeno —</option>
-              <option value="uspjesni">uspješni (+1)</option>
-              <option value="vrlo_uspjesni">vrlo uspješni (+2)</option>
-              <option value="izuzetni">izuzetni (+3)</option>
-            </select>
-          </div>
-        </div>
-
-        {/* Rezultat */}
-        <div className="rounded-xl border border-line bg-surface p-3.5 text-sm shadow-[var(--shadow)]">
-          <div className="mb-2 flex items-baseline justify-between">
-            <span className="text-xs font-semibold uppercase tracking-wide text-faint">Ukupno</span>
-            <span className="font-serif text-2xl font-semibold text-accent">{rezultat.ukupno}</span>
-          </div>
-          <ul className="space-y-0.5 text-xs text-muted">
-            {rezultat.stavke.map((s, i) => (
-              <li key={i} className="flex justify-between gap-2">
-                <span className="truncate">{s.label}</span>
-                <span className="tabular-nums text-ink">+{s.dani}</span>
-              </li>
-            ))}
-          </ul>
-          {rezultat.odrezanoMax ? (
-            <p className="mt-2 text-[0.68rem] text-gold">Zbroj {rezultat.zbroj} → ograničeno na 30 (KU).</p>
-          ) : rezultat.podignutoMin ? (
-            <p className="mt-2 text-[0.68rem] text-gold">Zbroj {rezultat.zbroj} → podignuto na zakonskih 20.</p>
-          ) : null}
-          <p className="mt-1 text-[0.68rem] text-faint">radnih dana</p>
-        </div>
-      </div>
-
-      {err ? <p className="mt-3 rounded-lg bg-bad-weak px-3 py-2 text-xs text-bad">{err}</p> : null}
-      {note ? <p className="mt-3 rounded-lg bg-good-weak px-3 py-2 text-xs text-good">{note}</p> : null}
-
-      <div className="mt-3.5 flex flex-wrap gap-2.5">
-        <button
-          type="button"
-          onClick={spremiKriterije}
-          disabled={savingGo || !teacher.id}
-          className="rounded-lg border border-line px-3.5 py-2 text-xs font-medium text-ink transition-colors hover:bg-bg-tint disabled:opacity-50"
-        >
-          {savingGo ? "Spremam…" : "Spremi kriterije"}
-        </button>
-        <button
-          type="button"
-          onClick={preuzmiRjesenje}
-          disabled={downloading}
-          className="rounded-lg bg-accent px-4 py-2 text-xs font-semibold text-accent-ink transition-colors hover:bg-accent-hover disabled:opacity-50"
-        >
-          {downloading ? "Generiram…" : "Preuzmi rješenje (PDF)"}
-        </button>
-      </div>
-    </div>
   );
 }
