@@ -5,7 +5,7 @@ import { BetaForm } from "./beta-form";
 export const metadata: Metadata = {
   title: "e-Ravnatelj — digitalni asistent ravnateljima osnovnih škola",
   description:
-    "Pravni asistent nad propisima, generiranje Odluka o zaduženjima, školski kalendar, pročišćeni zakoni i profil škole. Prijavite se za beta testiranje.",
+    "Pravni asistent nad propisima, Odluke o zaduženjima, Rješenja o godišnjem odmoru, školski kalendar, pročišćeni zakoni i baza učitelja. Prijavite se za beta testiranje.",
 };
 
 const FEATURES = [
@@ -20,14 +20,14 @@ const FEATURES = [
     desc: "Učitate ispunjenu tablicu, a aplikacija izradi gotovu Odluku za svakog učitelja — spremnu za ispis i potpis, u jednom PDF-u ili zasebno.",
   },
   {
+    icon: "🏖️",
+    title: "Rješenja o godišnjem odmoru",
+    desc: "Za svakog djelatnika broj dana se izračuna po kolektivnom ugovoru (staž, složenost, uvjeti rada), a aplikacija izradi gotovo Rješenje — spremno za ispis i potpis.",
+  },
+  {
     icon: "📅",
     title: "Školski kalendar",
     desc: "Pregledan kalendar školske godine s blagdanima i odmorima, a vlastite dane (Dan škole, Dan grada) škola upisuje sama.",
-  },
-  {
-    icon: "👥",
-    title: "Profil škole i učitelji",
-    desc: "Podaci škole su već popunjeni iz javnog registra, a popis učitelja uvezete iz e-Matice u nekoliko klikova.",
   },
 ];
 
@@ -103,6 +103,28 @@ export default function LandingPage() {
               <p className="text-[0.96rem] text-muted">{f.desc}</p>
             </div>
           ))}
+
+          {/* Full-width highlight: Učitelji kao baza škole */}
+          <div className="rounded-2xl border border-line bg-surface p-6 shadow-[var(--shadow)] sm:col-span-2">
+            <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
+              <span className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-accent-weak text-2xl">
+                👥
+              </span>
+              <div>
+                <div className="flex flex-wrap items-center gap-2">
+                  <h3 className="font-serif text-xl font-semibold">Učitelji — baza škole</h3>
+                  <span className="rounded-full bg-gold-weak px-2.5 py-0.5 text-xs font-semibold text-gold">
+                    sve na jednom mjestu
+                  </span>
+                </div>
+                <p className="mt-1.5 text-[0.96rem] text-muted">
+                  Popis djelatnika uvezete iz e-Matice u nekoliko klikova, a zatim je sve o svakom na
+                  jednom mjestu: zvanje, radni staž te brzi pristup njegovu godišnjem odmoru i
+                  zaduženjima. Podaci škole već su popunjeni iz javnog registra.
+                </p>
+              </div>
+            </div>
+          </div>
 
           {/* Full-width highlight: consolidated laws & rulebooks */}
           <div className="rounded-2xl border border-line bg-surface p-6 shadow-[var(--shadow)] sm:col-span-2">

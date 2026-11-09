@@ -36,14 +36,19 @@ export function LawNav({
         Postavi pitanje
       </Link>
 
-      <Link href="/app/zaduzenja" className={cls(pathname.startsWith("/app/zaduzenja"))}>
-        <span aria-hidden className="text-base leading-none">📄</span>
-        Odluke o zaduženjima
-      </Link>
-
       <Link href="/app/ucitelji" className={cls(pathname.startsWith("/app/ucitelji"))}>
         <span aria-hidden className="text-base leading-none">👥</span>
         Učitelji
+      </Link>
+
+      <Link href="/app/godisnji-odmori" className={cls(pathname.startsWith("/app/godisnji-odmori"))}>
+        <span aria-hidden className="text-base leading-none">🏖️</span>
+        Godišnji odmori
+      </Link>
+
+      <Link href="/app/zaduzenja" className={cls(pathname.startsWith("/app/zaduzenja"))}>
+        <span aria-hidden className="text-base leading-none">📄</span>
+        Odluke o zaduženjima
       </Link>
 
       {isAdmin ? (
