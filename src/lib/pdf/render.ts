@@ -1,5 +1,7 @@
 import "server-only";
-import { existsSync } from "node:fs";
+import { existsSync, mkdtempSync } from "node:fs";
+import { tmpdir } from "node:os";
+import path from "node:path";
 import puppeteer, { type Browser, type Page } from "puppeteer-core";
 
 /**
@@ -42,28 +44,66 @@ async function launch(): Promise<Browser> {
       defaultViewport: chromium.defaultViewport,
     });
   }
+  // Isolated profile so launching the system Chrome doesn't hand off to an
+  // already-running instance (which exits immediately → puppeteer times out
+  // "waiting for the WS endpoint URL").
+  const userDataDir = mkdtempSync(path.join(tmpdir(), "eravnatelj-pdf-"));
   return puppeteer.launch({
     executablePath: localChrome(),
     headless: true,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    timeout: 60000,
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      `--user-data-dir=${userDataDir}`,
+      "--no-first-run",
+      "--no-default-browser-check",
+      "--disable-gpu",
+      "--disable-dev-shm-usage",
+    ],
   });
 }
 
-/** Run a job with one browser + one reusable page; always tears the browser down. */
+/**
+ * One long-lived browser, reused across requests. Launching Chrome is the slow
+ * part (~2–4 s); keeping it warm means only the first PDF pays that cost. The
+ * cache is reset if the browser disconnects (crash, platform teardown) so the
+ * next call relaunches cleanly.
+ */
+let cached: Promise<Browser> | null = null;
+
+async function getBrowser(): Promise<Browser> {
+  if (cached) {
+    try {
+      const b = await cached;
+      if (b.connected) return b;
+    } catch {
+      // launch had failed — fall through and try again
+    }
+  }
+  cached = launch();
+  const browser = await cached;
+  browser.on("disconnected", () => { cached = null; });
+  return browser;
+}
+
+/** Run a job on the shared browser with a fresh page; closes the PAGE, keeps the browser warm. */
 export async function withPage<T>(fn: (page: Page) => Promise<T>): Promise<T> {
-  const browser = await launch();
+  const browser = await getBrowser();
+  const page = await browser.newPage();
   try {
-    const page = await browser.newPage();
     return await fn(page);
   } finally {
-    await browser.close();
+    await page.close().catch(() => {});
   }
 }
 
 /** Render one self-contained HTML document (inline CSS, no external assets) to an A4 PDF. */
 export async function renderHtmlToPdf(html: string): Promise<Uint8Array> {
   return withPage(async (page) => {
-    await page.setContent(html, { waitUntil: "load" });
+    // The HTML is fully self-contained (inline CSS, no external assets), so we
+    // don't need to wait for network — DOMContentLoaded is enough and faster.
+    await page.setContent(html, { waitUntil: "domcontentloaded" });
     return page.pdf({ format: "A4", printBackground: true });
   });
 }
