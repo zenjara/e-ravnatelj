@@ -21,7 +21,12 @@ const MJ = [
 ];
 const dateHr = (d: Date) => `${d.getDate()}. ${MJ[d.getMonth()]} ${d.getFullYear()}.`;
 const esc = (s: unknown) =>
-  String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 const n = (x: unknown): string | number =>
   x == null || x === "" ? "" : Math.round(Number(x) * 100) / 100;
 const god = (j: number) => (j ? n(Math.round(j * 35 * 100) / 100) : "");

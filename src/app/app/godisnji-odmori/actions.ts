@@ -3,8 +3,15 @@
 import { revalidatePath } from "next/cache";
 import { getCurrentSchool } from "@/lib/school";
 import { getSupabaseAdmin } from "@/lib/supabase-admin";
-import type { Kategorija, Rezultati, UvjetKey } from "@/lib/ucitelji/godisnji-odmor";
-import type { GoUvjeti, GoSocijalni } from "../ucitelji/actions";
+import type { Kategorija, Rezultati } from "@/lib/ucitelji/godisnji-odmor";
+import {
+  asKategorija,
+  asRezultati,
+  cleanSocijalni,
+  cleanUvjeti,
+  type GoUvjeti,
+  type GoSocijalni,
+} from "@/lib/ucitelji/go-validation";
 
 /** One saved annual-leave criteria snapshot for a (teacher, year). */
 export interface GoSnapshot {
@@ -23,37 +30,6 @@ export interface GoYearEntry {
   teacher_id: string;
   godina: number;
   ukupno_dana: number | null;
-}
-
-const KATEGORIJE: Kategorija[] = ["I", "II", "III", "ostali"];
-const asKategorija = (v: unknown): Kategorija | null =>
-  KATEGORIJE.includes(v as Kategorija) ? (v as Kategorija) : null;
-
-const REZULTATI: Exclude<Rezultati, null>[] = ["izuzetni", "vrlo_uspjesni", "uspjesni"];
-const asRezultati = (v: unknown): Rezultati =>
-  REZULTATI.includes(v as Exclude<Rezultati, null>) ? (v as Rezultati) : null;
-
-function cleanSocijalni(s: GoSocijalni | undefined): GoSocijalni {
-  const int = (v: unknown) => {
-    const n = Math.trunc(Number(v));
-    return Number.isFinite(n) && n > 0 ? Math.min(n, 20) : 0;
-  };
-  return {
-    brojDjece: int(s?.brojDjece),
-    djecaSTeskocama: int(s?.djecaSTeskocama),
-    invaliditet: !!s?.invaliditet,
-    samohrani: !!s?.samohrani,
-    domovinskiRat: !!s?.domovinskiRat,
-  };
-}
-
-function cleanUvjeti(u: GoUvjeti | undefined): GoUvjeti {
-  const KEYS: UvjetKey[] = [
-    "posebni_uvjeti", "smjenski", "rad_s_teskocama", "razrednik", "vise_predmeta", "dvije_skole",
-  ];
-  const out: GoUvjeti = {};
-  for (const k of KEYS) if (u?.[k]) out[k] = true;
-  return out;
 }
 
 const asGodina = (v: unknown): number => {
@@ -204,7 +180,10 @@ export async function saveGoYear(input: {
   }
 
   // Mirror as "latest" on the teacher row (keeps the base indicator + defaults).
-  await supabase
+  // Best-effort: the snapshot above is the source of truth, so a failed mirror
+  // must not fail the save — but log it so a drifting "latest" is diagnosable
+  // instead of silently wrong.
+  const { error: mirrorErr } = await supabase
     .from("teachers")
     .update({
       kategorija: row.kategorija,
@@ -214,6 +193,7 @@ export async function saveGoYear(input: {
     })
     .eq("id", input.teacherId)
     .eq("school_id", school.id);
+  if (mirrorErr) console.error("saveGoYear mirror:", mirrorErr.message);
 
   revalidatePath("/app/godisnji-odmori");
   return toSnapshot(data as Record<string, unknown>);

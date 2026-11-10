@@ -34,7 +34,12 @@ const MJ = [
 ];
 const dateHr = (d: Date) => `${d.getDate()}. ${MJ[d.getMonth()]} ${d.getFullYear()}.`;
 const esc = (s: unknown) =>
-  String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 
 export function rjesenjeHTML(
   z: RjesenjeZaposlenik,
@@ -58,7 +63,7 @@ export function rjesenjeHTML(
   <div class="meta">KLASA: ${esc(cfg.klasa)}<br>URBROJ: ${esc(cfg.urbroj)}</div>
   <div class="meta">U ${esc(school.mjesto ?? "")}, ${dateHr(cfg.date)} godine</div>
 
-  <p class="just">${school.ravnatelj ? "Ravnatelj/ica" : "Ravnatelj/ica"} ${esc(school.naziv)}, na temelju članka 77. i 78. Zakona o radu
+  <p class="just">Ravnatelj/ica ${esc(school.naziv)}, na temelju članka 77. i 78. Zakona o radu
   (Narodne novine, broj 93/14, 127/17, 98/19, 151/22 i 64/23) te odredaba Kolektivnog ugovora za zaposlenike u osnovnoškolskim
   ustanovama o trajanju godišnjeg odmora, donosi</p>
 

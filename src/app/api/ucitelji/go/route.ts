@@ -1,24 +1,19 @@
 import { getSession } from "@/lib/session";
 import { getCurrentSchool } from "@/lib/school";
 import { parseStaz } from "@/lib/ucitelji/staz";
+import { izracunajGodisnji } from "@/lib/ucitelji/godisnji-odmor";
 import {
-  izracunajGodisnji,
-  type Kategorija,
-  type Rezultati,
-  type UvjetKey,
-} from "@/lib/ucitelji/godisnji-odmor";
+  asKategorija,
+  asRezultati,
+  clampCount,
+  cleanUvjeti,
+} from "@/lib/ucitelji/go-validation";
 import { singleRjesenjeDoc } from "@/lib/ucitelji/go-html";
 import { renderHtmlToPdf } from "@/lib/pdf/render";
 
 // Headless Chrome (PDF) + session (node:crypto) require the Node.js runtime.
 export const runtime = "nodejs";
 export const maxDuration = 60;
-
-const KATEGORIJE: Kategorija[] = ["I", "II", "III", "ostali"];
-const UVJET_KEYS: UvjetKey[] = [
-  "posebni_uvjeti", "smjenski", "rad_s_teskocama", "razrednik", "vise_predmeta", "dvije_skole",
-];
-const REZULTATI: Exclude<Rezultati, null>[] = ["izuzetni", "vrlo_uspjesni", "uspjesni"];
 
 const asciiSlug = (s: string) =>
   s.normalize("NFD").replace(/[̀-ͯ]/g, "")
@@ -74,22 +69,10 @@ export async function POST(req: Request): Promise<Response> {
     return Response.json({ error: "Nedostaje ime zaposlenika." }, { status: 400 });
   }
 
-  const kategorija: Kategorija = KATEGORIJE.includes(body.kategorija as Kategorija)
-    ? (body.kategorija as Kategorija)
-    : "ostali";
-
-  const uvjetiIn = (body.uvjeti ?? {}) as Record<string, unknown>;
-  const uvjeti: Partial<Record<UvjetKey, boolean>> = {};
-  for (const k of UVJET_KEYS) if (uvjetiIn[k]) uvjeti[k] = true;
-
+  const kategorija = asKategorija(body.kategorija) ?? "ostali";
+  const uvjeti = cleanUvjeti((body.uvjeti ?? {}) as Record<string, unknown>);
   const soc = (body.socijalni ?? {}) as Record<string, unknown>;
-  const toInt = (v: unknown) => {
-    const n = Math.trunc(Number(v));
-    return Number.isFinite(n) && n > 0 ? Math.min(n, 20) : 0;
-  };
-  const rezultati: Rezultati = REZULTATI.includes(body.rezultati as Exclude<Rezultati, null>)
-    ? (body.rezultati as Rezultati)
-    : null;
+  const rezultati = asRezultati(body.rezultati);
 
   const stazRaw = body.staz_ukupno;
   const staz = parseStaz(stazRaw == null ? "" : String(stazRaw));
@@ -98,8 +81,8 @@ export async function POST(req: Request): Promise<Response> {
     staz,
     kategorija,
     uvjeti,
-    brojDjece: toInt(soc.brojDjece),
-    djecaSTeskocama: toInt(soc.djecaSTeskocama),
+    brojDjece: clampCount(soc.brojDjece),
+    djecaSTeskocama: clampCount(soc.djecaSTeskocama),
     invaliditet: !!soc.invaliditet,
     samohrani: !!soc.samohrani,
     domovinskiRat: !!soc.domovinskiRat,

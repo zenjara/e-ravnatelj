@@ -32,13 +32,17 @@ export async function POST(req: Request): Promise<Response> {
   if (typeof question !== "string" || !question.trim()) {
     return Response.json({ error: "Pitanje je obavezno." }, { status: 400 });
   }
+  // Cap length before anything reaches the embedder/model. A legal question is
+  // short; without this an oversized body is embedded + sent to Gemini verbatim
+  // (needless cost, and a trivial way to run up the bill on a paid key).
+  const q = question.trim().slice(0, 2000);
 
   let context: string;
   // Retrieved sources (law + article), deduped, in similarity order — sent to
   // the client so it can turn cited articles into links to the law reader.
   const sources: { slug: string; title: string; article: string }[] = [];
   try {
-    const chunks = await retrieveRelevantChunks(question.trim(), TOP_K);
+    const chunks = await retrieveRelevantChunks(q, TOP_K);
     context = buildContext(chunks);
     const seen = new Set<string>();
     for (const c of chunks) {
@@ -55,7 +59,7 @@ export async function POST(req: Request): Promise<Response> {
 
   let stream: Awaited<ReturnType<typeof streamLegalAnswer>>;
   try {
-    stream = await streamLegalAnswer(question.trim(), context);
+    stream = await streamLegalAnswer(q, context);
   } catch (e) {
     console.error("gemini request error:", e);
     return Response.json({ error: "Greška pri obradi upita." }, { status: 502 });

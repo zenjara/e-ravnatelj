@@ -7,19 +7,19 @@ import {
   procijeniKategoriju,
   type Kategorija,
   type Rezultati,
-  type UvjetKey,
 } from "@/lib/ucitelji/godisnji-odmor";
+import {
+  asKategorija,
+  asRezultati,
+  cleanSocijalni,
+  cleanUvjeti,
+  type GoSocijalni,
+  type GoUvjeti,
+} from "@/lib/ucitelji/go-validation";
 
-export type GoUvjeti = Partial<Record<UvjetKey, boolean>>;
-
-/** Sensitive social criteria — stored server-side only, never sent to the AI. */
-export interface GoSocijalni {
-  brojDjece?: number;
-  djecaSTeskocama?: number;
-  invaliditet?: boolean;
-  samohrani?: boolean;
-  domovinskiRat?: boolean;
-}
+// Re-exported so existing importers (client components, godisnji-odmori) keep
+// their `from "../ucitelji/actions"` paths working after the dedup.
+export type { GoUvjeti, GoSocijalni } from "@/lib/ucitelji/go-validation";
 
 export interface TeacherRow {
   id?: string;
@@ -33,29 +33,6 @@ export interface TeacherRow {
   go_socijalni?: GoSocijalni;
   go_rezultati?: Rezultati;
 }
-
-const REZULTATI: Exclude<Rezultati, null>[] = ["izuzetni", "vrlo_uspjesni", "uspjesni"];
-const asRezultati = (v: unknown): Rezultati =>
-  REZULTATI.includes(v as Exclude<Rezultati, null>) ? (v as Rezultati) : null;
-
-/** Clamp/whitelist social criteria before persisting. */
-function cleanSocijalni(s: GoSocijalni | undefined): GoSocijalni {
-  const int = (v: unknown) => {
-    const n = Math.trunc(Number(v));
-    return Number.isFinite(n) && n > 0 ? Math.min(n, 20) : 0;
-  };
-  return {
-    brojDjece: int(s?.brojDjece),
-    djecaSTeskocama: int(s?.djecaSTeskocama),
-    invaliditet: !!s?.invaliditet,
-    samohrani: !!s?.samohrani,
-    domovinskiRat: !!s?.domovinskiRat,
-  };
-}
-
-const KATEGORIJE: Kategorija[] = ["I", "II", "III", "ostali"];
-const asKategorija = (v: unknown): Kategorija | null =>
-  KATEGORIJE.includes(v as Kategorija) ? (v as Kategorija) : null;
 
 /** The current school's saved staff roster (ordered by surname). */
 export async function getTeachers(): Promise<TeacherRow[]> {
@@ -140,18 +117,12 @@ export async function updateTeacherGo(
   if (!school) throw new Error("Vašem računu nije dodijeljena škola.");
 
   const kat = asKategorija(kategorija) ?? "ostali";
-  // Keep only known boolean flags — never trust arbitrary client keys.
-  const uvjeti: GoUvjeti = {};
-  const KEYS: UvjetKey[] = [
-    "posebni_uvjeti", "smjenski", "rad_s_teskocama", "razrednik", "vise_predmeta", "dvije_skole",
-  ];
-  for (const k of KEYS) if (goUvjeti?.[k]) uvjeti[k] = true;
 
   const { error } = await getSupabaseAdmin()
     .from("teachers")
     .update({
       kategorija: kat,
-      go_uvjeti: uvjeti,
+      go_uvjeti: cleanUvjeti(goUvjeti),
       go_socijalni: cleanSocijalni(socijalni),
       go_rezultati: asRezultati(rezultati),
     })
