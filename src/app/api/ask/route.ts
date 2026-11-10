@@ -1,4 +1,5 @@
 import { getSession } from "@/lib/session";
+import { getSupabaseAdmin } from "@/lib/supabase-admin";
 import { retrieveRelevantChunks, buildContext } from "@/lib/retrieval";
 import { streamLegalAnswer } from "@/lib/gemini";
 import { slugify } from "@/lib/laws";
@@ -8,6 +9,12 @@ export const runtime = "nodejs";
 
 /** How many article chunks to retrieve and feed to the model. */
 const TOP_K = 12;
+
+/** Hard daily cap on AI questions per user — a spend guard, tunable via env. */
+const AI_DAILY_LIMIT = (() => {
+  const n = Math.trunc(Number(process.env.AI_DAILY_LIMIT));
+  return Number.isFinite(n) && n > 0 ? n : 60;
+})();
 
 /**
  * POST /api/ask  — body: { question: string }
@@ -36,6 +43,30 @@ export async function POST(req: Request): Promise<Response> {
   // short; without this an oversized body is embedded + sent to Gemini verbatim
   // (needless cost, and a trivial way to run up the bill on a paid key).
   const q = question.trim().slice(0, 2000);
+
+  // Daily spend cap: atomically bump this user's counter and stop before any
+  // Gemini call once the limit is hit. Fails OPEN — if the counter can't be read
+  // (migration not applied, transient DB error) we log and let the question
+  // through rather than breaking the feature; retrieval below would fail anyway
+  // on a real DB outage.
+  try {
+    const { data: allowed, error } = await getSupabaseAdmin().rpc("bump_ai_usage", {
+      p_user_id: session.uid,
+      p_limit: AI_DAILY_LIMIT,
+    });
+    if (!error && allowed === false) {
+      return Response.json(
+        {
+          error:
+            "Dosegnut je dnevni limit pitanja. Pokušajte ponovno sutra ili se javite administratoru.",
+        },
+        { status: 429 },
+      );
+    }
+    if (error) console.error("ai_usage rpc:", error.message);
+  } catch (e) {
+    console.error("ai_usage:", e);
+  }
 
   let context: string;
   // Retrieved sources (law + article), deduped, in similarity order — sent to
