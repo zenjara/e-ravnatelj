@@ -72,9 +72,21 @@ const num = (v: unknown): number => {
 
 const str = (v: unknown): string => (v == null ? "" : String(v).trim());
 
-/** Infer gender from first name (Croatian heuristic: -a → female). */
+/**
+ * Common Croatian male given names ending in -a. Without this exception list the
+ * naive "-a → female" rule would gender them wrong in an official Odluka
+ * (Učitelj/Učiteljica, Ravnatelj/Ravnateljica). Still a heuristic — a per-row
+ * override in the UI would be the complete fix.
+ */
+const MALE_A = new Set([
+  "luka", "nikola", "matija", "ivica", "andrija", "saša", "sasa",
+  "ilija", "jakša", "jaksa", "kuzma", "jurica", "noa",
+]);
+
+/** Infer gender from first name (Croatian heuristic: -a → female, with exceptions). */
 function isFemale(name: string): boolean {
   const first = String(name).trim().split(/[\s/]/)[0] ?? "";
+  if (MALE_A.has(first.toLowerCase())) return false;
   return /a$/i.test(first);
 }
 

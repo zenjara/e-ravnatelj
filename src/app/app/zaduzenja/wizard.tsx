@@ -7,6 +7,8 @@ interface TeacherLite {
   predmet: string;
   radno_vrijeme: string;
   ukupno_tjedno: number;
+  /** Auto-guessed gender; the principal can override it per row before generating. */
+  female: boolean;
 }
 interface Parsed {
   school: { naziv: string; mjesto: string; ravnatelj: string; zupanija: string };
@@ -80,6 +82,9 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const [showList, setShowList] = useState(false);
+  // Per-row gender overrides, keyed by teacher index: true = female, false = male.
+  // Only rows the principal actually changed are stored; the rest stay auto.
+  const [gender, setGender] = useState<Record<number, boolean>>({});
 
   const [klasa, setKlasa] = useState("602-01/26-05/1");
   const [urbrojBase, setUrbrojBase] = useState("2181-290-01-26");
@@ -109,6 +114,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
         return;
       }
       setParsed(data as Parsed);
+      setGender({}); // fresh file → drop any previous overrides
       setStep("review");
     } catch {
       setError("Došlo je do greške pri čitanju. Pokušajte ponovno.");
@@ -133,6 +139,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
       fd.append("urbrojBase", urbrojBase.trim());
       fd.append("godina", godina.trim());
       fd.append("format", "pdf");
+      fd.append("overrides", JSON.stringify(gender));
       const res = await fetch("/api/zaduzenja/generate", { method: "POST", body: fd });
       if (!res.ok) {
         const data = await res.json().catch(() => null);
@@ -162,6 +169,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
       fd.append("urbrojBase", urbrojBase.trim());
       fd.append("godina", godina.trim());
       fd.append("format", "zip");
+      fd.append("overrides", JSON.stringify(gender));
       const res = await fetch("/api/zaduzenja/generate", { method: "POST", body: fd });
       if (!res.ok) {
         const data = await res.json().catch(() => null);
@@ -183,6 +191,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
     setParsed(null);
     setError(null);
     setShowList(false);
+    setGender({});
     setStep("upload");
   }
 
@@ -277,25 +286,62 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
               onClick={() => setShowList((v) => !v)}
               className="mt-3 text-sm text-accent underline-offset-2 hover:underline"
             >
-              {showList ? "Sakrij popis" : "Prikaži popis učitelja"}
+              {showList ? "Sakrij popis" : "Prikaži popis i provjeri rod"}
             </button>
             {showList ? (
-              <ul className="mt-2 max-h-56 overflow-y-auto rounded-lg border border-line">
-                {parsed.teachers.map((t, i) => (
-                  <li
-                    key={i}
-                    className="flex items-center justify-between gap-3 border-b border-line px-3 py-1.5 text-sm text-ink last:border-0"
-                  >
-                    <span className="truncate">
-                      <span className="text-faint">{i + 1}.</span> {t.name}
-                      <span className="text-muted"> — {t.predmet}</span>
-                    </span>
-                    <span className="shrink-0 tabular-nums text-muted">
-                      {t.ukupno_tjedno} h
-                    </span>
-                  </li>
-                ))}
-              </ul>
+              <>
+                <p className="mt-2 text-xs text-faint">
+                  Rod (M/Ž) je automatski pogođen iz imena i koristi se u tekstu Odluke
+                  (učitelj/ica, zadužuje se…). Ispravite ga ovdje ako je kriv.
+                </p>
+                <ul className="mt-1.5 max-h-72 overflow-y-auto rounded-lg border border-line">
+                  {parsed.teachers.map((t, i) => {
+                    const fem = gender[i] ?? t.female;
+                    const seg = (active: boolean) =>
+                      `px-2.5 py-0.5 text-xs font-semibold transition-colors ${
+                        active
+                          ? "bg-accent text-accent-ink"
+                          : "text-muted hover:bg-bg-tint"
+                      }`;
+                    return (
+                      <li
+                        key={i}
+                        className="flex items-center gap-3 border-b border-line px-3 py-1.5 text-sm text-ink last:border-0"
+                      >
+                        <span className="min-w-0 flex-1 truncate">
+                          <span className="text-faint">{i + 1}.</span> {t.name}
+                          <span className="text-muted"> — {t.predmet}</span>
+                        </span>
+                        <span
+                          role="group"
+                          aria-label={`Rod — ${t.name}`}
+                          className="inline-flex shrink-0 overflow-hidden rounded-md border border-line"
+                        >
+                          <button
+                            type="button"
+                            aria-pressed={!fem}
+                            onClick={() => setGender((g) => ({ ...g, [i]: false }))}
+                            className={seg(!fem)}
+                          >
+                            M
+                          </button>
+                          <button
+                            type="button"
+                            aria-pressed={fem}
+                            onClick={() => setGender((g) => ({ ...g, [i]: true }))}
+                            className={`border-l border-line ${seg(fem)}`}
+                          >
+                            Ž
+                          </button>
+                        </span>
+                        <span className="w-12 shrink-0 text-right tabular-nums text-muted">
+                          {t.ukupno_tjedno} h
+                        </span>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </>
             ) : null}
           </div>
 

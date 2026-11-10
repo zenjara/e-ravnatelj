@@ -65,6 +65,7 @@ export async function POST(req: Request): Promise<Response> {
   const urbrojBase = String(form.get("urbrojBase") ?? "").trim();
   const godina = String(form.get("godina") ?? "").trim();
   const format = String(form.get("format") ?? "pdf");
+  const overridesRaw = String(form.get("overrides") ?? "");
   if (!klasa || !urbrojBase || !godina) {
     return Response.json({ error: "Upišite KLASA, URBROJ i školsku godinu." }, { status: 400 });
   }
@@ -74,6 +75,21 @@ export async function POST(req: Request): Promise<Response> {
     const parsed = parseTable(buf);
     if (parsed.teachers.length === 0) {
       return Response.json({ error: "U tablici nema učitelja." }, { status: 422 });
+    }
+
+    // Per-row gender overrides from the review step: { "<index>": boolean }.
+    // parseTable is deterministic, so a teacher's index here matches the one the
+    // client saw at /parse. Malformed input is ignored (gender stays auto).
+    if (overridesRaw) {
+      try {
+        const ov = JSON.parse(overridesRaw) as Record<string, unknown>;
+        parsed.teachers.forEach((t, i) => {
+          const v = ov[String(i)];
+          if (typeof v === "boolean") t.female = v;
+        });
+      } catch {
+        /* ignore malformed overrides — fall back to the auto-detected gender */
+      }
     }
 
     const cfg: GenCfg = { klasa, urbrojBase, godina, date: new Date() };

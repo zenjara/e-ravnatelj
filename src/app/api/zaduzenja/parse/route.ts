@@ -48,6 +48,9 @@ export async function POST(req: Request): Promise<Response> {
         predmet: t.predmet,
         radno_vrijeme: t.radno_vrijeme,
         ukupno_tjedno: t.ukupno_tjedno,
+        // Auto-guessed gender (from the first name) — the UI lets the principal
+        // override it per row before generating, since the heuristic can miss.
+        female: t.female,
       })),
     });
   } catch (e) {
