@@ -18,7 +18,7 @@ export function AppShell({
 }: {
   school: string | null;
   isAdmin: boolean;
-  laws: { slug: string; title: string }[];
+  laws: { slug: string; title: string; kind: string }[];
   logout: React.ReactNode;
   children: React.ReactNode;
 }) {

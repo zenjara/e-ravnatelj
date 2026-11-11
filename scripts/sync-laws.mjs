@@ -31,10 +31,30 @@ function env(n) {
   if (!v) { console.error(`Missing ${n} (run via npm run sync:laws).`); process.exit(1); }
   return v;
 }
-const titleOf = (f) => f.replace(/\.(md|txt)$/i, "").replace(/_+/g, " ").replace(/\s+/g, " ").trim();
+const titleOf = (f) => path.basename(f).replace(/\.(md|txt)$/i, "").replace(/_+/g, " ").replace(/\s+/g, " ").trim();
 const slugify = (s) =>
   s.normalize("NFD").replace(/\p{Diacritic}/gu, "").replace(/đ/g, "d").replace(/Đ/g, "D")
     .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+
+/** Law category from its sub-folder (laws/zakoni|pravilnici/), title as fallback. */
+const kindOf = (relPath) => {
+  const dir = path.dirname(relPath).toLowerCase();
+  if (dir.includes("pravilnici")) return "pravilnik";
+  if (dir.includes("zakoni")) return "zakon";
+  return /pravilnik/i.test(path.basename(relPath)) ? "pravilnik" : "zakon";
+};
+
+/** Recursively collect .md/.txt law files (skips _-prefixed and README.md). */
+async function collectLawFiles(dir, base = dir) {
+  const out = [];
+  for (const entry of await readdir(dir, { withFileTypes: true })) {
+    const abs = path.join(dir, entry.name);
+    if (entry.isDirectory()) out.push(...(await collectLawFiles(abs, base)));
+    else if (/\.(md|txt)$/i.test(entry.name) && !entry.name.startsWith("_") && entry.name.toLowerCase() !== "readme.md")
+      out.push(path.relative(base, abs));
+  }
+  return out;
+}
 
 // --- chunking (mirror of ingest.mjs / src/lib/chunking.ts) ---
 function splitLong(chunk, limit = MAX_CHUNK_CHARS) {
@@ -109,12 +129,12 @@ async function main() {
   const ai = new GoogleGenAI({ apiKey: env("GEMINI_API_KEY") });
 
   // 1) Current files → law records.
-  const files = (await readdir(LAWS_DIR)).filter((f) => /\.(md|txt)$/i.test(f) && !f.startsWith("_") && f.toLowerCase() !== "readme.md");
+  const files = await collectLawFiles(LAWS_DIR);
   const laws = [];
   for (const f of files.sort()) {
     const text = await readFile(path.join(LAWS_DIR, f), "utf8");
     const title = titleOf(f);
-    laws.push({ slug: slugify(title), title, kind: /pravilnik/i.test(title) ? "pravilnik" : "zakon", text });
+    laws.push({ slug: slugify(title), title, kind: kindOf(f), text });
   }
   const curSlugs = new Set(laws.map((l) => l.slug));
   const curTitles = new Set(laws.map((l) => l.title));
