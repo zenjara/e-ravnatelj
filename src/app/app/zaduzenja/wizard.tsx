@@ -9,6 +9,8 @@ interface TeacherLite {
   ukupno_tjedno: number;
   /** Auto-guessed gender; the principal can override it per row before generating. */
   female: boolean;
+  /** Source table self-inconsistency: UKUPNO A + B ≠ UKUPNO NO-OR. */
+  noor_mismatch?: boolean;
 }
 interface Parsed {
   school: { naziv: string; mjesto: string; ravnatelj: string; zupanija: string };
@@ -89,6 +91,9 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
   const [klasa, setKlasa] = useState("602-01/26-05/1");
   const [urbrojBase, setUrbrojBase] = useState("2181-290-01-26");
   const [godina, setGodina] = useState(defaultGodina);
+  // Dani godišnjeg odmora — oduzima se od nenastavnih radnih dana u godišnjoj
+  // rekapitulaciji. Zadano 30; kasnije se može povući po učitelju iz modula GO.
+  const [godisnji, setGodisnji] = useState("30");
 
   const [pdfUrl, setPdfUrl] = useState<string | null>(null);
   const [pdfName, setPdfName] = useState("Odluke.pdf");
@@ -138,6 +143,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
       fd.append("klasa", klasa.trim());
       fd.append("urbrojBase", urbrojBase.trim());
       fd.append("godina", godina.trim());
+      fd.append("godisnji", godisnji.trim() || "30");
       fd.append("format", "pdf");
       fd.append("overrides", JSON.stringify(gender));
       const res = await fetch("/api/zaduzenja/generate", { method: "POST", body: fd });
@@ -168,6 +174,7 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
       fd.append("klasa", klasa.trim());
       fd.append("urbrojBase", urbrojBase.trim());
       fd.append("godina", godina.trim());
+      fd.append("godisnji", godisnji.trim() || "30");
       fd.append("format", "zip");
       fd.append("overrides", JSON.stringify(gender));
       const res = await fetch("/api/zaduzenja/generate", { method: "POST", body: fd });
@@ -345,7 +352,21 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
             ) : null}
           </div>
 
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+          {parsed.teachers.some((t) => t.noor_mismatch) ? (
+            <div className="rounded-xl border border-gold/40 bg-gold/10 px-4 py-3 text-sm text-ink">
+              <p className="font-medium">⚠️ Nesklad u izvornoj tablici</p>
+              <p className="mt-1 text-ink/80">
+                Kod sljedećih učitelja zbroj <b>A + B</b> ne odgovara upisanom
+                <b> UKUPNO&nbsp;NO-OR</b> (stupac „PROVJERA zaduženja B” u tablici).
+                Odluka preuzima zbroj iz tablice, ali provjerite unos:
+              </p>
+              <p className="mt-1 font-medium">
+                {parsed.teachers.filter((t) => t.noor_mismatch).map((t) => t.name).join(", ")}
+              </p>
+            </div>
+          ) : null}
+
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
             <label className="flex flex-col gap-1 text-sm">
               <span className="font-medium text-ink">KLASA</span>
               <input value={klasa} onChange={(e) => setKlasa(e.target.value)} className={inputCls} />
@@ -360,6 +381,20 @@ export function ZaduzenjaWizard({ defaultGodina }: { defaultGodina: string }) {
               <span className="font-medium text-ink">Školska godina</span>
               <input value={godina} onChange={(e) => setGodina(e.target.value)} className={inputCls} />
               <span className="text-xs text-faint">npr. 2026./2027.</span>
+            </label>
+            <label className="flex flex-col gap-1 text-sm">
+              <span className="font-medium text-ink">Dani godišnjeg odmora</span>
+              <input
+                type="number"
+                min={0}
+                max={60}
+                value={godisnji}
+                onChange={(e) => setGodisnji(e.target.value)}
+                className={inputCls}
+              />
+              <span className="text-xs text-faint">
+                za godišnji obračun ostalih poslova (zadano 30)
+              </span>
             </label>
           </div>
 

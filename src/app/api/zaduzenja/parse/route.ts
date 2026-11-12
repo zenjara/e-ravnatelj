@@ -51,6 +51,9 @@ export async function POST(req: Request): Promise<Response> {
         // Auto-guessed gender (from the first name) — the UI lets the principal
         // override it per row before generating, since the heuristic can miss.
         female: t.female,
+        // Source table self-inconsistency (UKUPNO A + B ≠ UKUPNO NO-OR) — the
+        // review step flags these so the principal can fix the input first.
+        noor_mismatch: t.noor_mismatch,
       })),
     });
   } catch (e) {

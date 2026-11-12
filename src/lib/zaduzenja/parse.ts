@@ -43,11 +43,22 @@ export interface Teacher {
   ostali_razrednik: number;
   ukupno_tjedno: number;
   radno_vrijeme: string;
-  ab: number;
+  ab: number; // UKUPNO A (stupac AB)
   cl13_7: Duty[];
   cl8: Duty[];
   ku: Duty[];
   umanjenje: number;
+  // B-blok (ostali dio NO-OR) — puni zbrojevi iz tablice
+  b_total: number; // UKUPNO B (stupac AV)
+  projekti: number; // AG:AK — projekti, ŽSV, povjerenstva, plivanje, PSP
+  voditelji_b: number; // AL:AR — voditeljski poslovi (čl. 7. i 8.)
+  ku_b: number; // AS:AT — radnički vijećnik / povjerenik ZNR (čl. 8.a KU)
+  umanjenje_b: number; // AU — umanjenje (čl. 38.) u B-bloku
+  // C-blok (ostali poslovi)
+  c_total: number; // UKUPNO ostali poslovi (stupac BG)
+  ostali_cl: number; // BF — ostali poslovi iz čl. 5. Prav. / čl. 42., 56. KU
+  /** Tablica si sama proturječi: UKUPNO A + UKUPNO B ≠ UKUPNO NO-OR (npr. unos iznad norme). */
+  noor_mismatch: boolean;
   urbrojIndex?: number;
 }
 
@@ -112,6 +123,18 @@ function duties(ws: WS, r: number, map: Record<string, string>): Duty[] {
   return out;
 }
 
+/** Sum the numeric cells across an inclusive column range (e.g. "AG".."AK") in row r. */
+function rangeSum(ws: WS, r: number, fromCol: string, toCol: string): number {
+  const a = XLSX.utils.decode_col(fromCol);
+  const b = XLSX.utils.decode_col(toCol);
+  let s = 0;
+  for (let c = a; c <= b; c++) {
+    const v = cell(ws, `${XLSX.utils.encode_col(c)}${r}`);
+    if (typeof v === "number") s += v;
+  }
+  return s;
+}
+
 function parseSchool(ws: WS): School {
   const adresa = str(cell(ws, "B5"));
   // mjesto = last letter-starting token in the address (e.g. "… 21 210 Solin")
@@ -158,6 +181,16 @@ function parseTeachers(ws: WS): Teacher[] {
       cl8: duties(ws, r, DUTY_8),
       ku: duties(ws, r, DUTY_KU),
       umanjenje: num(cell(ws, `AA${r}`)),
+      b_total: num(cell(ws, `AV${r}`)),
+      projekti: rangeSum(ws, r, "AG", "AK"),
+      voditelji_b: rangeSum(ws, r, "AL", "AR"),
+      ku_b: rangeSum(ws, r, "AS", "AT"),
+      umanjenje_b: num(cell(ws, `AU${r}`)),
+      c_total: num(cell(ws, `BG${r}`)),
+      ostali_cl: num(cell(ws, `BF${r}`)),
+      noor_mismatch:
+        Math.round((num(cell(ws, `AB${r}`)) + num(cell(ws, `AV${r}`))) * 100) !==
+        Math.round(num(cell(ws, `AZ${r}`)) * 100),
     });
   }
   return out;

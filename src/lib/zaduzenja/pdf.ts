@@ -5,8 +5,8 @@ import type { ParsedTable, Teacher } from "./parse";
 import { combinedDoc, singleDoc, type OdlukaCfg } from "./odluka-html";
 import { withPage, renderHtmlToPdf } from "@/lib/pdf/render";
 
-/** School-entered header values + the generation date. */
-export type GenCfg = Pick<OdlukaCfg, "klasa" | "urbrojBase" | "godina" | "date">;
+/** School-entered header values + the generation date + annual-leave days. */
+export type GenCfg = Pick<OdlukaCfg, "klasa" | "urbrojBase" | "godina" | "date" | "godisnjiDana">;
 
 async function renderOn(page: Page, html: string): Promise<Uint8Array> {
   // The HTML is fully self-contained (inline CSS, no external assets), so

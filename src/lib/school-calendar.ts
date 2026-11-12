@@ -101,6 +101,48 @@ export const SCHOOL_YEAR: YearConfig = {
   },
 };
 
+/**
+ * Working-day breakdown for the work year 1.9.(yearA)–31.8.(yearB), used by the
+ * Odluka annual recap. "Nenastavni radni dani" (N) = weekdays (Mon–Fri) that are
+ * neither a teaching day nor a public holiday — i.e. the non-teaching working
+ * days (school breaks + days outside the teaching period). Annual leave is NOT
+ * in the Ministry calendar (it is per-teacher, from the Kolektivni ugovor), so
+ * it is subtracted separately by the caller.
+ */
+export function radniDaniBreakdown(cfg: YearConfig = SCHOOL_YEAR): {
+  radni: number; // all Mon–Fri days in the work year
+  nastavni: number; // teaching days
+  blagdaniRadni: number; // public holidays falling on a weekday
+  nenastavni: number; // radni − nastavni − blagdaniRadni (= N before annual leave)
+} {
+  const yearA = Number(cfg.nastavaStart.slice(0, 4));
+  const start = new Date(yearA, 8, 1); // 1 September
+  const end = new Date(yearA + 1, 7, 31); // 31 August
+  let radni = 0, nastavni = 0, blagdaniRadni = 0;
+  const school = new Map<string, string>();
+  for (const d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+    const wd = d.getDay();
+    if (wd === 0 || wd === 6) continue; // weekends don't count
+    radni++;
+    const iso = isoLocal(d);
+    const type = classifyDay(iso, wd, school, cfg);
+    if (type === "blagdan") blagdaniRadni++;
+    else if (type === "nastava") nastavni++;
+  }
+  return { radni, nastavni, blagdaniRadni, nenastavni: radni - nastavni - blagdaniRadni };
+}
+
+/**
+ * Nenastavni radni dani for the Odluka annual recap: N = (calendar non-teaching
+ * working days) − (teacher's annual-leave working days). Never negative.
+ */
+export function nenastavniRadniDani(
+  godisnjiDana: number,
+  cfg: YearConfig = SCHOOL_YEAR,
+): number {
+  return Math.max(0, radniDaniBreakdown(cfg).nenastavni - Math.max(0, godisnjiDana));
+}
+
 export const MJESECI = [
   "siječanj", "veljača", "ožujak", "travanj", "svibanj", "lipanj",
   "srpanj", "kolovoz", "rujan", "listopad", "studeni", "prosinac",

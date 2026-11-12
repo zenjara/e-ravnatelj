@@ -1,9 +1,21 @@
 import type { School, Teacher, Duty } from "./parse";
+import { radniDaniBreakdown, nenastavniRadniDani } from "@/lib/school-calendar";
 
 /**
- * HTML for one Odluka o godišnjim i tjednim zaduženjima (A4, print-ready).
- * Canonical layout from the father's verified examples; fixed legal references
- * are the current ones. Ported from the standalone prototype.
+ * HTML for one Odluka o tjednom i godišnjem zaduženju (A4, print-ready).
+ *
+ * Struktura prati ministarsku tablicu (A / B / C) i verificirani primjer:
+ *   I.  NEPOSREDNI RAD — A) redovita i poslovi koji se smatraju redovitom
+ *       nastavom (međuzbroj A) + B) ostali dio NO-OR-a (međuzbroj B) + A+B.
+ *   II. OSTALI POSLOVI (zaseban zbroj).
+ *   III. GODIŠNJA REKAPITULACIJA.
+ *
+ * Izračuni (vidi i napomene ispod tablica u samom dokumentu):
+ *   • Godišnji sati po stavci = tjedni sati × `nastTjedana` (zadano 36).
+ *   • Ostali poslovi (godišnje) = N × (tjedni sati ÷ 5), gdje je N broj
+ *     nenastavnih radnih dana (radni dani 1.9.–31.8. − nastavni − blagdani)
+ *     umanjen za dane godišnjeg odmora (`godisnjiDana`, zadano 30; kasnije se
+ *     može povući po učitelju iz modula „Godišnji odmori").
  */
 
 export interface OdlukaCfg {
@@ -12,7 +24,10 @@ export interface OdlukaCfg {
   godina: string;
   date: Date;
   urbrojIndex: number;
-  annualFull?: number; // puna godišnja norma (default 1784)
+  /** Dani godišnjeg odmora koji se oduzimaju od nenastavnih radnih dana (zadano 30). */
+  godisnjiDana?: number;
+  /** Broj nastavnih tjedana za godišnji preračun (zadano 36). */
+  nastTjedana?: number;
 }
 
 const MJ = [
@@ -27,9 +42,8 @@ const esc = (s: unknown) =>
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
-const n = (x: unknown): string | number =>
-  x == null || x === "" ? "" : Math.round(Number(x) * 100) / 100;
-const god = (j: number) => (j ? n(Math.round(j * 35 * 100) / 100) : "");
+const n = (x: unknown): number =>
+  x == null || x === "" ? 0 : Math.round(Number(x) * 100) / 100;
 
 function rolePhrase(t: Teacher): string {
   const u = t.female ? "učiteljice" : "učitelja";
@@ -37,40 +51,65 @@ function rolePhrase(t: Teacher): string {
   return `${u} za nastavni predmet: ${esc(t.predmet)}`;
 }
 
-const row = (
-  br: string,
-  naziv: string,
-  { razredi = "", j = "" as number | "", pre = "" }: { razredi?: string; j?: number | ""; pre?: string } = {},
-) =>
-  `<tr><td class="c">${br}</td><td>${naziv}${pre ? ` <span class="pre">${esc(pre)}</span>` : ""}</td>
-   <td class="c">${esc(razredi)}</td><td class="c">${j === "" ? "" : n(j)}</td><td class="c">${j === "" ? "" : god(j as number)}</td></tr>`;
-const sec = (txt: string) => `<tr class="sec"><td colspan="5">${txt}</td></tr>`;
-const uk = (naziv: string, j: number) =>
-  `<tr class="uk"><td colspan="3">${naziv}</td><td class="c">${n(j)}</td><td class="c">${god(j)}</td></tr>`;
-const ukK = (naziv: string, j: number, k: number) =>
-  `<tr class="uk"><td colspan="3">${naziv}</td><td class="c">${n(j)}</td><td class="c">${n(k)}</td></tr>`;
-
 export function odlukaHTML(t: Teacher, school: School, cfg: OdlukaCfg): string {
   const U = t.female ? "Učiteljica" : "Učitelj";
+  const u = t.female ? "učiteljica" : "učitelj";
   const rav = t.female ? "Ravnateljica" : "Ravnatelj";
-  const ukupnoPrvi = (t.redovita || 0) + (t.izborna || 0) + (t.razr_sati || 0);
-  const ostaliTotal = (t.ukupno_tjedno || 0) - (t.ukupno_noor || 0);
-  const ostaliOstalo = ostaliTotal - (t.pripremanje || 0) - (t.ostali_razrednik || 0);
-  const annualFull = cfg.annualFull || 1784;
-  const totalAnnual = Math.round((t.ukupno_tjedno / 40) * annualFull);
-  const noorAnnual = Math.round((t.ukupno_noor || 0) * 35);
-  const ostaliAnnual = totalAnnual - noorAnnual;
-  const ostaliGodOnly = Math.round((ostaliAnnual - ostaliTotal * 35) * 100) / 100;
   const puno = /PUNO/i.test(t.radno_vrijeme) && !/NEPUNO/i.test(t.radno_vrijeme);
   const urbroj = `${cfg.urbrojBase}-${cfg.urbrojIndex}`;
-  const teachClass = (/razredna nastava/i.test(t.predmet) || t.razrednistvo) ? t.razrednistvo : t.predmet;
-  const cl13 = t.cl13_7 || [], cl8 = t.cl8 || [], ku = t.ku || [];
+
+  const weeks = cfg.nastTjedana ?? 36;
+  const godDana = cfg.godisnjiDana ?? 30;
+
+  const tj = t.ukupno_tjedno || 0;
+  const noor = t.ukupno_noor || 0;
+  const aTot = t.ab || 0;
+  const bTot = t.b_total || 0;
+  const cTot = t.c_total || Math.max(0, tj - noor);
+
+  // Godišnji preračun (vidi napomene ispod).
+  const brk = radniDaniBreakdown();
+  const N = nenastavniRadniDani(godDana);
+  const daily = tj / 5;
+  const nastGod = Math.round(tj * weeks);
+  const ostaliGod = Math.round(N * daily);
+  const ukupnoGod = nastGod + ostaliGod;
+
   const sumD = (a: Duty[]) => a.reduce((s, d) => s + d.h, 0);
   const names = (a: Duty[]) => (a.length ? ": " + a.map((d) => esc(d.name)).join(", ") : "");
-  const kuRows: Duty[] = [
-    ...ku,
-    ...(t.umanjenje ? [{ name: "Umanjenje radne obveze (čl. 38. st. 1. KU)", h: t.umanjenje }] : []),
-  ];
+  const teachClass =
+    /razredna nastava/i.test(t.predmet) || t.razrednistvo ? t.razrednistvo : t.predmet;
+
+  // Table helpers (5 stupca: R.br | vrsta | razredni odjeli | tjedno | godišnje).
+  const g = (h: number) => (h ? n(h * weeks) : 0);
+  const row = (br: string, naziv: string, h: number, razredi = "") =>
+    `<tr><td class="c">${br}</td><td>${naziv}</td><td class="c">${esc(razredi)}</td><td class="c">${n(h)}</td><td class="c">${g(h)}</td></tr>`;
+  const band = (txt: string) => `<tr class="sec"><td colspan="5">${txt}</td></tr>`;
+  const sub = (naziv: string, h: number, cls = "subtot") =>
+    `<tr class="${cls}"><td colspan="3">${naziv}</td><td class="c">${n(h)}</td><td class="c">${n(h * weeks)}</td></tr>`;
+
+  // A) i B) — fiksna numeracija koja se nastavlja kroz oba bloka (kao u tablici).
+  let no = 0;
+  const br = () => `${++no}.`;
+  const aRows = [
+    row(br(), "Redovita nastava", t.redovita || 0, t.razredi),
+    row(br(), "Izborna nastava", t.izborna || 0),
+    row(br(), "Neposredni odgojno-obrazovni rad razrednika", t.razr_sati || 0, t.razrednistvo),
+    row(br(), `Poslovi u sklopu tjedne obveze (čl. 13. st. 7. Pravilnika)${names(t.cl13_7 || [])}`, sumD(t.cl13_7 || [])),
+    row(br(), `Posebni poslovi iz ustroja rada škole (čl. 8. Pravilnika)${names(t.cl8 || [])}`, sumD(t.cl8 || [])),
+    row(br(), `Drugi poslovi na temelju Kolektivnog ugovora (čl. 8.a Pravilnika)${names(t.ku || [])}`, sumD(t.ku || [])),
+    ...(t.umanjenje ? [row(br(), "Umanjenje radne obveze (čl. 38. KU)", -t.umanjenje)] : []),
+  ].join("\n    ");
+  const bRows = [
+    row(br(), "Dopunska nastava", t.dop || 0, t.dop ? teachClass : ""),
+    row(br(), "Dodatna nastava", t.dod || 0, t.dod ? teachClass : ""),
+    row(br(), "Izvannastavne aktivnosti", t.ina || 0),
+    row(br(), "Projekti, ŽSV i stručna povjerenstva (čl. 14. Pravilnika)", t.projekti || 0),
+    row(br(), "Voditeljski poslovi (čl. 7. i 8. Pravilnika)", t.voditelji_b || 0),
+    row(br(), "Drugi poslovi na temelju Kolektivnog ugovora (čl. 8.a)", t.ku_b || 0),
+    ...(t.umanjenje_b ? [row(br(), "Umanjenje radne obveze (čl. 38. KU)", -t.umanjenje_b)] : []),
+  ].join("\n    ");
+  const abMark = t.noor_mismatch ? ' <sup class="fn">1)</sup>' : "";
 
   return `<section class="odluka">
   <div class="hdr">${esc(school.naziv.toUpperCase())}</div>
@@ -85,51 +124,64 @@ export function odlukaHTML(t: Teacher, school: School, cfg: OdlukaCfg): string {
   ostvarenih temeljem granskih kolektivnih ugovora (Narodne novine, broj 35/24) donosi:</p>
 
   <h1>O D L U K U</h1>
-  <p class="c sub">o godišnjim i tjednim zaduženjima učitelja u školskoj godini ${esc(cfg.godina)}</p>
+  <p class="c subt">o tjednom i godišnjem zaduženju učitelja u školskoj godini ${esc(cfg.godina)}</p>
 
-  <p><b>1.)</b> ${U} <b>${esc(t.name)}</b></p>
-  <p class="ind">zadužuje se u šk. god. ${esc(cfg.godina)} obvezama ${rolePhrase(t)},
-  razredništvom <b>${t.razrednistvo ? esc(t.razrednistvo) : "/"}</b>, posebnim, drugim i ostalim poslovima kako je navedeno.</p>
+  <p><b>1.)</b> ${U} <b>${esc(t.name)}</b> zadužuje se u šk. god. ${esc(cfg.godina)} obvezama ${rolePhrase(t)}${
+    t.razrednistvo ? `, razredništvom <b>${esc(t.razrednistvo)}</b>` : ""
+  }, te drugim i ostalim poslovima kako je navedeno.</p>
 
-  <p><b>2.)</b> Obveze iz točke prve ${t.female ? "učiteljica" : "učitelj"} će obavljati u <b>${puno ? "punom" : "nepunom"}</b>
-  radnom vremenu od <b>${n(t.ukupno_tjedno)}</b> sati tjedno.</p>
+  <p><b>2.)</b> Obveze iz točke prve ${u} će obavljati u <b>${puno ? "punom" : "nepunom"}</b>
+  radnom vremenu od <b>${n(tj)}</b> sati tjedno i to:</p>
 
+  <p class="caption">I. NEPOSREDNI ODGOJNO-OBRAZOVNI RAD S UČENICIMA</p>
   <table>
-    <tr class="th"><td class="c">R.br.</td><td>Vrsta rada</td><td class="c">Razredni odjeli</td><td class="c">Sati tjedno</td><td class="c">Sati godišnje</td></tr>
-    ${sec("1. NEPOSREDNI ODGOJNO-OBRAZOVNI RAD S UČENICIMA")}
-    ${row("1.", "Redovita nastava", { razredi: t.razredi, j: t.redovita })}
-    ${row("2.", "Izborna nastava", { j: t.izborna })}
-    ${row("3.", "Neposredni odgojno-obrazovni rad razrednika", { razredi: t.razrednistvo, j: t.razr_sati })}
-    ${row("4.", "Poslovi u sklopu tjedne obveze (čl. 13. st. 7. Pravilnika)" + names(cl13), { j: sumD(cl13) })}
-    ${row("5.", "Poslovi koji proizlaze iz ustroja rada škole (čl. 8. Pravilnika)" + names(cl8), { j: sumD(cl8) })}
-    ${uk("UKUPNO", t.ab || ukupnoPrvi)}
-    ${row("6.", "Dopunska nastava", { razredi: t.dop ? teachClass : "", j: t.dop })}
-    ${row("7.", "Dodatni rad", { razredi: t.dod ? teachClass : "", j: t.dod })}
-    ${row("8.", "Izvannastavna aktivnost", { j: t.ina })}
-    ${sec("2. DRUGI POSLOVI NA TEMELJU KOLEKTIVNOG UGOVORA (čl. 8.a Pravilnika)")}
-    ${kuRows.length ? kuRows.map((d, i) => row(`${9 + i}.`, esc(d.name), { j: d.h })).join("\n    ") : row("9.", "Zaštita na radu / sindikalni povjerenik / umanjenje (čl. 8.a)", { j: 0 })}
-    ${uk("UKUPNO NEPOSREDNI ODGOJNO-OBRAZOVNI RAD", t.ukupno_noor)}
-    ${sec("3. OSTALI POSLOVI")}
-    ${row("1.", "Ostali poslovi vođenja razrednog odjela", { j: t.ostali_razrednik })}
-    ${row("2.", "Stručno-metodička priprema", { j: t.pripremanje })}
-    ${row("3.", "Ostali poslovi koji proizlaze iz naravi i količine neposrednog rada", { j: ostaliOstalo })}
-    ${ostaliGodOnly ? `<tr><td class="c">4.</td><td>Ostali poslovi tijekom cijele školske godine (nenastavni dani i dr.)</td><td class="c"></td><td class="c"></td><td class="c">${n(ostaliGodOnly)}</td></tr>` : ""}
-    ${ukK("UKUPNO OSTALI POSLOVI", ostaliTotal, ostaliAnnual)}
-    <tr class="sve"><td colspan="3">S V E U K U P N O (1+2+3)</td><td class="c">${n(t.ukupno_tjedno)}</td><td class="c">${n(totalAnnual)}</td></tr>
+    <tr class="th"><td class="c">R.br.</td><td>Vrsta neposrednog odgojno-obrazovnog rada</td><td class="c">Razredni odjeli</td><td class="c">Sati tjedno</td><td class="c">Sati godišnje</td></tr>
+    ${band("A) Redovita nastava i poslovi koji se smatraju redovitom nastavom")}
+    ${aRows}
+    ${sub("A — UKUPNO", aTot, "subtot")}
+    ${band("B) Ostali dio neposrednog odgojno-obrazovnog rada")}
+    ${bRows}
+    ${sub("B — UKUPNO", bTot, "subtot")}
+    ${sub(`UKUPNO NEPOSREDNI RAD (A + B)${abMark}`, noor, "ab")}
   </table>
 
-  <p class="obr"><b>O b r a z l o ž e nj e :</b><br>
-  Obveze ${t.female ? "učiteljice" : "učitelja"} proizlaze iz odredbi Godišnjeg plana i programa rada Škole i Školskog kurikuluma,
+  <p class="caption">II. OSTALI POSLOVI</p>
+  <table>
+    <tr class="th"><td class="c">R.br.</td><td>Vrsta ostalih poslova</td><td class="c"></td><td class="c">Sati tjedno</td><td class="c">Sati godišnje</td></tr>
+    ${row("1.", "Ostali poslovi vođenja razrednog odjela", t.ostali_razrednik || 0)}
+    ${row("2.", "Stručno-metodičko pripremanje za nastavu", t.pripremanje || 0)}
+    ${row("3.", "Ostali poslovi učitelja (čl. 5. Pravilnika; čl. 42. i 56. KU)", t.ostali_cl || 0)}
+    ${sub("UKUPNO OSTALI POSLOVI", cTot, "uk")}
+  </table>
+
+  <p class="caption">III. GODIŠNJE ZADUŽENJE</p>
+  <table class="recap">
+    <tr><td>Ukupno tjedno zaduženje</td><td>${n(tj)} sati</td></tr>
+    <tr><td>Ukupno godišnje zaduženje (${weeks} nastavnih tjedana)</td><td>${nastGod} sati</td></tr>
+    <tr><td>Ostali poslovi u nenastavnim danima (${N} dana × ${n(daily)} sati)</td><td>${ostaliGod} sati</td></tr>
+    <tr class="grand"><td>UKUPNO GODIŠNJE ZADUŽENJE</td><td>${ukupnoGod} sati</td></tr>
+  </table>
+  <p class="fn-note"><b>Napomena o izračunu:</b> godišnji sati po stavci = tjedni sati × ${weeks} nastavnih tjedana. Ostali poslovi u nenastavnim danima = broj nenastavnih radnih dana × (tjedni sati ÷ 5). Nenastavni radni dani: ${brk.radni} radnih dana (pon.–pet., 1.9.–31.8.) − ${brk.nastavni} nastavnih dana − ${brk.blagdaniRadni} blagdana na radni dan = ${brk.nenastavni}, umanjeno za ${godDana} dana godišnjeg odmora = ${N}.</p>
+  ${t.noor_mismatch ? `<p class="fn-note warn"><sup>1)</sup> U izvornoj ministarskoj tablici UKUPNO A (${n(aTot)}) + UKUPNO B (${n(bTot)}) iznosi ${n(aTot + bTot)}, a upisani „UKUPNO NO-OR" iznosi ${n(noor)} (stupac „PROVJERA zaduženja B"). Preuzet je zbroj iz tablice — potrebno je provjeriti unos.</p>` : ""}
+
+  <p class="obr"><b>O b r a z l o ž e n j e :</b><br>
+  Obveze ${u === "učiteljica" ? "učiteljice" : "učitelja"} proizlaze iz odredbi Godišnjeg plana i programa rada Škole i Školskog kurikuluma,
   a utvrđuju se sukladno odredbama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, Pravilnika o tjednim radnim obvezama
   učitelja i stručnih suradnika u osnovnoj školi i Kolektivnog ugovora za zaposlenike u osnovnoškolskim ustanovama.
-  Slijedom navedenoga ${t.female ? "učiteljica" : "učitelj"} se zadužuje u ${esc(cfg.godina)} školskoj godini tjednim i godišnjim radnim obvezama kako je navedeno u Odluci.</p>
+  Slijedom navedenoga ${u} se zadužuje u školskoj godini ${esc(cfg.godina)} tjednim i godišnjim radnim obvezama kako je navedeno u izreci ove Odluke.</p>
 
-  <p class="obr"><b>UPUTA O PRAVNOM LIJEKU:</b> Protiv ove Odluke radnik može podnijeti zahtjev za zaštitu prava Školskom odboru
-  u roku od 15 dana od dana dostave Odluke. Zahtjev se podnosi u tajništvu škole u pisanom obliku.</p>
+  <p class="obr"><b>UPUTA O PRAVNOM LIJEKU:</b> Protiv ove Odluke radnik može podnijeti zahtjev za zaštitu prava odnosno prigovor Školskom odboru
+  u roku od 15 dana od dana dostave Odluke. Zahtjev se podnosi u tajništvu škole u pisanom obliku, a može se izjaviti i usmeno na zapisnik.</p>
 
-  <div class="sig"><div>${rav}:<br><br>_______________________<br>${esc(school.ravnatelj)}</div></div>
+  <div class="sigs">
+    <div class="sigbox">PREUZEO/LA:<div class="sigline">${esc(t.name)}</div></div>
+    <div class="sigbox">${rav}:<div class="sigline">${esc(school.ravnatelj)}</div></div>
+  </div>
 
-  <p class="dost"><b>Dostaviti:</b><br>1.) ${esc(t.name)}<br>2.) ${esc(school.zupanija)} županija<br>3.) pismohrana.</p>
+  <p class="dost"><b>Dostaviti:</b><br>
+  1.) ${esc(t.name)}<br>
+  2.) Upravni odjel za povjerene poslove državne uprave — ${esc(school.zupanija)} županija<br>
+  3.) Pismohrana.</p>
 </section>`;
 }
 
@@ -140,16 +192,28 @@ const BASE_CSS = `
   .meta { margin-top:4px; }
   .just { text-align:justify; margin:12px 0; }
   h1 { text-align:center; letter-spacing:3px; font-size:13pt; margin:14px 0 2px; }
-  .sub { margin:0 0 12px; } .c { text-align:center; } .ind { margin-left:18px; }
-  table { width:100%; border-collapse:collapse; margin:8px 0; font-size:9.5pt; }
-  td { border:1px solid #000; padding:2px 4px; vertical-align:middle; }
-  .th td { font-weight:bold; text-align:center; background:#f0f0f0; }
-  .sec td { font-weight:bold; background:#f7f7f7; }
-  .uk td { font-weight:bold; } .sve td { font-weight:bold; background:#eee; }
-  .pre { font-style:italic; color:#333; }
+  .subt { text-align:center; margin:0 0 12px; }
+  .c { text-align:center; }
+  .caption { font-weight:bold; margin:12px 0 2px; }
+  table { width:100%; border-collapse:collapse; margin:4px 0 2px; font-size:9.5pt; }
+  td { border:1px solid #000; padding:2px 5px; vertical-align:middle; }
+  .th td { font-weight:bold; text-align:center; background:#ececec; }
+  .sec td { font-weight:bold; background:#f5f5f5; }
+  .subtot td { font-weight:bold; background:#eef4fb; }
+  .ab td { font-weight:bold; background:#dce9f7; }
+  .uk td { font-weight:bold; background:#eee; }
+  .recap { width:100%; border-collapse:collapse; margin:4px 0; font-size:9.5pt; }
+  .recap td { border:1px solid #000; padding:3px 6px; }
+  .recap td:last-child { text-align:right; white-space:nowrap; width:30%; }
+  .recap .grand td { font-weight:bold; background:#dce9f7; }
+  sup.fn { color:#b00; font-weight:bold; }
+  .fn-note { font-size:8.3pt; margin:3px 0 0; line-height:1.35; color:#333; }
+  .fn-note.warn { color:#b00; }
   .obr { text-align:justify; margin:10px 0; }
-  .sig { margin-top:26px; text-align:right; } .sig div { display:inline-block; text-align:center; }
-  .dost { margin-top:22px; font-size:9.5pt; }
+  .sigs { display:flex; justify-content:space-between; gap:20px; margin-top:28px; }
+  .sigbox { text-align:center; font-size:9.5pt; }
+  .sigline { margin-top:34px; border-top:1px solid #000; padding-top:3px; min-width:60mm; }
+  .dost { margin-top:18px; font-size:9.5pt; }
 `;
 
 /** CSS for a COMBINED doc: every Odluka on its own page. */

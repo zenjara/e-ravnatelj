@@ -66,6 +66,14 @@ export async function POST(req: Request): Promise<Response> {
   const godina = String(form.get("godina") ?? "").trim();
   const format = String(form.get("format") ?? "pdf");
   const overridesRaw = String(form.get("overrides") ?? "");
+  // Dani godišnjeg odmora koji se oduzimaju od nenastavnih radnih dana u
+  // godišnjoj rekapitulaciji (zadano 30). Ograničeno na razuman raspon.
+  const godisnjiStr = String(form.get("godisnji") ?? "").trim();
+  const godisnjiRaw = Number(godisnjiStr);
+  const godisnjiDana =
+    godisnjiStr !== "" && Number.isFinite(godisnjiRaw)
+      ? Math.min(60, Math.max(0, Math.round(godisnjiRaw)))
+      : 30;
   if (!klasa || !urbrojBase || !godina) {
     return Response.json({ error: "Upišite KLASA, URBROJ i školsku godinu." }, { status: 400 });
   }
@@ -92,7 +100,7 @@ export async function POST(req: Request): Promise<Response> {
       }
     }
 
-    const cfg: GenCfg = { klasa, urbrojBase, godina, date: new Date() };
+    const cfg: GenCfg = { klasa, urbrojBase, godina, date: new Date(), godisnjiDana };
     const base = `Odluke-${asciiSlug(parsed.school.naziv)}`;
 
     if (format === "zip") {
