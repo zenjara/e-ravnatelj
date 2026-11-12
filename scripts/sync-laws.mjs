@@ -36,9 +36,15 @@ const slugify = (s) =>
   s.normalize("NFD").replace(/\p{Diacritic}/gu, "").replace(/đ/g, "d").replace(/Đ/g, "D")
     .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 
-/** Law category from its sub-folder (laws/zakoni|pravilnici/), title as fallback. */
+/**
+ * Law category from its sub-folder, title as fallback. Authoritative source is
+ * the sub-folder the file lives in (laws/zakoni|pravilnici|kolektivni-ugovori|
+ * drzavni-pedagoski-standardi/). Kinds drive the sidebar grouping.
+ */
 const kindOf = (relPath) => {
   const dir = path.dirname(relPath).toLowerCase();
+  if (dir.includes("kolektivni")) return "kolektivni-ugovor";
+  if (dir.includes("pedagoski")) return "pedagoski-standard";
   if (dir.includes("pravilnici")) return "pravilnik";
   if (dir.includes("zakoni")) return "zakon";
   return /pravilnik/i.test(path.basename(relPath)) ? "pravilnik" : "zakon";

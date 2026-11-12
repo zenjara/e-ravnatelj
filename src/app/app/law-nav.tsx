@@ -33,7 +33,7 @@ function LawGroup({
           e.stopPropagation(); // don't close the mobile drawer
           setOpen((v) => !v);
         }}
-        className="mt-6 mb-1 flex w-full items-center justify-between gap-2 rounded-lg px-3 py-1.5 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-faint transition-colors hover:text-ink"
+        className="mt-1 mb-0.5 flex w-full items-center justify-between gap-2 rounded-lg px-3 py-1.5 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-faint transition-colors hover:text-ink"
       >
         <span>{label}</span>
         <span className="flex items-center gap-1.5 tracking-normal normal-case">
@@ -70,6 +70,69 @@ function LawGroup({
   );
 }
 
+/**
+ * Umbrella "Dokumenti" section: a collapsible top-level header holding the
+ * category subgroups (Zakoni / Pravilnici / Kolektivni ugovori / Državni
+ * pedagoški standardi). Open by default so the categories are discoverable;
+ * each subgroup collapses on its own.
+ */
+function DocumentsSection({
+  groups,
+  pathname,
+  activeSlug,
+}: {
+  groups: { label: string; laws: Law[] }[];
+  pathname: string;
+  activeSlug: string | null;
+}) {
+  const [open, setOpen] = useState(true);
+  const total = groups.reduce((n, g) => n + g.laws.length, 0);
+
+  if (total === 0) return null;
+
+  return (
+    <>
+      <button
+        type="button"
+        aria-expanded={open}
+        onClick={(e) => {
+          e.stopPropagation(); // don't close the mobile drawer
+          setOpen((v) => !v);
+        }}
+        className="mt-6 mb-1 flex w-full items-center justify-between gap-2 rounded-lg px-3 py-2 text-[0.9rem] text-ink/75 transition-colors hover:bg-bg-tint hover:text-ink"
+      >
+        <span className="flex items-center gap-2.5">
+          <span aria-hidden className="text-base leading-none">📚</span>
+          Dokumenti
+        </span>
+        <span className="flex items-center gap-1.5 text-xs text-faint">
+          <span>{total}</span>
+          <span
+            aria-hidden
+            className={`inline-block text-[0.7em] transition-transform ${open ? "rotate-90" : ""}`}
+          >
+            ▶
+          </span>
+        </span>
+      </button>
+
+      {open ? (
+        <div className="ml-3 border-l border-line pl-1.5">
+          {groups.map((g) => (
+            <LawGroup
+              key={g.label}
+              label={g.label}
+              laws={g.laws}
+              pathname={pathname}
+              activeSlug={activeSlug}
+            />
+          ))}
+        </div>
+      ) : null}
+    </>
+  );
+}
+
 /** Sidebar navigation: primary links + laws grouped by category, active highlight. */
 export function LawNav({
   laws,
@@ -87,10 +150,22 @@ export function LawNav({
         : "text-ink/75 hover:bg-bg-tint hover:text-ink"
     }`;
 
-  // Split by category. Anything not explicitly a "pravilnik" (zakoni, protokoli,
-  // other propisi) lives under Zakoni.
-  const zakoni = laws.filter((l) => l.kind !== "pravilnik");
+  // Split by category. The four known kinds each get their own group; anything
+  // with an unexpected kind falls back into Zakoni so nothing ever disappears.
   const pravilnici = laws.filter((l) => l.kind === "pravilnik");
+  const kolektivni = laws.filter((l) => l.kind === "kolektivni-ugovor");
+  const standardi = laws.filter((l) => l.kind === "pedagoski-standard");
+  const zakoni = laws.filter(
+    (l) => !["pravilnik", "kolektivni-ugovor", "pedagoski-standard"].includes(l.kind),
+  );
+
+  // Ordered subgroups shown under the "Dokumenti" umbrella (empty ones hide).
+  const documentGroups: { label: string; laws: Law[] }[] = [
+    { label: "Zakoni", laws: zakoni },
+    { label: "Pravilnici", laws: pravilnici },
+    { label: "Kolektivni ugovori", laws: kolektivni },
+    { label: "Državni pedagoški standardi", laws: standardi },
+  ];
 
   // Slug of the law currently being read, so its group auto-expands.
   const prefix = "/app/zakoni/";
@@ -144,15 +219,8 @@ export function LawNav({
         </>
       ) : null}
 
-      <LawGroup
-        label="Zakoni"
-        laws={zakoni}
-        pathname={pathname}
-        activeSlug={activeSlug}
-      />
-      <LawGroup
-        label="Pravilnici"
-        laws={pravilnici}
+      <DocumentsSection
+        groups={documentGroups}
         pathname={pathname}
         activeSlug={activeSlug}
       />

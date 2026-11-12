@@ -28,11 +28,14 @@ const titleOf = (f) =>
 
 /**
  * Category of a law. Authoritative source is the sub-folder it lives in
- * (laws/zakoni/ or laws/pravilnici/); we fall back to the title for any file
+ * (laws/zakoni/, laws/pravilnici/, laws/kolektivni-ugovori/ or
+ * laws/drzavni-pedagoski-standardi/); we fall back to the title for any file
  * still sitting directly in laws/.
  */
 const kindOf = (relPath) => {
   const dir = path.dirname(relPath).toLowerCase();
+  if (dir.includes("kolektivni")) return "kolektivni-ugovor";
+  if (dir.includes("pedagoski")) return "pedagoski-standard";
   if (dir.includes("pravilnici")) return "pravilnik";
   if (dir.includes("zakoni")) return "zakon";
   return /pravilnik/i.test(path.basename(relPath)) ? "pravilnik" : "zakon";
