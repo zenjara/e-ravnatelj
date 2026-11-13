@@ -1,10 +1,11 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
 import { useFormStatus } from "react-dom";
 import { addSchoolDate, removeSchoolDate } from "./calendar-actions";
 import {
   buildCalendar,
+  nastavaProgress,
   upcomingEvents,
   examSchedule,
   fmtHr,
@@ -59,6 +60,12 @@ const dayWord = (n: number) => {
   return a % 10 === 1 && a !== 11 ? "dan" : "dana";
 };
 
+/** Množina za "nastavni dan": 1/21/31… → "nastavni dan", inače "nastavnih dana". */
+const nastDan = (n: number) => {
+  const a = Math.abs(n) % 100;
+  return a % 10 === 1 && a !== 11 ? "nastavni dan" : "nastavnih dana";
+};
+
 function Legend() {
   const items: [string, keyof typeof SW][] = [
     ["Nastavni dan", "nastava"],
@@ -75,6 +82,12 @@ function Legend() {
           {label}
         </span>
       ))}
+      <span className="inline-flex items-center gap-1.5">
+        <i className="relative h-3.5 w-3.5 rounded bg-surface ring-1 ring-inset ring-gold/70">
+          <i className="absolute right-0 top-0 h-1.5 w-1.5 -translate-y-1/3 translate-x-1/3 rounded-full bg-gold" />
+        </i>
+        Ključni datum (odmori, prvi/zadnji nastavni dan)
+      </span>
       <span className="inline-flex items-center gap-1.5">
         <i className="h-2 w-2 rounded-full bg-gold" />
         NI 4. razred
@@ -122,17 +135,16 @@ export function Calendar({
   const ispiti4 = examSchedule(cfg, 4);
   const ispiti8 = examSchedule(cfg, 8);
 
-  // Protok školske godine (kalendarski dani od nastavaStart do nastavaEnd).
+  // Protok školske godine kroz NASTAVNE dane (ne kalendarske): koliko ih je
+  // održano i koliko preostaje. Odbrojavanje do početka ostaje kalendarsko.
   const daysBetween = (a: string, b: string) =>
     Math.round(
       (new Date(`${b}T00:00:00`).getTime() - new Date(`${a}T00:00:00`).getTime()) / 86400000,
     );
-  const yrPassed = daysBetween(cfg.nastavaStart, today);
-  const yrTotal = daysBetween(cfg.nastavaStart, cfg.nastavaEnd);
-  const yrLeft = daysBetween(today, cfg.nastavaEnd);
-  const yrPct = Math.max(0, Math.min(100, Math.round((yrPassed / yrTotal) * 100)));
-  const yrStarted = yrPassed >= 0;
-  const yrEnded = yrLeft < 0;
+  const daysToStart = daysBetween(cfg.nastavaStart, today); // < 0 → nastava još nije počela
+  const yrStarted = today >= cfg.nastavaStart;
+  const yrEnded = today > cfg.nastavaEnd;
+  const nast = nastavaProgress(today, schoolDates, cfg);
 
   const next = upcoming[0];
   const nextKey = next ? `${next.d}|${next.label}` : null;
@@ -191,37 +203,40 @@ export function Calendar({
       <div className="rounded-xl border border-line bg-surface p-4 shadow-[var(--shadow)]">
         {yrEnded ? (
           <p className="text-sm text-muted">
-            Školska godina {cfg.label} je završila ({fmtHr(cfg.nastavaEnd)}).
+            Školska godina {cfg.label} je završila ({fmtHr(cfg.nastavaEnd)}). Održano je
+            svih{" "}
+            <b className="font-serif text-lg font-semibold text-ink tabular-nums">{nast.total}</b>{" "}
+            {nastDan(nast.total)}.
           </p>
         ) : !yrStarted ? (
           <p className="text-sm text-ink">
             Nastava počinje za{" "}
-            <b className="font-serif text-xl font-semibold text-accent tabular-nums">{-yrPassed}</b>{" "}
-            {dayWord(yrPassed)} <span className="text-muted">({fmtHr(cfg.nastavaStart)}).</span>
+            <b className="font-serif text-xl font-semibold text-accent tabular-nums">{-daysToStart}</b>{" "}
+            {dayWord(daysToStart)} <span className="text-muted">({fmtHr(cfg.nastavaStart)}).</span>
           </p>
         ) : (
           <>
             <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-2">
               <p className="text-sm text-muted">
-                Od početka školske godine prošlo je{" "}
-                <b className="font-serif text-xl font-semibold text-accent tabular-nums">{yrPassed}</b>{" "}
-                {dayWord(yrPassed)}
+                Održano{" "}
+                <b className="font-serif text-xl font-semibold text-accent tabular-nums">{nast.passed}</b>{" "}
+                <span className="text-faint">od {nast.total}</span> {nastDan(nast.passed)}
               </p>
               <p className="text-sm text-muted sm:text-right">
-                Do kraja ostalo je{" "}
-                <b className="font-serif text-xl font-semibold text-gold tabular-nums">{yrLeft}</b>{" "}
-                {dayWord(yrLeft)}
+                Preostalo{" "}
+                <b className="font-serif text-xl font-semibold text-gold tabular-nums">{nast.left}</b>{" "}
+                {nastDan(nast.left)}
               </p>
             </div>
             <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-bg-tint">
               <div
                 className="h-full rounded-full bg-accent transition-all"
-                style={{ width: `${yrPct}%` }}
+                style={{ width: `${nast.pct}%` }}
               />
             </div>
             <div className="mt-1.5 flex justify-between text-[0.68rem] text-faint tabular-nums">
               <span>{fmtHr(cfg.nastavaStart)}</span>
-              <span>{yrPct}%</span>
+              <span>{nast.pct}%</span>
               <span>{fmtHr(cfg.nastavaEnd)}</span>
             </div>
           </>
@@ -610,6 +625,7 @@ function DayCell({
 }) {
   const grades = examGrades(cell.exam);
   const isToday = cell.iso === today;
+  const btnRef = useRef<HTMLButtonElement>(null);
   return (
     <div
       className="relative"
@@ -617,14 +633,23 @@ function DayCell({
       onMouseLeave={() => onHover(false)}
     >
       <button
+        ref={btnRef}
         type="button"
         data-daycell
         onClick={onToggle}
         className={`flex h-7 w-full items-center justify-center rounded-md text-[0.75rem] ${CELL[cell.type]} ${
+          cell.keyDate ? "font-semibold ring-1 ring-inset ring-gold/60" : ""
+        } ${
           isToday ? "font-bold text-accent ring-2 ring-inset ring-accent" : ""
         } ${pinned && !isToday ? "ring-2 ring-inset ring-accent/50" : ""}`}
       >
         {cell.day}
+        {cell.keyDate ? (
+          <span
+            aria-hidden
+            className="absolute right-0.5 top-0.5 h-1.5 w-1.5 rounded-full bg-gold ring-1 ring-surface"
+          />
+        ) : null}
         {grades.length ? (
           <span className="absolute bottom-0.5 left-1/2 flex -translate-x-1/2 gap-0.5">
             {grades.map((g) => (
@@ -633,7 +658,9 @@ function DayCell({
           </span>
         ) : null}
       </button>
-      {open ? <DayTooltip cell={cell} monthName={monthName} year={year} /> : null}
+      {open ? (
+        <DayTooltip cell={cell} monthName={monthName} year={year} anchorRef={btnRef} />
+      ) : null}
     </div>
   );
 }
@@ -643,17 +670,63 @@ function DayTooltip({
   cell,
   monthName,
   year,
+  anchorRef,
 }: {
   cell: DayCellData;
   monthName: string;
   year: number;
+  anchorRef: React.RefObject<HTMLButtonElement | null>;
 }) {
   const exam = cell.exam;
   const grades = examGrades(exam);
   const specific = cell.type === "blagdan" || cell.type === "skola" ? cell.label : null;
   const swatch = (SW as Record<string, string>)[cell.type] ?? "bg-bg-tint";
+  const key = cell.keyDate;
+
+  // Fiksno pozicioniranje izmjereno iz ćelije: tooltip se drži u vidljivom
+  // području (clamp na rubove ekrana) i prebacuje iznad/ispod ovisno o prostoru,
+  // pa se više ne reže na manjim rezolucijama ni uz rub kalendara.
+  const tipRef = useRef<HTMLDivElement>(null);
+  const [pos, setPos] = useState<{ top: number; left: number } | null>(null);
+  const place = useCallback(() => {
+    const a = anchorRef.current;
+    const t = tipRef.current;
+    if (!a || !t) return;
+    const r = a.getBoundingClientRect();
+    const tw = t.offsetWidth;
+    const th = t.offsetHeight;
+    const M = 8; // razmak od ruba ekrana
+    const GAP = 6; // razmak od ćelije
+    let left = r.left + r.width / 2 - tw / 2;
+    left = Math.max(M, Math.min(left, window.innerWidth - tw - M));
+    let top = r.top - th - GAP; // zadano: iznad ćelije
+    if (top < M) top = r.bottom + GAP; // nema mjesta gore → ispod
+    top = Math.min(top, window.innerHeight - th - M);
+    setPos({ top, left });
+  }, [anchorRef]);
+  useLayoutEffect(() => {
+    place();
+    window.addEventListener("scroll", place, true);
+    window.addEventListener("resize", place);
+    return () => {
+      window.removeEventListener("scroll", place, true);
+      window.removeEventListener("resize", place);
+    };
+  }, [place]);
+
   return (
-    <div className="pointer-events-none absolute bottom-full left-1/2 z-30 mb-2 w-max max-w-[16rem] -translate-x-1/2 rounded-lg border border-line bg-surface p-3 text-left shadow-[var(--shadow-lg)]">
+    <div
+      ref={tipRef}
+      style={{
+        position: "fixed",
+        top: pos?.top ?? 0,
+        left: pos?.left ?? 0,
+        visibility: pos ? "visible" : "hidden",
+      }}
+      className={`pointer-events-none z-50 w-max max-w-[16rem] rounded-lg border bg-surface p-3 text-left shadow-[var(--shadow-lg)] ${
+        key ? "border-gold/60 ring-2 ring-gold/15" : "border-line"
+      }`}
+    >
       <div className="text-[0.9rem] font-semibold text-ink">
         {cell.day}. {monthName} {year}.
       </div>
@@ -661,6 +734,14 @@ function DayTooltip({
         <i className={`h-2.5 w-2.5 rounded ${swatch}`} />
         {TYPE_LABEL[cell.type]}
       </div>
+      {key ? (
+        <div className="mt-2 rounded-md border border-gold/40 bg-gold-weak px-2.5 py-2">
+          <div className="flex items-center gap-1.5 text-[0.68rem] font-semibold uppercase tracking-[0.1em] text-[color:var(--gold)]">
+            <span aria-hidden>📌</span> Ključni datum
+          </div>
+          <div className="mt-1 text-xs font-medium text-ink">{key.label}</div>
+        </div>
+      ) : null}
       {specific ? <div className="mt-1 text-xs font-medium text-ink">{specific}</div> : null}
       {grades.length && exam ? (
         <div className="mt-2.5 space-y-2 border-t border-line pt-2.5">
@@ -684,7 +765,6 @@ function DayTooltip({
           ))}
         </div>
       ) : null}
-      <span className="absolute left-1/2 top-full h-2 w-2 -translate-x-1/2 -translate-y-1 rotate-45 border-b border-r border-line bg-surface" />
     </div>
   );
 }

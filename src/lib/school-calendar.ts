@@ -204,6 +204,40 @@ export interface DayCell {
   type: DayType;
   label: string; // tooltip / aria text
   exam?: ExamDay[]; // national-exam sittings on this day (overlay; type stays "nastava")
+  keyDate?: KeyDate; // ključni datum (prvi/zadnji nastavni dan, rub učeničkog odmora)
+}
+
+/** Ključni datum školske godine — poseban marker + tooltip u kalendaru. */
+export interface KeyDate {
+  iso: string;
+  label: string;
+  kind: "nastava-start" | "nastava-end" | "odmor-start" | "odmor-end";
+}
+
+/**
+ * Ključni datumi školske godine: prvi i zadnji nastavni dan te početak/završetak
+ * svakog učeničkog odmora. DERIVIRAJU se iz `nastavaStart`/`nastavaEnd` i `odmori`
+ * — jedan izvor istine, pa ako škola promijeni datum odmora, marker i tooltip
+ * automatski prate promjenu (nema paralelnog popisa koji može zastarjeti).
+ */
+export function keyDates(cfg: YearConfig = SCHOOL_YEAR): Map<string, KeyDate> {
+  const m = new Map<string, KeyDate>();
+  m.set(cfg.nastavaStart, {
+    iso: cfg.nastavaStart,
+    label: `Prvi nastavni dan ${cfg.label}`,
+    kind: "nastava-start",
+  });
+  m.set(cfg.nastavaEnd, {
+    iso: cfg.nastavaEnd,
+    label: "Zadnji nastavni dan — završetak nastavne godine",
+    kind: "nastava-end",
+  });
+  for (const o of cfg.odmori) {
+    // Rubovi su odmor UČENIKA (nastavnici rade prema godišnjem zaduženju).
+    m.set(o.from, { iso: o.from, label: `Početak: ${o.ime} (učenici)`, kind: "odmor-start" });
+    m.set(o.to, { iso: o.to, label: `Završetak: ${o.ime} (učenici)`, kind: "odmor-end" });
+  }
+  return m;
 }
 
 export interface MonthView {
@@ -228,6 +262,7 @@ export function buildCalendar(
   cfg: YearConfig = SCHOOL_YEAR,
 ): CalendarView {
   const school = new Map(schoolDates.map((s) => [s.d, s.label]));
+  const keys = keyDates(cfg);
   const yearA = Number(cfg.nastavaStart.slice(0, 4));
   const yearB = yearA + 1;
   const order = [8, 9, 10, 11, 0, 1, 2, 3, 4, 5, 6, 7]; // rujan..kolovoz
@@ -262,7 +297,7 @@ export function buildCalendar(
           : type === "vikend" ? "vikend"
           : "");
 
-      week.push({ day, iso, type, label, exam });
+      week.push({ day, iso, type, label, exam, keyDate: keys.get(iso) });
       if (week.length === 7) { weeks.push(week); week = []; }
     }
     if (week.length) { while (week.length < 7) week.push(null); weeks.push(week); }
@@ -271,6 +306,40 @@ export function buildCalendar(
   }
 
   return { months, totals: { nast: totN, odmor: totO, blagdan: totB } };
+}
+
+export interface NastavaProgress {
+  passed: number; // održani nastavni dani (strogo prije `today`)
+  left: number; // preostali nastavni dani (uključuje `today` ako je nastavni)
+  total: number; // ukupno nastavnih dana u godini
+  pct: number; // postotak održanih (0–100)
+}
+
+/**
+ * Napredak kroz NASTAVNE dane (ne kalendarske): koliko ih je održano i koliko
+ * preostaje. Broje se samo dani tipa "nastava" (dakle bez vikenda, blagdana,
+ * učeničkih odmora i dana koje je škola sama upisala — Dan škole/grada i sl.).
+ * `passed` su dani strogo prije `today`; tekući dan, ako je nastavni, spada u
+ * `left` (još nije održan do kraja), pa vrijedi passed + left = total.
+ */
+export function nastavaProgress(
+  todayIso: string,
+  schoolDates: SchoolDate[],
+  cfg: YearConfig = SCHOOL_YEAR,
+): NastavaProgress {
+  const school = new Map(schoolDates.map((s) => [s.d, s.label]));
+  const start = new Date(`${cfg.nastavaStart}T00:00:00`);
+  const end = new Date(`${cfg.nastavaEnd}T00:00:00`);
+  let total = 0, passed = 0;
+  for (const d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+    const iso = isoLocal(d);
+    if (classifyDay(iso, d.getDay(), school, cfg) !== "nastava") continue;
+    total++;
+    if (iso < todayIso) passed++;
+  }
+  const left = total - passed;
+  const pct = total ? Math.max(0, Math.min(100, Math.round((passed / total) * 100))) : 0;
+  return { passed, left, total, pct };
 }
 
 export interface UpcomingEvent {
