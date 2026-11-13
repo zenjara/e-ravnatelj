@@ -1,5 +1,13 @@
 import { AskForm } from "../ask-form";
 
+// Author/expert contact shown on the page (env-configured, no PII in the repo).
+// NEXT_PUBLIC_* so it can render in the client card; unset channels are hidden.
+const support = {
+  name: process.env.NEXT_PUBLIC_SUPPORT_NAME,
+  email: process.env.NEXT_PUBLIC_SUPPORT_EMAIL,
+  phone: process.env.NEXT_PUBLIC_SUPPORT_PHONE,
+};
+
 export default function PitanjaPage() {
   return (
     <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-6 p-5 sm:p-8">
@@ -17,7 +25,7 @@ export default function PitanjaPage() {
         </p>
       </div>
 
-      <AskForm />
+      <AskForm support={support} />
 
       <p className="mt-auto pt-2 text-xs text-faint">
         Informativno, nije pravni savjet. Provjeri citirani izvor.

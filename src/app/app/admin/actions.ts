@@ -63,6 +63,40 @@ export async function rejectProposal(id: number): Promise<void> {
   revalidatePath("/app/admin/promjene");
 }
 
+/** Toggle an ask-log (Q&A) entry between "novo" and "pregledano". Admin-only. */
+export async function setAskStatus(
+  id: string,
+  status: "novo" | "pregledano",
+): Promise<void> {
+  await requireAdmin();
+  const next = status === "pregledano" ? "pregledano" : "novo";
+  const { error } = await getSupabaseAdmin()
+    .from("ask_log")
+    .update({ status: next })
+    .eq("id", id);
+  if (error) {
+    console.error("setAskStatus:", error.message);
+    throw new Error("Promjena statusa nije uspjela.");
+  }
+  revalidatePath("/app/admin/pitanja");
+}
+
+/** Save the admin's own note on an ask-log entry (for building Q&A / calls). */
+export async function saveAskNote(id: string, formData: FormData): Promise<void> {
+  await requireAdmin();
+  const napomena =
+    String(formData.get("napomena") ?? "").trim().slice(0, 4000) || null;
+  const { error } = await getSupabaseAdmin()
+    .from("ask_log")
+    .update({ napomena })
+    .eq("id", id);
+  if (error) {
+    console.error("saveAskNote:", error.message);
+    throw new Error("Spremanje bilješke nije uspjelo.");
+  }
+  revalidatePath("/app/admin/pitanja");
+}
+
 /** Toggle a beta-feedback item between "novo" and "riješeno". Admin-only. */
 export async function setFeedbackStatus(
   id: string,

@@ -185,20 +185,25 @@ export function LawNav({
         Postavi pitanje
       </Link>
 
-      <Link href="/app/ucitelji" className={cls(pathname.startsWith("/app/ucitelji"))}>
-        <span aria-hidden className="text-base leading-none">👥</span>
-        Učitelji
-      </Link>
+      {/* Alati za ravnatelje — skriveni u admin sučelju (otac ih ne koristi). */}
+      {!isAdmin ? (
+        <>
+          <Link href="/app/ucitelji" className={cls(pathname.startsWith("/app/ucitelji"))}>
+            <span aria-hidden className="text-base leading-none">👥</span>
+            Učitelji
+          </Link>
 
-      <Link href="/app/godisnji-odmori" className={cls(pathname.startsWith("/app/godisnji-odmori"))}>
-        <span aria-hidden className="text-base leading-none">🏖️</span>
-        Godišnji odmori
-      </Link>
+          <Link href="/app/godisnji-odmori" className={cls(pathname.startsWith("/app/godisnji-odmori"))}>
+            <span aria-hidden className="text-base leading-none">🏖️</span>
+            Godišnji odmori
+          </Link>
 
-      <Link href="/app/zaduzenja" className={cls(pathname.startsWith("/app/zaduzenja"))}>
-        <span aria-hidden className="text-base leading-none">📄</span>
-        Odluke o zaduženjima
-      </Link>
+          <Link href="/app/zaduzenja" className={cls(pathname.startsWith("/app/zaduzenja"))}>
+            <span aria-hidden className="text-base leading-none">📄</span>
+            Odluke o zaduženjima
+          </Link>
+        </>
+      ) : null}
 
       {isAdmin ? (
         <>
@@ -208,6 +213,13 @@ export function LawNav({
           >
             <span aria-hidden className="text-base leading-none">⚙️</span>
             Promjene zakona
+          </Link>
+          <Link
+            href="/app/admin/pitanja"
+            className={cls(pathname.startsWith("/app/admin/pitanja"))}
+          >
+            <span aria-hidden className="text-base leading-none">❓</span>
+            Pitanja ravnatelja
           </Link>
           <Link
             href="/app/admin/prijedlozi"

@@ -1,4 +1,5 @@
 import { getSession } from "@/lib/session";
+import { getCurrentSchool } from "@/lib/school";
 import { getSupabaseAdmin } from "@/lib/supabase-admin";
 import { retrieveRelevantChunks, buildContext } from "@/lib/retrieval";
 import { streamLegalAnswer } from "@/lib/gemini";
@@ -96,17 +97,42 @@ export async function POST(req: Request): Promise<Response> {
     return Response.json({ error: "Greška pri obradi upita." }, { status: 502 });
   }
 
+  // School binding for the Q&A log (server-authoritative; never from input).
+  // Resolved here, in request scope, so cookies are available.
+  const school = await getCurrentSchool().catch(() => null);
+
   const encoder = new TextEncoder();
   const body = new ReadableStream<Uint8Array>({
     async start(controller) {
+      let answer = "";
       try {
         for await (const chunk of stream) {
-          if (chunk.text) controller.enqueue(encoder.encode(chunk.text));
+          if (chunk.text) {
+            answer += chunk.text;
+            controller.enqueue(encoder.encode(chunk.text));
+          }
         }
         controller.close();
       } catch (e) {
         console.error("gemini stream error:", e);
         controller.error(e);
+        return; // don't log a broken/aborted answer
+      }
+      // Persist the full Q&A for the admin's insight (curating a Q&A later, or
+      // having context when a principal calls). Fails OPEN — a logging error must
+      // never affect the answer the principal already received.
+      try {
+        await getSupabaseAdmin().from("ask_log").insert({
+          user_id: session.uid,
+          school_id: school?.id ?? null,
+          username: session.usr || null,
+          school: session.school || null,
+          pitanje: q,
+          odgovor: answer || null,
+          izvori: sources.length ? sources : null,
+        });
+      } catch (e) {
+        console.error("ask_log insert:", e);
       }
     },
   });
