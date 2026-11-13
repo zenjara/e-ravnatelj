@@ -34,7 +34,7 @@ function fmtDateTime(iso: string): string {
 
 /** Dedupe cited sources by article, keeping the first title/slug seen. */
 function dedupeSources(izvori: Source[] | null): Source[] {
-  if (!izvori?.length) return [];
+  if (!Array.isArray(izvori) || izvori.length === 0) return [];
   const seen = new Set<string>();
   const out: Source[] = [];
   for (const s of izvori) {
@@ -82,16 +82,25 @@ function AskCard({ r }: { r: AskRow }) {
             {sources.length ? (
               <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-2.5">
                 <span className="text-[0.68rem] text-faint">Citirano:</span>
-                {sources.map((s) => (
-                  <Link
-                    key={s.article}
-                    href={`/app/zakoni/${s.slug || slugify(s.title)}#clanak-${s.article}`}
-                    title={`Otvori: ${s.title}`}
-                    className="rounded-full bg-accent-weak px-2.5 py-0.5 text-[0.7rem] font-medium text-accent underline-offset-2 hover:underline"
-                  >
-                    Članak {s.article}.
-                  </Link>
-                ))}
+                {sources.map((s) => {
+                  const slug = s.slug || (s.title ? slugify(s.title) : "");
+                  const chip =
+                    "rounded-full bg-accent-weak px-2.5 py-0.5 text-[0.7rem] font-medium text-accent";
+                  return slug ? (
+                    <Link
+                      key={s.article}
+                      href={`/app/zakoni/${slug}#clanak-${s.article}`}
+                      title={s.title ? `Otvori: ${s.title}` : undefined}
+                      className={`${chip} underline-offset-2 hover:underline`}
+                    >
+                      Članak {s.article}.
+                    </Link>
+                  ) : (
+                    <span key={s.article} className={chip}>
+                      Članak {s.article}.
+                    </span>
+                  );
+                })}
               </div>
             ) : null}
           </div>
@@ -100,38 +109,40 @@ function AskCard({ r }: { r: AskRow }) {
         <p className="mt-2 text-xs italic text-faint">Odgovor nije zabilježen.</p>
       )}
 
-      {/* Admin's own note — for curating a Q&A or prepping for a call. */}
+      {/* Admin's own note + status toggle — SEPARATE forms so toggling status
+          never submits or clears an unsaved note (they had shared one form). */}
       <form action={saveAskNote.bind(null, r.id)} className="mt-3.5">
-        <label className="text-[0.68rem] font-semibold uppercase tracking-[0.12em] text-gold">
+        <label
+          htmlFor={`napomena-${r.id}`}
+          className="text-[0.68rem] font-semibold uppercase tracking-[0.12em] text-gold"
+        >
           Bilješka
         </label>
         <textarea
+          id={`napomena-${r.id}`}
           name="napomena"
           defaultValue={r.napomena ?? ""}
           rows={2}
           placeholder="Interna bilješka (nije vidljiva ravnatelju)…"
           className="mt-1 w-full resize-y rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink outline-none transition-colors placeholder:text-faint focus:border-accent focus:ring-4 focus:ring-accent/10"
         />
-        <div className="mt-2 flex items-center gap-2">
-          <button
-            type="submit"
-            className="rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-ink transition-colors hover:bg-accent-weak hover:text-accent"
-          >
-            Spremi bilješku
-          </button>
-          <span className="ml-auto" />
-          <button
-            type="submit"
-            formAction={setAskStatus.bind(
-              null,
-              r.id,
-              pregledano ? "novo" : "pregledano",
-            )}
-            className="rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-muted transition-colors hover:bg-good-weak hover:text-good"
-          >
-            {pregledano ? "Vrati u novo" : "Označi pregledanim"}
-          </button>
-        </div>
+        <button
+          type="submit"
+          className="mt-2 rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-ink transition-colors hover:bg-accent-weak hover:text-accent"
+        >
+          Spremi bilješku
+        </button>
+      </form>
+      <form
+        action={setAskStatus.bind(null, r.id, pregledano ? "novo" : "pregledano")}
+        className="mt-2 flex justify-end"
+      >
+        <button
+          type="submit"
+          className="rounded-lg border border-line px-3 py-1.5 text-xs font-medium text-muted transition-colors hover:bg-good-weak hover:text-good"
+        >
+          {pregledano ? "Vrati u novo" : "Označi pregledanim"}
+        </button>
       </form>
     </article>
   );
@@ -140,7 +151,7 @@ function AskCard({ r }: { r: AskRow }) {
 export default async function AdminPitanjaPage() {
   await requireAdmin();
 
-  const { data } = await getSupabaseAdmin()
+  const { data, error } = await getSupabaseAdmin()
     .from("ask_log")
     .select("id, username, school, pitanje, odgovor, izvori, napomena, status, created_at")
     .order("created_at", { ascending: false })
@@ -148,6 +159,21 @@ export default async function AdminPitanjaPage() {
   const rows = (data ?? []) as AskRow[];
   const nova = rows.filter((r) => r.status !== "pregledano");
   const pregledano = rows.filter((r) => r.status === "pregledano");
+
+  // A query error (e.g. table not created yet) must not look like "no questions".
+  // Detect the missing-table case by code (42P01 = Postgres undefined_table,
+  // PGRST205 = PostgREST "table not in schema cache") AND by message wording,
+  // since the exact text varies across versions.
+  const missingTable =
+    !!error &&
+    (error.code === "42P01" ||
+      error.code === "PGRST205" ||
+      /relation .*ask_log.* does not exist|schema cache/i.test(error.message));
+  const dbError = error
+    ? missingTable
+      ? "Tablica ask_log još ne postoji — primijenite migraciju 0013 i NOTIFY pgrst, 'reload schema'."
+      : `Greška pri dohvaćanju: ${error.message}`
+    : null;
 
   return (
     <main className="mx-auto w-full max-w-3xl flex-1 p-5 sm:p-8">
@@ -163,7 +189,11 @@ export default async function AdminPitanjaPage() {
         {pregledano.length} pregledanih.
       </p>
 
-      {rows.length === 0 ? (
+      {dbError ? (
+        <p className="rounded-xl border border-bad/40 bg-bad-weak px-4 py-4 text-sm text-bad">
+          {dbError}
+        </p>
+      ) : rows.length === 0 ? (
         <p className="rounded-xl border border-line bg-bg-tint px-4 py-6 text-sm text-muted">
           Još nema zabilježenih pitanja.
         </p>

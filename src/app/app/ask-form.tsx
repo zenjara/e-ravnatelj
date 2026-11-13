@@ -142,8 +142,15 @@ export function AskForm({ support }: { support?: SupportContact }) {
     setMailBody(composeBody(next));
   }
 
+  // Very long bodies can silently break/truncate a mailto: in some clients, so
+  // cap the href body (the editable text + "Kopiraj poruku" keep the full text).
+  const MAILTO_MAX = 4000;
+  const mailtoBody =
+    mailBody.length > MAILTO_MAX
+      ? `${mailBody.slice(0, MAILTO_MAX)}\n\n[skraćeno — cijeli tekst pošaljite preko „Kopiraj poruku”]`
+      : mailBody;
   const modalMailto = email
-    ? `mailto:${email}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`
+    ? `mailto:${email}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailtoBody)}`
     : undefined;
 
   async function copyText(text: string, which: "msg" | "email" | "phone") {

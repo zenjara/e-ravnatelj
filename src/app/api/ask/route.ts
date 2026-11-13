@@ -1,3 +1,4 @@
+import { after } from "next/server";
 import { getSession } from "@/lib/session";
 import { getCurrentSchool } from "@/lib/school";
 import { getSupabaseAdmin } from "@/lib/supabase-admin";
@@ -101,10 +102,12 @@ export async function POST(req: Request): Promise<Response> {
   // Resolved here, in request scope, so cookies are available.
   const school = await getCurrentSchool().catch(() => null);
 
+  // Accumulated answer + stream health, captured for the post-response log below.
+  let answer = "";
+  let streamOk = true;
   const encoder = new TextEncoder();
   const body = new ReadableStream<Uint8Array>({
     async start(controller) {
-      let answer = "";
       try {
         for await (const chunk of stream) {
           if (chunk.text) {
@@ -114,27 +117,33 @@ export async function POST(req: Request): Promise<Response> {
         }
         controller.close();
       } catch (e) {
+        streamOk = false;
         console.error("gemini stream error:", e);
         controller.error(e);
-        return; // don't log a broken/aborted answer
-      }
-      // Persist the full Q&A for the admin's insight (curating a Q&A later, or
-      // having context when a principal calls). Fails OPEN — a logging error must
-      // never affect the answer the principal already received.
-      try {
-        await getSupabaseAdmin().from("ask_log").insert({
-          user_id: session.uid,
-          school_id: school?.id ?? null,
-          username: session.usr || null,
-          school: session.school || null,
-          pitanje: q,
-          odgovor: answer || null,
-          izvori: sources.length ? sources : null,
-        });
-      } catch (e) {
-        console.error("ask_log insert:", e);
       }
     },
+  });
+
+  // Persist the full Q&A for the admin's insight (curating a Q&A later, or having
+  // context when a principal calls). `after` runs once the response is fully sent
+  // — on Vercel via waitUntil, so the write isn't dropped when the function
+  // returns, and it never blocks or delays the streamed answer. Fails OPEN: a
+  // logging error must never affect the answer the principal already received.
+  after(async () => {
+    if (!streamOk || !answer.trim()) return; // skip aborted/empty streams
+    try {
+      await getSupabaseAdmin().from("ask_log").insert({
+        user_id: session.uid,
+        school_id: school?.id ?? null,
+        username: session.usr || null,
+        school: session.school || null,
+        pitanje: q,
+        odgovor: answer,
+        izvori: sources.length ? sources : null,
+      });
+    } catch (e) {
+      console.error("ask_log insert:", e);
+    }
   });
 
   return new Response(body, {
