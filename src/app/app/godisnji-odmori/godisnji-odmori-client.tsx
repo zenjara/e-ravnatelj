@@ -11,6 +11,7 @@ import {
   type GoYearEntry,
 } from "./actions";
 import { PdfPreview, fetchGoPdf, downloadBlob } from "./pdf-preview";
+import { VideoHelp } from "@/components/video-help";
 import { parseStaz, formatStaz } from "@/lib/ucitelji/staz";
 import {
   izracunajGodisnji,
@@ -109,18 +110,25 @@ export function GodisnjiOdmoriClient({
 
   return (
     <main className="mx-auto flex w-full max-w-4xl flex-1 flex-col gap-5 px-5 pt-5 pb-28 sm:px-8 sm:pt-8">
-      <div>
-        <p className="text-[0.72rem] font-semibold uppercase tracking-[0.16em] text-gold">{schoolName}</p>
-        <h1 className="font-serif text-[1.9rem] font-semibold leading-tight tracking-tight text-ink">
-          Godišnji odmori
-        </h1>
-        <p className="mt-1 text-sm text-muted">
-          Izrada i arhiva Rješenja o godišnjem odmoru po godinama, na temelju popisa iz{" "}
-          <Link href="/app/ucitelji" className="text-accent underline-offset-2 hover:underline">
-            Učitelja
-          </Link>
-          .
-        </p>
+      <div className="flex items-start justify-between gap-3">
+        <div>
+          <p className="text-[0.72rem] font-semibold uppercase tracking-[0.16em] text-gold">{schoolName}</p>
+          <h1 className="font-serif text-[1.9rem] font-semibold leading-tight tracking-tight text-ink">
+            Godišnji odmori
+          </h1>
+          <p className="mt-1 text-sm text-muted">
+            Izrada i arhiva Rješenja o godišnjem odmoru po godinama, na temelju popisa iz{" "}
+            <Link href="/app/ucitelji" className="text-accent underline-offset-2 hover:underline">
+              Učitelja
+            </Link>
+            .
+          </p>
+        </div>
+        <VideoHelp
+          src="/upute/go.mp4"
+          poster="/upute/go-poster.jpg"
+          title="Kako izraditi rješenje o godišnjem odmoru"
+        />
       </div>
 
       {teachers.length === 0 ? (
