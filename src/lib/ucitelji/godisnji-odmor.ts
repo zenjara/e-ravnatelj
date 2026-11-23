@@ -1,9 +1,13 @@
 /**
  * Godišnji odmor — izračun broja radnih dana prema Kolektivnom ugovoru za
- * zaposlenike u osnovnoškolskim ustanovama (NN 39/2017, čl. 26).
+ * zaposlenike u osnovnoškolskim ustanovama, čl. 27.
  *
- * ⚠️ PROVJERITI: brojke su iz NN 39/2017. Ako je na snazi noviji/izmijenjeni KU,
- * promijeni SAMO konstantu `KU_OS` niže — ostatak logike ostaje isti.
+ * Čl. 27. st. 2.: na POLAZNIH 4 tjedna (20 radnih dana) dodaju se dani prema
+ * kriterijima (uvjeti rada, složenost, staž, socijalni uvjeti, radni rezultati);
+ * st. 3.: ukupno ne manje od 4 tjedna ni više od 30 radnih dana.
+ *
+ * ⚠️ PROVJERITI: ako je na snazi noviji/izmijenjeni KU, promijeni SAMO konstantu
+ * `KU_OS` niže — ostatak logike ostaje isti.
  *
  * Što se auto-računa iz e-Matice: osnovica + staž (stupac J) + okvirna složenost
  * (iz zvanja). Uvjeti rada, socijalni kriteriji i radni rezultati nisu u izvozu
@@ -56,9 +60,10 @@ export const KATEGORIJA_LABEL: Record<Kategorija, string> = {
   ostali: "Ostali (NKV/PKV)",
 };
 
-/** Kolektivni ugovor za osnovnoškolske ustanove — NN 39/2017, čl. 26. */
+/** Kolektivni ugovor za osnovnoškolske ustanove — čl. 27. */
 export const KU_OS: GoConfig = {
-  osnovica: 18,
+  // Čl. 27. st. 2.: polazna osnovica je 4 tjedna = 20 radnih dana.
+  osnovica: 20,
   zakonskiMin: 20,
   maksimum: 30,
   staz: [
