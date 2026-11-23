@@ -50,26 +50,40 @@ export function GodisnjiOdmoriClient({
   const godinaNum = Number(cfg.godina);
   const godinaValid = /^\d{4}$/.test(cfg.godina);
 
-  const reloadSnapshots = useCallback(async (godina: number) => {
-    const map = await getGoSnapshotsForYear(godina);
-    setSnapshots(map);
-  }, []);
-
-  // Load snapshots for the active year (and whenever it changes).
+  // Load snapshots for the active year (and whenever it changes). Fetch +
+  // setState live inside the async `.then` callback (not the effect body), and a
+  // `cancelled` guard drops a stale response if the year changes mid-flight.
   useEffect(() => {
-    if (godinaValid) reloadSnapshots(godinaNum);
-  }, [godinaNum, godinaValid, reloadSnapshots]);
+    if (!godinaValid) return;
+    let cancelled = false;
+    getGoSnapshotsForYear(godinaNum).then((map) => {
+      if (!cancelled) setSnapshots(map);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [godinaNum, godinaValid]);
 
-  // Light history (all years) once — refreshed after each save.
+  // Light history across all years: loaded once on mount; refreshed after each
+  // save via `reloadYears` below.
   const reloadYears = useCallback(async () => setYears(await listGoYears()), []);
   useEffect(() => {
-    reloadYears();
-  }, [reloadYears]);
+    let cancelled = false;
+    listGoYears().then((y) => {
+      if (!cancelled) setYears(y);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
-  // Deep-link iz baze ("Učitelji"): /app/godisnji-odmori#<id> otvori tog djelatnika.
+  // Deep-link iz baze ("Učitelji"): /app/godisnji-odmori#<id> otvori tog
+  // djelatnika. Klijentski (čita window.location.hash) i namjerno NAKON mounta —
+  // lazy init stanja bi čitao window tijekom renderiranja i srušio SSR hydration.
   useEffect(() => {
     const id = decodeURIComponent(window.location.hash.replace(/^#/, ""));
     if (id && teachers.some((t) => t.id === id)) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- namjeran klijentski deep-link primijenjen nakon mounta
       setOpen(id);
       requestAnimationFrame(() => {
         document.getElementById(`go-${id}`)?.scrollIntoView({ block: "center" });
