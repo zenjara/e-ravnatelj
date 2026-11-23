@@ -295,14 +295,19 @@ export function Calendar({
           return (
             <div
               key={`${mo.year}-${mo.monthIndex}`}
-              className={`rounded-xl border bg-surface p-3 transition-opacity ${
+              className={`relative rounded-xl border bg-surface p-3 transition-opacity ${
                 isCur
-                  ? "border-accent shadow-[var(--shadow-lg)] ring-2 ring-accent/20"
+                  ? "z-10 border-2 border-accent shadow-[var(--shadow-lg)] ring-2 ring-accent/30"
                   : isPast
                     ? "border-line opacity-55 shadow-[var(--shadow)] hover:opacity-100"
                     : "border-line shadow-[var(--shadow)]"
               }`}
             >
+              {isCur ? (
+                <span className="absolute -right-2 -top-2.5 z-20 rounded-full bg-accent px-2 py-0.5 text-[0.6rem] font-semibold uppercase tracking-wide text-accent-ink shadow-[var(--shadow)]">
+                  sada
+                </span>
+              ) : null}
               <div className="mb-2 flex items-baseline justify-between px-0.5">
                 <b
                   className={`font-serif text-[0.95rem] font-semibold tracking-tight ${
@@ -311,13 +316,7 @@ export function Calendar({
                 >
                   {mo.name[0] + mo.name.slice(1).toLowerCase()} {mo.year}
                 </b>
-                {isCur ? (
-                  <span className="rounded-full bg-accent px-1.5 py-0.5 text-[0.6rem] font-semibold uppercase tracking-wide text-accent-ink">
-                    sada
-                  </span>
-                ) : (
-                  <span className="text-[0.6875rem] text-faint">{mo.nast} nast.</span>
-                )}
+                <span className="text-[0.6875rem] text-faint">{mo.nast} nast.</span>
               </div>
               <div className="grid grid-cols-7 gap-0.5 text-center">
                 {DANI.map((h, i) => (
